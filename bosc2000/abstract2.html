@@ -1,0 +1,44 @@
+<html>
+
+<!--
+Originally hosted at http://ismb2000.sdsc.edu/bosc2000/abstract2.html
+Recreated using the snapshots at http://archive.org
+-->
+
+<title>BOSC 2000</title>
+<style type="text/css"><!--
+			   h1 { color: #336; font-style: normal; font-weight: bolder; font-family: Arial, Helvetica }
+			   h2 { color: #336; font-style: normal; font-weight: bolder; font-family: Arial, Helvetica }
+			   h3 { color: #336; font-style: normal; font-weight: bolder; font-family: Arial, Helvetica }-->
+  </style>
+
+<body bgcolor="white">
+
+  <table border="0" cellpadding="2" cellspacing="2">
+    <tr>
+      <td align="left" valign="top"><img src="bosc2.gif" alt="BOSC 2000" width="100" height="100" hspace="10"></td>
+      <td align="center" valign="middle">
+	<h1>Exploiting Emerging Open I/O Protocols for High-Throughput BioAnalysis</h1>
+	<h3>Lawrence Lau</h3>
+	</td>
+      </tr>
+    <tr>
+      <td colspan="2" align="left" valign="top">Advanced Computational Modelling Centre (ACMC)<br>
+	University of Queensland
+	<p>Storage and data-mining requirements for genomic analysis is expected to require Terabyte or even Petabyte capabilities in the near future (<a href="/web/20000925205145/http://cbcg.lbl.gov/ssi-csb/Program.html">cbcg.lbl.gov/ssi-csb/Program.html</a>). In preparation for analysing the richness and complexities of cellular substructures, consideration should be given, even at this early stage, to deploying *efficient* protocols based on open standards where possible. With the biological community evolving to a consensus on genomic data standards (<a href="/web/20000925205145/http://www.bioperl.org/">www.bioperl.org</a>), this talk instead focuses on a future stage with the need for communicating biological information between arbitrary computational models such as in the case of mapping genetic regulatory networks.</p>
+	<p>The ACMC is currently engaged in planning the computational and knowledge infrastructure to support a newly established Institute of Molecular BioSciences (<a href="/web/20000925205145/http://www.imb.uq.edu.au/IMB_Research.html">http://www.imb.uq.edu.au/IMB_Research.html</a>). The challenge is to identify *scalable* technologies to enable multi-institutional access to extremely high throughput services for bioanalysis, bioinfomatics, data mining, and biovisualisation. Design considerations include support for multi-lateral trans-disciplinary collaboration, end-to-end applications from raw genomic analysis to full-scale immersive biovisualisation, and multimode dissemination of research results. This includes the need to replicate simulated models which requires capturing intermediate information for peer-review and perhaps reinput for higher stage models.</p>
+	<p>The HyperText Transfer Protocol (HTTP) was originally designed as a simple client-server for fetching small files and images. While the (relatively) recent commercialisation has seen a multitude of supporting tools and applications, inherent design limitations constrain its performance (as measured by latency and throughput) for online data-mining and visulisation of dynamic models. A proposed Blocks eXtensible eXchange Protocol (BXXP) is considered instead which is intended for large-scale server-server interactions (<a href="/web/20000925205145/http://search.ietf.org/internet-drafts/draft-mrose-blocks-protocol-04.txt">http://search.ietf.org/internet-drafts/draft-mrose-blocks-protocol-04.txt</a> ). Both Java and Perl OpenSource reference toolkits have been released (<a href="/web/20000925205145/http://mappa.mundi.net/rocket/">http://mappa.mundi.net/rocket/</a>). The properties of this protocol (as compared with HTTP) are:</p>
+	<ul>
+	  <li type="disc">peer-peer connection-oriented (vs client-server stateless connections)
+	    <li type="disc">asynchronous request/response interactions (vs serialised get/put)
+	      <li type="disc">multiplexing of independent request/response streams
+		<li type="disc">support for both binary and text (vs text-encoded MIME)
+		  </ul>
+	<p>Much like the ACEDB has evolved organically due to early uncertainty in genome annotation strategies, there are advantages in supporting a flexible framework in a rapidly evolving field rather than static file formats which may solve immediate problems but may prove cumbersome at later stages. As the author of ACEDB notes (<a href="/web/20000925205145/http://www.faqs.org/faqs/acedb-faq/">http://www.faqs.org/faqs/acedb-faq/</a>), the advantage of ACEDB over conventional RDBMS is &quot;a very complex schema ..[needing] .. continuous refinement in parallel with the accumulation of the data&quot; and &quot;... rather fuzzy answers [to questions], that one tries to refine progressively&quot;. Keeping the precepts of flexibility while maintaining performance, one can similarly adapt BXXP to support biological modelling, particularly on SMP or cluster platforms. Questions that need to be addressed are what broad classes of bioinformatics applications will be evolving, and how they can be efficiently represented.</td>
+      </tr>
+    </table>
+  <pre>
+</pre>
+  </body>
+
+</html>

@@ -1,0 +1,54 @@
+<html>
+
+<!--
+Originally hosted at http://ismb2000.sdsc.edu/bosc2000/abstract7.html
+Recreated using the snapshots at http://archive.org
+-->
+
+<title>BOSC 2000</title>
+<style type="text/css"><!--
+			   h1 { color: #336; font-style: normal; font-weight: bolder; font-family: Arial, Helvetica }
+			   h2 { color: #336; font-style: normal; font-weight: bolder; font-family: Arial, Helvetica }
+			   h3 { color: #336; font-style: normal; font-weight: bolder; font-family: Arial, Helvetica }-->
+  </style>
+
+<body bgcolor="white">
+
+  <table border="0" cellpadding="2" cellspacing="2">
+    <tr>
+      <td align="left" valign="top"><img src="bosc2.gif" alt="BOSC 2000" width="100" height="100" hspace="10"></td>
+      <td align="center" valign="middle">
+	<h1>FAKtory: An Open Source DNA Fragment Assembly System</h1>
+	<h3>Susan J. Miller and Nirav Merchant*</h3>
+	</td>
+      </tr>
+    <tr>
+      <td colspan="2" align="left" valign="top">*Corresponding author<br>
+	<a href="mailto:nirav@arl.arizona.edu">nirav@arl.arizona.edu</a><br>
+	Biotechnology Computing<br>
+	Arizona Research Labs<br>
+	University of Arizona<br>
+	Tucson, AZ 85721<br>
+	USA
+	<p>FAKtory is a highly configurable, GUI based software for DNA fragment manipulation and assembly. The system includes fragment clipping, prescreening, tagging functions, sequence assembly with or without  constraints, and a user friendly finishing editor.  FAKtory is developed for UNIX platforms using C and  Tcl/Tk. An extensible input/output mechanism and scalability permits integration into varied informatics  environments.<br>
+	  <br>
+	  FAKtory provides a general purpose fragment database.  The type of data associated with each project is  configurable.  Controlled vocabularies can be specified for given fields and default values established for  the purpose of validity checking on input data.  Database records may be sorted and viewed using any  combination of fields, sets of fragment records may be selected or saved using an SQL-like query  mechanism that supports string searches.<br>
+	  <br>
+	  FAKtory provides a fragment pipeline, which is a configurable conduit of processing stages through which  fragments must pass.  There are stages for input, overlap detection, assembly, and prescreening activities  such as vector removal, low quality data trimming, and tagging of recognizable elements such as Alus.   FAKtory supports different modes of processing from fully automatic to completely manual, which lets the  user determine the degree of interaction and control over the prescreening process.  FAKtory also provides  a review mechanism for handling processing anomalies and ability to export data at any given stage of the  pipeline.<br>
+	  <br>
+	  FAKtory can be configured with a very large range of preferences.  The resulting complexity is shielded  from end users by a default scheme that permits a master user to establish a lab-customized configuration  that all end users see by default. Individual user may override the master defaults if so desired. FAKtory  has been designed to permit cooperative work on a given sequencing project.  Several users may open a  project simultaneously for reading, while only one person may have a write-lock on the project.<br>
+	  <br>
+	  FAKtory works with input and output filters to make it extensible,handling a wide range of input formats  including ABI, SCF, FASTA, phd, and linking to a variety of post-analysis programs.  For example, it is  possible to create an input filter that runs 'phred' on the data to produce quality values before importing  traces into faktory.  The output of FAKtory may be sent to programs such as Genscan, RepeatMasker,  MAGPIE or a RDBMS.<br>
+	  <br>
+	  The FAKtory prescreener stages employ a general framework that permits users to develop highly  sophisticated criteria for clipping or tagging data.  Fragments may be trimmed or tagged based on assigned  quality numbers, frequency of bases in a given window, regular expression pattern matching, or  predetermined fixed intervals (e.g. clip after base 700).<br>
+	  <br>
+	  The FAKtory finisher automatically keeps track of edited regions of a multi-alignment, organizing the task  of editing. Chromatograms are displayed and correlated with the aligned sequences. The finisher maintains  a complete history of all editing sessions and allows unlimited undo and redo of edits.<br>
+	  <br>
+	  FAKtory source code, tutorial and precompiled binaries are available at  <a href="ftp://bcf.arl.arizona.edu/pub/faktory">ftp://bcf.arl.arizona.edu/pub/faktory</a>. A comprehensive website and access to CVS repository will be available at  <a href="/web/20000925205214/http://bcf.arl.arizona.edu/faktory">http://bcf.arl.arizona.edu/faktory</a> beginning October 2000.</td>
+      </tr>
+    </table>
+  <pre>
+</pre>
+  </body>
+
+</html>
