@@ -1,0 +1,1215 @@
+<html>
+       <title>BOSC2003 Abstracts</title>
+       <style type="text/css"><!--
+	      h1 { color: #336; font-style: normal; font-weight: bolder; font-family: Arial, Helvetica }
+		 h2 { color: #336; font-style: normal; font-weight: bolder; font-family: Arial, Helvetica }
+		    h3 { color: #336; font-style: normal; font-weight: bolder; font-family: Arial, Helvetica }-->
+		    </style>
+
+		    <body bgcolor="white">
+			  <table border="0" cellpadding="2" cellspacing="2">
+					    <tr>
+								<td colspan="2" align="right" valign="top">
+<a href="index.html"><img src="bosc-2003-logo.gif" alt="BOSC 2003" width="302" height="81" hspace="10"></a></td>
+							     <td valign="center" hspace=20>
+
+<img src="title.gif" alt="Bioinformatics Open Source Conference" width="394" height="53">
+						     <p>
+             <font face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">
+	           <font size=+5><B>BOSC 2003 Talk Abstracts</B></font><br>
+              View <a href="program.html">the program</a><P>
+              </font>
+</td>
+</tr>
+</table>
+
+<a name="biojava"/>
+27 June,  9:20 -  9:50
+<h2>BioJava Turns 1.3</h2>
+
+
+<P><i><b>Mark Schreiber</b>, Thomas Down, David Huen, Keith James, Matthew Pocock</i></P>
+
+<P>At the time of writing the BioJava project, now in its fifth year,
+is preparing its 1.3 release. This release represents a considerable
+step forward in the stability, usability and documentation of the core
+APIs. The project has close to 1000 java classes contributed by 38
+authors. BioJava is distributed under the LGPL license. The
+improvement in usability has been brought about by the widespread
+introduction of convenience methods to perform common tasks. A
+cookbook style project called <i>BioJava in Anger</i> is available on
+the web (<a href="http://bioconf.otago.ac.nz/biojava/">bioconf.otago.ac.nz/biojava</a>)
+to provide recipes for common tasks and continued improvement of the
+javadocs have helped to reduce the learning curve</P>
+
+<P>BioJava handles many common bioinformatics tasks such as file
+parsing, sequence manipulation, sequence statistics and analysis,
+dynamic programming, and HMMs. BioJava also supports many "Enterprise"
+level bioinformatics tasks with support for the OBDA specifications
+such as BioSQL, DAS, remote data sources and Ensembl bindings. There
+is also robust serialization and distributed programming support and
+recent testing indicates BioJava 1.3 is compliant with J2EE
+technologies which should enable the rapid development of very
+scalable BioJava based bioinformatics solutions.</P>
+
+
+Homepage: <a href="http://www.biojava.org/">http://www.biojava.org/</a>
+<hr>
+<a name="kegg"/>
+27 June,  9:50 - 10:20
+<h2>BioRuby project and the KEGG API</h2>
+
+
+<P>
+<i><b>Toshiaki Katayama</b>, Naohisa Goto, Mitsuteru C. Nakao,
+Shuichi Kawashima, Yoko Sato, Minoru Kanehisa</i><br/>
+Bioinformatics center, Kyoto University, Japan
+</P>
+
+<P>
+<a href="http://www.bioruby.org">BioRuby</a> is a class library for bioinformatics written in an object
+oriented scripting language <a href="http://www.ruby-lang.org/">Ruby</a>.  The Ruby language, born in Japan,
+is now getting popular over the world after its 10 years of
+development.  We believe Ruby is one of the easiest languages for the
+object oriented programming because of its clean syntax.  This makes
+beginners to start using Ruby very quickly without learning the
+#*$%@ing enchantments.  Furthermore, Ruby is also powerful enough for
+the various bioinformatics tasks by its unlimited data structures, by
+its ability to manipulate strings with Perl-like regular expressions,
+and by its extensibility with the external C library.  Thus, BioRuby
+will be suitable both for the bioinformatics begginers in the wet lab
+and the hard-core developers, simultaneously.
+</P>
+
+<P>
+BioRuby has been developed over the past 2 years and is compliant with
+the OBDA (Open Bio Database Access) specifications to access sequence
+databases by cooperating with other precedent Open Bio* projects
+including BioJava, BioPerl and BioPython.  As well as the OBDA,
+BioRuby can handle biological sequences, parse and create index for
+over 20 flat file database formats including KEGG databases, executes
+local and/or remote blast/fasta/hmmer searches, accessing DAS based
+genome databases for sequence annotations and PubMed database for
+reference information etc.
+</P>
+
+<P>
+Recently, we have added a new feature called KEGG API which provides
+valuable means for accessing the KEGG system at the GenomeNet in
+Japan.  The KEGG API is a SOAP based web service for searching and
+computing biochemical pathways in cellular processes and analyzing the
+universe of genes in the completely sequenced genomes.  The BioRuby
+interface of the KEGG API enables the users to easily write customized
+procedures for automated analyses of the pathways and/or the gene
+universe.
+</P>
+
+
+
+Homepage: <a href="http://www.genome.ad.jp/kegg/soap/">http://www.genome.ad.jp/kegg/soap/</a>
+<hr>
+<a name="bioperl"/>
+27 June, 10:40 - 11:10
+<h2>BioPerl in 2003:  a users perspective</h2>
+
+
+<P>
+<i><b>Niel Saunders</b></i><br/>
+School of Biotechnology and Biomolecular Sciences, The University of New South Wales
+</P>
+
+<P>
+The BioPerl project, officially organised in 1995, has developed into a
+mature collection of Perl modules for building solutions to
+bioinformatics problems.  BioPerl now contains a large number of modules
+that enable researchers to perform many fundamental tasks in
+bioinformatics analysis.  These include:  accessing sequence data from
+remote or local databases, creating or converting sequence files in
+various formats, parsing the output from software packages (such as
+BLAST), manipulating biological data (e.g. sequence alignments,
+phylogenetic trees, structure files), running external programs and even
+querying bibliographic databases.  The BioPerl community is an
+open, active group and welcomes contributions from developers and users.
+<P>
+
+</P>
+The first part of this talk is an overview of the BioPerl project and
+includes a brief look at recent developments.  In the second part, a
+number of real examples will be discussed to illustrate how BioPerl is
+being used in a microbial genomics research group.
+</P>
+
+
+
+
+Homepage: <a href="http://www.bioperl.org/">http://www.bioperl.org/</a>
+<hr>
+<a name="bioperldb"/>
+27 June, 11:10 - 11:40
+<h2>Persistent Bioperl</h2>
+
+
+<P>
+<i><b>Hilmar Lapp</b></i><br/>
+Genomics Institute of the Novartis Research Foundation
+</P>
+
+<P>
+Bioperl-db adds transparent database persistence to the Bioperl object
+model. The package provides the client with the ability to turn a given
+Bioperl object into a so-called persistent object, which speaks the same
+APIs that the original Bioperl object did, but in addition also is able
+to handle persistence operations, like insert, update, and delete.
+</P>
+
+<P>
+This enables the programmer to manipulate objects after they have been
+retrieved from or inserted into the database, and then update with a
+single function call the respective rows in the database to reflect
+those changes. As a practical example, one can retrieve a sequence
+object by accession from the underlying database, then programmatically
+or interactively manipulate the annotation for that sequence object by
+adding, changing, or removing features, database cross-references, and
+tag/value pairs. Subsequently one can update the database to reflect the
+changed annotation by asking the sequence object to update itself, which
+will cascade down to its annotation.
+</P>
+
+<P>
+The actual persistence operations are presently implemented with
+bindings to a Biosql schema served by either MySQL, PostgreSQL, or
+Oracle. One aim of the design was to minimize the effort to write
+bindings to a different schema. It is a future goal to provide bindings
+to schemas that differ from Biosql in their relational model, like Chado
+or Ensembl.
+</P>
+
+<P>
+In summary, Bioperl-db together with Biosql adds easy-to-use,
+transparent, and freely available persistence to one of the, if not the
+most important Perl package in the life sciences, complete with schema
+and database loading scripts. In my talk I will present an overview on
+the functionality of the package, demonstrate some simple use cases, and
+conclude with the current status and future directions. I will also
+touch on the utility of Biosql as the underlying open source schema that
+facilitates interoperability between the Bio* projects.
+</P>
+
+
+
+Homepage: <a href="http://www.bioperl.org/">http://www.bioperl.org/</a>
+<hr>
+<a name="biopython"/>
+27 June, 11:40 - 12:10
+<h2>Using Biopython for Laboratory Analysis Pipelines</h2>
+
+
+<P>
+<i><b>Brad Chapman</b></i><br/>
+The Plant Genome Mapping Laboratory, University of Georgia
+</P>
+
+<P>
+The Biopython project is distributed collaborative effort to develop Python
+libraries to address the needs of researchers doing bioinformatics work.
+Python is an interpreted object-oriented programming language that we feel is
+well suited for both beginning and advanced computational researchers. Biopython 
+has been around since 1999, and has a number of active contributors and 
+users who continue its regular development.
+</P>
+
+<P>
+One major problem in bioinformatics work is developing analysis pipelines
+which combine data from a number of different sources. Advanced
+scientific questions will require information from many disparate sources
+such as web pages, flat text files and relational databases. Additionally,
+these sources of information will often be found in different, non-compatible
+formats. The challenge of many researchers and software developers is to
+organize this information so that it can be readily queried and examined.
+This problem is made even more difficult by the varied and rapidly changing
+interests of scientists who want to ask questions with the data.
+</P>
+
+<P>
+Rather then trying to build specific applications to address these data
+manipulation problems, Biopython has focused on developing library
+functionality to manipulate various data sources. This frees a researcher from
+having to deal with low level details of parsing and data acquisition helping
+to abstract the process of data conversion. Additionally, since the lower level
+data manipulation code is shared amongst multiple researchers, data format
+changes or problems with the code are more readily identified and fixed.
+</P>
+
+<P>
+This talk will focus on using the Biopython libraries in developing analysis
+pipelines for scientific research. In addition to demonstrating the uses of
+Biopython, this will highlight some areas where Biopython offers unique
+solutions to data manipulation problems. We will identify some of the common
+challenges the libraries have to deal with, such as attempts to standardize
+output from multiple programs that perform similar function, and describe our
+attempts to deal with these difficulties. This will provide a foundation for both
+understanding the Biopython libraries and the development process underlying
+them.
+</P>
+
+
+
+Homepage: <a href="http://www.biopython.org/">http://www.biopython.org/</a>
+<hr>
+<a name="molabis"/>
+27 June, 13:30 - 14:00
+<h2>MoLabIS - A labs backbone for storing, managing, and evaluating molecular genetics data</h2>
+
+
+<P><i><b>Eildert Groeneveld</b></i> Institute for Animal Science, Federal
+Agricultural Research Center, Mariensee, H&ouml;ltystr. 10, D-31535 Neustadt,
+Germany, <i>Ralf Fischer</i> and <i>&Scaron;pela Malovrh</i></P>
+
+<P>With increased use of molecular genotyping, sample and data
+management has become a major issue in molecular genetic labs.  This
+includes description of projects, management of tissues and DNA
+samples and data produced by sequencers.  Joint analysis of data from
+disparate sources implies format conversion which often has to be done
+manually.  MoLabIS is an attempt to address theses issues in a generic
+way by storing primary data from disparates source in one standard
+format. It allows to
+
+<ul>
+ <li> supports the management of samples, tissue and DNA, in storage by
+ <ul>
+
+  <li> defining and documenting projects</li>
+
+  <li> uniquely identifying samples within projects</li>
+
+  <li> tracking samples of various kinds in storage (e.g. 
+    deep freezers)</li>
+
+  <li> allocating these samples to individuals (like 
+    humans or animals) supporting any animal 
+    identification scheme</li>
+
+  <li> storing additional information for each animal with 
+    different structures of traits for different 
+    projects. These may be measurements or descriptions 
+    which can be included in further analyses.</li>
+ </li>
+ </ul>
+ <li> store all genotype data in one relational database 
+  for any number of projects from disparate sources by
+ <ul>
+  <li> including original "data" (like images) together with 
+    reconciled data from different sequencers</li>
+
+  <li> transforming proprietary data from disparate 
+    sources to one uniform format using filters among 
+    others from the Staden package</li>
+
+  <li> storing bi-allelic data like microsatellite and 
+    sequences in one uniform format in a relational database</li>
+ </ul>
+ </li>
+ <li> represents a uniform interface for data analysis. 
+  Currently, a number of measures of statistical 
+  measures of biodiversity have been included. As such 
+  it 
+   <ul>
+    <li> allows script based analysis of all data in the database</li>
+
+    <li> serves as platform for implementation of other 
+    procedures as they become available in the Open 
+    Source community</li>
+   </ul>
+  </li>
+  <li> centralize data management in a molecular lab using a 
+    client server infrastructure.</li>
+
+</ul>
+
+<P>
+MoLabIS is based on the APIIS (adaptable platform 
+independent information system) framework which has 
+been developed for the rapid implementation of animal 
+recording systems in agriculture. It uses exclusively 
+Open Source software and is centered around an SQL-92 
+database, usually PostgreSQL. With Perl and TK-Perl it 
+creates client server applications. Furthermore, all 
+applications are also available in a browser version. 
+While project data can be added via a GUI interface, 
+molecular genetic data are loaded without human 
+intervention from predefined directories where 
+sequencers drop them off. All data manipulations are 
+done using SQL. MoLabIS and APIIS is going to be released 
+under the GPL.
+</P>
+
+
+
+<hr>
+<a name="slims"/>
+27 June, 14:00 - 14:15
+<h2>An Open Source Small Laboratory Information System (SLIMS)</h2>
+
+
+<P>
+<i><b>Anton Bergheim</b></i><br/>
+Department of Computer Science University of the Witwatersrand
+South Africa tel: + 27 11 717 6178
+</P>
+
+<P>
+There exists within the scientific community of the developing world a
+real need for an open source small laboratory information system.  As
+the economic reality of the developing worlds science does not permit
+the purchase of more sophisticated commercial systems, most smaller
+laboratories are vanquished to lab books and at best primitive
+databases.  Lack of financial resources also means that these labs
+tend to do less "big science", preferring instead to perform a larger
+number of smaller more specialized experiments.
+</P>
+
+<P>
+Although a large amount of work has been done to address this issue,
+most of it seems to cater for the larger laboratories performing more
+high throughput tasks (LIMaS for microarrays, a system from the
+Weizmann Institute of Science which caters for DNA sequencing, and
+SNPSnapper for SNP genotypes, amongst others).  While these systems
+are applicable, they seem better suited for laboratories which
+emphasize more throughput processes with less variation in the
+techniques performed.
+</P>
+
+<P>
+The need for a small laboratory LIMS system is one that has been
+recognized previously (the Open LIMS Project, the BioJava LIMS system
+and Gnosis being prime examples).  Rather than reinvent the wheel,
+SLIMS will be designed to take advantage of the experiences and code
+(when available) of all these previous projects.
+</P>
+
+<P>
+The challenge is to design a LIMS system that is both powerful and
+flexible while working on sparse resources with a minimal amount of
+training.  Any LIMS system used in this environment has to be designed
+such that it allows the user to easily add many different types of
+experimental procedures rapidly.  To do this a type of workflow system
+has to be devised or an existing one used.  In this sense, the SLIMS
+project most closely resembles the bioJava LIMS system (SLIMS plans to
+utilize much of the bioJava LIMS system as well as extending it).
+</P>
+
+<P>
+Preliminary studies have begun assessing user requirements.  These
+requirements dictate a system which allows for ease of use, ease of
+installation, maximum data security, and extensive data, project and
+people tracking.  The system will have to automatically integrate with
+existing machinery (a gel documentation system or a automated
+sequencer for example).  Beyond storing data, and generating
+workflows, the SLIMS system has to allow for extensive data querying.
+Typical user queries can be of the sort "show me all information about
+sample x?" or "show me all experiments done by person y?".  Some data
+types mentioned include sequencing gel pictures, DNA sequences,
+agarose gel pictures and attached annotation, autoradiographs (SSCP
+analysis, Southern, Western and Northern blots and DNA library
+probing), as well as project and people information.
+</P>
+
+<P>
+One possible architecture that seems to cater for most user
+requirements uses a Java based GUI front end with a relational
+database behind it.  The system will have to be designed such that it
+can work on a stand alone PC as well a computer network.  The first
+version of the SLIMS will effectively be a data store and show
+application controlled through workflows.  Later versions will have
+functionality allowing for automated integration with other laboratory
+machinery, as well as more sophisticated data and project tracking,
+and tight integration with bioinformatic analysis tools.
+</P>
+
+<P>
+As any LIMS system is a large undertaking, it is the hope of this
+author that a collaboration can be formed to develop this emerging
+system such that it can become an invaluable tool for smaller labs
+throughout the developing world.
+</P>
+
+
+
+<hr>
+<a name="flymine"/>
+27 June, 14:15 - 14:45
+<h2>FlyMine</h2>
+
+
+ <P>
+ <i><b>Andrew Varley</b></i>, FlyMine project, Cambridge University, UK
+ </P>
+
+<P>
+The FlyMine project is an open-source project to build an integrated
+database of genomic, expression and protein data for Drosophila and
+Anopheles. We aim to provide a powerful and flexible query system,
+with the data available for arbitrary queries via a web interface and
+a programming API.
+</P>
+
+<P>
+The database itself is an object database built on top of PostgreSQL
+using the Apache OJB object/relational mapping tool, modified heavily
+in order to allow proper object-based queries, either using OQL or the
+FlyMine Query API (Java). At the underlying SQL level, the data in the
+tables are redundantly stored in a collection of "Precomputed
+tables" -- tables that are materialised views of one or more master
+tables.  All incoming queries are automatically analysed to see if
+any combinations of these precomputed tables can be used to shorten
+the response time. This approach results in a substantial speed
+increase for many queries.  This SQL re-writing module can be used
+independently of the FlyMine project to improve access to read-only
+SQL databases.
+</P>
+
+<P>
+Remote bioinformatics users will be able to access the data using the
+same query API over SOAP/HTTPS to the main FlyMine servers. The data
+model is specified as a UML diagram, which is used to automatically
+generate all model-specific parts of the system: therefore the FlyMine
+project can easily be applied to other domains. We will also provide a
+graphical object query tool to make it easy for non-programmers to
+formulate complex arbitrary queries against the data model.
+</P>
+
+<P>
+The source code will be made available under a LGPL licence around the
+time of BOSC and will be available on a public CVS server.
+</P>
+
+
+
+Homepage: <a href="http://www.flymine.org/">http://www.flymine.org/</a>
+<hr>
+<a name="pysystemsbio"/>
+27 June, 14:45 - 15:15
+<h2>Python and the Systems Biology extension module for inferring gene regulatory networks from time-course gene expression data</h2>
+
+
+
+<P>
+<i><b>Michiel de Hoon</b>, Seiya Imoto, Satoru Miyano</i><br/>
+Laboratory of DNA Information Analysis, Human Genome Center Institute of
+Medical Science, University of Tokyo 4-6-1 Shirokanedai, Minato-ku,
+Tokyo 108-8639, Japan
+</P>
+
+<P>
+Scripting languages such as Perl and Python are commonly used in
+bioinformatics for database access, file parsing, and sequence
+manipulation. Python together with Numerical Python is also very
+suitable for analyzing numerical data, such as gene expression data
+produced in cDNA microarray experiments.
+</P>
+
+<P>
+Inferring gene regulatory networks from gene expression data is an
+important topic in bioinformatics. Since recently, dynamic Bayesian
+network models have been used to infer gene regulatory relations from
+time-course gene expression data. Software tools for dynamic Bayesian
+network calculations are in most cases proprietary.
+</P>
+
+<P>
+We have developed the Systems Biology extension module for Python,
+consisting of fast-running C routines to fit noisy dynamical system
+models (a generalization of dynamic Bayesian networks) to time-course
+gene expression data. The routines allow for missing data values and
+can handle different time intervals between measurements; several
+statistical criteria are available to determine the number of
+transcription factors for each gene. For visualization, we made use of
+the Pygist scientific plotting package, which was recently ported to
+Windows and Mac OS X
+</P>
+
+<P>
+Using this extension module, we were able to generate a highly
+significant validation of gene regulation by transcription factors in
+Bacillus subtilis from time-course gene expression data. We also
+predicted which sigma factors regulate the transcription of the sigY
+and sigV genes in Bacillus subtilis, whose regulation is currently not
+well understood.
+</P>
+
+<P>
+The Systems Biology extension module makes use of the GNU Scientific
+Library, and was itself released under the GNU General Public
+License. It is available at
+<a href="http://bonsai.ims.u-tokyo.ac.jp/~mdehoon/software/python/">http://bonsai.ims.u-tokyo.ac.jp/~mdehoon/software/python</a>.
+</P>
+
+
+
+Homepage: <a href="http://bonsai.ims.u-tokyo.ac.jp/~mdehoon/software/python/systems.html">http://bonsai.ims.u-tokyo.ac.jp/~mdehoon/software/python/systems.html</a>
+<hr>
+<a name="elm"/>
+28 June,  9:00 -  9:15
+<h2>The Eukaryotic Linear Motif Resource</h2>
+
+
+  <P>
+  <i><b>Rune Linding</b></i>, EMBL
+  </P>
+
+<P>
+ELM is a resource for predicting functional sites (described by linear
+motifs) in eukarytic proteins.  Putative functional sites are
+identified by conventional methods, such as patterns (regular
+expressions) or HMM models. To improve the predictive power,
+context-based rules and logical filters will be developed and applied
+to reduce the amount of false positives.
+</P>
+
+<P>
+The current version of the ELM server provides basic functionality
+including filtering by cell compartment and globular domain clash
+(using the SMART/Pfam databases). The current set of motifs is not
+exhaustive.  The ELM resource will be regularly enhanced through 2003.
+</P>
+
+
+
+Homepage: <a href="http://ELM.eu.org/">http://ELM.eu.org/</a>
+<hr>
+<a name="globplot"/>
+28 June,  9:15 -  9:30
+<h2>Exploring protein sequences for globularity and disorder</h2>
+
+
+  <P>
+  <i><b>Rune Linding</b></i>, EMBL
+  </P>
+
+<P>
+A major challenge in the proteomics and structural genomics era is to
+predict protein structure and function, including identification of
+those proteins that are partially or wholly unstructured. Non-globular
+sequence segments often contain short linear peptide motifs
+(e.g. SH3-binding sites) which are important for protein function. We
+present here a new tool for discovery of such unstructured, or
+disordered regions within proteins. GlobPlot (<a href="http://globplot.embl.de/">http://globplot.embl.de</a>) is a web
+service that allows the user to plot the tendency within the query
+protein for order/globularity and disorder.
+</P>
+
+
+
+Homepage: <a href="http://globplot.embl.de/">http://globplot.embl.de/</a>
+<hr>
+<a name="lectin"/>
+28 June,  9:30 -  9:45
+<h2>An online database of C-type Lectin Like Domain-containing sequences</h2>
+
+
+<P>
+<b>Alex Zelensky</b>, Jill Gready<br/>
+Computational Proteomics and Therapy Design Group, Division of Molecular Bioscience, John Curtin School of Medical   Research, Australian National University
+</P>
+
+<P>
+While analyzing a family of C-type Lectin-like Domain (CTLD) containing  
+proteins (CTLD-cp), we have realized that the huge volume of existing  
+sequences and literature information (&gt;1500 GenPept entries, thousands  
+Medline-indexed publications) require more robust data management tools  
+than office software commonly used by biologists. To suit our needs we  
+have developed of a relational database, and a web interface to it,  
+which allow storage, integration, classification and expert annotation  
+of various kinds of biological information related to the protein  
+family we are interested in. The product can be broadly classified as a  
+biological content-management system, and focuses on providing  
+high-quality biological information and a collaborative environment for  
+its annotation.
+</P>
+
+<P>
+A web interface was developed to manage MySQL-based sequence and  
+annotation databases.  Bioperl objects are used to handle rich sequence  
+information, which is stored in a BioSQL schema based DB, while  
+homology relationships, custom annotations and classifications, as well  
+as web user information, are stored in a second database. DB accessor  
+and controller Perl modules were developed for objects that are not  
+available through BioPerl. The structure of the annotation database is  
+phylogeny-focused and contains three principal tiers: product  
+(translated gene product or its part, whose sequence was deposited in a  
+protein sequence database), gene locus and GOG (group of orthologous  
+genes from different species).  Sequence collection was developed from  
+the ground up, starting with a selection of GenPept entries containing  
+CTLDs. After clustering redundant entries, homologous protein sequence  
+DB entries were classified as paralogues, orthologues or alternative  
+splicing products based on sequence similarity, genomic references and  
+literature data. This simple bookkeeping phase allowed us to update and  
+extend the existing CTLD-cp classifications (Drickamer 1996; Drickamer  
+2002), and provide a basis for further analyses, e.g. for studying  
+alternative splicing events that are common in the CTLD family. Next,  
+we started comparing the created catalogue of CTLD-cps to sequenced  
+genomes (human and Fugu at the moment), which allowed us to see how  
+well the family was studied and to find new members of established  
+CTLD-cp groups as well as previously unknown classes of CTLD-cp.
+</P>
+
+<P>
+After finishing the initial content creation and QA checks of both  
+contents and interface, the database will be made public and the CTLD  
+community will be invited to use and extend it. Also, though at the  
+moment the database and software are tailored to a particular set of  
+proteins, they can be developed into a more universal biological  
+content-management system, which could be used by other laboratories  
+for managing and sharing their expertise in other protein families.  
+Source codes and schema will be readily provided to anyone interested.
+</P>
+
+<P>
+Drickamer K, Fadden AJ.  Genomic analysis of C-type lectins. Biochem  
+Soc Symp. 2002;(69):59-72. PMID: 12655774<br/>
+Drickamer K.  Evolution of Ca(2+)-dependent animal lectins. Prog  
+Nucleic Acid Res Mol Biol. 1993;45:207-32. PMID: 8341801
+</P>
+
+
+
+
+<hr>
+<a name="webservices"/>
+28 June,  9:45 - 10:15
+<h2>Transition to Web Services in bioinformatics (driven by use cases)</h2>
+
+
+
+<P>
+<i><b>Martin Senger</b></i>, EBI
+
+<P>
+Web Services is a technology applicable for computationally
+distributed problems, which includes access to large databases. The
+technology is capable to deal with heterogeneous environments - but it
+is not too different from its predecessors, such as CORBA. The article
+presents the main differences between these middleware approaches
+(firewall-friendliness, user sessions, market forces, object views)
+and shows two concrete use cases of the Web Services deployed at
+EMBL-EBI.
+</P>
+
+<h3>Web Services</h3>
+
+<P>
+The Web Services are ubiquitously connected to XML. The universality
+of XML makes almost anything connected to XML a very attractive way
+to communicate information between programs. And that is where the Web
+Services are focused at - it is a technology used for distributed
+computing, connecting many resources available on the Internet and
+making them work together.
+</P>
+
+<P>
+The role of XML is clearly dominant. The other parts - even though
+they are not mandatory they are used in most cases - are SOAP and
+HTTP. The SOAP specifies how to encode various data types into XML
+documents and how to exchange such documents in a decentralised,
+distributed environment. Then the HTTP carries the encoded messages
+between internet sites and its presence is reflected in the
+firewall-friendliness of the Web Services.
+</P>
+
+<P>
+The important, if not the most important feature of Web Services is
+the language defining and describing their interfaces - the WSDL.
+WSDL enables to separate the description of the abstract functionality
+offered by a service from concrete details such as the service
+location and its access protocol.
+</P>
+
+<h3>Web Services versus CORBA</h3>
+
+<P>
+In previous years, many investments, both in money and human resources
+and skills, were made into CORBA, COM, RMI, and other technologies for
+distributed computing. Therefore, there is a very legitimate question
+what could be gained by using a new middleware in the current and new
+projects in bioinformatics. An executive summary answer would be that
+CORBA proved itself to be efficient, robust and strong inter-operable
+solution ideally fit in the intranets. On the other hand, the Web
+Services, by their design, are very suitable for using over the
+Internet. Last but not least, the both technologies can co-exist
+together in the layered architecture so one can use the strength of
+both.
+</P>
+
+<P>
+In more detailed answer one would say that both CORBA and Web Services
+are software components designed to be used by programmers in the
+first place, and both provide connectivity in a distributed
+architecture. The both technologies can provide very similar features
+and they both can do it with reasonably same effort from the
+programmer's point of view. The more visible differences are:
+
+<ul>
+ <li>Web Services (at least today) are easier to deploy because they
+   regularly use the firewall-friendly port 80 (used by the HTTP
+   carrying Web Services messages).
+
+ <li>Web Services are quite well marketed and they have visible support
+   from the big IT companies (Microsoft, IBM, Oracle, Sun, HP...) and
+   from the Open Source projects as well (Apache, Perl,...).
+
+ <li>The integration of the Web Services into workflows seems to have
+   more choices and keeps momentum (comparing to the rival CORBA
+   Components effort).
+
+ <li>On the other hand, the peer-to-peer communication in Web Services
+   is problematic. The Web Services clients use much more lightweight
+   software and they have less privileges to go through firewalls on
+   their sites. It requires to use different approaches for server's
+   callbacks and other asynchronous notification services. For
+   example, to use the SMTP protocol, or to extend the interface of a
+   Web Service to include a negotiation of available protocols.
+
+ <li>Also, in CORBA it is easier (at least today) to handle user
+   sessions (because of its object references). The CORBA
+   state-fullness is far more standardised which makes the user
+   sessions quite inter-operable and language independent. 
+
+ <li>The CORBA is ubiquitously presented as objects where Web Services
+   are rather oriented on messages. Therefore, a project designer must
+   usually find a suitable technique to mimic CORBA's object
+   references in the Web Services world. One solution is to use the
+   string-based handlers representing the state-full objects on the
+   server side.
+</ul>
+
+<h3>The use cases implemented at EMBL-EBI</h3>
+
+<P>
+The EMBL-EBI is participating in a number of projects contributing
+towards the development of an e-Science and grid infrastructure for
+biology, many of them are based or partly based on Web Services. The
+use cases presented below show the symbiosis between CORBA and Web
+Services (&quot;Soaplab&quot; use case) and between CORBA adopted specification
+and Web Services (&quot;BQS&quot; use case). Both described use cases are also
+used in the myGrid, a multi-organisational project developing the
+infrastructural middleware for an &quot;e-Biologist's&quot; workbench, funded by
+EPSRC.
+</P>
+
+<h3>OpenBQS</h3>
+
+<P>
+   OpenBQS provides a freely available implementation of the
+   Bibliographic Query Service specification that was standardised and
+   approved by the Object Management Group. The implementation
+   includes a Web Service providing access to the MEDLINE database
+   with more than 11 millions bibliographic citations.
+</P>
+<P>
+   This use case and its open-source implementation was reported
+   during the BOSC 2002.
+</P>
+<P>
+   <A HREF="http://industry.ebi.ac.uk/openBQS">http://industry.ebi.ac.uk/openBQS</A>
+</P>
+
+<h3>Soaplab</h3>
+
+<P>
+   Soaplab is a set of Web Services providing a programatic access to
+   some applications on remote computers. Because such applications,
+   especially in the scientific environment usually analyze data,
+   Soaplab is often referred to as an Analysis Web Service.
+</P>
+
+<P>
+   Soaplab is both a specification for an Analysis Service (based on
+   an OMG approved specifications for sequence analyses) and its
+   implementation. The EMBL-EBI has Soaplab service running on top of
+   several tens of EMBOSS analyses.
+</P>
+
+<P>
+   Soaplab does not access individual analysis programs directly but
+   it uses a general-purpose package AppLab that hides all details
+   about finding, starting, controlling, and using applications
+   programs. The AppLab uses CORBA - but it is hidden from the Soaplab
+   users as an implementation detail. It documents how several
+   distributed techniques can be successfully combined in a layered
+   architecture design.
+</P>
+<P>
+   <A HREF="http://industry.ebi.ac.uk/soaplab">http://industry.ebi.ac.uk/soaplab</A>
+</P>
+
+
+
+Homepage: <a href="http://industry.ebi.ac.uk/soaplab/">http://industry.ebi.ac.uk/soaplab/</a>
+<hr>
+<a name="pal"/>
+28 June, 10:35 - 10:50
+<h2>The Phylogenetic Analysis Library project</h2>
+
+
+<P>
+<b>Matthew Goode</b>, University of Auckland) /
+Korbinian Strimmer, University of Munich / Alexei Drummond, University of Oxford
+</P>
+
+<P>
+
+The Phylogenetic Analysis Library project (PAL) is a collaborative
+effort dedicated to provide a high quality Java library for use in
+molecular evolution and phylogenetics. It provides a growing Object
+Orientated resource for phylogenetic tree inference and analysis,
+including Maximum Likelihood methods. Support is included for
+coalescent and alignment simulation, alignment manipulation (data-type
+translation, bootstrapping), and statistical analysis. Future
+development will add, amongst other things, sequence alignment and
+tree searching.
+</P>
+
+<P>
+Pal is released under the lGPL licence, and is available from 
+<a href="http://www.cebl.auckland.ac.nz/pal-project/">http://www.cebl.auckland.ac.nz/pal-project/</a>.
+</P>
+
+<P>
+Reference: Drummond, A., and K. Strimmer. 2001. PAL: An object-oriented 
+programming library for molecular evolution and phylogenetics. 
+Bioinformatics 17: 662-663.
+</P>
+
+
+
+
+Homepage: <a href="http://www.cebl.auckland.ac.nz/pal-project">http://www.cebl.auckland.ac.nz/pal-project</a>
+<hr>
+<a name="gmod"/>
+28 June, 10:50 - 11:20
+<h2>GMOD</h2>
+
+
+<P>To be written</P>
+
+
+
+Homepage: <a href="http://www.gmod.org/">http://www.gmod.org/</a>
+<hr>
+<a name="nmds"/>
+28 June, 11:20 - 11:35
+<h2>A new algorithm for nonmetric multidimensional scaling method</h2>
+
+
+  <P>
+  <i><b>Y-h. Taguchi</b></i>, Dept. Phys. Chuo University, Japan<br/>
+  <i>Y. Oono</i>, Dept. Phys., UIUC, USA
+  </P>
+
+<P>
+We have developed a new algorithm for the nonmetric multidimensional
+scaling method (nMDS).  It is at present implemented in Fortran
+77. The following features of our algorithm may be worth emphasizing.
+
+<ol>
+  <li>Conceptually transparent: In contrast to the conventional nMDS
+  requiring a rather artificial disparity to compute the stress to be
+  minimized, our algorithm directly minimizes the difference between
+  the rank order of dissimilarities and that of distances in the
+  embedding space.
+
+  <li> Computationally efficient: Our algorithm avoids time-consuming
+  isotonic regression, so it is much faster than the conventional
+  ones. The computational time is of order N<sup>2</sup>log N, where N
+  is the number of the objects under study, because the number of
+  iterations is usually less than 100.  3,000 objects can be handled
+  easily by using low speed PCs (e.g., 1GHz Celeron PC with 526 MB
+  memory).
+</ol>
+</P>
+
+<P>
+As an application of our algorithm to bioinformatics, we present the
+analysis of microarray data of <i>Caenorhabditis elegans</i> gene
+expressions. The relationship among genes is visualized in a 3D space.
+</P>
+
+
+
+Homepage: <a href="http://www.granular.com/MDS/">http://www.granular.com/MDS/</a>
+<hr>
+<a name="microarray_data"/>
+28 June, 11:35 - 11:50
+<h2>Object model and C++ modules for handling multi-platform microarray data</h2>
+
+
+<P>
+<b>Andrey Ptitsyn</b>, Pennington Biomedical Research Center, Baton Rouge, LA, USA
+</P>
+
+<P>
+Microarray expression analysis is one of the most rapidly developing
+areas of computational biology. However, open source software for
+microarray analysis is still one of the least represented parts in the
+projects of the Open Software Foundation. One of the major challenges
+for the computational biologist is multiplicity of competing
+microarray technologies and high costs of microarray equipment. Only a
+handful of the world's biggest research centers can afford to support
+all major microarray platforms. Current state of the microarray
+technology vividly reminds the state of computer industry of 60s and
+70s, with rapid development, revolutionary ideas, great variety of
+hardware and operating systems, fierce competition and little effort
+from the rival developers to provide platform-independence for the end
+users.  Object-oriented programming is one of the developments of that
+era that helped to build platform-independent software. In our
+opinion, the same good old (already) designing style can mitigate the
+problem of incompatibility of microarray analysis software.  At PBRC
+we have developed an object model that can handle most of the data
+acquired in microarray experiments and re-use the code for data
+analysis algorithms in multiple applications for diverse microarray
+platforms. The first implementation of this model is done in C++ for a
+number of reasons: C++ is computationally effective, highly portable,
+widely available, highly standardized and has a complete set of
+object-oriented features. Once developed, C++ modules can be
+re-implemented in Perl, Java or Python relatively easily, while the
+opposite conversion can be more problematic. One of the goals of this
+presentation is to establish cooperation with the OBF project
+developers and get some help porting this object model to other
+languages.  The object our microarray object model has two layers. The
+first layer provides interface to a particular microarray
+platform. Currently we have implemented modules for spotted arrays,
+Affymetrix Genechip and Clontech Plastic Arrays. The second layer
+provides abstract data classes and implements various conditioning,
+scaling, normalization and clustering algorithms. A few applications
+have been developed with a help of these C++ modules, representing
+some of the extremely incompatible ends of microarray analysis: a) a
+command-line PC program for local and global linear and LOWESS
+normalization of spotted arrays; b) a program for LOWESS normalization
+of Atlas Rat Plastic Arrays with local background correction and c) a
+parallel multi-processor application for expression profile
+clustering.
+</P>
+
+
+
+<hr>
+<a name="biogopher"/>
+28 June, 13:30 - 13:35
+<h2>BIOgopher: Integrating spreadsheets with large bioinformatics databases</h2>
+
+
+<P>
+<b>Joshua Phillips</b><br/>
+SAIC Advanced Information Technology Center, Annapolis, MD<br/>
+NCI Center for Bioinformatics, Gaithersburg, MD
+</P>
+
+<P>
+BIOgopher is an ad hoc querying and reporting tool that enables
+researchers to annotate spreadsheets with the NCICB's Cancer
+Bioinformatics Infrastructure Objects (caBIO) data. In particular,
+BIOgopher presents a web-based, graphical user interface with which a
+user can build complex queries that incorporate data from any number
+of user-supplied Excel spreadsheets. The results of such queries are
+then delivered to the user as an Excel spreadsheet in which the user's
+data and the caBIO data are merged.
+</P>
+
+<P>
+For example, suppose a researcher has a spreadsheet that consists of
+multiple columns and that one of those columns contains GenBank
+accession numbers. Further, suppose that the researcher would like to
+include in that spreadsheet information about all cellular pathways
+associated with each of those accession numbers. BIOgopher enables the
+researcher to accomplish this task without any knowledge of SQL or
+programming. All the user need do is indicate which column contains
+accession numbers and specify what pathway information should be
+included. BIOgopher then creates a new spreadsheet that contains the
+selected pathway information for each gene in addition to the
+researcher's original data.
+</P>
+
+<P>
+BIOgopher is open source and it makes heavy use of other open source
+components; foremost among these being caBIO which provides a unified,
+powerful API to a wide range of public data sources. It also leverages
+Struts and POI from the Apache Software Foundation's Jakarta
+Project. Furthermore, BIOgopher itself was designed for
+reuse. Developers can reuse its components to build applications with
+similar functionality.
+</P>
+
+<P>
+The NCICB makes BIOgopher and the caBIO interfaces available on
+its public servers. BIOgopher and caBIO source code is available under
+the caBIO open source license which can be found at <a
+href="http://ncicb.nci.nih.gov/core/caBIO/technical_resources/core_jar/license">http://ncicb.nci.nih.gov/core/caBIO/technical_resources/core_jar/license</a>. Further
+information is available at <a href="http://ncicb.nci.nih.gov/core">http://ncicb.nci.nih.gov/core</a>.
+</P>
+
+
+
+Homepage: <a href="http://cabio-prot.nci.nih.gov/BIOgopher/">http://cabio-prot.nci.nih.gov/BIOgopher/</a>
+<hr>
+<a name="javabeans"/>
+28 June, 13:35 - 13:40
+<h2>A Rapid Method for the Intelligent Design of Enterprise Java Beans</h2>
+
+
+<P>
+Chad Matsalla
+</P>
+
+<P>
+The use of the Java programming language to create software components
+designed and deployed according to the Enterprise Java Bean
+specification is a widely accepted way to create reliable, modular, and
+distributable objects. As expected, these software components can be
+complex to design and deploy in a way that allows the platform
+independence promised by the Enterprise Java Bean specifications.
+<P>
+
+</P>
+Many designers rely on development tools to guide them through the
+procedures necessary to create logic classes, support classes, and
+deployment descriptors.  The use of these tools comes at a price: the
+designer may not actually understand the reasons for doing certain
+procedures and the tools often irreversibly bind the deployment of
+software designed with the tools to a given deployment container.
+<P>
+
+</P>
+A completely open source alternative is available and provides flexible
+support for the creation of the support classes and deployment
+descriptors necessary to successfully deploy EJBs into the container of
+their choice. The use of Ant, XDoclet, and JBoss is presented as a rapid
+way to develop Enterprise Java Beans, web services, Java Servlets, and
+Java Server Pages.
+</P>
+
+<P>
+Agriculture & Agri-Food Canada is in the process of implementing a web
+services framework based on objects created using this system. This will
+be a trans-Canadian resource used for the sharing of data and services
+used in Brassica, Wheat, Soybeans, and Corn genomics.
+</P>
+
+
+
+
+<hr>
+<a name="base"/>
+28 June, 13:40 - 13:45
+<h2>BASE (BioArray Software Environment)</h2>
+
+
+<P>
+<i><b>Carl Troein</b></i><br/>
+Department of Theoretical Physics, Lund University
+</P>
+
+<P>
+BASE is a free microarray database system with a clean and
+intuitive web interface. Designed by microarray biologists, it offers
+a natural work-flow for microarray experiments, all the way from
+microarray production to the analysis of results. The system is meant
+to be set up as a local repository for a microarray laboratory's data,
+including raw images if so desired.
+</P>
+
+<P>
+BASE has been designed to work with a variety of microarray platforms,
+and the array LIMS part can be entered at different levels or not at
+all, depending on what level of information is available or
+relevant. This, together with flexibility in what raw data is stored
+in the database and support for an arbitrary number of channels in the
+analysis part, makes it possible to use BASE not only with 2-channel
+cDNA arrays, but also with Affymetrix and other platforms.
+</P>
+
+<P>
+The analysis part of BASE revolves in great part around a simplistic
+plugin interface, where data is passed in tab-separated files. This
+makes it a simple task to get existing analysis tools work with
+BASE. A recent user-contributed plugin demonstrates how the statistics
+language R can be used from BASE.
+</P>
+
+<P>
+The main part of BASE is written in PHP. It works against a MySQL
+database, and in recent versions PostgreSQL support has also
+appeared. We have chosen to release BASE under the GNU General Public
+License, and since the release of version 1.0 last year, a small
+community has grown around the project. In the latest version, 1.2,
+contributions from outside the original team have started to
+appear. In parallell with the development of versions 1.x, a small
+team has started planning and design of BASE 2.0, which will be a
+re-implementation in Java, drawing from the know-how gained in the
+creation of BASE 1.
+</P>
+
+
+
+
+Homepage: <a href="http://base.thep.lu.se/">http://base.thep.lu.se/</a>
+<hr>
+<a name="bvml"/>
+28 June, 13:45 - 13:50
+<h2>Biological Variation Markup Language (BVML)</h2>
+
+
+<P>
+<i><b>Greg Tyrelle</b></i><br/>
+School of Biotechnology and Biomolecular Sciences, Univ. of New South Wales
+</P>
+
+<P>
+An XML implementation of a data model for personalised medicine. The
+tool kit makes use of Biopython and python libraries.
+</P>
+
+
+
+Homepage: <a href="http://bioinformatics.kinglab.unsw.edu.au/">http://bioinformatics.kinglab.unsw.edu.au/</a>
+<hr>
+<a name="nodalpoint"/>
+28 June, 13:50 - 13:55
+<h2>Nodalpoint, a bioinformatics weblog</h2>
+
+
+<P>
+<i><b>Greg Tyrelle</b></i><br/>
+School of Biotechnology and Biomolecular Sciences, Univ. of New South Wales
+</P>
+
+<P> A weblog that integrates community moderated Pubmed citations.
+This is very similar to a recent proposal in <a
+href="http://www.cnl.salk.edu/~eagleman/postit/">Nature</a>. The site
+is implemented using open source software and the EUtils libs from
+BioPHP.
+</P>
+
+
+
+Homepage: <a href="http://www.nodalpoint.org/">http://www.nodalpoint.org/</a>
+<hr>
+<a name="biophp"/>
+28 June, 13:55 - 14:00
+<h2>BioPHP</h2>
+
+
+<P>
+<i><b>Greg Tyrelle</b></i><br/>
+School of Biotechnology and Biomolecular Sciences, Univ. of New South Wales
+</P>
+
+<P>
+bioinformatics + PHP knowledge = BioPHP
+</P>
+
+
+Homepage: <a href="http://www.bioinformatics.org/biophp">http://www.bioinformatics.org/biophp</a>
+<hr>
+<a href="index.html">Back to BOSC2003 home page</a>
+</body></html>
+
