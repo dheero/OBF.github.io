@@ -1,0 +1,21 @@
+Biopython and the Laboratory Scientist
+
+Brad Chapman, representing the Biopython Project
+
+Biopython is a collection of open-source tools in the Python programming
+language. Developed by a collection of programmers from around the world, the
+Biopython toolkit is designed to provided re-usable code for anyone answering
+biological questions using Python. Biopython has been around since 1999, and
+has a number of active contributors and users. In this talk, I will briefly 
+describe the basic components provided in the Biopython toolkit. From 
+there, I will describe how Biopython can be used in a academic laboratory 
+environment, taking examples from my own lab. The emphasis will be on 
+utilization of Biopython code for automating everyday tasks faced by wet 
+lab researchers. I will try to show that Python and Biopython can be used
+productively by researchers lacking formal training in computer science. 
+Finally, I will describe integrating Biopython into larger bioinformatics 
+projects. Again, this will draw on my own experience using Biopython and 
+will describe how using Biopython can help make your coding life easier 
+when approaching a large project. The aim of the entire talk it to 
+convince you that using open source libraries like Biopython is worth the time
+invested in learning it.

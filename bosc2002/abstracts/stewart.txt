@@ -1,0 +1,36 @@
+[Submitted May 2]
+
+Jason Stewart
+
+Project: MAGEstk - the MAGE software toolkit
+Location: mged.sf.net
+License: MIT
+
+The MAGE software toolike (MAGEstk) project has created a software
+infrastructure we believe will be useful to many biologists. It was
+originally created to provide a complete software API to the
+MicroArray Gene Expression Object Model (MAGE-OM) developed by the OMG
+(omg.org) in collaboration with MGED (mged.org). Since it's inception,
+MAGEstk has evolved into a powerful generic tool for automatically
+generating a broad informatics infrastructure from a UML object model.
+
+When provided with a UML data model the MAGEstk tools are able to
+automatically generate the following:
+
+* a software API in Java, Perl, C++, and (soon) Python
+* an XML markup language to transmit data, defined by a DTD
+* software for serialization of data objects to XML, and
+  de-serializaiton of XML into data objects
+* a relation DB schema in SQL to store the data objects persistently
+* (soon) the code for serializing objects to the DB and de-serializing
+  data from the DB into objects
+
+By providing such a useful set of infrastructure so easily, many
+informatics projects will be able to get started quickly without
+getting bogged down re-implementing basic infrastructure. Since it
+requires a UML data model, this forces biologists to spend time
+developing a good model for the data, and not on software
+development. This should help improve the overall quality of the final
+system. We believe that MAGEstk will prove itself especially useful
+for enabling informatics projects to communicate data using emerging
+WWW services protocols such as MOBY.

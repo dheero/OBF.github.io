@@ -1,0 +1,32 @@
+	The OmniGene project has produced modules to build web services
+for data analysis, integration, and visualization. OmniGene accomplishes
+this goal through the utilization of Java Enterprise and web service
+technologies. The core API consists of modules to: 1) perform queries
+across disparate databases, 2) Transform queries into commonly used XML
+formats, 3) Parse the output of these queries into an object graph, 4)
+Visualize and share knowledge in a client server or true peer to peer
+network, 5) Dynamically discover another web service, 6) Easily plug in
+analysis applications. One majorgoal of the OmniGene development team is
+to abstract away XML parsing, Enterprise Java Bean, and trasaction code
+from the bioinformatician so that they may concentrate on their data and
+data analysis.
+
+	The OmniGene system will utilize the output and API from the
+BioMOBY project to perform dynamic discovery of services. The BioMOBY and
+OmniGene developers are now working together to integrate their two
+projects. OmniGene is an open source, open standards initiative and is
+distributed under the BSD license.
+
+-----
+Brian Gilman <gilmanb@genome.wi.mit.edu>
+Group Leader Medical & Population Genetics Dept.
+MIT/Whitehead Inst. Center for Genome Research
+One Kendall Square, Bldg. 300 / Cambridge, MA 02139-1561 USA
+phone +1 617  252 1069 / fax +1 617 252 1902
+
+
+
+_______________________________________________
+Bosc mailing list
+Bosc@open-bio.org
+http://open-bio.org/mailman/listinfo/bosc

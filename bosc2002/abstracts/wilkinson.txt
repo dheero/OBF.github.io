@@ -1,0 +1,25 @@
+Mark Wilkinson
+BioMOBY
+
+    The BioMOBY project will generate a web services registry for
+biological data.  Two main components are required:  1:  a defined set
+of approximately 200-250 lightweight XSD templates describing basic
+biological data objects, 2: a central registry, "MOBY-Central", which
+stores the URL and protocol of a web service, as well as the input and
+output objects that the service accepts and generates.  At present it is
+planned that MOBY-Central, upon client request, will generate a WSDL
+service specification on-the-fly and return this to the Client.  The
+Client then transacts the service directly from the service providor.
+Such a system differs in several ways from the UDDI model; it simplifies
+participation of Servers by assuming the task of WSDL document creation,
+but most importantly it is "object driven" in that the Client may
+request that MOBY-Central report all services that can accept the object
+in-hand as input.  This enables the dynamic discovery of information
+without necessitating prior Client (user) knowledge of the existence or
+location of this information.
+    A similar but independant project, OmniGene, stands as proof of
+concept for the BioMOBY proposals and the OmniGene and BioMOBY
+developers are now working together to create the BioMOBY system.  No
+license agreement has yet been decided among the BioMOBY project
+participants, however it is likely that BioMOBY will be released under
+the same license as Perl itself.

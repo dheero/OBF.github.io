@@ -1,0 +1,34 @@
+[Submitted May 2]
+
+Author:  Alexander Schliep (schliep@molgen.mpg.de)
+         Max-Planck-Institut for Molecular Genetics
+	 Ihnestrasse 73
+	 D-14195 Berlin
+
+Title: GHMM & HMMed: A comprehensive HMM toolkit
+
+Hidden Markov Models (HMMs) are one of the most successfull tools 
+for analyzing biological sequences. 
+
+We have developed a graphical editor for HMMs called HMMEd which 
+allows to create sophisticated models manually using a graphical 
+user interface. Hierarchical models are supported (e.g. a three 
+state model representating a single codon as one 'super state'), 
+as well as a wide range of HMM extensions and user data associated 
+with the states of the HMM. Graphical editors for discrete 
+emission distributions as well as mixtures of continous pdfs 
+are integrated. 
+
+For the exchange of HMMs we propose a XML-based format which is 
+loosely based on GraphML, is hierarchical and also incorporates 
+necessary extensions for proper graphical display.
+
+The GNU (pending permission from the FSF) HMM library (GHMM) is a 
+C-library providing efficient implementations of a comprehensive 
+collection of algorithms for both discrete and continous 
+emission HMMs. Python bindings allow interactive work with HMMs 
+from the Python command line and, at some later stage, tight 
+integration with HMMEd, which is also written in Python using 
+Tkinter.
+
+HMMEd (pronounced Hammered) and the GHMM are licensed under the LGPL.

@@ -1,0 +1,32 @@
+From: Steven Lembark <slembark@knightsbridge.com>
+Sender: bosc-admin@open-bio.org
+To: bosc@open-bio.org
+Subject: [Bosc] Abstract for BOSC 2002
+Date: Tue, 30 Apr 2002 22:33:23 -0500
+
+
+One of the more challanging areas of BioInformatics is simply getting
+computer work organized. The challange is complicated by competing
+requirements for speed, orginazation and dynamic schedules. Most existing
+tools are ill-suited for a dynamic parallel sheduling of interactive
+jobs. Traditional tools such as cron are generally too static, make sytax
+for handling dynamic job lists is byzantine at best, and the
+commercial packages are frequently too complicated to handle dynamic
+schedules easily.
+
+Schedule::Depend is a OO Perl module designed for specifically this kind
+of task. It uses a simple syntax of colon-separated dependencies (pretty
+much like make's) with the individual job tags being passed through an
+"unalis" method. The default method provided can handle object or class
+methods, subroutine refernces or perl blocks along with shell paths. This
+avoids having to wrap everyting in shell code, and simplifies the syntax
+enormously. The simplified syntax makes generating dynamic schedules far
+simpler than with other tools. The module provides for job tracking,
+restarting (i.e., skipping previously completed tasks) and continuing after
+an aborted job (much like "make -k").
+
+As an example I'd bring in a working schedule used in a BioInfo. lab
+or schedule from update_wormbase.
+
+The module itself is on CPAN, released under the same terms as
+Perl5.

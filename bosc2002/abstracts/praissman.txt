@@ -1,0 +1,42 @@
+  Biological Information Integration Toolkit
+
+  Jeremy Praissman, Dawei Lin, John Rose, Bi-Cheng Wang
+
+  Department of Biochemistry and Molecular Biology
+  University of Georgia
+  Athens, GA 30602 USA
+
+
+Rapid progress of genome sequencing projects and the NIH protein structure
+initiative has brought about an increased focus on biological data
+integration and computationally guided experimentation. As part of the
+effort to develop high throughput structure determination technologies, it
+is crucial to integrate and perform large scale analysis of
+interdisciplinary data. While many tools exist for parsing biological
+databases and interfacing with existing analysis programs, there is
+currently a lack of support infrastructure for correlating biological
+information from disparate sources. Our toolkit is an attempt to address
+this need using mathematical set and combinatorial graph techniques.
+ 
+The toolkit, which is implemented in perl and uses some bioperl modules, has
+already been applied in analyzing neighbour gene relateness for complete
+bacterial genomes released at NCBI. It will be extended to support further
+correlation of genes with other genomic, structural and functional information.
+
+Current features:
+
+  * calculating basic genome statistics
+  * calculating statistics for genes grouped by intergenic distance
+  * parsing and classifying functional annotation
+  * analyzing annotation within sets of genes grouped by intergenic distance
+  * generating user specified sequence fragments
+ 
+Planned features:
+
+  * subset generating operations on gene sets using user supplied functions
+  * generic filtering iterators
+  * combinatorial data structures for further correlating biological information
+
+end abstract --------------------
+
+We plan to release our software under the GPL.

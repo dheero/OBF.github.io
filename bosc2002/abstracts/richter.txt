@@ -1,0 +1,29 @@
+GOET: the General Ontology Editing Tool
+
+Abstract:
+
+GOET is a Java application designed to facilitate the creation of
+ontology schemas and data. GOET allows a user to define DAML+OIL-like
+schemas and then populate those schemas with data. Data can loaded from
+and saved to DAML+OIL flat files, as well as numerous other formats.
+
+GOET is highly customizable via pluggable editor kits. Editor kits are
+Java jar files that define a custom user interface for GOET, tailored to a
+particular kind of data. Editor kits allow programmers to create the most
+efficient user interface for any given ontology. GOET comes with a generic
+editor kit that can edit *any* ontology, making it easy for users to
+experiment with new schemas.
+
+GOET provides a strong toolkit for ontology editing, with automatic
+support for history tracking, undo/redo, cycle checking, and other
+important graph editing tools. This toolkit makes it easy for programmers
+to develop new, powerful editor kits.
+
+Other information:
+
+GOET is being developed as part of the gmod project at
+
+http://sourceforge.net/projects/gmod
+
+Like all gmod components, GOET is distributed under the terms of the
+Artistic License.

@@ -1,0 +1,34 @@
+		 A controlled vocabulary for gene expression
+
+Johann Visagie[1], Janet Kelso[2], Soraya Bardien-Kruger[2], Alan
+Christoffels[2], Tania Hide[1], Winston Hide[2]
+
+[1] Electric Genetics (Pty) Ltd
+[2] South African National Bioinformatics Institute
+
+Electric Genetics and SANBI have developed a tool that integrates transcript
+information, genomic sequence, genetic mapping information and a standardised
+controlled vocabulary to serve as the basis for a more complex system that
+will aid in the identification of disease genes candidates.
+
+A controlled vocabulary which consists of a predefined orthogonal set of
+hierarchical schemas was constructed.  These currently include schemas
+containing terms describing anatomical site, cell type, developmental stage
+and pathology.
+
+Expression data was mapped to the vocabulary by associating 6937 individual
+cDNA libraries (including dbEST and SAGE) with one or more terms in as many
+of these schemas as possible.
+
+The vocabulary was implemented as a relational database schema.  A Python API
+was constructed to provide a number of facilities to mine the vocabulary
+database, including a parser for a simple boolean query language.
+
+The controlled vocabulary demonstrates that mapping expressed sequences to
+terms in a number of separate hierarchical schemas allows detailed mining of
+gene expression state information.
+
+Current ongoing work includes the investigation of the utility of DAS v1.5 to
+serve as a query front-end for the controlled vocabulary.
+
+-- Johann Visagie, Electric Genetics

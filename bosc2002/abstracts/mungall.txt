@@ -1,0 +1,18 @@
+Chris Mungall:  BioSQL
+
+The BioSQL project defines a general bioinformatics schema intended for
+use in multiple projects across different database management systems and
+programming languages. Adapters exist for perl, java, python and ruby.
+These adapters provide an API for accessing a BioSQL database via that
+languages bio-project object model. The BioSQL schema and adapter code
+works with both MySQL and postgres, and should be easily adaptable to
+other DBMSs e.g. Oracle.
+
+BioSQL takes a modular approach to schemas. The existing core modules deal
+primarily with sequence annotation data. There is also a module for
+controlled vocabularies and ontologies, and modules can be added for
+dealing with other data classes, eg expression data.
+
+The BioSQL schema is designed to be extensible, individual projects can
+extend the datamodel via controlled property tables, whilst still
+conforming to the core schema.

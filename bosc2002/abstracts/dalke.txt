@@ -1,0 +1,23 @@
+                     Usability
+
+Open source software is often said to be "unusable."  On the surface
+this doesn't make sense because many of the projects are widely used
+to do real work.  But usability isn't a binary value, it refers to
+ease of use.  Two packages can be equally featureful but one be much
+more usable than the other.
+
+A lot of research has gone into understanding how to make more usable
+software.  This knowledge is starting to make its way into mainstream
+software projects, but is still relatively unused in bioinformatics.
+I'll discuss several reasons why this might be so, the major one being
+that few even know this topic exists.
+
+In my talk I'll cover some of the standard techniques of usability
+design, including testing, persona development, use cases, and paper
+prototyping.  These are simple, inexpensive techniques that can be
+applied to almost any project to make them more usable and enjoyable.
+To keep my presentation grounded, I'll include examples from my
+experiences in applying them to real projects.
+
+                    Andrew Dalke
+                    dalke@dalkescientific.com

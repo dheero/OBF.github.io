@@ -1,0 +1,23 @@
+The Open Source Authors' Contract
+Steven Brenner, University of California, Berkeley.
+
+Most universities, national laboratories, companies, and other employers
+have clauses in their employment contracts that prevent or restrict the
+creation and use of open source software.  Indeed, it seems likely that
+much of the biological open source software is being produced illegally,
+in violation of institutions' terms.  While benign neglect of enforcement
+of the institutions' regulations has led to a situation that is generally
+acceptable, it is not ideal.
+
+Several individuals have sought the ability to produce open source
+software by seeking exemptions or variations of their institutions'
+intellectual property agreements.  However, this is a painstaking process,
+and the associated legal fees can be costly.  I propose that a general
+contract be drawn up, which has standard terms for individuals to create
+open source software without undue constraints.
+
+Since this idea was first broached a year ago, there has been widespread
+discussion regarding regulations governing production open source
+software.  This talk will provide a background to the motivation for the
+Authors' contract, as well as recent responses which suggest productive
+ways forward.

@@ -1,0 +1,41 @@
+Bioperl-Pipeline System
+
+The prominence of the in-silico laboratory coupled with the explosion of
+comparative genomics have made the nature of computational biological
+analysis increasingly complex. This is exacerbated by the plethora of
+software that are now available. It is not uncommon for an analysis to
+involve large amounts of data from disparate sources and formats,
+different programs with specific requirements and output formats that must
+be suitable for human interpretation. There thus exists a need for a
+flexible workflow framework that will hide such complexity, allowing
+scientists to focus on their analysis, while providing bioinformaticians a
+coherent methodology for which to extend the system. It was with this in
+mind that we developed the bioperl-pipeline system. Largely adapted from
+the Ensembl Pipeline Annotation System, some of the features in the
+current system include:
+
+  1)  Handling of various input and output data formats from various databases.
+
+  2)  A bioperl interface to non-specific loadsharing software (LSF,PBS
+etc) to ensure that the various analysis programs are run in proper
+order and are successfully completed while re-running those that fail.
+
+  3)  A flexible pluggable bioperl interface that allows programs to be
+      'pipeline-enabled'.
+
+We are currently looking at extending the system in the following way:
+
+  1)  A 'grid-aware' system that allows jobs to be distributed over a
+      bio-cluster network harnassing collective computing power that will
+      be especially useful for small groups looking to perform
+      compute-intensive analysis.
+
+  2)  A user-friendly click and drag GUI system to allow easy workflow
+      design and job tracking.
+
+We are now applying this framework to our compara system for high
+throughput multi-species studies. We will discuss the design and
+implementation details of the bioperl-pipeline package.
+
+
+speaker to be decided...

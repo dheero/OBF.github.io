@@ -1,0 +1,82 @@
+<html>
+<head>
+</head>
+<body>
+      We would like to submit the following abstract for the BOSC 2002 conference.
+Our work pertains to cDNA microarray analysis using software based on scripting
+languages. We would like to give a short talk about our work. If we can also
+display a poster on the same topic, so that people can read it and review
+it before or after the talk, that would be great.<br>
+<br>
+Thanking you very much in advance,<br>
+<br>
+Michiel de Hoon<br>
+University of Tokyo, Human Genome Center.<br>
+<br>
+=========================================================================<br>
+<br>
+<b>Authors: Michiel de Hoon, Seiya Imoto, Satoru Miyano</b><br>
+<br>
+Address:<br>
+  Laboratory of DNA Information Analysis<br>
+  Human Genome Center<br>
+  Institute of Medical Science<br>
+  University of Tokyo<br>
+  4-6-1 Shirokanedai<br>
+  Minato-ku, Tokyo 108-8639<br>
+  Japan<br>
+  &nbsp;<br>
+<b>Title:<br>
+  Analyzing cDNA microarray data using Python and the C clustering library:<br>
+  Why scripts are better than GUIs.<br>
+</b><br>
+<b>Abstract:</b><br>
+  Gene expression data generated in cDNA microarray experiments are commonly
+ analyzed by clustering methods using GUI-based codes such as Cluster/TreeView
+ program (Eisen, 1999) and GeneCluster (Tamayo, 1999). While the former is
+ open source, the latter is not.<br>
+<br>
+  Whereas a GUI makes an analysis tools easier to use initially, analysis 
+software based on scripting languages such as Python have several advantages. 
+Script-based codes are generally more flexible and easier to develop. In addition,
+scripting languages usually offer a range of useful features, such as text
+processing capabilities, database access, and plotting routines that would
+have to be programmed from scratch in a GUI-based code. Numerical routines 
+that would be too slow if implemented in a scripting language directly, can 
+be written in a lower-level language such as C and Fortran. These routines 
+can then be called from the script. Finally, we note that GUI-based codes 
+usually rely on a specific (often commercial) compiler, which makes porting
+code, open-source development and code improvement very difficult.<br>
+<br>
+  While script-based code is already commonly being used for sequence analysis
+ (e.g., BioPerl and BioPython), analysis of gene expression data is still
+dominated by GUI-based codes. We have therefore written a C library of routines
+for hierarchical clustering and for Self-Organizing Maps, as well as an advanced
+ k-means clustering algorithm. This clustering library can be called from
+Python, or linked to other codes. Unlike Cluster/TreeView, no licensed code
+was used to develop this library, making the C clustering library truly open
+source. The library can be compiled with the GNU C compiler.<br>
+<br>
+  The C clustering library is freely available for academic and non-commercial
+ use at<br>
+<a href="http://bonsai.ims.u-tokyo.ac.jp/%7Emdehoon/software/software.html">
+http://bonsai.ims.u-tokyo.ac.jp/~mdehoon/software/software.html</a>
+<br>
+<br>
+<b>  Contact:</b><a class="moz-txt-link-abbreviated" href="mailto:mdehoon@ims.u-tokyo.ac.jp"><br>
+mdehoon@ims.u-tokyo.ac.jp</a>
+<br>
+<br>
+=========================================================================<br>
+<br>
+<pre class="moz-signature" cols="$mailwrapcol">-- 
+Michiel de Hoon, Postdoctoral Fellow
+University of Tokyo, Institute of Medical Science
+Human Genome Center
+4-6-1 Shirokane-dai, Minato-ku
+Tokyo 108-8639
+Japan
+<a class="moz-txt-link-freetext" href="http://bonsai.ims.u-tokyo.ac.jp/%7Emdehoon">http://bonsai.ims.u-tokyo.ac.jp/~mdehoon</a>
+</pre>
+</body>
+</html>

@@ -1,0 +1,65 @@
+Note to readers: I typed this in by hand so pleas access the original
+emails since I likely introduced typos.
+
+ ---------------
+
+NBLAST: a cluster variant of BLAST for NxN comparisons
+Michel Dumontier
+
+Samuel Lunenfeld Research Institute, Mt. Sinai Hospital, Toronto, ON
+Canada M5G 1X5
+
+micheld@mshri.on.ca
+
+The BLAST algorithm compares biological sequences to on another in
+order to determin shared motifs and common ancestry.  However, the
+comparson of all non-redundant (NR) sequences against all other NR
+sequences is a computationally intensive task.  We developed NBLAST as
+a cluster computer implementaion of the BLAST family of sequence
+comparison programs for rhe purpose of generating pre-computed BLAST
+alignments and neighbour lists of NR sequences.
+
+NBLAST performs the heuristic BLAST algorithm and generates an
+exhaustive database of alignments, but it only computes alignments
+(i.e. the upper triangle) of a possible N2 alignments, where N is the
+set of all sequences to be cmopared.  A task-partitioning algorithm
+allows for cluster computing across all cluster nodes and the NBLAST
+master process produces a BLAST...
+
+[ ...  you get the idea ...]
+License: GPL, and on sourceforge
+
+ ---------------
+
+OBF Simple Flat-file Indexing
+
+Most bioinformatics data is available as a flat-file.  Many labs only
+need simple retrieval of the text of a record in the file given some
+identifier, like the record number, but don't need the extra overhead
+of setting up database management system.
+
+As part of the Open Bioinformatics Foundation biohackathon, the
+biopython, bioperl, biojava, and C coders got together to define and
+implement for those platforms a standard, cross-platform indexing
+scheme.  Given an identifier and optional namespace (eg, to
+distinguish between the entry id and the accesssion name) it works
+like a lookup table to return the list of matching locations (filename
+and byte range in the file).
+
+The spec defines two types of indexing schemes.  The simplest uses a
+flat files to store the index and is for labs which don't want to
+install any extra software and are willing to trade off some space and
+ease of modification.  The other fixes those limitations but requires
+that Sleepycat's BerkeleyDB be installed on the local machine.  The
+choice is up to the user and the indexing type can be automatically
+determined so is invisible to software using the index.
+
+I will describe the design of the indexing system, how it can be used,
+and show interoperability between the different langauge
+implementations.
+
+ ---------------
+
+Dan Kilburn <DKilburn@BeyondGenomics.com>
+
+lightning talk?  BoF?  lunch talk? on systems biology.

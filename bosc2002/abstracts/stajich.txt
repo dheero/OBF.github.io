@@ -1,0 +1,23 @@
+The Bioperl project recently released version 1.0 of our toolkit for life
+science programming.  The components include modules which support for
+sequences, sequence reading and writing, sequence features and annotations
+and features with simple and complex locations, multiple sequence
+alignments, phylogenetic trees, BLAST & FASTA parsing, building and
+accessing local sequence databases, accessing remote sequence databases,
+retrieving and manipulating bibliographic references, interoperating with
+BioCORBA and OBDA biological object standards.  The toolkit has been used
+in a wide array of situations from simple laboratory situations and as the
+building blocks for enterprise solutions in EnsEMBL and the Generic Model
+Organism Database (GMOD).
+
+The toolkit is built with an easily extensible architecture which can be
+used for quickly building perl programs to address specific research
+questions.  Several examples of its use to answer real laboratory
+questions will be discussed.
+
+License: Perl Artistic.
+
+-- 
+Jason Stajich
+Duke University
+jason@cgt.mc.duke.edu

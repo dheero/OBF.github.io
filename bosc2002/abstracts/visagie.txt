@@ -1,0 +1,41 @@
+Johann Visagie, Electric Genetics
+
+Note:  This abstract is aimed at a "lightning" talk.
+
+
+		       The FreeBSD-bio porting project
+
+FreeBSD is a free and open source operating system based on 4.4BSD, the final
+version of Berkeley's academic operating system which formed the basis for
+the development of much of the technologies underlying the Internet,
+including the initial incorporation of TCP/IP into a Unix operating system.
+As such it has a long and widely published academic track record, and over
+this long history it has developed the sort of benchmark-stretching
+performance and rock-solid stability required of a Bioinformatics server.
+
+FreeBSD provides a third party application infrastructure known as the "ports
+collection".  Going beyond most of the various binary packaging systems found
+in commercial and open source Unices, FreeBSD's ports provide an integrated
+infrastructure for downloading, patching, building and installing
+applications from source code, as well as for the further maintenance,
+upgrading and (if necessary) removal of such appliations once installed.
+
+The ports system extends open source principles from development to system
+administration; it allows the experienced user to share his experience in
+compiling and installing and configuring a particular application on FreeBSD,
+and it allows the novice user to emulate this experience with a single
+command.
+
+The FreeBSD-bio project is a (highly) informal group of volunteers -
+co-operating via a mailing list - who share the goal of committing a large
+variety of commonly used bioinformatics tools and packages to the FreeBSD
+ports collection's CVS tree.  Since FreeBSD ports are packaged in a
+pre-compiled binary format on FreeBSD distribution CDs and DVDs, this will
+eventually allow even the novice end user to set up a fully functional
+bioinformatics server "out of the box" with minimal effort.
+
+URL (mailing list):  http://www.plig.net/mailman/listinfo/freebsd-bio/
+Licence:             BSD, of course.  :-)
+
+
+-- Johann Visagie, Electric Genetics

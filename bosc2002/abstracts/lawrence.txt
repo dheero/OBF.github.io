@@ -1,0 +1,27 @@
+[Submitted May 2]
+
+Use LumberJack to evaluate alignments and generate reasonable phylogenetic
+trees quickly
+
+Carolyn J. Lawrence,1 R. Kelly Dawe,1&2 and Russell L. Malmberg1
+Departments of 1. Plant Biology and 2. Genetics
+University of Georgia, Athens, Georgia 30602
+
+LumberJack is a ML heuristic search tool written in JAVA that
+progressively jackknifes windows from a sequence alignment to generate
+multiple neighbor joining trees.  It compares the trees statistically on
+the basis of their relative likelihood scores.  This allows the program
+not only to identify reasonable phylogenetic trees quickly, but also to
+map phylogenetic signal onto the alignment.
+
+-- 
+*******************************************************************************
+Carolyn J. Lawrence
+Dawe & Malmberg Labs
+Department of Plant Biology
+University of Georgia
+Athens, GA  30602
+
+eMail: carolyn@dogwood.botany.uga.edu
+Phone: (706) 542-1010
+Website:  http://www.botany.uga.edu/~carolyn

@@ -1,0 +1,5 @@
+# robots.txt for http://open-bio.org/
+User-agent: *
+Disallow: /stats/
+Disallow: /cgi-bin/
+Disallow: /ftp-stats/

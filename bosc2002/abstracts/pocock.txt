@@ -1,0 +1,31 @@
+BioJava Toolkit Progress
+Matthew Pocock
+
+BioJava is an open-source software project that aims to provide an
+industry-quality Java library for common bioinformatics tasks. BioJava
+is part of the open-bio foundation. BioJava was started in the autumn of
+1998, and now has over 25 developers. In the past two years, the core
+development team has expanded from the original team of two to five.
+This has brought with it a greater range of views and expertise, as well
+as a greater stability. In parallel with this, we are in the process of
+integrating unit testing to maintain the quality of the >130,000 lines
+of code and documentation in the core library.
+
+BioJava has taken an active role in participating in the open-bio
+hackathons. Representatives have attended both legs of the hackathon
+(Tuscon, AZ, USA and Cape Town, SA). During this time, several important
+interoperabe technologies were designed and implemented. These include a
+registry file format for biological entities, an SQL schema for storage
+of sequences and their annotations, BioCorba-based corba clients and
+servers, bibliographic web services, web services for publishing
+sequence data and flat file indexing. All of these have been implemented
+in BioJava, and interoperate with implementations in the other open-bio
+language projects, as well as with some external implementations.
+
+Over the next year, we hope to mature the library's functionality in
+areas related to sequence manipulation, pipeline management, alignments,
+Sequence GUIs and file parsers. In parallel, we shall be integrating
+code-generation, more flexible transaction management and ontology
+representations with the current free-form annotation model and BioJava
+interfaces to allow the representation of more fluid data types, and
+more maintainable and robust implementation of standard interfaces.
