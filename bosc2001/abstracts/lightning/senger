@@ -1,0 +1,86 @@
+  +------------------------------------------------+
+  |     OpenBQS - Bibliographic Query Service      |
+  |  (PII - Platform Independent Implementation)   |
+  +------------------------------------------------+
+
+Authors:
+    Martin Senger, Lichun Wang, Alan Robinson, EBI
+    (senger@ebi.ac.uk)
+
+=======================================================
+
+Principles
+----------
+
+The OMG (Object Management Group, [OMG]) recently adopted a flexible
+approach for specifying domain models in a technology independent way
+(MDA - Model Driven Architecture, [MDA]). This approach is very
+justifiable when designing language and technology independent models
+and interfaces, but it is too broad for the implementation of such
+interfaces.
+
+Any implementation is written in a particular programming language
+(Java in the case of OpenBQS - see below) - but using similar
+principles as in MDA allows us to plug-in easily various components
+based on different technologies. In particular, it makes it possible
+to choose dynamically between:
+
+ - using CORBA methods to access remote distributed components,
+ - using RMI to achieve the same, or
+ - using only local components, having everything in one address
+   space.
+
+We call this approach Platform Independent Implementation (PII, or
+shortly a "pi"-approach).
+
+
+Bibliographic Query Service - BQS
+---------------------------------
+
+Bibliographic search and citation are central to all scholarly and
+research activities. Within the domain of life sciences research,
+bibliographic citation is of particular importance for annotation of
+large bodies of experimentally developed and computationally derived
+data. 
+
+This need was recognised by the LSR-DTF (Life Sciences Research Domain
+Task Force, [LSR]) and a specification for such a service was recently
+adopted [BQS]). The adopted standard represents an information model
+[UML] of bibliographic citations and is based on the Dublin Core
+Metadata for Resource Discovery [DC]. It includes also query
+mechanisms to search bibliographic repositories and to retrieve
+results.
+
+OpenBQS
+-------
+
+OpenBQS [OBQS] is an open source implementation of the standard
+Bibliography Query Service specification, using the PII approach
+described above. Implemented in Java, it allows to choose between a
+CORBA-based and local connection to a bibliographic repository. It is
+being developed for accessing publication data from the EMBL
+Nucleotide Sequence Database [EBI], and from the MEDLINE bibliographic
+database. However, the PII allows to plug-in other repositories as
+well.
+
+Candy - the controlled vocabularies
+-----------------------------------
+
+Candy [CAND] provides a PII-based access to a set of controlled
+vocabularies. It is a separate open source project used by OpenBQS to
+introspect bibliographic repositories. It is a Java implementation of
+another standard specification adopted recently by the LSR-DTF (as
+part of the Genomic maps specification [MAPS]).
+
+References
+----------
+[OMG]  http://www.omg.org
+[MDA]  http://www.omg.org/mda
+[LSR]  http://www/omg.org/homepages/lsr
+[BQS]  http://www.omg.org/cgi-bin/doc?dtc/01-04-05
+[UML]  http://industry.ebi.ac.uk/~senger/BQS/web
+[DC]   http://dublincore.org
+[OBQS] http://industry.ebi.ac.uk/openBQS
+[EBI]  http://www.ebi.ac.uk
+[CAND] http://industry.ebi.ac.uk/candy
+[MAPS] http://www.omg.org/cgi-bin/doc?dtc/99-12-01

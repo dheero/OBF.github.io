@@ -1,0 +1,45 @@
+Bioperl-db
+----------
+
+Ewan Birney
+
+
+Bioperl-db is a first attempt at making a clean, simple, relational
+database representation of sequence orientated bioinformatics objects. It
+uses the Bioperl (and therefore the associated biocorba and bio* projects
+in general) object model as a source for its design. It provides storage
+for a number of associated pieces of information
+
+   - Different "databases" (data collections) of sequences
+   - Raw sequence information 
+   - Sequence feature information 
+   - annotation of sequences including
+     - references
+     - comments
+     - database links
+
+As well as providing this relational structure, bioperl-db comes with Perl
+bindings that comply to the Bioperl "interface" definitions for the
+appropiate objects, and the database code can store Bioperl interface
+definitions. This object layer was modelled after the Ensembl/GadFly
+"Adaptor" style interface and in particular provides for "lazy"
+fetch-on-demand access of the data,
+ 
+
+The result is a flexible system which can, for example,
+
+   - read a flat file of sequences into the database
+
+   - provide client/server access to sequence data objects, using 
+     the SQL client/server connection
+
+   - provide other bioperl interface using functions, eg, 
+     running the Annotation Workbench or the Bioperl CORBA server
+     from it
+
+   - read from a different bioperl interface into the database,
+     eg, a different BioCorba server can be cached locally 
+     using this mechanism
+
+
+I will discuss the design and implementation of the bioperl-db package

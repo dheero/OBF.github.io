@@ -1,0 +1,29 @@
+
+biok (http://www-alt.pasteur.fr/~letondal/biok/) is a prototype of a programmable 
+application for biologists. Its purpose is twofold: to analyze biological data 
+such as biological DNA or protein sequences, and to support tailorability and 
+extensions by the end user through an integrated programming environment. 
+
+The central analysis tools of the system are an alignment editor built on
+a spreadsheet with programmable visualization features, a sequence
+editor, and a plot editor. A tree editor is under development. biok
+encompasses a Pise interface generator and is able to run EMBOSS
+applications. It is an integration environment, based on on user
+interface building features and on a dataflow model which enables to
+connect all these components together by formulas.
+
+It is written in XOtcl, an object extension of Tcl and, thanks to
+Tcl introspection tools, selected graphical objects' source
+code is available at the method level directly through the user
+interface. Dataflow implementation and programming tools (trace and
+debugging) rely on XOtcl features such as filters, mixins,
+object-based programming and design patterns. 
+
+The design of this tool follows human-computer interaction principles,
+such as task-oriented programming, programming in the user interface,
+cooperative and participatory programming. The prototype has been
+presented to individual biologists, evaluated in a workshop, and used
+by students for their project. 
+
+-- 
+Catherine Letondal -- Pasteur Institute Computing Center

@@ -1,0 +1,26 @@
+               Biopython: Status and Plans
+
+Biopython (http://www.biopython.org/) started two years ago
+with the goal of bringing together powerful, robust tools
+that enable researchers to develop new methods and
+applications more quickly than is possible with other
+existing systems.  We have based those tools on
+Python, which is a very high-level, multi-paradigm
+programming language that is readable, easy to learn and is
+enjoyable by researchers and software developers.
+
+During the last few years, we have acquired a half dozen
+core members, a set of libraries for sequence manipulation
+and a graphical sequence editor, web scrapers, BioCORBA
+integration, and a high performance parser generator for
+bioinformatics formats.  
+
+In my presentation I will describe a few of the design
+philosophies in Biopython then present an overview of the
+platform by showing a walk-through of how someone might
+use it to solve various research problems.  I will end by
+outlining some of the current projects and where we
+expect to go in the future.
+
+                    Andrew
+                    dalke@acm.org

@@ -1,0 +1,24 @@
+-----------------------------------------------------------------
+Hilmar Lapp email: hilmarl@yahoo.com
+GNF, San Diego, Ca. 92122 phone: +1 858 812 1757
+-----------------------------------------------------------------
+
+Bioperl enters maturity and the post-genomics era
+
+Bioperl (http://www.bioperl.org/) is an effort to gather and integrate
+Perl modules for diverse bioinformatics and life science research
+tasks into one system that is easy-to-use for developers, has a
+consistent and common object-oriented API, and is flexible enough to
+allow complex systems build on it as a foundation. With its inception
+dating back to 1995 Bioperl is one of the oldest bioinformatics open
+source projects.
+Development activities over the past months resulted in a quantum leap
+towards maturity of the system as defined by completeness, stability,
+consistency, flexibility, interoperability, and organization of the
+project. At the same time, Bioperl together with bioinformatics and
+the life sciences stands at the verge of the post-genomics era, with
+the focus of active research shifting to structural biology,
+transcriptome definition, and pathway identification, to name a few.
+In my talk I will center on the roadmap and its implications of Bioperl
+towards its imminent declaration of maturity, followed by options for a
+future mission in the post-genomics field.

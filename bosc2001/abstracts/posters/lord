@@ -1,0 +1,12 @@
+Cinema-MX: A modular and configurable alignment editor in Java 2
+Phillip Lord, Julian Selley, and Terri Attwood.
+
+
+Multiple sequence alignments are found in many areas of molecular
+biology and bioinformatics. We report the development of an
+application "Cinema-MX" for viewing and analysing such alignments. The
+application was written using the Java2 language. It is highly
+modular, extensible, and configurable, enabling it to be used in a
+variety of different specialised circumstances without reducing its
+general usefulness. As an example we show the close integration
+between Cinema-MX and the PRINTS database.

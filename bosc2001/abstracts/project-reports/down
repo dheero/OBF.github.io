@@ -1,0 +1,30 @@
+        BioJava: Open Source Components for Bioinformatics
+
+                Thomas Down and Matthew Pocock
+
+        The Sanger Centre, Hinxton, Cambridge, CB10 1SA, UK
+                       {td2,mrp}@sanger.ac.uk
+
+
+The BioJava project is an open source effort to build a library of
+useful routines and components for developers of bioinformatics
+applications.  The project is now almost 2 years old, and has
+developed rapidly since the 1.0 release in August 2000.  This year, we
+passed the milestone of 10 active contributors, and are currently
+working on a new major release.  BioJava is licensed under the terms
+of the LGPL, and is used extensively in both academic and commercial
+environments.
+
+The current BioJava APIs are centred around manipulating, integrating,
+analysing, and visualising biological sequence data.  Components in
+the Sequence framework include a full range of flat-file parsers, a
+client for the Distributed Annotation System, and a library for Hidden
+Markov Model sequence analysis.  A separate component offers seamless
+BioJava access to Ensembl sequence databases.  Over the coming year,
+we hope to supplement the sequence framework with code for handling
+structural and expression data.
+
+BioJava has particularly strong links with XML technologies.  Parsers
+are included for the GAME and XFF schemas.  We also use a powerful
+XML-based framework for handling output from database-searching
+programs such as Blast and Fasta.

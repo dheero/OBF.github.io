@@ -1,0 +1,45 @@
+Ensembl: An open source project for genome annotation
+
+
+Stabenau A, Clamp M, Curwen V, Birney E, Cox T, Cuff J, Durbin R,
+Gilbert J, Huminiecki L, Hubbard T, Lijnzaad P, Kasprzyk A, Mongin E,
+Pettett R, Potter S, Slater G, Stupka E, Stalker J, Vastrik I.
+
+
+
+INTRODUCTION 
+
+The ensembl project is an automatic annotation system for eukaryotic
+genomes. Currently the project provides mainly data, software and
+support for the human genome annotation, but mouse genome is supported
+as well and we expect to annotate a number of other eukaryotic genomes
+this year. All Data and source code is freely available.
+
+DESIGN  
+
+Ensembl data is stored in a federation of relational
+databases. Development happens mainly with a MySQL database engine,
+but there is a successfull oracle port. The core database contains the
+sequence data and annotations like predicted genes and repetitive
+regions. Additional databases provide diseases, SNP and expression
+data.
+
+The software is currently written in object oriented perl. Central
+part are the biological objects ( "business objects" ) which represent
+Genes, Exons, Features etc. A layer of database access objects (
+Adaptors ) provides their connectivity to the underlaying relational
+databases. The analysis and annotation is done in the Ensembl-pipeline
+modules. A comprehensive set of web-view modules gives a graphical
+view on the data via apache and modperl.
+
+BIO-ENSEMBL
+
+Bioperl is used throughout the system and bioperl interfaces are
+implemented in sequence providing objects and features. The Biojava
+project provided a prototype java layer around the database. A Java
+port of the whole EnsEMBL system will provide further Biojava
+support. A basic CORBA server for EnsEMBL exists and supports BioCORBA.
+
+
+I will present the current Ensembl code development, its relationship
+to the Bio* projects and future plans.

@@ -1,0 +1,31 @@
+
+TFBS: Perl modules for transcription factor detection and analysis
+
+Boris Lenhard
+
+Center for Genomics and Bioinformatics, Karolinska Institutet, Stockholm, Sweden
+
+
+TFBS Perl OO modules implement classes for the representation of objects encountered in analysis of
+protein-binding sites in DNA sequences.The objects defined by TFBS classes include:
+
+   o pattern definition objects, currently position specific score matrices (raw frequency,
+     information content and position weight matrices)with methods for interconversion between matrix
+     types, sequence searching with a matrix profile, sequence 'logo' drawing and matrix manipulation;
+   o a composite object representing a set of position specific score matrices, with methods for the
+     identification of motifs within DNA sequences with the set of profiles from its member matrices;
+   o methods for searching pairwise alignments for patterns conserved in both sequences (phylogenetic
+     footprinting) defined for both matrix profile and composite (matrix set) objects;
+   o an object representing DNA binding site sequence, and an object representing sets of DNA binding
+     sequences, with methods and helper classes to facilitate scanning, filtering and statistical
+     analyses;
+   o an object representing a pair of DNA binding site sequences, and an object representing a set of
+     such pairs, for storage, manipulation and analysis of phylogenetic footprinting searches;
+   o database interfaces to relational, flat file and XML databases of position-specifc score
+     matrices, with methods for searching existing databases, as well as creating new ones containing
+     user-defined matrices.
+
+The modules within the TFBS set are fully integrated and compatible withBioperl. I will discuss the
+design, implementation and potential extensionof the TFBS modules. I will also touch on possible
+generalizations of thedesign to facilitate analysis of other types of patterns in biological
+sequences.

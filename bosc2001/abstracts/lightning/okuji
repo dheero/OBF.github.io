@@ -1,0 +1,33 @@
+Yoshinori K. Okuji, Toshiaki Katayama, Mitsuteru S. Nakao
+
+BioRuby
+
+Thanks to the significant improvement of biotechnology and the advance
+of computational biology, we now have a lot of biological resources,
+such as genome sequences, expression profiles and signaling pathways,
+mostly integrated into publicly available databases. Although that is
+unquestionably very useful to study the large and complex systems of
+organisms, that also brings up an unexpected problem: You cannot do
+what you want to do without effort. This is sometimes because most
+databases use their own data formats which are incompatible with each
+other, sometimes because link information is missing or difficult to
+extract between different kinds of databases, and sometimes because
+bioinformatics tools are not necessarily adequate for batch processing
+which is quite often required for bioinformaticians.
+
+Thus, we believe that a kind of reusable framework for bioinformatics
+is necessary. Such a framework may provide us with easily accessible
+interfaces which should hide the difference of database formats and
+user-unfriendly interfaces of computational tools. For this purpose,
+the object-oriented model is appropriate, because it can build up an
+unified interface more consistently than the old-style procedure
+model, regardless of the difference of underlying data objects.
+
+In this presentation, we introduce BioRuby, which aims to provide
+"open source" resources for bioinformatics. The main difference
+between BioRuby and the other projects, such as BioPerl, is that our
+project is based on the pure object-oriented language Ruby. As BioRuby
+is at the dawn, we have a few database classes and computational tools
+at the moment, but we are already using the code for daily
+researches. As an example, the implementation of database classes
+(e.g. SwissProt class) will be shown.

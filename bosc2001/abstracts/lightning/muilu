@@ -1,0 +1,77 @@
+OpenBSA - Tools and standards for distributed computing
+=======================================================
+Juha Muilu(*, Martin Senger and  Alan Robinson
+
+European Bioinformatics Institute
+Wellcome Trust Genome Campus
+Hinxton, Cambridge CB10 1SD, UK
+
+(*Presenting author
+
+
+Background
+----------
+
+Biomolecular sequence analysis specification (BSA) is one of the first
+standardised API's for bioinformatics community developed in
+collaboration with commercial and academic organisations.  The
+specification was adopted in Dec 1999 by the Object Management Group
+(OMG).
+
+The BSA specification comprises two independent modules described
+using the CORBA IDL:
+
+The Analysis module defines API for executing and controlling remote
+analysis applications as well as XML metadata, which specifies
+information needed to run the applications i.e. how to assign input
+parameters and data, and how to adapt the results to a format
+understood by the client. The metadata is also available to clients
+for use in making user interfaces etc.
+
+The analysis module is independent of data format used by the
+applications. The results are sent to client as a strings by default,
+but the results can be adapted to CORBA objects as well. The
+BioObjects module of the BSA specification contains definitions for
+certain basic biological entities like DNA/AminoAcid sequence,
+alignment and similarity search results, that can be used with the
+analysis server.
+
+
+OpenBSA
+-------
+
+In the talk, we will present recent developments in the OpenBSA
+project, which provides an open source implementation of the BSA
+specification along with some client side Java components for
+accessing analysis services, pipelining and viewing the results.
+
+The core of the project is a Java based package called AppLab, which
+implements the analysis part of the specification. AppLab takes care
+of activating analysis instances and sending progress events, results
+and/or intermediate data back to the client. The AppLab package also
+includes tools for converting the EMBOSS and GCG application
+description metadata to the XML format understood by the BSA
+compatible server.  This provides immediate access to dozens of
+different sequence analysis applications.
+
+Modular architecture of the AppLab and the OpenBSA client components
+allows to utilise existing biocomputing frameworks easily. Integration
+of the bioCORBA, bioPerl and bioJava components will be discussed.
+
+BSANE
+-----
+
+In the talk we will also describe possible modifications to the
+BioObjects module to make it more compatible with the other open
+source efforts, especially with the bioCORBA. These modifications will
+be done within the "Biomolecular Sequence Analysis Entities" (BSANE)
+specification requested by the LSR.
+
+
+Links
+-----
+
+OMG:   http://www.omg.org
+LSR:   http://www.omg.org/lsr
+BSA    http://www.omg.org/cgi-bin/doc?dtc/00-11-01
+BSANE: http://industry.ebi.ac.uk/~muilu/OMG/BSANE/

@@ -1,0 +1,22 @@
+Date: Mon, 28 May 2001 13:35:57 -0400 (EDT)
+From: Jason Stajich <jason@chg.mc.duke.edu>
+Sender: jason@chg.mc.duke.edu
+To: "chris.dag" <dag@sonsorol.org>
+Subject: biocorba bosc abstract
+
+The BioCORBA project has seen great progress in the last year.  Toolkit
+bindings for the latest IDL spec have been written in java, perl, and
+python with bindings to each of the bio{*} language projects.
+Additionally, an IDL extending from the BioCORBA base objects was
+written to describe Ensembl gene and sequence data.  The Ensembl corba
+bindings allow users to create a language neutral inteface to the
+perl ensembl data layer.  EBI's Industry group has also provided an EMBL
+db behind a biocorba layer to permit simplified sequence database access.
+
+-Jason
+
+Jason Stajich
+jason@chg.mc.duke.edu
+Center for Human Genetics
+Duke University Medical Center
+http://www.chg.duke.edu/

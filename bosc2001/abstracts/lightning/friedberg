@@ -1,0 +1,47 @@
+		  Generation and Use of Substitution Matrices in Biopython
+
+
+   Iddo Friedberg*(1) and Brad Chapman(2) 
+
+   * Corresponding Author 
+
+(1) Dept. of Molecular Genetics and Biotechnology The Hebrew University 
+of Jerusalem POB 12272, Jerusalem 91120 Israel 
+email: idoerg@cc.huji.ac.il 
+
+(2) Department of Crop and Soil Science, University of Georgia, GA, USA
+
+Substitution matrices provide means for scoring an alignment, multiple or
+pairwise, between protein sequences. Examples of such commonly used matrices
+are the PAM and BLOSUM series. Substitution matrices are usually derived
+from multiple sequence alignments of proteins. However, matrices based on
+structural alignments, and matrices incorporating physico-chemical
+information have also been derived. As more research is being conducted
+using tailored subsets of sequence and structure databases, there is a need
+for an easy way for deriving substitution matrices from alignments, and
+analyzing and comparing them.  This is especially true when such tailored
+subsets are far from being representative of protein sequence space, an
+underlying assumption when using the commonly derived matrices.
+
+Biopython provides several tools for the generation, analysis, and
+comparison of alignments. The module SubsMat can be used in conjunction with
+those tools to easily generate a substitution matrix from an alignment.
+SubsMat features the following:
+
+* Generation of observed frequency matrices, relative frequency matrices,
+and log-odds matrices. 
+
+* Arithmetic operations on matrices. 
+
+* Relative and absolute entropy calculations 
+
+* Comparison with other matrices: correlation, Jensen-Shannon divergence. 
+
+* Provides existing substitution matrices. 
+
+* Formatted output. 
+
+SubsMat is presented here within the framework of Biopython, and its
+implementation and use are discussed. An example of substitution matrices
+generated from structural alignments of sequence dissimilar proteins will be
+shown, along with their analysis.

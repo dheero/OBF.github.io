@@ -1,0 +1,240 @@
+Abstract for Bioinformatics Open Source Conference (BOSC) 2001
+
+Introduction to AGAVE Genomic Annotation XML
+
+Brian King
+DoubleTwist, Inc. 
+2001 Broadway 
+Oakland, CA 94612 
+Phone: 510-628-0100
+ 
+Overview
+
+The recent availability of whole-genome sequence data and high-throughput sequence analysis challenges 
+bioinformaticists with the problem of processing and managing large data sets.  We designed AGAVE 
+XML to represent an integrated analysis of an entire genome, and to aid processing and management of 
+genomic data by emphasizing verifiability, comprehensiveness, and extensibility.  Though similar to the 
+GAME XML format, AGAVE offers additional features that assist with data integration and exchange. 
+AGAVE is available via an open source license at http://www.agavexml.org.
+
+Verifiable
+
+Until recently all genomic data has been hand created and therefore verified manually.  It is not practical to 
+manually verify the computational analysis of a complete genome, so it is important that the data model 
+itself exclude errors.   The first aid to verifiability is that the AGAVE DTD is parseable, so that an XML 
+parser can use the DTD to verify that data matches the specification.  This has proved valuable for our own 
+genomic pipeline, because some types of errors in the data can be detected at the earliest stages. Another 
+level of verifiability is traceability.  In our use of AGAVE we integrate data from public sources.  The 
+sources are identified using the <db_id> element which holds the ID, version, and a database code of a 
+source record.  When analysis is complete a tester can trace sequence data back to its source database to 
+compare annotations.  The <db_id> is also used to create hyperlinks which is described later.
+
+Comprehensive
+
+AGAVE is comprehensive because it can represent relevant biological data in public databases such as 
+NCBI’s GenBank.   Here are excerpts from a GenBank record in AGAVE format:
+
+<bio_sequence seq_length="11727"        
+   molecule_type="DNA" 
+   organism_name="Homo sapiens" t
+   axon_id="9606" 
+   clone_id="RP11-17E16" 
+   clone_library="RPCI-11 Human Male BAC" chromosome="8 (Fingerprint)">
+
+    <db_id id="AC011652F7" version="AC011652F7.4" db_code="gb"/>
+    <description>Homo sapiens clone RP11-17E16, WORKING DRAFT SEQUENCE,   
+10 unordered pieces.</description>
+    <keyword>HTGS_PGD; HTG; HTGS_PHASE1; HTGS_DRAFT.</keyword>
+    <sequence>
+caactctggtggtttggggctttggcatctaaactcttaggaaaaaggcacggtctcccttgacctttgtc
+...
+   </sequence>
+   <xrefs>
+      <xref>
+         <db_id id="9606" db_code="taxon"/>
+      </xref>
+      <xref>
+         <db_id id="AC011652" db_code="gb"/>
+      </xref>
+   </xrefs>
+   <sequence_map label="GenBank Annotations">
+      <annotations>
+      ...
+      </annotations>
+   </sequence_map>
+   <map_location map_type="radiation_hybrid" source="washu" units="cR" 
+chromosome="8">
+      <map_position pos="498.92"/>
+    </map_location>
+    <map_location map_type="fingerprint" source="washu" units="kb" 
+chromosome="8">
+       <map_position pos="8748">
+          <db_id id="ctg17944" db_code="washu_ctg"/>
+       </map_position>
+    </map_location>
+ </bio_sequence>
+
+Extensible
+
+AGAVE is extensible because it uses generic elements for computational results that can be used to capture 
+results from new sequence annotation algorithms. Because AGAVE is XML-based,  programs to 
+manipulate and extract genomic data can be written using standard XML libraries, and data in the AGAVE 
+format can be transformed from and to other XML-based formats using tools such as XSLT (eXtensible 
+Style Language Transformation).  We are working on a future version of AGAVE which will be described 
+in an XML Schema, so that the AGAVE datatypes can be extended as well.
+
+Annotation
+
+There are two types of annotation elements in AGAVE: <seq_feature>, which represents curated and typed 
+annotations, and <comp_result>, which is a very generic element whose purpose is to capture all required 
+information from sequence analysis programs.  The comp_result and seq_feature elements are recursively 
+defined so that both flat and hierarchical groups can be represented.  Result properties are used as a simple 
+means of storing scores and other scalar values.  An example of a BLASTX annotation is represented in the 
+XML below.
+
+
+            <computation algorithm="blast2x" algorithm_version="2.0.11" database="nr"/>
+              <annotations>
+                <comp_result element_id="G78Q1VX998NXJW" result_type="blast_grp"
+                     on_complement_strand="true" confidence="100">
+                  <match_desc>&gt;gi|7513096|pir||JE0225 JH8 protein - human
+                  </match_desc>
+                  <query_region start="23981" end="24850">
+                      <db_id id="AC069411F1" version="AC069411F1.10" db_code="gb"/>
+                  </query_region>
+                  <match_region start="2" end="289">
+                    <bio_sequence element_id="SP78QZH69TJ169Q">
+                      <db_id id="JE0225" db_code="pir"/>
+                    </bio_sequence>
+                  </match_region>
+                  <result_group>
+                    <comp_result element_id="G78Q1VX562Z9HW" result_type="blast_alig"
+                        on_complement_strand="true" confidence="100">
+                      <match_desc>&gt;gi|7513096|pir||JE0225 JH8 protein - human
+                      </match_desc>
+                      <match_align>
+Query: 24850 SVM*DLRKQKDTLWKFYAESDEQKLMKNRKTLPNVKNKDLSQVLRDQICQCCSEHMPLNG 24671
+             S +  +R  K  L +F+A SD  K ++ R+TL   K + L +VL +      SE +P++G
+Sbjct: 2     STLYSIRAHKAQLLRFFASSDSNKALEQRRTLHTPKLEHLDRVLYEWFLGKRSEGVPVSG 61
+
+                      </match_align>
+                      <query_region start="23981" end="24850">
+                          <db_id id="AC069411F1" version="AC069411F1.10" db_code="gb"/>
+                      </query_region>
+                      <match_region start="2" end="289">
+                        <bio_sequence element_id="SP78QZQQLR43R0">
+                          <db_id id="JE0225" db_code="pir"/>
+                        </bio_sequence>
+                      </match_region>
+                      <result_property prop_type="blast_score">166</result_property>
+                      <result_property prop_type="blast_pe_scr">2e-38</result_property>
+                      <result_property prop_type="blast_ident">33</result_property>
+                      <result_property prop_type="blast_sim">52</result_property>
+                      <result_property prop_type="blast_gaps">0</result_property>
+                    </comp_result>
+                  </result_group>
+                </comp_result>
+                ...
+              </annotations>
+
+Data Integration
+
+We group sequence annotations into sequence_map elements.  The sequence_map elements can be treated 
+independently, so we can merge the results of new analysis into old documents or store the results of 
+different computations in different files.  The sequence_map element contains a readable label and 
+optionally a computation description so that the annotations can be traced to their source. 
+
+      <bio_sequence>
+        <db_id id="AP000536" version="1" db_code="gb"/>
+        <sequence_map label='NCBI Annotations'>
+          <annotations>
+            <seq_feature feature_type='source'>
+            ...
+         </sequence_map>
+         <sequence_map label='blastsim4 vs. DT Human Gene Index'>
+           <computation algorithm='blastsim4' 
+                           algorithm_version='1' parameters='95 100'                 
+                           target_database='dt_human_gi.na'/>
+             <annotations>
+               <seq_feature feature_type='gene'>
+
+Genomic Assembly
+
+Sequence data is assembled from sequenced fragments to produce a final assembly of chromosomes.  
+Identifying the original fragments is important to biologists, so we represent the hierarchical assembly of 
+sequence data in the XML and provide a <db_id> element that allows linking the sequence back to its 
+source database. 
+
+<contig ...>
+  <db_id ...>
+  <fragment_order ...>
+    <fragment_orientation ...>
+      <bio_sequence ...> 
+ . . .
+
+The version of AGAVE currently under development adds new elements to allow representation and 
+storage of the assembly of a complete genome.  The <chromosome> element is a container for all the sub-
+intervals and annotation data mapped to a chromosome.  Files containing the data on complete 
+chromosomes would be unmanageable, so we have a <view> element that defines a subset of the 
+chromosome data for storage.  Using the combination of <chromosome> and <view> we can create an 
+integrated analysis of an entire genome, but divide it into arbitrarily sized lengths for easy storage and 
+exchange.
+
+Comparison to GAME
+
+The following table is a mapping of the high-level GAME elements to corresponding AGAVE elements.
+
+	GAME				AGAVE
+	--------------------------------------------------------------
+	game				sciobj
+	seq				bio_sequence
+	map_position			map_location
+	annotation			seq_feature
+	feature_span			seq_feature
+	computational_analysis		sequence_map
+	computational_analysis/program	computation.algorithm
+	computational_analysis/database	computation.database
+	result_set			comp_result
+	result_span			comp_result
+	span				seq_location or query_region
+
+
+The main differences between AGAVE and GAME are that AGAVE:
+1. is defined by a parseable DTD
+2. has elements to show genomic assembly
+3. links data back to source databases using the <db_id> element
+4. allows annotation hierachies of arbitrary depth
+5. shows the annotation relationship by XML containment rather than ID reference 
+
+Linking to Source Databases
+
+There are no explicit URLs in AGAVE data.  Using hyperlink references in the data would not allow easy 
+customization of a data set, for example pointing references to local databases, so including URLs would 
+have been too restrictive for our design.  Instead we use a second XML document to map database 
+identifiers to the corresponding URLs.  Databases are identified by code, and a link specification 
+determines how sequence IDs are translated into URLs.  The specification allows for regular expression 
+processing of IDs. 
+
+Database Types
+
+	<enum type_name="com.pangea.sci.annotation.DBIdentifierType">  
+    	<enum_type code="gb" name="gb" descr="GenBank accession"/>
+    	<enum_type code="ug" name="ug"  descr="UniGene"/>
+
+Hyperlink Specifications
+
+<!-- GenBank record for Nucleotide. -->
+  <db_link db_code="gb" mol_type="DNA">
+<![CDATA[http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Search&db=Nu
+cleotide&doptcmdl=GenBank&term=$1]]/>
+       
+<!-- 
+UniGene record. Unigene ID format is ORG.CID, so *.* regular expression 
+in id_sub attribute is used split the ID into its parts for placement 
+in the URL
+-->
+  <db_link db_code="ug"          
+id_sub="(.*)\.(.*)"><![CDATA[http://www.ncbi.nlm.nih.gov/UniGene/clust.
+cgi?ORG=$1&CID=$2]]></db_link>
+
+

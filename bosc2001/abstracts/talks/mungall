@@ -1,0 +1,31 @@
+A Tool Suite for the Gene Ontology
+
+Chris Mungall, BDGP
+John Richter, BDGP
+Bradley Marshall, BDGP
+Suzanna Lewis, BDGP
+
+The goal of the Gene Ontology Consortium (GO) is to produce a dynamic
+and inter-related set of controlled vocabularies that can be applied to
+eukaryotes and prokaryotes, even as knowledge of gene-product roles
+in cells is accumulating and changing. Prior to this year, these
+vocabulary terms were maintained by curators editing flat files in a
+text editor and data integrity was managed using CVS. Clearly better
+technologies were needed to automate storage, editing, and presentation
+of the GO. In early 2001 the gene ontology curators successfully made
+the transition to a new vocabulary editor specifically designed for
+this task. In addition, a new html-based browser that directly
+retrieves data from the database is making its debut. Still other
+applications to exploit the GO are in development (e.g. image
+annotation, computed annotation support, logical assertions).
+
+These applications were constructed using a suite of software tools
+developed at the Berkeley Drosophila Genome Project (BDGP) that are
+generally effective for use on directed acyclic graphs of terms. This
+suite includes a relational database implementation for multiple
+platforms, a perl api for querying the database, java data models and a
+java plug-in interface to the editor. More information is available at
+this URL.
+
+http://www.fruitfly.org/annot/go/
+

@@ -1,0 +1,49 @@
+Genquire under the hood: live database-driven graphical objects
+
+David Block
+National Research Council Plant Biotechnology Institute
+Saskatoon, Saskatchewan
+
+In order to allow real-time annotation of biological sequences, it was
+necessary to create an object framework with all the functionality of
+BioPerl SeqFeatures, but stored in a relational database.  Starting from
+example code from 'Object Oriented Perl' by Damian Conway(1), such a
+framework was implemented, first without persistence, then with a MySQL
+backend.  The GFF framework is the basis for the storage of features, with
+a flexible tag-value scheme added to provide extensibility.
+
+The actual text of source sequences is stored in the database, with
+optimized loading and caching for better client performance.  The presence
+of a Tiling_Path table allows the loading of any arbitrary length of
+sequence, in the reference frame of any of the contigs that make up the
+tiling path.  This functionality is used in the genome browser window of
+Genquire.
+
+Hand annotation requires mutable sequence features, but it was thought
+important to preserve original data from annotation pipelines.
+Feature::mod was developed to allow such modification.  Annotation was
+conceived of as a process of defining gene structure, so a Gene class,
+with associated Feature::Annotation exon objects, was defined.  These
+classes have built-in logging of every change, which theoretically allows
+for Undo functionality.
+
+Gene Ontology annotation is seen as the future of biological integration,
+and GO annotations are stored simply and completely by these Feature
+Objects.
+
+Extension of these classes back away from database integration was
+trivially implemented as Feature::inMemory, which will be demonstrated.
+
+Current work on adding transaction support, Corba client/server
+integration, and DAS will be presented.  The trend in this work is to
+separate the biological logic from the database implementation, and a
+strategy to this end will be presented.
+
+1. Conway, Damian.  Object-Oriented Perl. Manning, 1999.
+
+--
+David Block
+dblock@gene.pbi.nrc.ca
+http://bioinfo.pbi.nrc.ca/dblock/wiki
+NRC Plant Biotechnology Institute
+Saskatoon, SK, Canada

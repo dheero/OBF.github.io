@@ -1,0 +1,78 @@
+<html>
+<h1>
+<b>DeCAL</b>:  An Open Source System for Constructing Comparative Maps
+</h1>
+
+<h3>
+Debra Goldberg <sup>1, 2</sup>, Jon Kleinberg <sup>3</sup>, Susan McCouch <sup>4</sup>
+</h3>
+
+<sup>1</sup> Corresponding author: 
+<a href="mailto: debra@cam.cornell.edu "> debra@cam.cornell.edu </a>
+<br>
+<sup>2</sup> 
+Center for Applied Mathematics, Cornell University, Ithaca NY  14853
+<br>
+<sup>3</sup> 
+Department of Computer Science, Cornell University, Ithaca NY  14853
+<br>
+<sup>4</sup> 
+Department of Plant Breeding, Cornell University, Ithaca NY  14853
+
+<p>
+The construction of comparative genome maps allows us to
+exploit the collective research accumulated for each of the species
+under consideration to gain new insights into their biology and evolution.  
+Comparative genome maps are used for predicting the location of 
+orthologous genes, 
+for understanding chromosome evolution and inferring phylogenetic 
+relationships, 
+and for examining hypotheses about the evolution of gene families and 
+gene function in diverse organisms.  
+Construction of any genetic map is laborious, but compiling 
+comparative maps across multiple species requires a large investment of 
+manual effort on the part of biologists.  
+Additionally, biologists from different labs tend to use differing rules 
+which are often not quantified or made precise in the literature, 
+making it difficult to understand how the various comparative maps 
+relate to one another.  
+
+<p>
+We have formalized the concept of a comparative map in a way that is
+broadly applicable to infer common ancestral linkage segments. 
+These segments are predicted by identifying regions of homeology or 
+synteny along the chromosomes of pairs of organisms.
+To achieve this goal, we offer a rigorous yet simple definition for 
+the process 
+of constructing comparative maps that is based on the fundamental principles 
+of accuracy (the data should be explained well by the map) and 
+parsimony (the number of homeologous segments should be minimized so that 
+only syntenic relationships above our confidence threshold are labeled).  
+From this we have developed robust, efficient algorithms
+that use dynamic programming techniques to construct comparative maps
+with an optimal balance of accuracy and parsimony.
+
+<p>
+A preliminary version of DeCAL (Detecting Common Ancestral 
+Linkage-segments),  an open source product based on these algorithms, 
+is now available.  
+For input, it requires the positions of the markers of one species, 
+as well as the location of homologs to each marker in the second species.  
+Output is given both graphically and in text form.  
+Only a single parameter is required, which carries a simple biological 
+explanation.  
+Our program allows comparative maps to be constructed in a few minutes.  
+Results have been evaluated for diverse pairs of species, 
+and closely approximate prior manual expert analyses.  
+
+<p>
+We have received a number of inquiries from biologists who wish
+to use DeCAL with their data.
+The challenge now is to expand DeCAL so it can reliably process the
+variety of data in common use.
+We have also received several inquiries from commercial software providers.
+We remain committed to the development of an open source product, 
+and we also welcome collaborative opportunities to integrate our algorithm 
+into other software packages.
+
+</html>

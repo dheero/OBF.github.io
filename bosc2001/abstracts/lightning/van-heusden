@@ -1,0 +1,36 @@
+Mining gene expression information using a controlled hierarchical vocabulary
+
+Genome scientists, geneticists and clinicians operate in disciplines that
+have each contributed to increased scientific knowledge namely, release of
+genome draft sequence, transcriptome data and  mapping information for
+diseases loci and disease phenotypes. Successful integration of these
+fields, by linking genome information to disease phenotypes allow for
+accelerated disease gene discovery. 
+
+Electric Genetics and SANBI researches have developed a tool that
+integrates transcript information, genomic sequence, genetic mapping
+information and a standardised controlled vocabulary for identification of
+disease candidate genes. We have contructed a controlled vocabulary for
+dbEST libraries that classifies each cDNA library into four orthogonal
+categories including anatomical_site, cell_type, developmental stage and
+pathology. A total of 5756 dbEST libraries were mapped onto this
+controlled vocabulary and imported into a relational database. The
+controlled vocabulary demonstrates that detailed definitions in four
+separate vocabulary tracks allow detailed mining of gene expression state
+information.
+
+The controlled vocabulary was linked to the STACK_PACK clustering tool and
+provided a means of querying all reconstructed transcripts. Genetic
+markers were mapped onto the "golden path" genome assemblies to serve as a
+reference guide to position all identified candidate genes. Reconstructed
+transcripts are also mapped to "golden path" genome assemblies.
+
+The EG/SANBI toolset and controlled vocabulary will be released to
+the scientific community under an Open Source license.
+
+---END
+
+-- 
+_______________/\/eGenetics.com\/\_____________________________________
+Peter van Heusden    1024D/0517502B		pvh@egenetics.com
+Electric Genetics    DE5B 6EAA 28AC 57F7 58EF  9295 6A26 6A92 0517 502B
