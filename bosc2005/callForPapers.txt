@@ -1,0 +1,104 @@
+ {Please pass the word!}
+ 
+ MEETING ANNOUNCEMENT & CALL FOR SPEAKERS
+
+ The 6th annual Bioinformatics Open Source Conference (BOSC'2005) is organized by the
+ not-for-profit Open Bioinformatics Foundation. The meeting will take place
+ June 23-24, 2005 in Detroit, Michigan, USA, and is one of several Special Interest
+ Group (SIG) meetings occurring in conjunction with the 13th International Conference
+ on Intelligent Systems for Molecular Biology.
+
+ see http://www.iscb.org/ismb2005 for more information.
+
+ Because of the power of many Open Source bioinformatics packages in
+ use by the Research Community today, it is not too presumptuous to say 
+ that the work of the Open Source Bioinformatics Community represents 
+ the cutting edge of Bioinformatics in general. This has been repeatedly 
+ demonstrated by the quality of presentations at previous BOSC conferences.
+ This year, at BOSC 2006, we want to continue this tradition of excellence, 
+ while presenting this message to a wider part of the Research Community.  
+ Please, pass this message on to anyone you know that is interested in
+ Bioinformatics software. 
+
+
+ BOSC PROGRAM & CONTACT INFO
+ 
+ * Web: http://www.open-bio.org/bosc2005/
+ * Email: bosc@open-bio.org
+ 
+ FEES
+
+TODO fees
+ 
+ 
+ REGISTER ONLINE FOR BOSC'2005 & ISMB AT:
+ TODO online reg link
+ 
+ SPEAKERS & ABSTRACTS WANTED
+ 
+ The program committee is currently seeking abstracts for talks at BOSC 
+ 2005. BOSC is a great opportunity for you to tell the community about 
+ your use, development, or philosophy of open source software development 
+ in bioinformatics. The committee will select several submitted abstracts 
+ for 25-minute talks and others for shorter "lightning" talks. Accepted 
+ abstracts will be published on the BOSC web site.
+ 
+ If you are interested in speaking at BOSC 2005, 
+ please send us before April 26, 2005:
+ 
+ * an abstract (no more than a few paragraphs)
+ * a URL for the project page, if applicable
+ * information about the open source license used for your software or 
+   your release plans.
+
+ Abstracts will be accepted for submission until April 26, 2005.
+ Abstracts chosen for presentation will be announced May 12, 2005 
+ (before the ISMB Early Registration Deadline).
+
+ LIGHTNING-TALK SPEAKERS WANTED!
+ 
+ The program committee is currently seeking speakers for the lightning 
+ talks at BOSC 2005. Lightning talks are quick - only five minutes 
+ long - and a great opportunity for you to give people a quick 
+ summary of your open source project, code, idea, or vision of the future.
+
+ If you are interested in giving a lightning talk at BOSC 2005, 
+ please send us:
+
+ * a brief title and summary (one or two lines)
+ * a URL for the project page, if applicable
+ * information about the open source license used for your software or 
+   your release plans.
+
+ We will accept entries on-line until BOSC starts, but
+ space for demos and lightning talks is limited.<br/>
+    
+ SOFTWARE DEMONSTRATIONS WANTED!
+ If you are involved in the development of Open Source Bioinformatics Software, 
+ you are invited to provide a short demonstration to attendees of BOSC 2005.
+
+ If you are interested in giving a software demonstration at BOSC 2005,
+ please send us:
+
+ * a brief title and summary (one or two lines)
+ * a URL for the project page, if applicable
+ * Internet connectivity requirements (e.g. website Application served on the 
+   world wide web, or web based client application).
+
+   We will accept entries on-line until the BOSC starts, but
+   space for demos and lightning talks is limited. 
+
+** Because the mission of the OBF is to promote Open Source software, we will favor submissions for
+   projects that apply a recognized Open Source License, or adhere to the general Open Source Philosophy.
+   See the following websites for further details:
+   href="http://www.opensource.org/licenses/
+   href="http://www.opensource.org/docs/definition.php
+
+
+  SESSION CHAIRS WANTED
+  If you would like to be involved BOSC 2005, we invite you to chair a session.  This will 
+  not require much of your time.  You will be given a schedule of presenters during your session. 
+  You simply introduce each speaker, and manage the time of their presentation (25 minutes for full 
+  presentations, 5-10 minutes for lightning talks/demos, depending on the number of entries).
+
+  If you are interested in chairing a session, please send us your name and affiliation (if applicable).

@@ -1,0 +1,442 @@
+<!doctype article PUBLIC "-//OASIS//DTD DocBook V4.1//EN">
+
+<article class="whitepaper">
+<articleinfo>
+  <title>Bioinformatics Open Source Conference 2004</title>
+</articleinfo>
+
+<sect1 id="welcome"><title>Welcome</title>
+
+<para>
+<mediaobject>
+<imageobject>
+<imagedata fileref="bosc-2004-logo.png" format="png" align="center">
+</imageobject>
+</mediaobject>
+</para>
+<para>
+
+Welcome to BOSC 2004!  This is the 5th official Bioinformatics Open
+Source Meeting.  We are very pleased to announce Wolfgang Huber, of 
+the BioConductor Project, as our keynote speaker this year.
+We have an impressive group of speakers scheduled during each morning 
+session, focusing on a broad range of topics ranging from user 
+applications, to novice user education, to broader treatments of open 
+source principals in the academic field.  During the afternoon sessions 
+we have scheduled Lightning Talks and Software demonstrations.  Birds 
+of a Feather (BOF) discussions will occur at the end of each day.  
+Please take advantage of this time to attend discussions on specialized 
+topics.  If you would like to schedule a BoF see the signup chart that will 
+be available in the mornings.  If you have any questions or concerns about 
+the conference please let one of the conference committee members know.
+
+</para>
+
+<para>
+We hope you enjoy yourself, learn a lot, and most importantly get to
+know each other and become part of the community of open source
+development in the life sciences.
+</para>
+
+<para>
+Conference Committee
+<simplelist columns="2" type="horiz">
+<member>Darin London</member><member>European Bioinformatics Institute</member>
+<member>Jason Stajich (chair)</member><member>Duke University</member>
+<member>Ewan Birney</member><member>European Bioinformatics Institute</member>
+<member>Andrew Dalke</member><member>Dalke Scientific Software</member>
+<member>Nomi Harris</member><member>University of California, Berkeley</member>
+<member>Amonida Zadissa</member><member>Otago University</member>
+</simplelist>
+
+</para>
+
+</sect1>
+
+
+<sect1 id="abstracts"><title>Abstracts</title>
+
+<sect2 id="huber"><title>Wolfgang Huber Keynote</title>
+<para> Wolfgang Huber, German Cancer Research Center</para>
+<para><emphasis>July 29th, 9:05-10:05</emphasis></para>
+<para>Wolfgang will be discussing the BioConductor Project
+</para>
+</sect2>
+
+<sect2 id="mungall"><title>BioMake</title>
+<para>
+Chris Mungall, Berkeley Drosophila Genome Project
+</para>
+<para><emphasis>July 29th, 10:05-10:30</emphasis></para>
+<para>
+A recurring pattern in bioinformatics architectures is the build pattern, or pipeline. 
+This can be defined as a computational specification or template defining a collection 
+of interdependent tasks. Examples include biological sequence analysis pipelines and 
+data transformation pipelines (import and export of flatfiles, XML and reports to and 
+from relational databases).
+</para>
+<para>
+Approaches range from the lightweight and generic to heavy duty frameworks honed 
+specifically for bioinformatics compute pipelines. An example of the former is UNIX 
+Makefiles, which is a configuration of tasks where some files must be updated 
+automatically from other files whenever the other files change, and is primarily used 
+for program compilation. Examples of the latter include object-oriented systems such 
+as BioPipe, which are tightly integrated with the BioPerl library.
+</para>
+<para>
+For our in-house task management we required something similar to Makefiles in terms 
+of level of abstraction and simplicity, yet without the limitations of Makefiles and 
+related systems (ant, scons, build, etc). In particular we needed:
+
+<orderedlist numeration="loweralpha">
+
+	  <listitem><para>Asynchrnonous task management on compute farms</para></listitem>
+      <listitem><para>Choice of either relational database or filesystem for storing build targets</para></listitem>
+      <listitem><para>A cleaner specification language</para></listitem>
+      <listitem><para>Fully programmable logic within the Makefile specification</para></listitem>
+
+</orderedlist>
+</para>
+<para>
+Our solution "BioMake" covers these requirements. It uses a declarative language based 
+around the concept of skolem functions. Each task in the pipeline is specified as a function 
+construct; for example, in a genomic compute pipeline there may be function constructs 
+"blastx(Seq,DB)" and "genscan(Seq)". Each function construct represents a unique and persistent 
+identifier for the output of an executable. Functions can be nested; for example 
+"genscan(repeatmask(gi2177872))" represents the results of running Genscan on a particular 
+RepeatMasked sequence. Dependent tasks are also specified as functions, and variable unification 
+is used as an alternative to Makefile-style pattern matching. Actions can be parameterized using 
+functions and variables. Functions are evaluated to locators of the target data; for example, a 
+filesystem path, or primary key value in a database.
+</para>
+<para>
+The task management engine is implemented in Prolog, and pipeline specifications can use the Prolog 
+code to provide full programmability. Prolog is a declarative logic language and is particularly 
+suited to Makefile-style logic. However, the pipeline programmer does not need to know Prolog in 
+order to construct or understand useful protocols.
+</para>
+<para>
+The intention is to allow simple and concise specification of complex pipelines. BioMake requires 
+no object-oriented programming, and is not tied to any particular language. We provide example 
+customizable compute pipelines which utilise standard bioinformatics analysis programs such as BLAST, 
+and infrastructure programs such as the Apollo Bop parser, XSLT transforms and scripts using BioPerl. 
+</para>
+<para>The toolkit is built with an easily extensible architecture which can be
+used for quickly building Perl programs to address specific research
+questions.  Several examples of its use to answer real laboratory
+questions will be discussed.
+</para>
+<para>
+License: Perl Artistic.
+</para>
+
+</sect2>
+
+<sect2 id="kasprzyk"><title>BioMart- a federated query architecture</title>
+<para>
+Arek Kasprzyk, European Bioinformatics Institute
+</para>
+<para><emphasis>July 29th, 10:45-11:10</emphasis></para>
+<para>
+BioMart is a simple, query-oriented data integration system based on distributed data warehousing ideas. It offers a flexible, fast and practical data-mining framework for computer-savvy bioinformaticians as well as life scientists without any programming experience. Originally developed as EnsMart for Ensembl, it has now been successfuly applied to a variety of biological databases, which can be accessed via the web and standalone interfaces.
+</para>
+<para>
+The BioMart suite consits of a relational database schema specification, an XML-based configuration system, administration tools for configuring and deploying BioMart databases, and data access software written in perl and java. A universal, query-optimised database schema, coupled with domain-agnostic software are responsible for the key features of the BioMart system: generic applicability, large query network-scalability and RDBMS-platform portability. Thus, the system can be readily deployed to provide a unified set of query interfaces to datasources residing anywhere on the available network. In addition, simultaneous querying of multiple data sources spread over any number of servers is supported via query-chaining.
+</para>
+<para>
+BioMart is an OpenSource project and all software is licensed under LGPL.
+</para>
+<para>
+Project URL: http://www.ebi.ac.uk/biomart
+</para>
+</sect2>
+<sect2 id="katayama"><title>BioRuby + KEGG API + KEGG DAS = wiring knowledge for genome and pathway</title>
+<para>Toshiaki Katayama, Human Genome Center, Institute of Medical Science, University of Tokyo
+</para>
+<para><emphasis>July 29th, 11:10-11:35</emphasis></para>
+<para>
+We have been developed BioRuby, a bioinformatics library for Ruby language, which enable users to write analysis pipeline easily. Here we show the recent developments and how to integrate BioRuby with KEGG web services (API and DAS) to automate your genome and pathway analysis procedure. note KEGG API is a SOAP/WSDL based web service providing genes and pathway information. KEGG DAS is also a web service providing genomic sequences and gene annotations via DAS protocol. Both services are also developed by us and KEGG (Kyoto Encyclopedia Genes and Genomes) is freely accessed at http://www.genome.ad.jp/kegg/
+</para>
+</sect2>
+<sect2 id="levinson"><title>caBIOperl: A new Perl API to the NCI's biomedical domain object middleware</title>
+<para>
+Levinson, Gene (NIH/NCI)
+</para>
+<para><emphasis>July 29th, 11:35-12:00</emphasis></para>
+<para>
+A reality of the bioinformatics community, and one of its strengths, is its diversity, including the range of programming languages that are utilized. However, this poses an accessibility problem for federated web-based resources, unless the APIs and databases can be readily accessed by diverse software development languages. The U.S. National Cancer Institute Center for Bioinformatics (NCICB) addresses this issue by providing a diversified set of open-source application programming interfaces to its caCORE system. These interfaces, part of the object-oriented middleware component known as caBIO, allow developers to write caCORE-powered applications using their choice of a native Java API, a SOAP-XML API, or even a simple HTTP-XML interface.
+</para>
+<para>
+Each of these APIs delivers the same data and conforms to the same domain object model.
+</para>
+<para>
+Since caBIO was first released, Perl programmers have found it rather inconvenient to access the caCORE system because (1) they have to package their search criteria in SOAP or HTTP format and send the request to the caCORE server via the respective protocol; and (2) they have to parse the returned XML to extract the information they need. This has proven burdensome. For this reason we undertook the development of a new Perl API, recently released and named caBIOperl.
+</para>
+<para>
+The caBIOperl is completely object-oriented. It provides an abstraction layer from SOAP and XML, so that Java programmers will be working with caBIO objects, similar to what a Java programmer experiences with the native caBIO Java API.
+</para>
+<para>
+caBIOperl wraps the lower-level SOAP and DOM packages, and thus shields the developer from needing to understand SOAP or parse the XML. The first public release came out in April, 2004, and provides query access to 32 caBIO objects, including ClinicalTrialProtocol, Pathway, and Gene.
+</para>
+<para>
+caBIOperl thus provides native Perl access that allows developers to customize queries according to the specialized needs of their local investigative teams. caBIOperl modules can be downloaded from the caBIO section of the NCICB download site.
+</para>
+
+</sect2>
+<sect2 id="gessler"><title>Semantic MOBY as a World Wide Web architecture for bioinformatic interoperability</title>
+<para>
+<emphasis>Damian Gessler, National Center for Genome Resources</emphasis>; Gary Schiltz, National Center for Genome Resources; Lincoln Stein, Cold Spring Harbor Laboratory
+</para>
+<para><emphasis>July 29th, 1:00-1:25</emphasis></para>
+<para>
+MOBY is an open source project for achieving interoperability in bioinformatics. Research and development has proceeded along a dual-development track that consists of MOBY Services (with an emphasis on SOAP technologies in a web services model) and Semantic MOBY (with an emphasis on RDF/OWL-DL in a semantic web model). Semantic MOBY is designed specifically to operate in a nebulous and ever-changing world. In Semantic MOBY we identified three problems that are hindering widely deployable, scalable interoperability, namely the: i) fatal mutability of traditional interfaces (if a provider changes its interface, client code depending on that interface fails en masse); ii) rigidity and fragility of static classification schemes (changing the properties of a class near the root of an inheritance hierarchy simultaneously affects the entire sub-tree); and iii) confounding structure and content (content is entangled with the presentation layer and/or implicit behaviors of the presentation software).
+</para>
+<para>
+Addressing these problems essentially recasts the problem of interoperability from being one of simply specifying a syntax and messaging layer for syntactically connecting clients and providers via information in a registry look-up, to being one of providing clients and providers a way to semantically describe their data and identify data relevant to them. Our measure of success is to build an architecture that delivers: i) a common syntax; ii) a shared semantic and mechanism for semantic negotiation; iii) a discovery mechanism. This talk presents the Semantic MOBY architecture and API and shows how this is accomplished.
+</para>
+<para>
+Project URL: www.biomoby.org
+</para>
+<para>
+Open Source License: Artistic PERL
+</para>
+
+</sect2>
+
+<sect2 id="tdown"><title>BioJava</title>
+<para>Thomas Down, Sanger Institute
+</para>
+<para><emphasis>July 29th, 1:25-1:50</emphasis></para>
+<para>
+BioJava is a pure Java framework which is useful for developing a wide range of bioinformatics software, from small research scripts to complex interactive applications. It includes powerful object models for handling sequence and other kinds of biological data, and tools for integrating and querying this information. It also provides a solid foundation for developing novel analysis methods. General-purpose implementations of techniques such as Hidden Markov Models and support vector machines are included in the package.
+</para>
+<para>
+BioJava was first released over four years ago. It is now an established project and is widely used and supported around the world. Significant improvements in the past year include the addition of a data model for 3D structure information, better database support, and improvements that make BioJava more powerful in a distributed computing environment.
+</para>
+<para>
+I will be talking about the status of the BioJava project and the kind of problems for which it has proven useful, discussing its future directions, and considering the issues involved in maintaining a large software library.
+</para>
+<para>
+Project URL: http://www.biojava.org/ Licence: LGPL
+</para>
+
+</sect2>
+<sect2 id="senger"> <title>Life Sciences Identifiers. Finally?</title>
+<para>Martin Senger, European Bioinformatics Institute</para>
+<para><emphasis>July 30th, 9:05-9:30</emphasis></para>
+<para>
+Life Sciences Identifiers (LSIDs) are persistent, location-independent, resource identifiers for uniquely naming biologically significant resources including but not limited to individual genes or proteins, or data objects that encode information about them.
+</para>
+<para>
+Their specification includes not only their syntax but defines also a set of middleware-independent interfaces for resolving the identifiers, and allowing access to their associated metadata (such as annotations).
+</para>
+<para>
+The LSID Assigning service is responsible for creation of LSIDs for given data entities.
+</para>
+<para>
+Project URLs:
+</para>
+<para>
+http://www.omg.org/cgi-bin/doc?lifesci/03-12-02
+</para>
+<para>
+http://www-124.ibm.com/developerworks/oss/lsid/
+</para>
+
+</sect2>
+<sect2 id="rice"><title>EMBOSS: The European Molecular biology Open Software Suite</title>
+<para>Peter Rice, European Bioinformatics Institute</para>
+<para><emphasis>July 30th, 9:30-9:55</emphasis></para>
+<para>
+EMBOSS started as an open source sequence analysis package and now extends into protein structure, phylogenetics and other areas. A key feature is the ease of integrating EMBOSS into other interfaces (web, GUI, SOAP, workflows, etc.)
+</para>
+<para>
+Project URL: http://www.emboss.org/
+</para>
+<para>
+Licence: GPL (and LGPL for the libraries and for associated packages)
+</para>
+
+</sect2>
+<sect2 id="vheusden"> <title>Applying software validation techniques to Bioperl</title>
+<para>Peter van Heusden, Electric Genetics</para>
+<para><emphasis>July 30th, 9:55-10:20</emphasis></para>
+<para>
+With computer software playing an increasingly pervasive role in society, the risks associated with software failures have begun receiving more attention. Infamous examples of such software failures include the loss of the Mars Climate Orbiter (a victim of a metric vs. imperial unit conversion error) and the fatal overdoses administered by the Therac-25 medical accelerator (caused by an integer overflow). Even when not catastrophic, software failure can be extremely costly: the US Commerce Department's National Institute of Science and Technology (NIST) estimated in 2002 that poor-quality software costs US businesses nearly $60 billion per year.
+</para>
+<para>
+Concern about the costs and other risks of software failure has led to increasing interest in 'software validation'. The US FDA defines software validation as "confirmation by examination and provision of objective evidence that software specifications conform to user needs and intended uses, and that the particular requirements implemented through software can be consistently fulfilled." In the commercial world, this process of examination and evidence gathering tends to be specified by formal procedures (e.g., TQM and ISO 9001) applied in the context of formal software development methodologies.
+</para>
+<para>
+In the open source world, collaborative development makes formal procedures hard to apply. Instead, open source projects rely on "many eyes mak[ing] all bugs shallow" (Eric S. Raymond). Unfortunately, however, in a large project like Bioperl, not all components are used equally frequently, and thus not every component is examined equally thoroughly or often.
+</para>
+<para>
+In order to remedy these shortcomings of the open source development process, a systematic approach is needed. The existing code, tests and documentation must be examined from the point of view of validation, allowing us to bridge the gap between cooperative development (open source), and the more formal, contractual space of commercial development.
+</para>
+<para>
+We have established a validation process and applied it to Bioperl. The resulting validation framework has been developed in such a way that it can be applied readily to other open source projects (e.g. Biojava). The validation process, including documentation, Bioperl code changes and novel test code developed will be described, as well as the overall quality, reliability and usability improvements that result. We aim to demonstrate how validation of Bioperl significantly increases its value for all stakeholders.
+</para>
+<para>
+LICENSING: The Bioperl project addressed in the talk is licensed under the Perl Artistic License, an accepted open source license according to the Open Source Initiative. The work performed by Electric Genetics, as described in the talk, results in two outcomes:
+1) ongoing contributions to the Bioperl suite, including improved error handling, bug fixes and code additions. These all fall under the Perl Artistic License and will form significant contributions to the open source project.
+2) commercial documentation and validation suite, offered to clients as a commercial product. The documentation will be provided to paying clients on a commercial basis and, thus, will not be immediately placed in the Bioperl repository. The validation suite will be retained by Electric Genetics and validation services offered to clients. If a client wishes to purchase the validation suite, it will be licensed using a commercial license.
+</para>
+<para>
+The business and licensing model we describe is similar to that of e.g. Novell, who offer both commercial products (e.g. the Linux admin product Red Carpet) as well as ongoing contributions to open source projects.
+</para>
+<para>
+PROJECT URL: http://www.egenetics.com/opensource.html
+</para>
+
+</sect2>
+<sect2 id="dumontier"><title>The NCBI C++ Software Development</title>
+<para>
+Michael Dumontier, Samuel Lunenfeld Research Institute, Mt. Sinai Hospital
+Department of Biochemistry, University of Toronto
+</para>
+<para><emphasis>July 30th, 1:00-1:25</emphasis></para>
+
+<para>
+The NCBI is the host and developer of the world's largest bioinformatics projects. As such, it has developed an extensive, powerful, documented and freely available bioinformatics programming platform that contains a rich and robust set of functionalities designed to handle the intrinsic complexities of biology. The NCBI C++ toolkit provides portable application framework classes for argument processing, diagnostics, exceptions, connection streams, stream wrappers and threads. The C++ code generator tool transforms ASN.1 data specifications into ready-to-use, error-free set of C++ classes and functions to liberate the programmer from writing class variable methods while providing garbage collection and object serialization to ASN.1/XML. An object manager facilitates heterogeneous access to biological sequence data for annotation and display. Moreover, the toolkit offers excellent support for database independent projects and complex CGI applications. This talk will provide a high-level overview of the features and tools available in the NCBI C++ toolkit that enable computational investigations in biology by third-party developers.
+</para>
+<para>
+Project URL: http://www.ncbi.nlm.nih.gov/IEB/ToolBox/CPP_DOC/
+</para>
+
+</sect2>
+
+<sect2 id="hermjakob"><title>The PSI MI standard - open analysis of protein interaction data</title>
+<para>
+Henning Hermjakob, European Bioinformatics Institute
+</para>
+<para><emphasis>July 30th, 1:25-1:50</emphasis></para>
+<para>
+The HUPO PSI protein interaction work group has jointly developed an XML standard for the representation of protein interaction data, the PSI MI format. PSI MI data is now available from major interaction data providers, including DIP, MINT, and IntAct. Based on the PSI MI standard, database and analysis tools from different providers can be joined to efficiently analyse and manipulate protein interaction data. We will present the IntAct, an open source protein interaction database and analysis tool which provides extensive PSI MI support. The web interface provides both textual and graphical representations of protein interactions, and allows exploring interaction networks in the context of the GO annotations of the interacting proteins. IntAct is Java-based, with Jakarta OJB object-relational mapping to Postgres or Oracle. PSI MI upload and download are possible as well as dynamic access to interaction networks by a web service or search URL. The direct URL access allows to directly access and further analyse PSI MI data in the open source tools ProViz and Cytoscape. These, in turn, provide a choice of fast network visualisation algorithms, integration with expression data, path finding and clustering in interaction networks.
+</para>
+<para>
+Project URLs:
+</para>
+<para>
+http://psidev.sf.net
+</para>
+<para>
+http://intact.sf.net
+</para>
+<para>
+http://www.cytoscape.org
+</para>
+
+</sect2>
+
+</sect1>
+
+<sect1 id="dbhour"><title>Annotation Database Presentation Session</title>
+<sect2 id="lstein">
+<title>
+GMOD: The Generic Model Organism Database Project
+</title>
+<para>
+Lincoln D. Stein, Cold Spring Harbor Laboratory
+</para>
+<para><emphasis>July 30th, 10:40-11:00</emphasis></para>
+
+<para>
+The Generic Model Organism Database (GMOD) Project is an open source project to develop a complete set of software for creating and administering a model organism database. Components of this project include genome visualization and editing tools, literature curation tools, a robust database schema, biological ontology tools, and a set of standard operating procedures. This project is funded by the NIH and the USDA Agricultural Research Service, with participation from members of several database projects, including WormBase, FlyBase, Mouse Genome Informatics, Gramene, the Rat Genome Database, TAIR, EcoCyc, and the Saccharomyces Genome Database.
+</para>
+<para>
+Released modules include Chado, a flexible modular relational schema for genome information, Apollo, a genome feature editor and curator's tool, GBrowse, a flexible web-based genome browser, Textpresso, a paper indexing and search tool, the PubSearch/PubFetch literature curation tools, and Caryoscope, a gene expression visualization tools. Over the next year we will be releasing more components, ultimately creating a model organism database construction set.
+This talk will survey the released and pending GMOD tools, and describe how they can be used for a variety of large and small projects.
+</para>
+<para>
+GMOD is released under a variety of Open Source licenses, primarily the Perl Artistic License and GNU GPL.
+</para>
+<para>
+Project URL: http://www.gmod.org
+</para>
+</sect2>
+
+<sect2 id="birney">
+<title>
+Ensembl - a portable Genome toolkit
+</title>
+<para>
+Ewan Birney, European Bioinformatics Institute
+</para>
+<para><emphasis>July 30th, 11:00-11:20</emphasis></para>
+
+<para>
+ Ensembl is a genome information system designed for handling large genomes, in particular human, mouse and other vertebrates. Its major code bases can be broken down into three sections: a core relational schema and API, a computational pipeline system and a user-friendly web site. The Ensembl system has been designed principally to enable biologists to use vertebrate genomes, but the source code of Ensembl is open source and there has been increasing modularisation and clean-up of the system. This means that Ensembl software has become increasingly useful as toolkit itself for other genomes: we currently know of at least 8 genomes that have been loaded and displayed using the Ensembl software outside of the main Ensembl group.
+</para>
+<para>
+I will present the aspects of Ensembl which are most open to reuse, in particular how to load and run a new genome into Ensembl from existing, flat file annotation, and sense of how to extend Ensembl, either using the configureable DAS protocol or via schema additions. I will also briefly outline the main concepts behind the pipeline.
+</para>
+<para>
+License: BSD-style.
+</para>
+<para>
+Project URL: http://www.ensembl.org
+</para>
+</sect2>
+
+<sect2 id="fischer">
+<title>
+GUS - A Functional Genomics Infrastructure System
+</title>
+<para>
+Steve Fischer, Computational Biology and Informatics Lab, Center for 
+Bioinformatics, University of Pennsylvania
+</para>
+<para><emphasis>July 30th, 11:20-11:40</emphasis></para>
+
+<para>
+The Genomics Unified Schema (GUS) is a functional genomics infrastructure system in use at about 20 projects across approximately a dozen institutions. GUS was developed at the Computational Biology and Informatics Lab (CBIL) as the infrastructure for PlasmoDB , EPConDB and AllGenes. Over the last year we have packaged GUS for distribution and moved its development to open source which has resulted in an active user and development community.
+</para>
+<para>
+GUS includes a relational schema with more than 400 tables and views covering approximately 50 functional genomics concepts. The schema is organized into five name spaces. DoTS covers the central dogma (genes, RNAs, proteins); sequence and features; reagents, including clones, mapping and gene traps. RAD covers microarray experiments in a MIAME-compliant representation. TESS covers transcription region regulation; SRes covers controlled vocabularies, including about a dozen standards-based vocabularies and ontologies. Finally, Core covers non-biological concepts used to track users and data.
+</para>
+<para>
+Upcoming schema expansion includes additional technologies (2-D gel and mass spectrometry, in situ hybridizations) that will make use of common experimental design and sample tables currently residing in the RAD schema. We plan to work with emerging standards efforts for these domains paralleling our involvement in the MGED effort for microarray experiment information.
+</para>
+<para>
+GUS also provides an application framework that includes a Perl and Java object-relational layer; a Data Load API; many "plugins" to load standard data sources; a Pipeline API to specify analysis protocols; and a Web Development Kit (WDK). The WDK assists in the development of data-mining oriented websites such as PlasmoDB. It provides a servlet framework, a declarative format to specify queries, results and records, page layout, many sample queries and query result caching. The next generation WDK is under development in collaboration with the GeneDB project at the Pathogen Sequencing Unit of the Sanger Center, and uses a Struts and JSP based model-view-controller design.
+</para>
+<para>
+GUS runs under Linux, Tomcat and Oracle. PostgreSQL compatibility is near completion. The source is freely available.
+</para>
+<para>
+Project URL: http://www.gusdb.org
+</para>
+</sect2>
+
+<sect2 id="gilbert">
+<title>
+The Otter Annotation System
+</title>
+<para>
+James Gilbert, Sanger Institute
+</para>
+<para><emphasis>July 30th, 11:40-12:00</emphasis></para>
+
+<para>
+The VEGA database presents high quality manual annotation of finished vertebrate genomes. Until recently the finished clones that constitute the tiling path of the chromosome were annotated individually. Tags in the data objects that represented parts of RNA transcripts that span several clones were used to describe how they should be fused. Fusing occurred during a conversion process that created an Ensembl database containing the complete gene structures.
+</para>
+<para>
+The otter project was developed in order to present the annotator with a view of a contiguous region of a chromosome made from several clones, and to avoid the conversion step by storing the annotation directly in an Ensembl database.
+</para>
+<para>
+The gene annotation data is passed between the annotation client and Ensembl database server in an XML format. The XML contains the clone assembly information along with the gene structure data. It is hoped that the XML format will be adopted as an exchange format by other centers who wish to display their annotation in VEGA.
+</para>
+<para>
+The otter schema is an extension of the Ensembl database SQL schema. Additional tables store textual information about transcripts, genes and clones added by the annotator, implement a clone level locking mechanism, and keep track of the authors of particular annotations. These are accompanied by corresponding additions to the Ensembl Perl API. A lightweight HTTP server written in perl, otter_srv, exchanges XML with the client and saves the annotator's changes to the MySQL otter database in a single transaction.
+</para>
+<para>
+The annotators' graphical interface, otterlace, now incorporates a number of improvements, such as the display of gapped alignments of sequence database hits to the genomic sequence.
+</para>
+<para>
+The core otter software is available, under the same licence as Ensembl, by anonymous CVS (package ensemblotter) from cvs.sanger.ac.uk, where it will be joined by the otterlace client software. It is anticipated that a packaged distribution will also be created. The code is already in use by some of our collaborators outside the Sanger Institute.
+</para>
+</sect2>
+
+</sect1>
+
+</article>
