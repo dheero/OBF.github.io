@@ -25,7 +25,7 @@ projects.
 
 Our main activities are:
 
--   Underwriting and supporting the BOSC conferences
+-   Underwriting and supporting the [BOSC](BOSC "wikilink") conferences
 -   Organizing and supporting developer-centric "hackathon" events
 -   Managing our servers, colocation facilities, bank account & other
     assets
