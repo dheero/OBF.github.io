@@ -11,3 +11,9 @@ Previous BOSC conferences
 -   [BOSC 2001](BOSC_2001 "wikilink") Copenhagen, Denmark
 -   [BOSC 2000](BOSC_2000 "wikilink") San Diego, CA USA
 
+Other conferences
+
+-   A [BioPerl](bp:BioPerl "wikilink")
+    [workshop](BioPerl_Heidelberg_1999 "wikilink") was held in
+    conjunction with ISMB'99 in Heidelberg, Germany.
+
