@@ -8,6 +8,7 @@ OBF Newsletters
 Here are some newsletters sumamarizing project progress
 
 -   [Newsletter:2002 Summer](Newsletter:2002_Summer "wikilink")
+-   [Newsletter:2001 Winter](Newsletter:2001_Winter "wikilink")
 
 Project specific milestones
 ---------------------------
