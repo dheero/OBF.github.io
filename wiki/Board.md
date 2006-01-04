@@ -56,4 +56,9 @@ Institute of the Novartis Research Foundation](http://www.gnf.org).
 [Associate Professor](http://compbio.berkeley.edu) at University of
 California, Berkeley.
 
+Meetings
+--------
+
+-   [Minutes:2005 BOSC Meeting](Minutes:2005_BOSC_Meeting "wikilink")
+-   [Minutes:2004 BOSC Meeting](Minutes:2004_BOSC_Meeting "wikilink")
 
