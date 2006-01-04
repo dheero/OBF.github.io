@@ -77,6 +77,8 @@ ongoing and future projects.
 
 The new entity will be called the "Open Bioinformatics Foundation"
 
+### Board of Directors
+
 The current Directors for 2001/2002 are as follows:
 
 -   Ewan Birney (European Bioinformatics Institute)
@@ -85,12 +87,14 @@ The current Directors for 2001/2002 are as follows:
 -   Chris Dagdigian (Blackstone Computing Inc.)
 -   Hilmar Lapp (Novartis Research Foundation)
 
-The Directors have chosen corporate Officers for the following
-positions:
+===Corporate Officers== The Directors have chosen corporate Officers for
+the following positions:
 
 -   Ewan Birney, President & Chief Executive Officer
 -   Chris Dagdigian, Treasurer & Chief Financial Officer
 -   Andrew Dalke, Secretary
+
+### Address
 
 A rented mailbox serves as our official corporate address:
 
