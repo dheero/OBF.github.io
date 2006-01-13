@@ -5,10 +5,14 @@ title: BOSC
 **B**ioinformatics **O**pen **S**ource **C**onference held annually to
 promote and facilitate [open source](wp:open_source "wikilink")
 development of [bioinformatics](wp:bioinformatics "wikilink") tools. The
-conferences provide a means for developers and users to interact and
-share ideas about software developer and practical techniques in
-bioinformatics.
+aims of the conferences are to: 1. provide developers with a forum for
+displaying the results of their development efforts to the wider
+research community; 2. provide a focused environment for developers and
+users to interact and share ideas about software development, and
+practical techniques in bioinformatics; 3. Inform the Research Community
+of important developments occuring within the Open Source Bioinformatics
+Developer community.
 
-See some of the [Upcoming BOSC
-conference](Upcoming_BOSC_conference "wikilink") and [Past BOSC
-conferences](Past_BOSC_conferences "wikilink").
+Find out about the [Upcoming BOSC
+conference](Upcoming_BOSC_conference "wikilink")  
+Research [Past BOSC conferences](Past_BOSC_conferences "wikilink").
