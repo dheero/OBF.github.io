@@ -81,24 +81,24 @@ great meeting.
 O|B|F Projects Reports
 ----------------------
 
-### [CGL](CGL "wikilink")
+### CGL
 
 #### ABOUT CGL: the Comparative Genomics Library
 
-CGL is an open source software library for comparative genomics using
-genome annotations. The library is designed to employ the contents of
-genome-annotation databases for purposes of large-scale inquiries into
-the structure, function and evolution of genes. To facilitate these
-analyses, CGL provides three core functionalities. First, CGL can
-convert the annotations of many different providers into a single
-standardized format (Chaos.xml); thus the software can be used to
-assemble very large repositories of annotations that encompass the
-contents of multiple genome databases. Second, the library extends the
-bioperl HSP objects so that information about annotated gene-structures
-is mapped to sequence alignments. Finally, CGL can make use of existing
-annotations to in extract information about gene structure from
-unannotated, partially assembled genomes. For more information
-downloading and using CGL go
+[CGL](bp:CGL "wikilink") is an open source software library for
+comparative genomics using genome annotations. The library is designed
+to employ the contents of genome-annotation databases for purposes of
+large-scale inquiries into the structure, function and evolution of
+genes. To facilitate these analyses, CGL provides three core
+functionalities. First, CGL can convert the annotations of many
+different providers into a single standardized format (Chaos.xml); thus
+the software can be used to assemble very large repositories of
+annotations that encompass the contents of multiple genome databases.
+Second, the library extends the bioperl HSP objects so that information
+about annotated gene-structures is mapped to sequence alignments.
+Finally, CGL can make use of existing annotations to in extract
+information about gene structure from unannotated, partially assembled
+genomes. For more information downloading and using CGL go
 [www.yandell-lab.org/cgl](http://www.yandell-lab.org/cgl).
 
 #### CURRENT RELEASE
