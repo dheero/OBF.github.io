@@ -83,6 +83,8 @@ O|B|F Projects Reports
 
 ### CGL
 
+*Contributed by Mark Yandell*
+
 #### ABOUT CGL: the Comparative Genomics Library
 
 [CGL](bp:CGL "wikilink") is an open source software library for
