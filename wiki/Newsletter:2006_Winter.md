@@ -201,6 +201,28 @@ developed by Matthew Pocock when he was experimenting with his bjv2 API.
 
 ### [BioPerl](BioPerl "wikilink")
 
+he last 2 years in [BioPerl](BioPerl "wikilink") have been characterized
+by significant acceptance and use by the academic and commercial
+communities. Up until 2003 roughly [100
+papers](bp:BioPerl_publications#2003 "wikilink") were published
+referring to the BioPerl package. Since then more than [200
+articles](bp:BioPerl_publications#2006 "wikilink") have appeared that
+cite BioPerl, primarily in the areas of genome annotation and database
+construction. These figures, and data on Web site use, show a steady
+increase in the popularity of BioPerl.
+
+On the development side there has been much work on standardizing
+documentation and increased testing, a full "bug sweep", and a
+developer's release, version 1.5. In addition some 100 new modules have
+been added in the last 2 years, for a total of 816 modules and roughly
+340,000 lines of code.
+
+On the community side a small group of dedicated supporters continued to
+man the bioperl-l mailing list, which receives a steady stream of
+queries. The most exciting news in this area is the new Wiki-based
+BioPerl site which has been created in the last few months and will be
+released in January 2006.
+
 ### [GMOD](GMOD "wikilink")
 
 ### [PISE](PISE "wikilink")
