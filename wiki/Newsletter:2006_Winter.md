@@ -239,7 +239,11 @@ released in January 2006.
 
 [PISE](PISE "wikilink")
 
-### [BioPython](BioPython "wikilink")
+### BioPython
+
+*Contributed by Iddo Friedberg*
+
+[BioPython](BioPython "wikilink")
 
 ### DAS
 
