@@ -17,9 +17,9 @@ Open Bioinformatics Foundation Report
 Each year, the O|B|F sponsors the Bioinformatics Open Source Conference
 ([BOSC](BOSC "wikilink")) as a Special Interest Group in association
 with the International Systems in Molecular Biology Conference
-([ISMB](ISMB "wikilink")) sponsored by the [International Society for
-Computational Biology](http://www.iscb.org). The conferences over the
-last two years have been very successful, and we look forward to
+([ISMB](ISMB "wikilink")) sponsored by the International Society for
+Computational Biology ([ISCB](ISCB "wikilink")). The conferences over
+the last two years have been very successful, and we look forward to
 continuing to serve the Open Source Bioinformatics Community, and the
 wider research community in 2006.
 
