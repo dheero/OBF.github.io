@@ -199,7 +199,7 @@ abilities in data integration and interaction with semantic web
 technologies like [RDF](http://www.w3.org/RDF/) by building on code
 developed by Matthew Pocock when he was experimenting with his bjv2 API.
 
-### [BioPerl](BioPerl "wikilink")
+### BioPerl
 
 The last 2 years in [BioPerl](BioPerl "wikilink") have been
 characterized by significant acceptance and use by the academic and
