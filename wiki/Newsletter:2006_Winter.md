@@ -201,6 +201,8 @@ developed by Matthew Pocock when he was experimenting with his bjv2 API.
 
 ### BioPerl
 
+*Contributed by Brian Osborne*
+
 The last 2 years in [BioPerl](BioPerl "wikilink") have been
 characterized by significant acceptance and use by the academic and
 commercial communities. Up until 2003 roughly [100
