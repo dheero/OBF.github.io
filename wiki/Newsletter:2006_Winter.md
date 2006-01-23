@@ -14,6 +14,8 @@ Open Bioinformatics Foundation Report
 
 ### BOSC Reports
 
+*Contributed by Darin London*
+
 Each year, the O|B|F sponsors the Bioinformatics Open Source Conference
 ([BOSC](BOSC "wikilink")) as a Special Interest Group in association
 with the International Systems in Molecular Biology Conference
