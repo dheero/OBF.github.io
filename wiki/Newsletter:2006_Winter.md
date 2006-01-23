@@ -245,7 +245,9 @@ released in January 2006.
 
 [DAS](DAS "wikilink")
 
-### Bio[MOBY](MOBY "wikilink")
+### BioMOBY
+
+*Contributed by Mark Wilkinson* [MOBY](MOBY "wikilink")
 
 ------------------------------------------------------------------------
 
