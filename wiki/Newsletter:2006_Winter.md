@@ -233,7 +233,11 @@ released in January 2006.
 
 *Contributed by Scott Cain* ...
 
-### [PISE](PISE "wikilink")
+### PISE
+
+*Contributed by Catherine Letondal*
+
+[PISE](PISE "wikilink")
 
 ### [BioPython](BioPython "wikilink")
 
