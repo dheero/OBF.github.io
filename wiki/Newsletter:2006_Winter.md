@@ -229,7 +229,9 @@ queries. The most exciting news in this area is the new Wiki-based
 BioPerl site which has been created in the last few months and will be
 released in January 2006.
 
-### [GMOD](GMOD "wikilink")
+### GMOD
+
+*Contributed by Scott Cain* ...
 
 ### [PISE](PISE "wikilink")
 
