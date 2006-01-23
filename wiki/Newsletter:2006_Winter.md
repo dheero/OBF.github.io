@@ -120,7 +120,7 @@ General questions and comments about CGL should be directed to
 
 ### BioJava
 
-*Mark Schreiber*, 18th Jan 2006
+*Contributed by Mark Schreiber*
 
 #### Biojava in 2005
 
