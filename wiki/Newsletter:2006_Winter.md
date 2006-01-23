@@ -241,7 +241,9 @@ released in January 2006.
 
 ### [BioPython](BioPython "wikilink")
 
-### Bio[DAS](DAS "wikilink")
+### DAS
+
+[DAS](DAS "wikilink")
 
 ### Bio[MOBY](MOBY "wikilink")
 
