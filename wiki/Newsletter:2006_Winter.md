@@ -118,7 +118,7 @@ Lewis](bp:Suzanna_Lewis "wikilink") and Gerald M. Rubin. *In press*
 General questions and comments about CGL should be directed to
 [myandell-at-fruitfly.org](mailto:myandell_AT_fruitfly.org).
 
-### [BioJava](BioJava "wikilink")
+### BioJava
 
 *Mark Schreiber*, 18th Jan 2006
 
