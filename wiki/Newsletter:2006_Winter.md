@@ -221,7 +221,7 @@ On the development side there has been much work on standardizing
 documentation and increased testing, a full "bug sweep", and a
 developer's release, version 1.5. In addition some 100 new modules have
 been added in the last 2 years, for a total of 816 modules and roughly
-340,000 lines of code.
+173,000 lines of code.
 
 On the community side a small group of dedicated supporters continued to
 man the bioperl-l mailing list, which receives a steady stream of
