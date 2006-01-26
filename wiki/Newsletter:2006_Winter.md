@@ -277,7 +277,18 @@ developers list is high, with contributions and patches submitted on a
 weekly basis. Currently the project comprises of some 237,000 lines of
 code.
 
-We have improved the documentation basis
+Python's forte is it's ease of use for non-programmers, which makes it
+an ideal language for life scientists who wish to program. On the other
+hand, BioPython's documentation, as in many collaborative projects, has
+sorely been lagging behind developement. Thanks to efforts made by a few
+of our members, the documentation basis has been greatly improved. We
+see the impact of this in the mailing list, where many emails start with
+"I am new to programming and to Python, and I have been using Biopython
+so far and it is great! I just have one problem..." (We sometimes even
+manage to help with that one problem).
+
+About 15 new modules were added in 2005, and for a full list please see
+the release notes.
 
 ### DAS
 
