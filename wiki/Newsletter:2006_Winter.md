@@ -288,7 +288,7 @@ so far and it is great! I just have one problem..." (We sometimes even
 manage to help with that one problem).
 
 About 15 new modules were added in 2005, and for a full list please see
-the release notes.
+the [notes\[/a](http://biopython.org/%5Drelease).
 
 ### DAS
 
