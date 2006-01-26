@@ -8,9 +8,33 @@ Winter 2006 Open Bioinformatics Foundation Newsletter
 Open Bioinformatics Foundation Report
 -------------------------------------
 
+### President's Report
+
+*Jason Stajich*
+
+### 2005 OBF Board Meeting Report
+
+The 2005 Open Bioinformatics Foundation board meeting was held during
+the [BOSC 2005](BOSC_2005 "wikilink") conference in Detroit, MI. Several
+items of buisiness were attended to including several personnel changes.
+
+-   Past President [Ewan Birney](Ewan_Birney "wikilink") was replaced by
+    [Jason Stajich](Jason_Stajich "wikilink")
+-   [Hilmar Lapp](Hilmar_Lapp "wikilink") was elected parlimentarian
+-   [Ewan Birney](Ewan_Birney "wikilink") was added as an at-large
+
+In addition the Board agreed to guidelines for [Membership
+requirements](Membership_requirements "wikilink") for [OBF
+members](OBF_members "wikilink").
+
 ### Financial Overview
 
+*Chris Dagdigian*
+
 ### Website and Mailing list statistics
+
+maybe will drop this if I don't have time [Jason](User:Jason "wikilink")
+16:31, 26 January 2006 (EST)
 
 ### BOSC Reports
 
