@@ -275,6 +275,10 @@ tooling and core code improvements. We predict that 2006 will be the
 year that BioMoby truly appears on the biologist's radar and starts
 making a difference to the lives of researchers around the world!
 
+### BioMake and BlipKit
+
+*Chris Mungall*
+
 ------------------------------------------------------------------------
 
 *Newsletter edited by [Jason Stajich](bp:Jason_Stajich "wikilink")*
