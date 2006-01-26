@@ -287,8 +287,8 @@ see the impact of this in the mailing list, where many emails start with
 so far and it is great! I just have one problem..." (We sometimes even
 manage to help with that one problem).
 
-About 15 new modules were added in 2005, and for a full list please see
-the [notes\[/a](http://biopython.org/%5Drelease).
+About 20 new modules were added in 2005, and for a full list please see
+the release notes[1](http://biopython.org/).
 
 ### DAS
 
