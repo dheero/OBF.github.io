@@ -1,5 +1,6 @@
 ---
-title: Moby
+title: MOBY
+redirect_to: /wiki/Moby
 ---
 
-See [biomoby.org](http://biomoby.org)
+You should automatically be redirected to [Moby](/wiki/Moby)
