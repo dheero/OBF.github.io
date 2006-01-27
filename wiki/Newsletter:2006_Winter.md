@@ -349,9 +349,27 @@ tooling and core code improvements. We predict that 2006 will be the
 year that BioMoby truly appears on the biologist's radar and starts
 making a difference to the lives of researchers around the world!
 
-### BioMake and BlipKit
+### BlipKit
 
 *Chris Mungall*
+
+Blipkit (Biological Logic Programming Knowledge Integration Kit), aka
+Blip, aka BioProlog, is a new addition to the OBF fold. Blip is an
+integrated application programming library and a lightweight deductive
+database system, and contains modules and schemas for representing and
+using various biological and biomedical datatypes, such as sequence
+features, phenotypes, pathways and phylogenies/species taxonomies. Blip
+also has strong support for ontologies (both OBO and OWL).
+
+Some end user scripts and applications are provided, including an AmiGO
+clone. The current software is in alpha, early adopters are encouraged
+to view:
+
+<http://www.blipkit.org>
+
+or the alternate url:
+
+<http://www.bioprolog.org>
 
 ------------------------------------------------------------------------
 
