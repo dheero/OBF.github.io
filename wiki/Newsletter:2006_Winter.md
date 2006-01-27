@@ -352,7 +352,7 @@ making a difference to the lives of researchers around the world!
 
 ### BlipKit
 
-*Chris Mungall*
+*Contributed by [Chris Mungall](Chris_Mungall "wikilink")*
 
 Blipkit (Biological Logic Programming Knowledge Integration Kit), aka
 Blip, aka BioProlog, is a new addition to the OBF fold. Blip is an
