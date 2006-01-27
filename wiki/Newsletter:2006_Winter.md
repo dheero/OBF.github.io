@@ -255,28 +255,34 @@ released in January 2006.
 
 ### GMOD
 
-*Contributed by Scott Cain*
+*Contributed by [Scott Cain](Scott_Cain "wikilink")*
 
-The Generic Model Organism Database (GMOD) Project is a largely open
-source project to develop a complete set of software for creating and
-administering a model organism database. Components of this project
-include genome visualization and editing tools, literature curation
-tools, a robust database schema (known as Chado), and a generic web
-front end. Several established model organism databases contribute to
-the project, including WormBase, the Saccharomyces Genome Database,
-FlyBase, Gramene, TAIR, the Rat Genome Database, and EcoCyc. Many
-components of GMOD rely on BioPerl, including one of the "flagship"
-projects, the [Generic Genome Browser
-(GBrowse)](http://www.gmod.org/gbrowse), the widely adopted, web-based
-genome feature visualizer. Over 150 organizations have adopted some
-tools from GMOD.
+The Generic Model Organism Database ([GMOD](GMOD "wikilink")) Project is
+a largely open source project to develop a complete set of software for
+creating and administering a model organism database. Components of this
+project include genome visualization and editing tools, literature
+curation tools, a robust database schema (known as Chado), and a generic
+web front end. Several established model organism databases contribute
+to the project, including WormBase, the [Saccharomyces Genome
+Database](http://www.yeastgenome.org),
+[FlyBase](http://www.flybase.net), [Gramene](http://www.gramene.org),
+[TAIR](http://www.arabidopsis.org), the [Rat Genome
+Database](http://rgd.mcw.edu/), and [EcoCyc](http://ecocyc.org/). Many
+components of GMOD rely on [BioPerl](BioPerl "wikilink"), including one
+of the "flagship" projects, the [Generic Genome Browser
+(GBrowse)](Gbrowse "wikilink"), the widely adopted, web-based genome
+feature visualizer. Over 150 organizations have adopted some tools from
+GMOD.
+
+### Chado
 
 *add stuff here from Chris Mungall about chado, including a few adopting
 orgs, like [dictyBase](http://www.dictybase.org/) and
 [ParameciumDB](http://paramecium.cgm.cnrs-gif.fr/db/index)*
 
-For more information, please see <http://www.gmod.org/> or contact Scott
-Cain (cain@cshl.edu).
+===Contact info== For more information, please see
+[www.gmod.org](http://www.gmod.org) or contact Scott Cain
+([cain@cshl.edu](mailto:cain_A@T_cshl.edu)).
 
 ### PISE
 
