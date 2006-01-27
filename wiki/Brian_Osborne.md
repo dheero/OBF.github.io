@@ -1,7 +1,6 @@
 ---
 title: Brian Osborne
+redirect_to: /wiki/bp:Brian_Osborne
 ---
 
-1.  REDIRECT [Brian Osborne](bp "wikilink")
-
-<Category:People>
+You should automatically be redirected to [bp:Brian Osborne](/wiki/bp:Brian_Osborne)
