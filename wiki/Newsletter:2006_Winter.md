@@ -351,7 +351,7 @@ Several projects which use BioPython in their code base are:
 -   A Google homepage script for calculating oligo melting temperatures:
     [10](http://www.bioinformatica.info/modulomt2.xml)
 
-Many thanks to all the contributers, too numerous to be mentioned here
+Many thanks to all the contributors, too numerous to be mentioned here
 [11](http://biopython.org/participants/). The 2005 releases were managed
 by Iddo Friedberg (1.40 beta) and Michiel de Hoon
 [12](http://bonsai.ims.u-tokyo.ac.jp/~mdehoon/) (1.41).
