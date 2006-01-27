@@ -149,7 +149,7 @@ General questions and comments about CGL should be directed to
 
 ### BioJava
 
-*Contributed by Mark Schreiber*
+*Contributed by [Mark Schreiber](Mark_Schreiber "wikilink")*
 
 #### Biojava in 2005
 
