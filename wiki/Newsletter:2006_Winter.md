@@ -280,9 +280,10 @@ GMOD.
 orgs, like [dictyBase](http://www.dictybase.org/) and
 [ParameciumDB](http://paramecium.cgm.cnrs-gif.fr/db/index)*
 
-===Contact info== For more information, please see
-[www.gmod.org](http://www.gmod.org) or contact Scott Cain
-([cain@cshl.edu](mailto:cain_A@T_cshl.edu)).
+### Contact info
+
+For more information, please see [www.gmod.org](http://www.gmod.org) or
+contact Scott Cain ([cain@cshl.edu](mailto:cain_A@T_cshl.edu)).
 
 ### PISE
 
