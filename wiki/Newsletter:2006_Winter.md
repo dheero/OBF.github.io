@@ -229,7 +229,7 @@ developed by Matthew Pocock when he was experimenting with his bjv2 API.
 
 ### BioPerl
 
-*Contributed by Brian Osborne*
+*Contributed by [Brian Osborne](Brian_Osborne "wikilink")*
 
 The last 2 years in [BioPerl](BioPerl "wikilink") have been
 characterized by significant acceptance and use by the academic and
