@@ -109,9 +109,9 @@ O|B|F Projects Reports
 
 ### CGL
 
-*Contributed by Mark Yandell*
+*Contributed by [Mark Yandell](bp:Mark_Yandell "wikilink")*
 
-#### ABOUT CGL: the Comparative Genomics Library
+#### About CGL: the Comparative Genomics Library
 
 [CGL](bp:CGL "wikilink") is an open source software library for
 comparative genomics using genome annotations. The library is designed
@@ -129,19 +129,20 @@ information about gene structure from unannotated, partially assembled
 genomes. For more information downloading and using CGL go
 [www.yandell-lab.org/cgl](http://www.yandell-lab.org/cgl).
 
-#### CURRENT RELEASE
+#### Current Release
 
 Get the latest release of CGL from
 [www.yandell-lab.org/cgl](http://www.yandell-lab.org/cgl).
 
 Have a look at the main reference for CGL: Large-Scale Trends in the
 Evolution of Gene Structures within 11 Animal Genomes [Mark
-Yandell](bp:Mark_Yandell "wikilink"), Chris J. Mungall, Chris Smith,
-Simon Prochnik , Joshua Kaminker, George Hartzell, [Suzanna
+Yandell](bp:Mark_Yandell "wikilink"), [Chris J.
+Mungall](bp:Chris_Mungall "wikilink"), Chris Smith, Simon Prochnik ,
+Joshua Kaminker, George Hartzell, [Suzanna
 Lewis](bp:Suzanna_Lewis "wikilink") and Gerald M. Rubin. *In press*
 [PloS Computational Biology](http://compbiol.plosjournals.org).
 
-#### CONTACT US
+#### Contactt us
 
 General questions and comments about CGL should be directed to
 [myandell-at-fruitfly.org](mailto:myandell_AT_fruitfly.org).
