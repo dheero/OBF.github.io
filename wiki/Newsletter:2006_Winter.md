@@ -326,7 +326,7 @@ the release notes [1](http://biopython.org/).
 
 ### BioMOBY
 
-*Contributed by Mark Wilkinson*
+*Contributed by [Mark Wilkinson](Mark_Wilkinson "wikilink")*
 
 In 2005, Bio[Moby](Moby "wikilink") enjoyed its most successful year so
 far! This was the year that it emerged from its adolescence as "just an
