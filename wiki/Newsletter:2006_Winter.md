@@ -352,8 +352,8 @@ Several projects which use BioPython in their code base are:
     [9](http://www.bioinformatica.info/modulomt2.xml)
 
 Many thanks to all the contributers, too numerous to be mentioned here
-[10](http://biopython.org/participants/). Releases this year were
-managed by Iddo Friedberg (1.40 beta) and Michiel de-Hoon
+[10](http://biopython.org/participants/). Releases ion 2005 were managed
+by Iddo Friedberg (1.40 beta) and Michiel de-Hoon
 [11](http://bonsai.ims.u-tokyo.ac.jp/~mdehoon/) (1.41).
 
 ### DAS
