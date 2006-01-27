@@ -329,19 +329,30 @@ the release notes [4](http://biopython.org/).
 
 Several projects which use BioPython in their code base are:
 
-Joined Assessment of Functional Annotation (JAFA)
-[5](http://jafa.burnham.org)
+-   Joined Assessment of Functional Annotation (JAFA)
+    [5](http://jafa.burnham.org)
 
-Text mining tools at Stanford University
-[6](http://bionlp.stanford.edu/)
+<!-- -->
 
-The **TRA**ns**M**embrane-**P**rotein **L**abelling **E**nvironment from
-BioDec [7](http://www.biodec.com/products)
+-   Text mining tools at Stanford University
+    [6](http://bionlp.stanford.edu/)
 
-The upcoming Schneider suite [8](http://schneider.sourceforge.net/)
+<!-- -->
 
-A Google homepage script for calculating oligo melting temperatures:
-[9](http://www.bioinformatica.info/modulomt2.xml)
+-   The **TRA**ns**M**embrane-**P**rotein **L**abelling **E**nvironment
+    from BioDec [7](http://www.biodec.com/products)
+
+<!-- -->
+
+-   The upcoming Schneider suite [8](http://schneider.sourceforge.net/)
+
+<!-- -->
+
+-   A Google homepage script for calculating oligo melting temperatures:
+    [9](http://www.bioinformatica.info/modulomt2.xml)
+
+Many thanks to all the contributers, too numerous to be mentioned here
+[10](http://biopython.org/participants/).
 
 ### DAS
 
