@@ -327,7 +327,7 @@ About 20 new modules were added in 2005. Notable newcomers are an NCBI
 XML parser, a BLAT parser, a MEME parser... For a full list please see
 the release notes [5](http://biopython.org/).
 
-Several projects which use BioPython in their code base are:
+Several projects which use Biopython in their code base are:
 
 -   Joined Assessment of Functional Annotation (JAFA)
     [6](http://jafa.burnham.org)
