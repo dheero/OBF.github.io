@@ -304,7 +304,7 @@ biology community. Traffic on the developers list is high, with
 contributions and patches submitted on a weekly basis. Currently the
 project comprises of some 237,000 lines of code.
 
-One of Python's [3](http://python.org) fortés is its ease of use and
+One of Python's [3](http://python.org) advantages is its ease of use and
 mild learning curve, which makes it an ideal language for life
 scientists who wish to program. However, Biopython's documentation, as
 in many voluntary collaborative projects, has sorely been lagging behind
