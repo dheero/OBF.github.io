@@ -299,10 +299,10 @@ contact Scott Cain ([cain@cshl.edu](mailto:cain_A@T_cshl.edu)).
 Biopython [2](http://biopython.org) has had two releases in 2005, both
 comprising of major additions to the code base. With 518 members
 subscribed to the general mailing list, and 210 on the developers list,
-Biopython has obvioulsly grown to become an important tool for the
-computational biology community. Traffic on the developers list is high,
-with contributions and patches submitted on a weekly basis. Currently
-the project comprises of some 237,000 lines of code.
+Biopython has grown to become an important tool for the computational
+biology community. Traffic on the developers list is high, with
+contributions and patches submitted on a weekly basis. Currently the
+project comprises of some 237,000 lines of code.
 
 One of Python's [3](http://python.org) fortés is its ease of use and
 mild learning curve, which makes it an ideal language for life
