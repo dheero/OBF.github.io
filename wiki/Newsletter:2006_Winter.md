@@ -375,8 +375,8 @@ Several projects which use Biopython in their code base are:
 
 Many thanks to all the contributors, too numerous to be mentioned here
 [11](http://biopython.org/participants/). The 2005 releases were managed
-by Iddo Friedberg (1.40 beta) and Michiel de Hoon
-[12](http://bonsai.ims.u-tokyo.ac.jp/~mdehoon/) (1.41).
+by Iddo Friedberg[12](http://iddo-freidberg.org) (1.40 beta) and Michiel
+de Hoon [13](http://bonsai.ims.u-tokyo.ac.jp/~mdehoon/) (1.41).
 
 ### DAS
 
