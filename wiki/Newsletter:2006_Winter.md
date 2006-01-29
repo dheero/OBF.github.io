@@ -275,13 +275,13 @@ of the "flagship" projects, the [Generic Genome Browser
 feature visualizer. Over 150 organizations have adopted some tools from
 GMOD.
 
-### Chado
+#### Chado
 
 *add stuff here from Chris Mungall about chado, including a few adopting
 orgs, like [dictyBase](http://www.dictybase.org/) and
 [ParameciumDB](http://paramecium.cgm.cnrs-gif.fr/db/index)*
 
-### Contact info
+#### Contact info
 
 For more information, please see [www.gmod.org](http://www.gmod.org) or
 contact Scott Cain ([cain@cshl.edu](mailto:cain_A@T_cshl.edu)).
@@ -291,6 +291,40 @@ contact Scott Cain ([cain@cshl.edu](mailto:cain_A@T_cshl.edu)).
 *Contributed by Catherine Letondal*
 
 [PISE](PISE "wikilink")
+
+[Pise](http://www.pasteur.fr/recherche/unites/sis/Pise/) is an interface
+generator for programs running under Unix. More precisely, it is a
+software system which, given an XML description of a program's
+parameters, generates source code for a user interface, as a component
+of a system where the user can easily chain programs by pull-down menus.
+A perl/[BioPerl](BioPerl "wikilink") API generator has also been
+developed as well as a Python/[BioPython](BioPython "wikilink") API.
+
+About 300 molecular biology programs have been defined under Pise,
+including various sequence analysis, phylogeny, alignment, structural
+analysis (RNA, secondary and tertiary structure) and gene prediction
+programs. Pise has been in production for more than 8 years at the
+[Pasteur Institute](http://www.pasteur.fr) (about 1500 submitted jobs a
+day during the last year)
+([bioweb.pasteur.fr](http://bioweb.pasteur.fr/)). The whole system, e.g
+generators and the complete set of already defined interfaces is also
+installed in several other sites, namely for interfacing
+[EMBOSS](EMBOSS "wikilink") programs. Other users have developed new
+programs' interfaces (in genetic analysis, primer design, and imaging
+analysis). We are also aware of projects for building a new GUI
+generator.
+
+The project is now evolving towards a rewritten version, called Mobyle.
+Mobyle is programmed in Python in a more robust and maintainable way. It
+extends the wrapping mechanism to Web servers and Web services (mainly
+using Biomoby). The web portal will provide more advanced navigation
+features, enabling the user to search for services or re-use uploaded
+data and parameterizing. See \[1\] for a more detailed description.
+
+\[1\] B.Neron, P. Tuffery, C.Letondal (2005) [Mobyle: a Web portal
+framework for bioinformatics
+analyses](http://www.pasteur.fr/~letondal/Mobyle/neron_nettab.pdf),
+poster presented at NETTAB 2005.
 
 ### Biopython
 
@@ -331,23 +365,11 @@ Several projects which use Biopython in their code base are:
 
 -   Joined Assessment of Functional Annotation (JAFA)
     [6](http://jafa.burnham.org)
-
-<!-- -->
-
 -   Text mining tools at Stanford University
     [7](http://bionlp.stanford.edu/)
-
-<!-- -->
-
 -   The **TRA**ns**M**embrane-**P**rotein **L**abelling **E**nvironment
     from BioDec [8](http://www.biodec.com/products)
-
-<!-- -->
-
 -   The upcoming Schneider suite [9](http://schneider.sourceforge.net/)
-
-<!-- -->
-
 -   A Google homepage script for calculating oligo melting temperatures:
     [10](http://www.bioinformatica.info/modulomt2.xml)
 
