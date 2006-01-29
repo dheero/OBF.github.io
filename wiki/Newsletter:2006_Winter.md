@@ -371,7 +371,7 @@ Several projects which use Biopython in their code base are:
     from BioDec [8](http://www.biodec.com/products)
 -   The upcoming Schneider suite [9](http://schneider.sourceforge.net/)
 -   A Google homepage script for calculating oligo melting temperatures:
-    [10](http://www.bioinformatica.info/modulomt2.xml)
+    [10](http://www.bioinformatica.info/modules.php?op=modload&name=News&file=article&sid=301&mode=thread&order=0&thold=0)
 
 Many thanks to all the contributors, too numerous to be mentioned here
 [11](http://biopython.org/participants/). The 2005 releases were managed
