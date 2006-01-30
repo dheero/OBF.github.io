@@ -31,7 +31,7 @@ Andrew Dalke
 Representing [BioPython](http://www.biopython.org) & [Dalke
 Scientific](http://www.dalkescientific.com)
 
-**Parlimentarian**
+**Parliamentarian**
 
   
 [Hilmar Lapp](bp:Hilmar_Lapp "wikilink")
