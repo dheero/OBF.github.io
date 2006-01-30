@@ -25,8 +25,8 @@ items of business were attended to including several personnel changes.
 -   [Hilmar Lapp](Hilmar_Lapp "wikilink") was elected parliamentarian
 
 In addition the Board agreed to bylaws governing the [OBF
-Board](OBF_Board "wikilink"), [OBF
-membership](OBF_membership "wikilink") as well as elections.
+Board](Board "wikilink"), [OBF membership](OBF_membership "wikilink") as
+well as elections.
 
 ### Financial Overview
 
