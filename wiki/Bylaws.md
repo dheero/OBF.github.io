@@ -2,8 +2,9 @@
 title: Bylaws
 ---
 
-**Open-Bio Foundation (OBF) Bylaws: Membership, Nomination To And
-Election Of The Board**
+Open-Bio Foundation (OBF) Bylaws:  
+Membership, Nomination To And Election Of The Board
+===================================================
 
 ARTICLE I – MEMBERSHIP
 ----------------------
