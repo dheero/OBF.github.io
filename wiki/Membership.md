@@ -17,12 +17,12 @@ from the membership when seats are added or a term expires.
 
 The eligibility criteria are met by anyone who is "interested in the
 business of OBF", and there are no dues at present. You can join
-throughout the year by filling out the
-![](OBF_Membership_Form.pdf application form "fig:OBF_Membership_Form.pdf application form")
-and mailing it to the OBF. The best time and place to join though is at
-the annual BOSC conference, because attendees are automatically deemed
-eligible based on the fact that they attend BOSC, and forms may just be
-dropped off at a designated place or with any Board member.
+throughout the year by filling out the ![application
+form](OBF_Membership_Form.pdf "fig:application form") and mailing it to
+the OBF. The best time and place to join though is at the annual BOSC
+conference, because attendees are automatically deemed eligible based on
+the fact that they attend BOSC, and forms may just be dropped off at a
+designated place or with any Board member.
 
 ### Participate in OBF's Future
 
