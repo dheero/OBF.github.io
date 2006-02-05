@@ -24,8 +24,7 @@ conference, because attendees are automatically deemed eligible based on
 the fact that they attend BOSC, and forms may just be dropped off at a
 designated place or with any Board member.
 
-Participate in OBF's Future
-===========================
+### Participate in OBF's Future
 
 The Board established the membership body as the platform from which
 major future changes to the OBF's mission, agenda, and scope will
