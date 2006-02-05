@@ -16,7 +16,7 @@ among nominees, and candidates for future Directors will be nominated
 from the membership when seats are added or a term expires.
 
 The eligibility criteria are met by anyone who is "interested in the
-business of OBF", and there are no dues at present. You can join
+objectives of the OBF", and there are no dues at present. You can join
 throughout the year by filling out the [application
 form](:Image:OBF_Membership_Form.pdf "wikilink") and mailing it to the
 OBF. The best time and place to join though is at the annual BOSC
