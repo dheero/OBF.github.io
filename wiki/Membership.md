@@ -5,11 +5,11 @@ title: Membership
 Membership application
 ----------------------
 
-The OBF is actively inviting professionals, students, and others active
-in the Open Source Software arena in the life sciences to join the OBF
-as a member. The membership body was formally established at the [2005
-Board of Directors](Minutes:2005_BOSC_Meeting "wikilink") meeting. As
-laid out in the [OBF
+The OBF is actively inviting professionals, scientists, students, and
+others active in the Open Source Software arena in the life sciences to
+join the OBF as a member. The membership body was formally established
+at the [2005 Board of Directors](Minutes:2005_BOSC_Meeting "wikilink")
+meeting. As laid out in the [OBF
 Bylaws](http://news.open-bio.org/archives/uploads/OBF-Election-Bylaws-1.pdf),
 officers in the Board of Directors will be elected by the membership
 among nominees, and candidates for future Directors will be nominated
