@@ -33,8 +33,8 @@ elections. This marks a defining moment in the history of O|B|F, as for
 the first time a defined mechanism exists through which any member can
 gain governing office, and volunteer his or her leadership to help shape
 the future of the OBF. The O|B|F is ready to redefine the scope of its
-vision and agenda, and extends an invitation to every interested person
-to play a role in this endeavor, as a member or as a leader and decision
+vision and agenda. We extend an invitation to every interested person to
+play a role in this endeavor, as a member or as a leader and decision
 maker.
 
 A broader agenda, like to facilitate and sponsor project interactions
