@@ -158,7 +158,7 @@ Joshua Kaminker, George Hartzell, [Suzanna
 Lewis](bp:Suzanna_Lewis "wikilink") and Gerald M. Rubin. *In press*
 [PloS Computational Biology](http://compbiol.plosjournals.org).
 
-#### Contactt us
+#### Contact us
 
 General questions and comments about CGL should be directed to
 [myandell-at-fruitfly.org](mailto:myandell_AT_fruitfly.org).
