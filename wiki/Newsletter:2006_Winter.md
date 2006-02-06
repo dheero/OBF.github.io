@@ -326,7 +326,7 @@ Originally created by [Ewan Birney](Ewan_Birney "wikilink") in 2001 to
 de/serialize [BioPerl](bp:BioPerl "wikilink") sequence objects, the
 present revision of the BioSQL schema is primarily the result of a major
 review of the model by [Hilmar Lapp](Hilmar_Lapp "wikilink") and [Aaron
-Mackey](Aaron_Mackey "wikilink") at the Singapore Hackathon in 2003.
+Mackey](bp:Aaron_Mackey "wikilink") at the Singapore Hackathon in 2003.
 Except for very minor changes, the model has essentially been stable
 since then and will be named 1.0 upon official release. Several post-1.0
 extensions have already been discussed.
