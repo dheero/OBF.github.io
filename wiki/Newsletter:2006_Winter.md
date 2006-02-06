@@ -34,14 +34,13 @@ the first time a defined mechanism exists through which any member can
 gain governing office, and volunteer his or her leadership to help shape
 the future of the OBF. The O|B|F is ready to redefine the scope of its
 vision and agenda, and extends an invitation to every interested person
-to play a role in this endeavor, as a member or decision maker.
+to play a role in this endeavor, as a member or as a leader and decision
+maker.
 
 A broader agenda, like to facilitate and sponsor project interactions
 that are otherwise impossible, will inevitably require adequate funding
 resources. Therefore, as one of its future tasks the Board will need to
-creatively and aggressively seek funding opportunities. The Board is
-fully committed to elect people as O|B|F's leaders who can make this and
-other goals happen.
+creatively and aggressively seek funding opportunities.
 
 ### Financial Overview
 
