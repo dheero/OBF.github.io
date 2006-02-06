@@ -204,6 +204,32 @@ abilities in data integration and interaction with semantic web
 technologies like [RDF](http://www.w3.org/RDF/) by building on code
 developed by Matthew Pocock when he was experimenting with his bjv2 API.
 
+### BioMOBY
+
+*Contributed by [Mark Wilkinson](Mark_Wilkinson "wikilink")*
+
+In 2005, Bio[Moby](Moby "wikilink") enjoyed its most successful year so
+far! This was the year that it emerged from its adolescence as "just an
+amusing prototype", to mature into a serious codebase with a rigorous
+test suite, increasingly comprehensive documentation, and a formal RFC
+procedure for code changes. The number of independent Moby Web Service
+registries has grown to 5 (Canada, Germany, Spain, Australia, and the
+Philippines), and the number of interoperable services in the primary
+public registry at UBC in Vancouver exceeds 500. Powerful and intuitive
+tooling for service providers and for end-users has also become
+available in the past year, lowering the bar for participation and use,
+and greatly enhancing the accessibility of the BioMoby platform for the
+"newbie". The BioMoby community of core developers has doubled this
+year, and we have continued the tradition of having face-to-face
+developers meetings every 6 months to ensure that the project does not
+stagnate. Moby continues to enjoy a strong base of financial support
+from the original Genome Canada award, and from a strong and productive
+collaboration with the UK-based myGrid project, in addition to the many
+participating members worldwide who invest their own resources into
+tooling and core code improvements. We predict that 2006 will be the
+year that BioMoby truly appears on the biologist's radar and starts
+making a difference to the lives of researchers around the world!
+
 ### BioPerl
 
 *Contributed by [Brian Osborne](Brian_Osborne "wikilink")*
@@ -281,32 +307,6 @@ Many thanks to all the contributors, too numerous to be mentioned here
 [11](http://biopython.org/participants/). The 2005 releases were managed
 by Iddo Friedberg[12](http://iddo-friedberg.org) (1.40 beta) and Michiel
 de Hoon [13](http://bonsai.ims.u-tokyo.ac.jp/~mdehoon/) (1.41).
-
-### BioMOBY
-
-*Contributed by [Mark Wilkinson](Mark_Wilkinson "wikilink")*
-
-In 2005, Bio[Moby](Moby "wikilink") enjoyed its most successful year so
-far! This was the year that it emerged from its adolescence as "just an
-amusing prototype", to mature into a serious codebase with a rigorous
-test suite, increasingly comprehensive documentation, and a formal RFC
-procedure for code changes. The number of independent Moby Web Service
-registries has grown to 5 (Canada, Germany, Spain, Australia, and the
-Philippines), and the number of interoperable services in the primary
-public registry at UBC in Vancouver exceeds 500. Powerful and intuitive
-tooling for service providers and for end-users has also become
-available in the past year, lowering the bar for participation and use,
-and greatly enhancing the accessibility of the BioMoby platform for the
-"newbie". The BioMoby community of core developers has doubled this
-year, and we have continued the tradition of having face-to-face
-developers meetings every 6 months to ensure that the project does not
-stagnate. Moby continues to enjoy a strong base of financial support
-from the original Genome Canada award, and from a strong and productive
-collaboration with the UK-based myGrid project, in addition to the many
-participating members worldwide who invest their own resources into
-tooling and core code improvements. We predict that 2006 will be the
-year that BioMoby truly appears on the biologist's radar and starts
-making a difference to the lives of researchers around the world!
 
 ### BlipKit
 
