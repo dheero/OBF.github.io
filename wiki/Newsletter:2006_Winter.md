@@ -123,46 +123,6 @@ great meeting.
 O|B|F Projects Reports
 ----------------------
 
-### CGL
-
-*Contributed by [Mark Yandell](bp:Mark_Yandell "wikilink")*
-
-#### About CGL: the Comparative Genomics Library
-
-[CGL](bp:CGL "wikilink") is an open source software library for
-comparative genomics using genome annotations. The library is designed
-to employ the contents of genome-annotation databases for purposes of
-large-scale inquiries into the structure, function and evolution of
-genes. To facilitate these analyses, CGL provides three core
-functionalities. First, CGL can convert the annotations of many
-different providers into a single standardized format (Chaos.xml); thus
-the software can be used to assemble very large repositories of
-annotations that encompass the contents of multiple genome databases.
-Second, the library extends the bioperl HSP objects so that information
-about annotated gene-structures is mapped to sequence alignments.
-Finally, CGL can make use of existing annotations to in extract
-information about gene structure from unannotated, partially assembled
-genomes. For more information downloading and using CGL go
-[www.yandell-lab.org/cgl](http://www.yandell-lab.org/cgl).
-
-#### Current Release
-
-Get the latest release of CGL from
-[www.yandell-lab.org/cgl](http://www.yandell-lab.org/cgl).
-
-Have a look at the main reference for CGL: Large-Scale Trends in the
-Evolution of Gene Structures within 11 Animal Genomes [Mark
-Yandell](bp:Mark_Yandell "wikilink"), [Chris J.
-Mungall](bp:Chris_Mungall "wikilink"), Chris Smith, Simon Prochnik ,
-Joshua Kaminker, George Hartzell, [Suzanna
-Lewis](bp:Suzanna_Lewis "wikilink") and Gerald M. Rubin. *In press*
-[PloS Computational Biology](http://compbiol.plosjournals.org).
-
-#### Contact us
-
-General questions and comments about CGL should be directed to
-[myandell-at-fruitfly.org](mailto:myandell_AT_fruitfly.org).
-
 ### BioJava
 
 *Contributed by [Mark Schreiber](Mark_Schreiber "wikilink")*
@@ -270,6 +230,150 @@ queries. The most exciting news in this area is the new Wiki-based
 BioPerl site which has been created in the last few months and will be
 released in January 2006.
 
+### Biopython
+
+*Contributed by Iddo Friedberg [1](http://iddo-friedberg.org)*
+
+Biopython [2](http://biopython.org) has had two releases in 2005, both
+comprising of major additions to the code base. With 518 members
+subscribed to the general mailing list, and 210 on the developers list,
+Biopython has grown to become an important tool for the computational
+biology community. Traffic on the developers list is high, with
+contributions and patches submitted on a weekly basis. Currently the
+project comprises of some 237,000 lines of code.
+
+One of Python's [3](http://python.org) advantages is its ease of use and
+mild learning curve, which makes it an ideal language for life
+scientists who wish to program. However, Biopython's documentation, as
+in many voluntary collaborative projects, has sorely been lagging behind
+development. Thanks to efforts made by a few of our members, the
+documentation basis has been greatly improved. We see the impact of this
+in the mailing list, where many emails start with a variation of "I am
+new to programming and to Python, and I have been using Biopython so far
+and it is great! I just have one problem..." (We sometimes even manage
+to help with that one problem). Ease of use has also made Biopython a
+tool of choice for teaching Bioinformatics
+[4](http://biopython.org/documentation/).
+
+Biopython's ease of use does not mean it is a beginner's tool only.
+Biopython is very comprehensive, having parsers for all major sequence
+formats; mmCIF and PDB parsers for structures; pairwise and multiple
+sequence alignment suites; machine learning tools, and more. Most major
+bioinformatics databases have an associated Biopython module.
+
+About 20 new modules were added in 2005. Notable newcomers are an NCBI
+XML parser, a BLAT parser, a MEME parser... For a full list please see
+the release notes [5](http://biopython.org/).
+
+Several projects which use Biopython in their code base are:
+
+-   Joined Assessment of Functional Annotation (JAFA)
+    [6](http://jafa.burnham.org)
+-   Text mining tools at Stanford University
+    [7](http://bionlp.stanford.edu/)
+-   The **TRA**ns**M**embrane-**P**rotein **L**abelling **E**nvironment
+    from BioDec [8](http://www.biodec.com/products)
+-   The upcoming Schneider suite [9](http://schneider.sourceforge.net/)
+-   A Google homepage script for calculating oligo melting temperatures:
+    [10](http://www.bioinformatica.info/modules.php?op=modload&name=News&file=article&sid=301&mode=thread&order=0&thold=0)
+
+Many thanks to all the contributors, too numerous to be mentioned here
+[11](http://biopython.org/participants/). The 2005 releases were managed
+by Iddo Friedberg[12](http://iddo-friedberg.org) (1.40 beta) and Michiel
+de Hoon [13](http://bonsai.ims.u-tokyo.ac.jp/~mdehoon/) (1.41).
+
+### BioMOBY
+
+*Contributed by [Mark Wilkinson](Mark_Wilkinson "wikilink")*
+
+In 2005, Bio[Moby](Moby "wikilink") enjoyed its most successful year so
+far! This was the year that it emerged from its adolescence as "just an
+amusing prototype", to mature into a serious codebase with a rigorous
+test suite, increasingly comprehensive documentation, and a formal RFC
+procedure for code changes. The number of independent Moby Web Service
+registries has grown to 5 (Canada, Germany, Spain, Australia, and the
+Philippines), and the number of interoperable services in the primary
+public registry at UBC in Vancouver exceeds 500. Powerful and intuitive
+tooling for service providers and for end-users has also become
+available in the past year, lowering the bar for participation and use,
+and greatly enhancing the accessibility of the BioMoby platform for the
+"newbie". The BioMoby community of core developers has doubled this
+year, and we have continued the tradition of having face-to-face
+developers meetings every 6 months to ensure that the project does not
+stagnate. Moby continues to enjoy a strong base of financial support
+from the original Genome Canada award, and from a strong and productive
+collaboration with the UK-based myGrid project, in addition to the many
+participating members worldwide who invest their own resources into
+tooling and core code improvements. We predict that 2006 will be the
+year that BioMoby truly appears on the biologist's radar and starts
+making a difference to the lives of researchers around the world!
+
+### BlipKit
+
+*Contributed by [Chris Mungall](Chris_Mungall "wikilink")*
+
+Blipkit (Biological Logic Programming Knowledge Integration Kit), aka
+Blip, aka BioProlog, is a new addition to the OBF fold. Blip is an
+integrated application programming library and a lightweight deductive
+database system, and contains modules and schemas for representing and
+using various biological and biomedical datatypes, such as sequence
+features, phenotypes, pathways and phylogenies/species taxonomies. Blip
+also has strong support for ontologies (both OBO and OWL).
+
+Some end user scripts and applications are provided, including an AmiGO
+clone. The current software is in alpha, early adopters are encouraged
+to view:
+
+<http://www.blipkit.org>
+
+or the alternate url:
+
+<http://www.bioprolog.org>
+
+### CGL
+
+*Contributed by [Mark Yandell](bp:Mark_Yandell "wikilink")*
+
+#### About CGL: the Comparative Genomics Library
+
+[CGL](bp:CGL "wikilink") is an open source software library for
+comparative genomics using genome annotations. The library is designed
+to employ the contents of genome-annotation databases for purposes of
+large-scale inquiries into the structure, function and evolution of
+genes. To facilitate these analyses, CGL provides three core
+functionalities. First, CGL can convert the annotations of many
+different providers into a single standardized format (Chaos.xml); thus
+the software can be used to assemble very large repositories of
+annotations that encompass the contents of multiple genome databases.
+Second, the library extends the bioperl HSP objects so that information
+about annotated gene-structures is mapped to sequence alignments.
+Finally, CGL can make use of existing annotations to in extract
+information about gene structure from unannotated, partially assembled
+genomes. For more information downloading and using CGL go
+[www.yandell-lab.org/cgl](http://www.yandell-lab.org/cgl).
+
+#### Current Release
+
+Get the latest release of CGL from
+[www.yandell-lab.org/cgl](http://www.yandell-lab.org/cgl).
+
+Have a look at the main reference for CGL: Large-Scale Trends in the
+Evolution of Gene Structures within 11 Animal Genomes [Mark
+Yandell](bp:Mark_Yandell "wikilink"), [Chris J.
+Mungall](bp:Chris_Mungall "wikilink"), Chris Smith, Simon Prochnik ,
+Joshua Kaminker, George Hartzell, [Suzanna
+Lewis](bp:Suzanna_Lewis "wikilink") and Gerald M. Rubin. *In press*
+[PloS Computational Biology](http://compbiol.plosjournals.org).
+
+#### Contact us
+
+General questions and comments about CGL should be directed to
+[myandell-at-fruitfly.org](mailto:myandell_AT_fruitfly.org).
+
+### DAS
+
+[DAS](DAS "wikilink")
+
 ### GMOD
 
 *Contributed by [Scott Cain](Scott_Cain "wikilink")*
@@ -341,110 +445,6 @@ data and parameterizing. See \[1\] for a more detailed description.
 framework for bioinformatics
 analyses](http://www.pasteur.fr/~letondal/Mobyle/neron_nettab.pdf),
 poster presented at NETTAB 2005.
-
-### Biopython
-
-*Contributed by Iddo Friedberg [1](http://iddo-friedberg.org)*
-
-Biopython [2](http://biopython.org) has had two releases in 2005, both
-comprising of major additions to the code base. With 518 members
-subscribed to the general mailing list, and 210 on the developers list,
-Biopython has grown to become an important tool for the computational
-biology community. Traffic on the developers list is high, with
-contributions and patches submitted on a weekly basis. Currently the
-project comprises of some 237,000 lines of code.
-
-One of Python's [3](http://python.org) advantages is its ease of use and
-mild learning curve, which makes it an ideal language for life
-scientists who wish to program. However, Biopython's documentation, as
-in many voluntary collaborative projects, has sorely been lagging behind
-development. Thanks to efforts made by a few of our members, the
-documentation basis has been greatly improved. We see the impact of this
-in the mailing list, where many emails start with a variation of "I am
-new to programming and to Python, and I have been using Biopython so far
-and it is great! I just have one problem..." (We sometimes even manage
-to help with that one problem). Ease of use has also made Biopython a
-tool of choice for teaching Bioinformatics
-[4](http://biopython.org/documentation/).
-
-Biopython's ease of use does not mean it is a beginner's tool only.
-Biopython is very comprehensive, having parsers for all major sequence
-formats; mmCIF and PDB parsers for structures; pairwise and multiple
-sequence alignment suites; machine learning tools, and more. Most major
-bioinformatics databases have an associated Biopython module.
-
-About 20 new modules were added in 2005. Notable newcomers are an NCBI
-XML parser, a BLAT parser, a MEME parser... For a full list please see
-the release notes [5](http://biopython.org/).
-
-Several projects which use Biopython in their code base are:
-
--   Joined Assessment of Functional Annotation (JAFA)
-    [6](http://jafa.burnham.org)
--   Text mining tools at Stanford University
-    [7](http://bionlp.stanford.edu/)
--   The **TRA**ns**M**embrane-**P**rotein **L**abelling **E**nvironment
-    from BioDec [8](http://www.biodec.com/products)
--   The upcoming Schneider suite [9](http://schneider.sourceforge.net/)
--   A Google homepage script for calculating oligo melting temperatures:
-    [10](http://www.bioinformatica.info/modules.php?op=modload&name=News&file=article&sid=301&mode=thread&order=0&thold=0)
-
-Many thanks to all the contributors, too numerous to be mentioned here
-[11](http://biopython.org/participants/). The 2005 releases were managed
-by Iddo Friedberg[12](http://iddo-friedberg.org) (1.40 beta) and Michiel
-de Hoon [13](http://bonsai.ims.u-tokyo.ac.jp/~mdehoon/) (1.41).
-
-### DAS
-
-[DAS](DAS "wikilink")
-
-### BioMOBY
-
-*Contributed by [Mark Wilkinson](Mark_Wilkinson "wikilink")*
-
-In 2005, Bio[Moby](Moby "wikilink") enjoyed its most successful year so
-far! This was the year that it emerged from its adolescence as "just an
-amusing prototype", to mature into a serious codebase with a rigorous
-test suite, increasingly comprehensive documentation, and a formal RFC
-procedure for code changes. The number of independent Moby Web Service
-registries has grown to 5 (Canada, Germany, Spain, Australia, and the
-Philippines), and the number of interoperable services in the primary
-public registry at UBC in Vancouver exceeds 500. Powerful and intuitive
-tooling for service providers and for end-users has also become
-available in the past year, lowering the bar for participation and use,
-and greatly enhancing the accessibility of the BioMoby platform for the
-"newbie". The BioMoby community of core developers has doubled this
-year, and we have continued the tradition of having face-to-face
-developers meetings every 6 months to ensure that the project does not
-stagnate. Moby continues to enjoy a strong base of financial support
-from the original Genome Canada award, and from a strong and productive
-collaboration with the UK-based myGrid project, in addition to the many
-participating members worldwide who invest their own resources into
-tooling and core code improvements. We predict that 2006 will be the
-year that BioMoby truly appears on the biologist's radar and starts
-making a difference to the lives of researchers around the world!
-
-### BlipKit
-
-*Contributed by [Chris Mungall](Chris_Mungall "wikilink")*
-
-Blipkit (Biological Logic Programming Knowledge Integration Kit), aka
-Blip, aka BioProlog, is a new addition to the OBF fold. Blip is an
-integrated application programming library and a lightweight deductive
-database system, and contains modules and schemas for representing and
-using various biological and biomedical datatypes, such as sequence
-features, phenotypes, pathways and phylogenies/species taxonomies. Blip
-also has strong support for ontologies (both OBO and OWL).
-
-Some end user scripts and applications are provided, including an AmiGO
-clone. The current software is in alpha, early adopters are encouraged
-to view:
-
-<http://www.blipkit.org>
-
-or the alternate url:
-
-<http://www.bioprolog.org>
 
 ------------------------------------------------------------------------
 
