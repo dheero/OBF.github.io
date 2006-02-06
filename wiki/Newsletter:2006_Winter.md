@@ -12,7 +12,9 @@ Open Bioinformatics Foundation Report
 
 *Jason Stajich*
 
-### 2005 OBF Board Meeting Report
+### 2005 O|B|F Board Meeting Report
+
+"Jason Stajich" & "Hilmar Lapp"
 
 The 2005 Open Bioinformatics Foundation board meeting was held during
 the [BOSC 2005](BOSC_2005 "wikilink") conference in Detroit, MI. Several
