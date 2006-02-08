@@ -435,9 +435,19 @@ GMOD.
 
 #### Chado
 
-*add stuff here from Chris Mungall about chado, including a few adopting
-orgs, like [dictyBase](http://www.dictybase.org/) and
-[ParameciumDB](http://paramecium.cgm.cnrs-gif.fr/db/index)*
+Chado is a relational schema for model organisms designed around the
+principles of modularity and extensibility via ontologies. The sequence
+module lies at the core of the schema, and is used for representing
+genomic features, their relationships and properties. In 2005 the
+phylogeny module was added, and the genetics and phenotypes modules were
+put into use by [FlyBase](http://www.flybase.org/).
+
+*add stuff here from Scott Cain about chado, including a few adopting
+orgs, like [TIGR](http://www.tigr.org/)
+[dictyBase](http://www.dictybase.org/) and
+[ParameciumDB](http://paramecium.cgm.cnrs-gif.fr/db/index).
+[NESCENT](http://www.nescent.org/) are considering Chado for
+evolutionary model organisms*
 
 ### PISE
 
