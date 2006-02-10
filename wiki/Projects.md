@@ -42,6 +42,8 @@ Other related projects
 Ontologies and Definitions
 --------------------------
 
+-   [GO-Perl](http://search.cpan.org/~cmungall/go-perl) - parsers and
+    object model for OBO ontologies
 -   [Chaos-XML](http://www.fruitfly.org/chaos-xml/) - File format based
     on the sequence modules of the Chado relational schema
 -   [Sequence Ontology](http://song.sourceforge.net/)
