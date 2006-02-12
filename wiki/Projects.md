@@ -38,6 +38,7 @@ Other related projects
 -   [BioPHP](http://biophp.org)
 -   [CGL](http://www.yandell-lab.org/cgl/) - Comparative Genomics
     Library
+-   [Wikiomics](http://wikiomics.org) - Bioinformatics wiki
 
 Ontologies and Definitions
 --------------------------
@@ -48,6 +49,5 @@ Ontologies and Definitions
     on the sequence modules of the Chado relational schema
 -   [Sequence Ontology](http://song.sourceforge.net/)
 -   [Gene Ontology](http://geneontology.org/)
--   [Wikiomics](http://wikiomics.org)
 -   [Obol](http://www.fruitfly.org/~cjm/obol/)
 
