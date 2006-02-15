@@ -37,3 +37,10 @@ as a member if you haven't already, and to step up and nominate yourself
 for future elections to the Board. The bylaws also define terms for
 Directors as well as Officers, so seats will come up for election every
 year.
+
+Getting together
+----------------
+
+-   We gather at least once annually at [BOSC](BOSC "wikilink")
+-   We also organize semi-regular [hackathons](hackathon "wikilink")
+
