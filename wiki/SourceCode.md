@@ -60,4 +60,5 @@ contained in the "bioperl-live" package.
 
 `   cvs update`
 
-[Link title](Link_title "wikilink")
+Downloading and updating code via Anonymous Rsync
+-------------------------------------------------
