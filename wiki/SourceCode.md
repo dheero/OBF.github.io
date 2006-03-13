@@ -60,5 +60,5 @@ contained in the "bioperl-live" package.
 
 `   cvs update`
 
-Downloading and updating code via Anonymous Rsync
+Downloading and updating code via Anonymous RSYNC
 -------------------------------------------------
