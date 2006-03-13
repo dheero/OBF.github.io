@@ -9,9 +9,25 @@ This page documents the process of obtaining anonymous [
 CVS](wp:Concurrent_Versions_System "wikilink") or [
 RSYNC](wp:Rsync "wikilink") based access to the source code repositories
 hosted by the Open Bioinformatics Foundation. These methods are useful
-for obtaining cutting edge sourcecode and developer snapshots. Please
-visit the official [Projects](Projects "wikilink") page for links to the
-project websites and downloads of official releases.
+for obtaining cutting edge sourcecode and developer snapshots.
+
+Note to casual users
+--------------------
+
+The methods described here grant access to live snapshots of our current
+code repositories. The files may be in constant flux and certainly do
+not reflect official packages and supported releases.
+
+For downloads of tested and released software, please visit the official
+[Projects](Projects "wikilink") page for links to the project websites
+and download locations.
+
+Note to developers
+------------------
+
+This page describes methods for obtaining **read only** access to the
+latest snapshots of our source code. Updates, fixes and new code **can
+not** be committed or uploaded using the methods described here.
 
 How to browse our latest source code repositories via the web
 -------------------------------------------------------------
