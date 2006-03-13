@@ -60,11 +60,11 @@ contained in the "bioperl-live" package.
 
 `   cvs update`
 
-Downloading and updating code via Anonymous RSYNC
+Downloading and updating code via Anonymous Rsync
 -------------------------------------------------
 
 The code.open-bio.org server also offers up read-only copies of source
-code repositories via anonymous rsync.
+code repositories via anonymous [ rsync](wp:rsync "wikilink").
 
 To see a list of available rsync modules, try this command:
 
