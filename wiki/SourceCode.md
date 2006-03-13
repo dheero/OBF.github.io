@@ -14,8 +14,8 @@ How to browse our latest source code repositories via the web
 
 <http://code.open-bio.org/cgi/viewcvs.cgi>
 
-How to anonymously download code direct from our CVS repositories
------------------------------------------------------------------
+Downloading and updating code via Anonymous CVS
+-----------------------------------------------
 
 (1) Make sure that CVS is installed on your system.
 
