@@ -45,7 +45,7 @@ Downloading and updating code via Anonymous CVS
 `   * `[`/home/repository/biojava`](http://code.open-bio.org/cgi/viewcvs.cgi/?cvsroot=biojava)  
 `   * `[`/home/repository/bioperl`](http://code.open-bio.org/cgi/viewcvs.cgi/?cvsroot=bioperl)  
 `   * `[`/home/repository/biodas`](http://code.open-bio.org/cgi/viewcvs.cgi/?cvsroot=biodas)  
-`   * `[`/home/repository/moby`](http://code.open-bio.org/cgi/viewcvs.cgi/?cvsroot=moby)  
+`   * `[`/home/repository/moby`](http://code.open-bio.org/cgi/viewcvs.cgi/?cvsroot=biomoby)  
 `   * `[`/home/repository/biocorba`](http://code.open-bio.org/cgi/viewcvs.cgi/?cvsroot=biocorba)  
 `   * `[`/home/repository/biosql`](http://code.open-bio.org/cgi/viewcvs.cgi/?cvsroot=biosql)  
 `   * `[`/home/repository/bioruby`](http://code.open-bio.org/cgi/viewcvs.cgi/?cvsroot=bioruby)  
