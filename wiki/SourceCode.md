@@ -9,8 +9,8 @@ This page documents the process of obtaining anonymous CVS or RSYNC
 based access to the source code repositories hosted by the Open
 Bioinformatics Foundation. These methods are useful for obtaining
 cutting edge sourcecode and developer snapshots. Please visit the
-official [Project](Project "wikilink") pages for links to the project
-websites and downloads of official releases.
+official <wp:Project> pages for links to the project websites and
+downloads of official releases.
 
 How to browse our latest source code repositories via the web
 -------------------------------------------------------------
