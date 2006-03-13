@@ -62,3 +62,19 @@ contained in the "bioperl-live" package.
 
 Downloading and updating code via Anonymous RSYNC
 -------------------------------------------------
+
+The code.open-bio.org server also offers up read-only copies of source
+code repositories via anonymous rsync.
+
+To see a list of available rsync modules, try this command:
+
+` rsync `[`rsync://code.open-bio.org`](rsync://code.open-bio.org)
+
+The server will echo back the list of configured repositories. The
+module name is appended to the "::" pattern to indicate to the rsync
+server that a module is being requested.
+
+The following example shows how to obtain the latest Bioperl codebase
+snapshot using anonymous rsync:
+
+` rsync -av code.open-bio.org::cvsbioperl .`
