@@ -6,8 +6,11 @@ Anonymous access to the latest hosted source code repositories
 ==============================================================
 
 This page documents the process of obtaining anonymous CVS or RSYNC
-based access to the source code repositories belonging to the Open
-Bioinformatics Foundation.
+based access to the source code repositories hosted by the Open
+Bioinformatics Foundation. These methods are useful for obtaining
+cutting edge sourcecode and developer snapshots. Please visit the
+official [Project](Project "wikilink") pages for links to the project
+websites and downloads of official releases.
 
 How to browse our latest source code repositories via the web
 -------------------------------------------------------------
@@ -36,7 +39,7 @@ Downloading and updating code via Anonymous CVS
     login to other repositories simply alter
     the /home/repository/(project) information.
 
-`   cvs -d :pserver:cvs@cvs.open-bio.org:/home/repository/bioperl login`  
+`   cvs -d :pserver:cvs@code.open-bio.org:/home/repository/bioperl login`  
 `   when prompted, the password is 'cvs'`
 
 -   Each project CVS repository can have many different packages
@@ -48,7 +51,7 @@ The following command should be executed as one line. The specific
 example shows how to check out the primary bioperl codebase which is
 contained in the "bioperl-live" package.
 
-`   cvs -d :pserver:cvs@cvs.open-bio.org:/home/repository/bioperl checkout bioperl-live`
+`   cvs -d :pserver:cvs@code.open-bio.org:/home/repository/bioperl checkout bioperl-live`
 
 -   The login and checkout procedure should only have to be done once.
     To update the source directories in the future it should be possible
