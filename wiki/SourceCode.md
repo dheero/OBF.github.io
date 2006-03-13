@@ -25,8 +25,7 @@ Downloading and updating code via Anonymous CVS
 
 `   * `[`|`
 `/home/repository/biopython`](http://code.open-bio.org/cgi/viewcvs.cgi/?cvsroot=biopython)  
-`   * `[`|`
-`/home/repository/biojava`](http://code.open-bio.org/cgi/viewcvs.cgi/?cvsroot=biojava)  
+`   * `[`|/home/repository/biojava`](http://code.open-bio.org/cgi/viewcvs.cgi/?cvsroot=biojava)  
 `   * `[`|`
 `/home/repository/bioperl`](http://code.open-bio.org/cgi/viewcvs.cgi/?cvsroot=bioperl)  
 `   * `[`|`
