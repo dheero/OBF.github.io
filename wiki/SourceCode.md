@@ -7,10 +7,7 @@ Anonymous access to the latest hosted source code repositories
 
 This page documents the process of obtaining anonymous CVS or RSYNC
 based access to the source code repositories belonging to the Open
-Bioinformatics Foundation. You can find the "real" project websites by
-following the links at the top of this page, the project websites
-themselves will have download links to the official prepackaged software
-releases.
+Bioinformatics Foundation.
 
 How to browse our latest source code repositories via the web
 -------------------------------------------------------------
