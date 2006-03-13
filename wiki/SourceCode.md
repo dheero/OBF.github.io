@@ -32,10 +32,9 @@ Downloading and updating code via Anonymous CVS
 `   * /home/repository/obf-common `
 
 -   Use the following command (all on one line) to login to the server.
-
-The example below shows how to login to the bioperl repository. To login
-to other repositories simply alter the /home/repository/(project)
-information.
+    The example below shows how to login to the bioperl repository. To
+    login to other repositories simply alter
+    the /home/repository/(project) information.
 
 `   cvs -d :pserver:cvs@cvs.open-bio.org:/home/repository/bioperl login`  
 `   when prompted, the password is 'cvs'`
@@ -51,8 +50,9 @@ contained in the "bioperl-live" package.
 
 `   cvs -d :pserver:cvs@cvs.open-bio.org:/home/repository/bioperl checkout bioperl-live`
 
-The login and checkout procedure should only have to be done once. To
-update the source directories in the future it should be possible just
-to enter the top level directory and issue the following command:
+-   The login and checkout procedure should only have to be done once.
+    To update the source directories in the future it should be possible
+    just to enter the top level directory and issue the following
+    command:
 
 `   cvs update`
