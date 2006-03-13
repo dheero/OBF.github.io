@@ -23,16 +23,16 @@ Downloading and updating code via Anonymous CVS
 -   Make sure that CVS is installed on your system.
 -   Pick the repository that you wish to use
 
-`   * /home/repository/biopython`  
-`   * /home/repository/biojava`  
-`   * /home/repository/bioperl`  
-`   * /home/repository/biodas`  
-`   * /home/repository/moby`  
-`   * /home/repository/biocorba`  
-`   * /home/repository/biosql`  
-`   * /home/repository/bioruby`  
-`   * /home/repository/emboss`  
-`   * /home/repository/obf-common `
+`   * [`[`http://code.open-bio.org/cgi/viewcvs.cgi/?cvsroot=biopython`](http://code.open-bio.org/cgi/viewcvs.cgi/?cvsroot=biopython)`| /home/repository/biopython]`  
+`   * [`[`http://code.open-bio.org/cgi/viewcvs.cgi/?cvsroot=biojava`](http://code.open-bio.org/cgi/viewcvs.cgi/?cvsroot=biojava)`| /home/repository/biojava]`  
+`   * [`[`http://code.open-bio.org/cgi/viewcvs.cgi/?cvsroot=bioperl`](http://code.open-bio.org/cgi/viewcvs.cgi/?cvsroot=bioperl)`| /home/repository/bioperl]`  
+`   * [`[`http://code.open-bio.org/cgi/viewcvs.cgi/?cvsroot=biodas`](http://code.open-bio.org/cgi/viewcvs.cgi/?cvsroot=biodas)`| /home/repository/biodas]`  
+`   * [`[`http://code.open-bio.org/cgi/viewcvs.cgi/?cvsroot=moby`](http://code.open-bio.org/cgi/viewcvs.cgi/?cvsroot=moby)`| /home/repository/moby]`  
+`   * [`[`http://code.open-bio.org/cgi/viewcvs.cgi/?cvsroot=biocorba`](http://code.open-bio.org/cgi/viewcvs.cgi/?cvsroot=biocorba)`| /home/repository/biocorba]`  
+`   * [`[`http://code.open-bio.org/cgi/viewcvs.cgi/?cvsroot=biosql`](http://code.open-bio.org/cgi/viewcvs.cgi/?cvsroot=biosql)`| /home/repository/biosql]`  
+`   * [`[`http://code.open-bio.org/cgi/viewcvs.cgi/?cvsroot=bioruby`](http://code.open-bio.org/cgi/viewcvs.cgi/?cvsroot=bioruby)`| /home/repository/bioruby]`  
+`   * [`[`http://code.open-bio.org/cgi/viewcvs.cgi/?cvsroot=emboss`](http://code.open-bio.org/cgi/viewcvs.cgi/?cvsroot=emboss)`| /home/repository/emboss]`  
+`   * [`[`http://code.open-bio.org/cgi/viewcvs.cgi/?cvsroot=obf-common`](http://code.open-bio.org/cgi/viewcvs.cgi/?cvsroot=obf-common)`| /home/repository/obf-common] `
 
 -   Use the following command (all on one line) to login to the server.
     The example below shows how to login to the bioperl repository. To
