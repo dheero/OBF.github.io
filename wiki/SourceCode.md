@@ -18,10 +18,7 @@ Downloading and updating code via Anonymous CVS
 -----------------------------------------------
 
 1.  Make sure that CVS is installed on your system.
-
-<!-- -->
-
-1.  Pick the repository that you wish to use
+2.  Pick the repository that you wish to use
 
 `   * /home/repository/biopython`  
 `   * /home/repository/biojava`  
