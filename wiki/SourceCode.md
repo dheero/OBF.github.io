@@ -12,11 +12,13 @@ following the links at the top of this page, the project websites
 themselves will have download links to the official prepackaged software
 releases.
 
-How to browse our code repositories via the web:
+How to browse our latest source code repositories via the web
+-------------------------------------------------------------
 
-Go to: <http://cvs.open-bio.org/cgi-bin/viewcvs/viewcvs.cgi>
+<http://code.open-bio.org/cgi/viewcvs.cgi>
 
-How to anonymously download code direct from our CVS repositories:
+How to anonymously download code direct from our CVS repositories
+-----------------------------------------------------------------
 
 (1) Make sure that CVS is installed on your system.
 
