@@ -57,9 +57,9 @@ Downloading and updating code via Anonymous CVS
     login to other repositories simply alter
     the /home/repository/(project) information.
 
-`   cvs -d :pserver:cvs@code.open-bio.org:/home/repository/bioperl login`  
-`   when prompted, the password is 'cvs'`
+`   cvs -d :pserver:cvs@code.open-bio.org:/home/repository/bioperl login`
 
+-   When prompted, the password is 'cvs'
 -   Each project CVS repository can have many different packages
     available for download. You may need to browse the web interface for
     a bit to determine the packages of interest. After a successful
