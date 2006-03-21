@@ -4,3 +4,7 @@ title: Deprecated BioPipe
 
 The BioPipe Project has been discontinued
 =========================================
+
+We will slowly start bringing back sections of the biopipe website
+including the docs, howtos and download areas as we continue our server,
+software and services migration.
