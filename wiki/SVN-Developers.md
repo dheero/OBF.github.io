@@ -23,6 +23,15 @@ authenticate via encrypted SSH sessions before svnserver is invoked. In
 this scenario svnserver is launched in tunnel mode and runs <em>as the
 user who invoked it</em>.
 
+=== Public SVN Access ==
+
+Not implemented yet. We will set up a standalone anonymous SVN server
+for public read-only access to hosted repositories. It will function the
+same way that <http://code.open-bio.org> currently provides anonymous
+CVS and RSYNC access to the public. It is highly likely, in fact, that
+when we deploy public SVN access it will be via
+<http://code.open-bio.org>.
+
 Hosted repositories
 -------------------
 
