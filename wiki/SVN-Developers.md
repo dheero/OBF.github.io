@@ -28,6 +28,8 @@ Hosted repositories
 
 ### blipkit
 
-Blipkit access is achieved via methods such as this: `
-svn checkout svn+ssh://dev.open-bio.org/home/svn-repositories/blipkit
-`
+Blipkit access is achieved via methods such as this:
+
+    <code>
+    svn checkout svn+ssh://dev.open-bio.org/home/svn-repositories/blipkit
+    </code>
