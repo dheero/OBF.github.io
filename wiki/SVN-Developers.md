@@ -23,7 +23,7 @@ authenticate via encrypted SSH sessions before svnserver is invoked. In
 this scenario svnserver is launched in tunnel mode and runs <em>as the
 user who invoked it</em>.
 
-=== Public SVN Access ==
+### Public SVN Access
 
 Not implemented yet. We will set up a standalone anonymous SVN server
 for public read-only access to hosted repositories. It will function the
