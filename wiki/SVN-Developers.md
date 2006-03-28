@@ -35,5 +35,5 @@ Blipkit access is achieved via methods such as this:
 Additional SVN documentation
 ----------------------------
 
-[| Version Control with
+[Version Control with
 SVN](http://svnbook.red-bean.com/en/1.1/index.html)
