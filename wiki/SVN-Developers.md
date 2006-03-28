@@ -28,7 +28,7 @@ Hosted repositories
 
 ### blipkit
 
-Blipkit access is achieved via methods such as this:
+Blipkit developer access is achieved only via an SSH tunnel:
 
     svn checkout svn+ssh://dev.open-bio.org/home/svn-repositories/blipkit
 
