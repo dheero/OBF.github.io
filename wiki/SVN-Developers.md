@@ -26,6 +26,8 @@ user who invoked it</em>.
 Hosted repositories
 -------------------
 
-===blipkit== Blipkit access is achieved via methods such as this: `
+### blipkit
+
+Blipkit access is achieved via methods such as this: `
 svn checkout svn+ssh://dev.open-bio.org/home/svn-repositories/blipkit
 `
