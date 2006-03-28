@@ -23,6 +23,15 @@ authenticate via encrypted SSH sessions before svnserver is invoked. In
 this scenario svnserver is launched in tunnel mode and runs <em>as the
 user who invoked it</em>.
 
+The SVN client protocol makes <b>multiple</b> connections to the
+svnserver binary. Since we only allow access via SSH this means you may
+be prompted for you developer password <b>several times</b> during any
+SVN action, including a simple checkout. The easiest way to remove the
+multiple password prompts is to set up your ssh-agent process or make
+use of SSH keypairs for passwordless access via public key encryption.
+For assistance in setting this up, email the OBF Helpdesk at <em>support
+at open-bio.org</em>.
+
 ### Public SVN Access
 
 Not implemented yet. We will set up a standalone anonymous SVN server
