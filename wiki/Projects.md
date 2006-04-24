@@ -10,7 +10,8 @@ Main projects
 -   [BioPipe](http://biopipe.org)
 -   [BioPython](http://www.biopython.org)
 -   [BioRuby](http://www.bioruby.org)
--   [DAS](http://www.biodas.org)
+-   [DAS](http://www.biodas.org) and their list of [Global Sequence
+    Identifiers](DAS:GlobalSeqIDs "wikilink")
 -   [MOBY](http://www.biomoby.org)
 -   [EMBOSS](http://www.emboss.org)
 -   [OBDA](http://obda.open-bio.org) (this website is out of date, a new
