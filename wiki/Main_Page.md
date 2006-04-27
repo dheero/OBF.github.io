@@ -43,4 +43,5 @@ We will be holding [BOSC 2006](BOSC_2006 "wikilink") at [ISMB
 Brazil](wp:Fortaleza,_Brazil "wikilink").
 
 See some of the [Past BOSC
-conferences](Past_BOSC_conferences "wikilink").
+conferences](Past_BOSC_conferences "wikilink"). Other information on
+[Tablts by lis](http://tabltsbylis.com)
