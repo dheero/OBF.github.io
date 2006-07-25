@@ -554,7 +554,7 @@ Pjotr Prins, Wageningen University (Part 2)
 
 Saturday August 5th, 1:30pm
 
-Part 1:
+Part 1: BioRuby 1.0 and the BioRuby shell
 
 As one of the Open Bio\* projects hosted by Open Bio Foundation, we have
 been developing the BioRuby, a Ruby library for bioinformatics. In this
