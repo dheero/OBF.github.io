@@ -547,10 +547,10 @@ Public License (LGPL) at <http://sourceforge.net/projects/xmlpipedb>.
 BioRuby
 -------
 
-Part 1: Toshiaki Katayama, Human Genome Center, Institute of Medical
-Science, University of Tokyo
+Toshiaki Katayama, Human Genome Center, Institute of Medical Science,
+University of Tokyo (Part 1)
 
-Part 2: Pjotr Prins, Wageningen University
+Pjotr Prins, Wageningen University (Part 2)
 
 Saturday August 5th, 1:30pm
 
