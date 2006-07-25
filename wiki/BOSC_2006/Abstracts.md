@@ -554,12 +554,14 @@ Part 2: Pjotr Prins, Wageningen University
 
 Saturday August 5th, 1:30pm
 
-Part 1: As one of the Open Bio\* projects hosted by Open Bio Foundation,
-we have been developing the BioRuby, a Ruby library for bioinformatics.
-In this February, we have released the BioRuby version 1.0 coming with
-various new features, bug fixes, unit tests and documentations. In this
-talk, I will describe what we have achived with the 1.0 release and our
-future plans.
+Part 1:
+
+As one of the Open Bio\* projects hosted by Open Bio Foundation, we have
+been developing the BioRuby, a Ruby library for bioinformatics. In this
+February, we have released the BioRuby version 1.0 coming with various
+new features, bug fixes, unit tests and documentations. In this talk, I
+will describe what we have achived with the 1.0 release and our future
+plans.
 
 The Open Bio\* libraries have been successful as toolkits to develop
 customized bioinformatics pipelines, however, it was still difficult for
@@ -585,14 +587,15 @@ and Prins improved the English version. Wennblom launched
 <http://bioruby-doc.org/> site to develop further BioRuby
 documentations.
 
-Part 2: With the world wide Ruby user base growing (in part thanks to
-Ruby on Rails) we are putting an effort in to increase the adoption of
-Ruby in bio-informatics by both improving the documentation of the
-BioRuby project and dedicating a significant section to Bio-informatics
-on the SciRuby project: a portal for all things scientific and Ruby. The
-latter an initiative of the Pragmatic Bookshelf team - which is planned
-to lead to a book on Ruby in science (see
-<http://sciruby.codeforpeople.com/>).
+Part 2:
+
+With the world wide Ruby user base growing (in part thanks to Ruby on
+Rails) we are putting an effort in to increase the adoption of Ruby in
+bio-informatics by both improving the documentation of the BioRuby
+project and dedicating a significant section to Bio-informatics on the
+SciRuby project: a portal for all things scientific and Ruby. The latter
+an initiative of the Pragmatic Bookshelf team - which is planned to lead
+to a book on Ruby in science (see <http://sciruby.codeforpeople.com/>).
 
 In this talk we present two open source initiatives namely TaxonSearch -
 a BLAST post- processor for the genomic mining of taxonomic information
