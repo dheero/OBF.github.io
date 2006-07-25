@@ -10,6 +10,7 @@ title: BOSC 2006/Lightning Talks Saturday
 | 3:00pm | Kazuharu Arakawa: G-language Project Update                                         |
 | 3:10pm | Alberto Labarga: EBI SOAP WebServices                                               |
 | 3:20pm | Stephen Gordon Lenk: MCPrimers                                                      |
+| 3:30pm | Coffee                                                                              |
 | 4:00pm | Kevin Clancy: Matched Reagents Database                                             |
 
 
