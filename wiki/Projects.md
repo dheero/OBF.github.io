@@ -44,6 +44,8 @@ Other related projects
 Ontologies and Definitions
 --------------------------
 
+-   [Cyclone](http://nemo-cyclone.sourceforge.net) - provides an open
+    source Java API to the pathway tool BioCyc.
 -   [GO-Perl](http://search.cpan.org/~cmungall/go-perl) - parsers and
     object model for OBO ontologies
 -   [Chaos-XML](http://www.fruitfly.org/chaos-xml/) - File format based
