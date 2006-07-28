@@ -582,8 +582,8 @@ research assis- tant at the National Geophysical Data Centre (NGDC).
 NESCent
 -------
 
-Hilmar Lapp, Ph.D. National Evolutionary Synthesis Center (NESCent),
-Durham, NC
+Hilmar Lapp, Todd Vision, National Evolutionary Synthesis Center
+(NESCent), Durham, NC
 
 Saturday August 5th, 1:30pm
 
