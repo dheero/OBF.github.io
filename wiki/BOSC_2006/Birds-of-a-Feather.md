@@ -9,7 +9,8 @@ Talk-Name (summary)
 
 1. BioMOBY
                                                                                                                                                                                         
-Friday from 5 P.M. onwards
+\[BOSC\_2006/Birds\_Of\_A\_Feather\_Friday | Friday\] from 5 P.M.
+onwards
                                                                    no
 clue yet.
 
