@@ -9,7 +9,7 @@ Talk-Name (summary)
 
 1. BioMOBY
                                                                                                                                                                                         
-\[BOSC\_2006/Birds\_Of\_A\_Feather\_Friday | Friday\] from 5 P.M.
+[ Friday](BOSC_2006/Birds_Of_A_Feather_Friday "wikilink") from 5 P.M.
 onwards
                                                                    no
 clue yet.
