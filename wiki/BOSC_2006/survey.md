@@ -32,6 +32,10 @@ Long Talks: 1 2 3
 Lightning Talks: 1 2 3  
 BoFs: 1 2 3  
   
+8. Please rate the following, 1 being extremely useful, 3 being no use
+at all: BOSC event-db RSS: 1 2 3  
+BOSC Blog:1 2 3  
+  
 8. The BOSC organizing committee are constantly thinking about new
 formats for the meeting.  
 With 1 being the best, and 5 being the worst, please rank the following
