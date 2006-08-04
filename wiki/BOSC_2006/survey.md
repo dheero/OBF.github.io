@@ -57,7 +57,7 @@ very poor poor alright good very good
   
   
   
-12. At this stage, are you planning to attend BOSC 2006? Yes No  
+12. At this stage, are you planning to attend BOSC 2007? Yes No  
   
   
   
