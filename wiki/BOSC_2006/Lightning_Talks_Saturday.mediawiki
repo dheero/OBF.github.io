@@ -17,9 +17,12 @@
 | 3:10pm
 | Kevin Clancy: Matched Reagents Database
 |-
+| 3:20pm
+| Reinhard Simon: Visualizing SSR data from a Genbank
+|-
 | 3:30pm
 | Coffee
 |-
 | 4:00pm
-| Reinhard Simon: Visualizing SSR data from a Genbank
+| Fumikazu KONISHI: RIKEN Ajax Browser Computing (RABC), A Pervasive Infrastructure for Browser Computing.
 |}
