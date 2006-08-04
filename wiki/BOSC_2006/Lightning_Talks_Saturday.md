@@ -12,5 +12,6 @@ title: BOSC 2006/Lightning Talks Saturday
 | 3:20pm | Stephen Gordon Lenk: MCPrimers                                                      |
 | 3:30pm | Coffee                                                                              |
 | 4:00pm | Kevin Clancy: Matched Reagents Database                                             |
+| 4:20pm | Reinhard Simon: Visualizing SSR data from a Genbank                                 |
 
 
