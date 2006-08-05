@@ -6,8 +6,10 @@ BOSC 2006 Evaluation Form
 -------------------------
 
 1. Which best describes your background?:  
-Biologist Bioinformatician ComputerScientist Other (please specify
+Biologist Bioinformatician Computer Scientist Other (please specify
 below)  
+  
+  
   
 2. Which type of delegate are you at BOSC/ISMB?:  
 Academic/Government Student Coorporate  
