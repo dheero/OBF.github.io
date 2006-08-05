@@ -6,12 +6,6 @@
 | Michel Kerszberg: ctrl- Dev : a computing tool to study the mechanics of the embryo
 |-
 | 2:40pm
-| Jay Bergeron: A Tool for Laboratory Automation
-|-
-| 2:50pm
-| Kazuharu Arakawa: G-language Project Update
-|-
-| 3:00pm
 | Alberto Labarga: EBI SOAP WebServices
 |-
 | 3:10pm
@@ -21,8 +15,11 @@
 | Reinhard Simon: Visualizing SSR data from a Genbank
 |-
 | 3:30pm
-| Coffee
+| Kazuharu Arakawa: G-language Project Update
 |-
-| 4:00pm
+| 3:40pm
 | Fumikazu Konishi: RIKEN Ajax Browser Computing (RABC), A Pervasive Infrastructure for Browser Computing.
+|-
+| 3:50pm
+| Coffee
 |}
