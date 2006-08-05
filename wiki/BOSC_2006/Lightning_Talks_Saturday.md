@@ -11,6 +11,6 @@ title: BOSC 2006/Lightning Talks Saturday
 | 3:10pm | Kevin Clancy: Matched Reagents Database                                                                  |
 | 3:20pm | Reinhard Simon: Visualizing SSR data from a Genbank                                                      |
 | 3:30pm | Coffee                                                                                                   |
-| 4:00pm | Fumikazu KONISHI: RIKEN Ajax Browser Computing (RABC), A Pervasive Infrastructure for Browser Computing. |
+| 4:00pm | Fumikazu Konishi: RIKEN Ajax Browser Computing (RABC), A Pervasive Infrastructure for Browser Computing. |
 
 
