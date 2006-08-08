@@ -7,13 +7,13 @@ the planning of BOSC 2007.
 
 BOSC Mandate:
 
-1.  Provide a forum for Open Source Bioinformatics Developers to meet
-    and network to discuss current projects, and possibly hatch new
-    projects based on percieved needs within the developer community.
-2.  Provide a forum for users of Open Source Software to interact with,
-    or even get involved with the developer community.
-3.  Educate the research community on the value and need for Open
-    Source Software.
+1.  provide developers with a forum for displaying the results of their
+    development efforts to the wider research community;
+2.  provide a focused environment for developers and users to interact
+    and share ideas about software development, and practical techniques
+    in bioinformatics;
+3.  Inform the Research Community of important developments occuring
+    within the Open Source Bioinformatics Developer community.
 
 To this end, the BOSC conference must endeavor to meet these goals using
 the 16 hours of time that we are alloted during the two day ISMB SIG.
@@ -54,4 +54,19 @@ Comments/questions to consider:
     completely taking over the conference for their own purposes?
 3.  How do we ensure that BOSC stays relevant to the wider ISMB-SIG
     audience? Is this important?
+
+ideas
+-----
+
+1.  Create A Developer Challenge Forum. The year before BOSC (possibly
+    at the end of each BOSC), teams of developers would be called on to
+    submit a proposal for the development of a significant
+    software product. Each team would be given a wiki on the upcoming
+    BOSC 2XXX wiki site where they would communicate significant
+    problems, resolutions, and achievements. At BOSC, there could be a
+    session where these teams present the results of their work. If we
+    had outside funding, we might be able to award travel fellowships to
+    the team voted to have done the best work by the BOSC community, but
+    we might need other criteria to be met before they could be entered
+    into the competition?
 
