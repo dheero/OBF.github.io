@@ -17,26 +17,6 @@ BOSC Mandate:
 
 To this end, the BOSC conference must endeavor to meet these goals using
 the 16 hours of time that we are alloted during the two day ISMB SIG.
-Some suggestions that I have recieved for how to do this are:
-
-1.  Create separate sessions for different categories of talks. These
-    should include, but not be limited to, a section for project updates
-    by the developers of various projects. Define better requirements
-    for acceptance of submission to each of the talk sessions, and
-    communicate these requirements in the call for speakers.
-2.  Shorten the talk times, to allow more time for discussion
-    and questions.
-3.  Expand on the idea of the keynote speaker. Create a special session
-    for invited speakers. Call for greater involvement from the Open
-    Source Developer community to decide which areas to concentrate on,
-    and which experts to invite.
-4.  Organize a forum for informal, relaxed discussion and socializing
-    among BOSC attendees, such as a dinner or visit to a local pub after
-    the days activities.
-5.  Organize a forum for inter-SIG collaboration. Possibly create a slot
-    to allow someone from the other SIGs to present needs, ideas to the
-    Open Source Community, while also supporting the export of our own
-    ideas to their SIGs.
 
 Comments/questions to consider:
 
@@ -58,7 +38,25 @@ Comments/questions to consider:
 ideas
 -----
 
-1.  Create A Developer Challenge Forum. The year before BOSC (possibly
+1.  Create separate sessions for different categories of talks. These
+    should include, but not be limited to, a section for project updates
+    by the developers of various projects. Define better requirements
+    for acceptance of submission to each of the talk sessions, and
+    communicate these requirements in the call for speakers.
+2.  Shorten the talk times, to allow more time for discussion
+    and questions.
+3.  Expand on the idea of the keynote speaker. Create a special session
+    for invited speakers. Call for greater involvement from the Open
+    Source Developer community to decide which areas to concentrate on,
+    and which experts to invite.
+4.  Organize a forum for informal, relaxed discussion and socializing
+    among BOSC attendees, such as a dinner or visit to a local pub after
+    the days activities.
+5.  Organize a forum for inter-SIG collaboration. Possibly create a slot
+    to allow someone from the other SIGs to present needs, ideas to the
+    Open Source Community, while also supporting the export of our own
+    ideas to their SIGs.
+6.  Create A Developer Challenge Forum. The year before BOSC (possibly
     at the end of each BOSC), teams of developers would be called on to
     submit a proposal for the development of a significant
     software product. Each team would be given a wiki on the upcoming
