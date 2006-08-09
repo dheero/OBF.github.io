@@ -67,6 +67,10 @@ ideas
     the team voted to have done the best work by the BOSC community, but
     we might need other criteria to be met before they could be entered
     into the competition?
+7.  Do more targeted invitations to people who would give
+    interesting talks. Hilmar pointed out the zebrafish project does
+    usability testing including videotaping people using their system. I
+    would be interested in knowing more about that.
 
 Thoughts from Andrew
 --------------------
