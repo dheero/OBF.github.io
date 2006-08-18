@@ -51,8 +51,8 @@ and the name for the individual segments are
     http://www.ncbi.nlm.nih.gov/genome/H_sapiens/B33/dna/chr22
     http://www.ncbi.nlm.nih.gov/genome/H_sapiens/B33/dna/chrX
     http://www.ncbi.nlm.nih.gov/genome/H_sapiens/B33/dna/chrY
-    http://www.ncbi.nlm.nih.gov/genome/H_sapiens/B33/dna/chrMT
-    http://www.ncbi.nlm.nih.gov/genome/H_sapiens/B33/dna/chrUn
+    http://www.ncbi.nlm.nih.gov/genome/H_sapiens/B33/dna/chrM
+    http://www.ncbi.nlm.nih.gov/genome/H_sapiens/B33/dna/chrUn_random
 
 #### Release 34.1 14 October 2003
 
@@ -86,8 +86,8 @@ and the name for the individual segments are
     http://www.ncbi.nlm.nih.gov/genome/H_sapiens/B34.1/dna/chr22
     http://www.ncbi.nlm.nih.gov/genome/H_sapiens/B34.1/dna/chrX
     http://www.ncbi.nlm.nih.gov/genome/H_sapiens/B34.1/dna/chrY
-    http://www.ncbi.nlm.nih.gov/genome/H_sapiens/B34.1/dna/chrMT
-    http://www.ncbi.nlm.nih.gov/genome/H_sapiens/B34.1/dna/chrUn
+    http://www.ncbi.nlm.nih.gov/genome/H_sapiens/B34.1/dna/chrM
+    http://www.ncbi.nlm.nih.gov/genome/H_sapiens/B34.1/dna/chrUn_random
 
 #### Release 34.2 28 January 2004
 
@@ -121,8 +121,8 @@ and the name for the individual segments are
     http://www.ncbi.nlm.nih.gov/genome/H_sapiens/B34.2/dna/chr22
     http://www.ncbi.nlm.nih.gov/genome/H_sapiens/B34.2/dna/chrX
     http://www.ncbi.nlm.nih.gov/genome/H_sapiens/B34.2/dna/chrY
-    http://www.ncbi.nlm.nih.gov/genome/H_sapiens/B34.2/dna/chrMT
-    http://www.ncbi.nlm.nih.gov/genome/H_sapiens/B34.2/dna/chrUn
+    http://www.ncbi.nlm.nih.gov/genome/H_sapiens/B34.2/dna/chrM
+    http://www.ncbi.nlm.nih.gov/genome/H_sapiens/B34.2/dna/chrUn_random
 
 #### Release 34.3 10 March 2004
 
@@ -156,8 +156,8 @@ and the name for the individual segments are
     http://www.ncbi.nlm.nih.gov/genome/H_sapiens/B34.3/dna/chr22
     http://www.ncbi.nlm.nih.gov/genome/H_sapiens/B34.3/dna/chrX
     http://www.ncbi.nlm.nih.gov/genome/H_sapiens/B34.3/dna/chrY
-    http://www.ncbi.nlm.nih.gov/genome/H_sapiens/B34.3/dna/chrMT
-    http://www.ncbi.nlm.nih.gov/genome/H_sapiens/B34.3/dna/chrUn
+    http://www.ncbi.nlm.nih.gov/genome/H_sapiens/B34.3/dna/chrM
+    http://www.ncbi.nlm.nih.gov/genome/H_sapiens/B34.3/dna/chrUn_random
 
 #### Release 35.1 26 August 2004
 
@@ -191,8 +191,8 @@ and the name for the individual segments are
     http://www.ncbi.nlm.nih.gov/genome/H_sapiens/B35.1/dna/chr22
     http://www.ncbi.nlm.nih.gov/genome/H_sapiens/B35.1/dna/chrX
     http://www.ncbi.nlm.nih.gov/genome/H_sapiens/B35.1/dna/chrY
-    http://www.ncbi.nlm.nih.gov/genome/H_sapiens/B35.1/dna/chrMT
-    http://www.ncbi.nlm.nih.gov/genome/H_sapiens/B35.1/dna/chrUn
+    http://www.ncbi.nlm.nih.gov/genome/H_sapiens/B35.1/dna/chrM
+    http://www.ncbi.nlm.nih.gov/genome/H_sapiens/B35.1/dna/chrUn_random
 
 #### Release 36.1 9 March 2006
 
@@ -226,8 +226,8 @@ and the name for the individual segments are
     http://www.ncbi.nlm.nih.gov/genome/H_sapiens/B36.1/dna/chr22
     http://www.ncbi.nlm.nih.gov/genome/H_sapiens/B36.1/dna/chrX
     http://www.ncbi.nlm.nih.gov/genome/H_sapiens/B36.1/dna/chrY
-    http://www.ncbi.nlm.nih.gov/genome/H_sapiens/B36.1/dna/chrMT
-    http://www.ncbi.nlm.nih.gov/genome/H_sapiens/B36.1/dna/chrUn
+    http://www.ncbi.nlm.nih.gov/genome/H_sapiens/B36.1/dna/chrM
+    http://www.ncbi.nlm.nih.gov/genome/H_sapiens/B36.1/dna/chrUn_random
 
 ### D. melanogaster
 
@@ -1029,7 +1029,8 @@ and the name for the individual segments are
     http://www.ncbi.nlm.nih.gov/genome/M_musculus/32.1/dna/chr19
     http://www.ncbi.nlm.nih.gov/genome/M_musculus/32.1/dna/chrX
     http://www.ncbi.nlm.nih.gov/genome/M_musculus/32.1/dna/chrY
-    http://www.ncbi.nlm.nih.gov/genome/M_musculus/32.1/dna/chrUn
+    http://www.ncbi.nlm.nih.gov/genome/M_musculus/32.1/dna/chrM
+    http://www.ncbi.nlm.nih.gov/genome/M_musculus/32.1/dna/chrUn_random
 
 #### Release 33.1 2 Sep 2004
 
@@ -1060,8 +1061,8 @@ and the name for the individual segments are
     http://www.ncbi.nlm.nih.gov/genome/M_musculus/33.1/dna/chr19
     http://www.ncbi.nlm.nih.gov/genome/M_musculus/33.1/dna/chrX
     http://www.ncbi.nlm.nih.gov/genome/M_musculus/33.1/dna/chrY
-    http://www.ncbi.nlm.nih.gov/genome/M_musculus/33.1/dna/chrMT
-    http://www.ncbi.nlm.nih.gov/genome/M_musculus/33.1/dna/chrUn
+    http://www.ncbi.nlm.nih.gov/genome/M_musculus/33.1/dna/chrM
+    http://www.ncbi.nlm.nih.gov/genome/M_musculus/33.1/dna/chrUn_random
 
 #### Release 34.1 19 May 2005
 
@@ -1092,8 +1093,8 @@ and the name for the individual segments are
     http://www.ncbi.nlm.nih.gov/genome/M_musculus/34.1/dna/chr19
     http://www.ncbi.nlm.nih.gov/genome/M_musculus/34.1/dna/chrX
     http://www.ncbi.nlm.nih.gov/genome/M_musculus/34.1/dna/chrY
-    http://www.ncbi.nlm.nih.gov/genome/M_musculus/34.1/dna/chrMT
-    http://www.ncbi.nlm.nih.gov/genome/M_musculus/34.1/dna/chrUn
+    http://www.ncbi.nlm.nih.gov/genome/M_musculus/34.1/dna/chrM
+    http://www.ncbi.nlm.nih.gov/genome/M_musculus/34.1/dna/chrUn_random
 
 #### Release 35.1 12 December 2005
 
@@ -1124,8 +1125,8 @@ and the name for the individual segments are
     http://www.ncbi.nlm.nih.gov/genome/M_musculus/35.1/dna/chr19
     http://www.ncbi.nlm.nih.gov/genome/M_musculus/35.1/dna/chrX
     http://www.ncbi.nlm.nih.gov/genome/M_musculus/35.1/dna/chrY
-    http://www.ncbi.nlm.nih.gov/genome/M_musculus/35.1/dna/chrMT
-    http://www.ncbi.nlm.nih.gov/genome/M_musculus/35.1/dna/chrUn
+    http://www.ncbi.nlm.nih.gov/genome/M_musculus/35.1/dna/chrM
+    http://www.ncbi.nlm.nih.gov/genome/M_musculus/35.1/dna/chrUn_random
 
 #### Release 36.1 8 May 2006
 
@@ -1156,8 +1157,8 @@ and the name for the individual segments are
     http://www.ncbi.nlm.nih.gov/genome/M_musculus/36.1/dna/chr19
     http://www.ncbi.nlm.nih.gov/genome/M_musculus/36.1/dna/chrX
     http://www.ncbi.nlm.nih.gov/genome/M_musculus/36.1/dna/chrY
-    http://www.ncbi.nlm.nih.gov/genome/M_musculus/36.1/dna/chrMT
-    http://www.ncbi.nlm.nih.gov/genome/M_musculus/36.1/dna/chrUn
+    http://www.ncbi.nlm.nih.gov/genome/M_musculus/36.1/dna/chrM
+    http://www.ncbi.nlm.nih.gov/genome/M_musculus/36.1/dna/chrUn_random
 
 ### S. cerevisiae
 
@@ -1169,23 +1170,23 @@ The name for the assembly is
 
 and the name for the individual segments are
 
-    http://www.yeastgenome.org/genome/S_cerevisiae/20020505/dna/chr01
-    http://www.yeastgenome.org/genome/S_cerevisiae/20020505/dna/chr02
-    http://www.yeastgenome.org/genome/S_cerevisiae/20020505/dna/chr03
-    http://www.yeastgenome.org/genome/S_cerevisiae/20020505/dna/chr04
-    http://www.yeastgenome.org/genome/S_cerevisiae/20020505/dna/chr05
-    http://www.yeastgenome.org/genome/S_cerevisiae/20020505/dna/chr06
-    http://www.yeastgenome.org/genome/S_cerevisiae/20020505/dna/chr07
-    http://www.yeastgenome.org/genome/S_cerevisiae/20020505/dna/chr08
-    http://www.yeastgenome.org/genome/S_cerevisiae/20020505/dna/chr09
-    http://www.yeastgenome.org/genome/S_cerevisiae/20020505/dna/chr10
-    http://www.yeastgenome.org/genome/S_cerevisiae/20020505/dna/chr11
-    http://www.yeastgenome.org/genome/S_cerevisiae/20020505/dna/chr12
-    http://www.yeastgenome.org/genome/S_cerevisiae/20020505/dna/chr13
-    http://www.yeastgenome.org/genome/S_cerevisiae/20020505/dna/chr14
-    http://www.yeastgenome.org/genome/S_cerevisiae/20020505/dna/chr15
-    http://www.yeastgenome.org/genome/S_cerevisiae/20020505/dna/chr16
-    http://www.yeastgenome.org/genome/S_cerevisiae/20020505/dna/chrmt
+    http://www.yeastgenome.org/genome/S_cerevisiae/20020505/dna/chrI
+    http://www.yeastgenome.org/genome/S_cerevisiae/20020505/dna/chrII
+    http://www.yeastgenome.org/genome/S_cerevisiae/20020505/dna/chrIII
+    http://www.yeastgenome.org/genome/S_cerevisiae/20020505/dna/chrIV
+    http://www.yeastgenome.org/genome/S_cerevisiae/20020505/dna/chrV
+    http://www.yeastgenome.org/genome/S_cerevisiae/20020505/dna/chrVI
+    http://www.yeastgenome.org/genome/S_cerevisiae/20020505/dna/chrVII
+    http://www.yeastgenome.org/genome/S_cerevisiae/20020505/dna/chrVIII
+    http://www.yeastgenome.org/genome/S_cerevisiae/20020505/dna/chrIX
+    http://www.yeastgenome.org/genome/S_cerevisiae/20020505/dna/chrX
+    http://www.yeastgenome.org/genome/S_cerevisiae/20020505/dna/chrXI
+    http://www.yeastgenome.org/genome/S_cerevisiae/20020505/dna/chrXII
+    http://www.yeastgenome.org/genome/S_cerevisiae/20020505/dna/chrXIII
+    http://www.yeastgenome.org/genome/S_cerevisiae/20020505/dna/chrXIV
+    http://www.yeastgenome.org/genome/S_cerevisiae/20020505/dna/chrXV
+    http://www.yeastgenome.org/genome/S_cerevisiae/20020505/dna/chrXVI
+    http://www.yeastgenome.org/genome/S_cerevisiae/20020505/dna/chrMito
 
 #### Release 20030103 3 January 2003
 
@@ -1195,23 +1196,23 @@ The name for the assembly is
 
 and the name for the individual segments are
 
-    http://www.yeastgenome.org/genome/S_cerevisiae/20030103/dna/chr01
-    http://www.yeastgenome.org/genome/S_cerevisiae/20030103/dna/chr02
-    http://www.yeastgenome.org/genome/S_cerevisiae/20030103/dna/chr03
-    http://www.yeastgenome.org/genome/S_cerevisiae/20030103/dna/chr04
-    http://www.yeastgenome.org/genome/S_cerevisiae/20030103/dna/chr05
-    http://www.yeastgenome.org/genome/S_cerevisiae/20030103/dna/chr06
-    http://www.yeastgenome.org/genome/S_cerevisiae/20030103/dna/chr07
-    http://www.yeastgenome.org/genome/S_cerevisiae/20030103/dna/chr08
-    http://www.yeastgenome.org/genome/S_cerevisiae/20030103/dna/chr09
-    http://www.yeastgenome.org/genome/S_cerevisiae/20030103/dna/chr10
-    http://www.yeastgenome.org/genome/S_cerevisiae/20030103/dna/chr11
-    http://www.yeastgenome.org/genome/S_cerevisiae/20030103/dna/chr12
-    http://www.yeastgenome.org/genome/S_cerevisiae/20030103/dna/chr13
-    http://www.yeastgenome.org/genome/S_cerevisiae/20030103/dna/chr14
-    http://www.yeastgenome.org/genome/S_cerevisiae/20030103/dna/chr15
-    http://www.yeastgenome.org/genome/S_cerevisiae/20030103/dna/chr16
-    http://www.yeastgenome.org/genome/S_cerevisiae/20030103/dna/chrmt
+    http://www.yeastgenome.org/genome/S_cerevisiae/20030103/dna/chrI
+    http://www.yeastgenome.org/genome/S_cerevisiae/20030103/dna/chrII
+    http://www.yeastgenome.org/genome/S_cerevisiae/20030103/dna/chrIII
+    http://www.yeastgenome.org/genome/S_cerevisiae/20030103/dna/chrIV
+    http://www.yeastgenome.org/genome/S_cerevisiae/20030103/dna/chrV
+    http://www.yeastgenome.org/genome/S_cerevisiae/20030103/dna/chrVI
+    http://www.yeastgenome.org/genome/S_cerevisiae/20030103/dna/chrVII
+    http://www.yeastgenome.org/genome/S_cerevisiae/20030103/dna/chrVIII
+    http://www.yeastgenome.org/genome/S_cerevisiae/20030103/dna/chrIX
+    http://www.yeastgenome.org/genome/S_cerevisiae/20030103/dna/chrX
+    http://www.yeastgenome.org/genome/S_cerevisiae/20030103/dna/chrXI
+    http://www.yeastgenome.org/genome/S_cerevisiae/20030103/dna/chrXII
+    http://www.yeastgenome.org/genome/S_cerevisiae/20030103/dna/chrXIII
+    http://www.yeastgenome.org/genome/S_cerevisiae/20030103/dna/chrXIV
+    http://www.yeastgenome.org/genome/S_cerevisiae/20030103/dna/chrXV
+    http://www.yeastgenome.org/genome/S_cerevisiae/20030103/dna/chrXVI
+    http://www.yeastgenome.org/genome/S_cerevisiae/20030103/dna/chrMito
 
 #### Release 20040103 3 January 2004
 
@@ -1221,23 +1222,23 @@ The name for the assembly is
 
 and the name for the individual segments are
 
-    http://www.yeastgenome.org/genome/S_cerevisiae/20040103/dna/chr01
-    http://www.yeastgenome.org/genome/S_cerevisiae/20040103/dna/chr02
-    http://www.yeastgenome.org/genome/S_cerevisiae/20040103/dna/chr03
-    http://www.yeastgenome.org/genome/S_cerevisiae/20040103/dna/chr04
-    http://www.yeastgenome.org/genome/S_cerevisiae/20040103/dna/chr05
-    http://www.yeastgenome.org/genome/S_cerevisiae/20040103/dna/chr06
-    http://www.yeastgenome.org/genome/S_cerevisiae/20040103/dna/chr07
-    http://www.yeastgenome.org/genome/S_cerevisiae/20040103/dna/chr08
-    http://www.yeastgenome.org/genome/S_cerevisiae/20040103/dna/chr09
-    http://www.yeastgenome.org/genome/S_cerevisiae/20040103/dna/chr10
-    http://www.yeastgenome.org/genome/S_cerevisiae/20040103/dna/chr11
-    http://www.yeastgenome.org/genome/S_cerevisiae/20040103/dna/chr12
-    http://www.yeastgenome.org/genome/S_cerevisiae/20040103/dna/chr13
-    http://www.yeastgenome.org/genome/S_cerevisiae/20040103/dna/chr14
-    http://www.yeastgenome.org/genome/S_cerevisiae/20040103/dna/chr15
-    http://www.yeastgenome.org/genome/S_cerevisiae/20040103/dna/chr16
-    http://www.yeastgenome.org/genome/S_cerevisiae/20040103/dna/chrmt
+    http://www.yeastgenome.org/genome/S_cerevisiae/20040103/dna/chrI
+    http://www.yeastgenome.org/genome/S_cerevisiae/20040103/dna/chrII
+    http://www.yeastgenome.org/genome/S_cerevisiae/20040103/dna/chrIII
+    http://www.yeastgenome.org/genome/S_cerevisiae/20040103/dna/chrIV
+    http://www.yeastgenome.org/genome/S_cerevisiae/20040103/dna/chrV
+    http://www.yeastgenome.org/genome/S_cerevisiae/20040103/dna/chrVI
+    http://www.yeastgenome.org/genome/S_cerevisiae/20040103/dna/chrVII
+    http://www.yeastgenome.org/genome/S_cerevisiae/20040103/dna/chrVIII
+    http://www.yeastgenome.org/genome/S_cerevisiae/20040103/dna/chrIX
+    http://www.yeastgenome.org/genome/S_cerevisiae/20040103/dna/chrX
+    http://www.yeastgenome.org/genome/S_cerevisiae/20040103/dna/chrXI
+    http://www.yeastgenome.org/genome/S_cerevisiae/20040103/dna/chrXII
+    http://www.yeastgenome.org/genome/S_cerevisiae/20040103/dna/chrXIII
+    http://www.yeastgenome.org/genome/S_cerevisiae/20040103/dna/chrXIV
+    http://www.yeastgenome.org/genome/S_cerevisiae/20040103/dna/chrXV
+    http://www.yeastgenome.org/genome/S_cerevisiae/20040103/dna/chrXVI
+    http://www.yeastgenome.org/genome/S_cerevisiae/20040103/dna/chrMito
 
 #### Release 20050101 1 January 2005
 
@@ -1247,23 +1248,23 @@ The name for the assembly is
 
 and the name for the individual segments are
 
-    http://www.yeastgenome.org/genome/S_cerevisiae/20050101/dna/chr01
-    http://www.yeastgenome.org/genome/S_cerevisiae/20050101/dna/chr02
-    http://www.yeastgenome.org/genome/S_cerevisiae/20050101/dna/chr03
-    http://www.yeastgenome.org/genome/S_cerevisiae/20050101/dna/chr04
-    http://www.yeastgenome.org/genome/S_cerevisiae/20050101/dna/chr05
-    http://www.yeastgenome.org/genome/S_cerevisiae/20050101/dna/chr06
-    http://www.yeastgenome.org/genome/S_cerevisiae/20050101/dna/chr07
-    http://www.yeastgenome.org/genome/S_cerevisiae/20050101/dna/chr08
-    http://www.yeastgenome.org/genome/S_cerevisiae/20050101/dna/chr09
-    http://www.yeastgenome.org/genome/S_cerevisiae/20050101/dna/chr10
-    http://www.yeastgenome.org/genome/S_cerevisiae/20050101/dna/chr11
-    http://www.yeastgenome.org/genome/S_cerevisiae/20050101/dna/chr12
-    http://www.yeastgenome.org/genome/S_cerevisiae/20050101/dna/chr13
-    http://www.yeastgenome.org/genome/S_cerevisiae/20050101/dna/chr14
-    http://www.yeastgenome.org/genome/S_cerevisiae/20050101/dna/chr15
-    http://www.yeastgenome.org/genome/S_cerevisiae/20050101/dna/chr16
-    http://www.yeastgenome.org/genome/S_cerevisiae/20050101/dna/chrmt
+    http://www.yeastgenome.org/genome/S_cerevisiae/20050101/dna/chrI
+    http://www.yeastgenome.org/genome/S_cerevisiae/20050101/dna/chrII
+    http://www.yeastgenome.org/genome/S_cerevisiae/20050101/dna/chrIII
+    http://www.yeastgenome.org/genome/S_cerevisiae/20050101/dna/chrIV
+    http://www.yeastgenome.org/genome/S_cerevisiae/20050101/dna/chrV
+    http://www.yeastgenome.org/genome/S_cerevisiae/20050101/dna/chrVI
+    http://www.yeastgenome.org/genome/S_cerevisiae/20050101/dna/chrVII
+    http://www.yeastgenome.org/genome/S_cerevisiae/20050101/dna/chrVIII
+    http://www.yeastgenome.org/genome/S_cerevisiae/20050101/dna/chrIX
+    http://www.yeastgenome.org/genome/S_cerevisiae/20050101/dna/chrX
+    http://www.yeastgenome.org/genome/S_cerevisiae/20050101/dna/chrXI
+    http://www.yeastgenome.org/genome/S_cerevisiae/20050101/dna/chrXII
+    http://www.yeastgenome.org/genome/S_cerevisiae/20050101/dna/chrXIII
+    http://www.yeastgenome.org/genome/S_cerevisiae/20050101/dna/chrXIV
+    http://www.yeastgenome.org/genome/S_cerevisiae/20050101/dna/chrXV
+    http://www.yeastgenome.org/genome/S_cerevisiae/20050101/dna/chrXVI
+    http://www.yeastgenome.org/genome/S_cerevisiae/20050101/dna/chrMito
 
 #### Release 20060128 28 January 2006
 
@@ -1273,20 +1274,20 @@ The name for the assembly is
 
 and the name for the individual segments are
 
-    http://www.yeastgenome.org/genome/S_cerevisiae/20060128/dna/chr01
-    http://www.yeastgenome.org/genome/S_cerevisiae/20060128/dna/chr02
-    http://www.yeastgenome.org/genome/S_cerevisiae/20060128/dna/chr03
-    http://www.yeastgenome.org/genome/S_cerevisiae/20060128/dna/chr04
-    http://www.yeastgenome.org/genome/S_cerevisiae/20060128/dna/chr05
-    http://www.yeastgenome.org/genome/S_cerevisiae/20060128/dna/chr06
-    http://www.yeastgenome.org/genome/S_cerevisiae/20060128/dna/chr07
-    http://www.yeastgenome.org/genome/S_cerevisiae/20060128/dna/chr08
-    http://www.yeastgenome.org/genome/S_cerevisiae/20060128/dna/chr09
-    http://www.yeastgenome.org/genome/S_cerevisiae/20060128/dna/chr10
-    http://www.yeastgenome.org/genome/S_cerevisiae/20060128/dna/chr11
-    http://www.yeastgenome.org/genome/S_cerevisiae/20060128/dna/chr12
-    http://www.yeastgenome.org/genome/S_cerevisiae/20060128/dna/chr13
-    http://www.yeastgenome.org/genome/S_cerevisiae/20060128/dna/chr14
-    http://www.yeastgenome.org/genome/S_cerevisiae/20060128/dna/chr15
-    http://www.yeastgenome.org/genome/S_cerevisiae/20060128/dna/chr16
-    http://www.yeastgenome.org/genome/S_cerevisiae/20060128/dna/chrmt
+    http://www.yeastgenome.org/genome/S_cerevisiae/20060128/dna/chrI
+    http://www.yeastgenome.org/genome/S_cerevisiae/20060128/dna/chrII
+    http://www.yeastgenome.org/genome/S_cerevisiae/20060128/dna/chrIII
+    http://www.yeastgenome.org/genome/S_cerevisiae/20060128/dna/chrIV
+    http://www.yeastgenome.org/genome/S_cerevisiae/20060128/dna/chrV
+    http://www.yeastgenome.org/genome/S_cerevisiae/20060128/dna/chrVI
+    http://www.yeastgenome.org/genome/S_cerevisiae/20060128/dna/chrVII
+    http://www.yeastgenome.org/genome/S_cerevisiae/20060128/dna/chrVIII
+    http://www.yeastgenome.org/genome/S_cerevisiae/20060128/dna/chrIX
+    http://www.yeastgenome.org/genome/S_cerevisiae/20060128/dna/chrX
+    http://www.yeastgenome.org/genome/S_cerevisiae/20060128/dna/chrXI
+    http://www.yeastgenome.org/genome/S_cerevisiae/20060128/dna/chrXII
+    http://www.yeastgenome.org/genome/S_cerevisiae/20060128/dna/chrXIII
+    http://www.yeastgenome.org/genome/S_cerevisiae/20060128/dna/chrXIV
+    http://www.yeastgenome.org/genome/S_cerevisiae/20060128/dna/chrXV
+    http://www.yeastgenome.org/genome/S_cerevisiae/20060128/dna/chrXVI
+    http://www.yeastgenome.org/genome/S_cerevisiae/20060128/dna/chrMito
