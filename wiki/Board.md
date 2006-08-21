@@ -37,8 +37,8 @@ Scientific](http://www.dalkescientific.com)
   
 [Hilmar Lapp](bp:Hilmar_Lapp "wikilink")
 
-Representing [BioPerl](bp:BioPerl "wikilink"). Employed by [Genomics
-Institute of the Novartis Research Foundation](http://www.gnf.org).
+Representing [BioPerl](bp:BioPerl "wikilink"). Employed by the [National
+Evolutionary Synthesis Center](http://www.nescent.org/) (NESCent).
 
 **At-large member**
 
