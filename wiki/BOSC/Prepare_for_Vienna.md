@@ -272,5 +272,5 @@ Links of Interest
 -----------------
 
 [ Example Schedule](BOSC/Prepare_for_Vienna/ExampleSchedule "wikilink")
-[ ISMB 2007
-Deadlines](http://www.iscb.org/ismbeccb2007/deadlines/ "wikilink")
+
+[ISMB 2007 Deadlines](http://www.iscb.org/ismbeccb2007/deadlines)
