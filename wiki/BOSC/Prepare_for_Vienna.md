@@ -253,3 +253,8 @@ This could be a separate session. It would probably be best to invite
 the OBF developer community to nominate, and vote on one or two projects
 to be invited to talk about their software development practices. The
 'Break My XXX' would probably be best as a BarCamp session.
+
+Links of Interest
+-----------------
+
+[ Example Schedule](BOSC/Prepare_for_Vienna/ExampleSchedule "wikilink")
