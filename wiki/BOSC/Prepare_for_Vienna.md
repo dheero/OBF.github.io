@@ -40,7 +40,7 @@ requirements and deadlines
 
 -   Friday Dec. 15th. Submit Proposal for BOSC to ISCB Organizing
     Committee
--   [| Proposal Requirements](http://www.iscb.org/ismbeccb2007/sigs/)
+-   [Proposal Requirements](http://www.iscb.org/ismbeccb2007/sigs/)
 -   ??? Some time in Dec. call for community feedback if we want input
     for categories/speakers to create/invite
 -   ??? Early January. Announce and Call for Papers??? BOSC 2007
