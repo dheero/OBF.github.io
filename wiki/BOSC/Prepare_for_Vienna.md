@@ -275,3 +275,53 @@ Links of Interest
 [ Example Schedule](BOSC/Prepare_for_Vienna/ExampleSchedule "wikilink")
 
 [ISMB 2007 Deadlines](http://www.iscb.org/ismbeccb2007/deadlines)
+
+Schedule Ideas
+--------------
+
+1st Day:  
+8:35 Call To Order, Announcements while people mill in  
+8:45 Keynote: Overview of Bio\* Projects???  
+9:15 Project Update Section: Lead Bio\* Developers or their Designates
+are invited to present updates of major developments on their projects  
+10:30 coffee  
+10:50 Keynote: New Informatics Technologies (Folksonomies, Web 2.0,
+Ajax, Rest/SOAP)??? (I emailed Tom Oinn to see if he thinks Carole Goble
+might be interested in presenting something about the WebSciences
+inititiative that she is involved in with Tim Berners-Lee, have not
+heard back from him)  
+11:30 Talks on developments or ideas for using New Informatics
+Technologies to support Biological Research  
+12:00 Lunch  
+1:15 Talks on developments or ideas for using New Informatics
+Technologies to support Biological Research  
+2:45-3:00 Wifi Workshops: We make the wifi available (if it isnt
+already, e.g. one of us needs to bring a wifi router, I'll bring mine if
+I have to), and open it up to people to present interactive demos,
+network with users, etc in small, BOF-like subgroups within the hall.
+This would be a combiniation BOF/Lightning talk style, e.g. anyone
+wishing to create a BOF-like sub-group within the hall should submit a
+request before the day of the conference, much like a LT, and they can
+use the wifi infrastructure to demo their system, or interact with
+users.  
+3:30 coffee  
+3:50 Wifi Workshops  
+5:30 Dismiss for Dinner?  
+  
+  
+2nd Day:  
+8:35 Call To Order, Announcements while people mill in  
+8:45 Keynote: Insert important Bioinformatics Person Here...  
+9:30 Typical BOSC Talks, e.g. abstract submission, review, and
+acceptance before the conference  
+10:30 coffee  
+10:50 More Typical Talks  
+12:00 Lunch  
+1:15 Keynote: Get someone to talk about Software Design (Maybe Andrew
+could give the talk he always wanted to hear :) )  
+2:00 Invite people to present on Design Practices in their Open Source
+Project, or an Open Source Project they have used and were happy with
+(we dont want gripe sessions, do we)?  
+3:30 coffee  
+4:00 Wifi Workshops  
+5:30 Dismiss
