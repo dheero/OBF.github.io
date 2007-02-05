@@ -281,47 +281,55 @@ Schedule Ideas
 
 1st Day:  
 8:35 Call To Order, Announcements while people mill in  
-8:45 Keynote: Overview of Bio\* Projects???  
-9:15 Project Update Section: Lead Bio\* Developers or their Designates
-are invited to present updates of major developments on their projects  
+9:00 Keynote: Carole Goble On Significant Challenges to Developing
+Bioinformtics Software  
+10:00 Currently Intractable Problems In Bioiformatics: Five to ten
+minute talks presenting a hard area of computer science or
+bioinformatics relevant to the community and as yet not thoroughly
+solved. Talks would be of the form of a use case which currently cannot
+be satisfied with readily available toolkits and a summary of the
+problem. An hour of these, so six to eight?  
 10:30 coffee  
-10:50 Keynote: New Informatics Technologies (Folksonomies, Web 2.0,
-Ajax, Rest/SOAP)??? (I emailed Tom Oinn to see if he thinks Carole Goble
-might be interested in presenting something about the WebSciences
-inititiative that she is involved in with Tim Berners-Lee, have not
-heard back from him)  
-11:30 Talks on developments or ideas for using New Informatics
-Technologies to support Biological Research  
-12:00 Lunch  
+10:50 More Currently Intractable Problems  
+11:50 Break For Lunch  
 1:15 Talks on developments or ideas for using New Informatics
-Technologies to support Biological Research  
-2:45-3:00 Wifi Workshops: We make the wifi available (if it isnt
-already, e.g. one of us needs to bring a wifi router, I'll bring mine if
-I have to), and open it up to people to present interactive demos,
-network with users, etc in small, BOF-like subgroups within the hall.
-This would be a combiniation BOF/Lightning talk style, e.g. anyone
-wishing to create a BOF-like sub-group within the hall should submit a
-request before the day of the conference, much like a LT, and they can
-use the wifi infrastructure to demo their system, or interact with
-users.  
+Technologies to support Biological Research (10 minute talks on
+folksonomies, web 2.0, Rest, SOAP, etc.)  
+2:45 Project Update Section: Lead Bio\* Developers or their Designates
+are invited to present updates of major developments on their projects  
 3:30 coffee  
-3:50 Wifi Workshops  
-5:30 Dismiss for Dinner?  
+3:50 OBF CD Session: Session laying the groundwork for the creation and
+management of an single CD of OBF applications, libraries for easy
+installation. The goal is to create a CD to distribute for the next
+BOSC. Something like software for starving students,
+www.softwarefor.org.  
+4:10 Wifi Workshops: We make the wifi available (if it isnt already,
+e.g. one of us needs to bring a wifi router, I'll bring mine if I have
+to), and open it up to people to present interactive demos, network with
+users, etc in small, BOF-like subgroups within the hall. This would be a
+wifi enhanced BOF for people to use to demo their system, or interact
+with users.  
+5:30 Dismiss for Dinner (to be announced)  
   
   
 2nd Day:  
 8:35 Call To Order, Announcements while people mill in  
-8:45 Keynote: Insert important Bioinformatics Person Here...  
+8:45 Keynote: Insert important Bioinformatics Person Here...????  
 9:30 Typical BOSC Talks, e.g. abstract submission, review, and
 acceptance before the conference  
 10:30 coffee  
 10:50 More Typical Talks  
 12:00 Lunch  
-1:15 Keynote: Get someone to talk about Software Design (Maybe Andrew
-could give the talk he always wanted to hear :) )  
-2:00 Invite people to present on Design Practices in their Open Source
+1:15 Intro Software Design session: Get someone to talk about Software
+Design (Maybe Andrew could give the talk he always wanted to hear :) )  
+1:40 Invite people to present on Design Practices in their Open Source
 Project, or an Open Source Project they have used and were happy with
 (we dont want gripe sessions, do we)?  
 3:30 coffee  
-4:00 Wifi Workshops  
+4:00 Ideas for Solving Currently Intractable Problems in Bioinformatics:
+Here is the chance for developers to present ideas for using current
+technologies, or developing new technologies, to solve issues presented
+in the Keynote Session on Day 1. Those presenting problems in the first
+day are required to summarize ideas revolving around their submitted
+problem  
 5:30 Dismiss
