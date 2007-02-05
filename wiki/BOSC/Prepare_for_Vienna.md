@@ -288,7 +288,7 @@ minute talks presenting a hard area of computer science or
 bioinformatics relevant to the community and as yet not thoroughly
 solved. Talks would be of the form of a use case which currently cannot
 be satisfied with readily available toolkits and a summary of the
-problem. An hour of these, so six to eight?  
+problem.  
 10:30 coffee  
 10:50 More Currently Intractable Problems  
 11:50 Break For Lunch  
