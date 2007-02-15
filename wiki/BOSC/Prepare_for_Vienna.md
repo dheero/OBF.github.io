@@ -398,18 +398,18 @@ All submissions should be emailed to the BOSC mailing list at
 This year BOSC is requesting submissions for a variety of different
 venues.
 
-1.  Currently Intractable Problems In Bioiformatics: This session will
+1.  Currently Intractable Problems In Bioinformatics: This session will
     follow the Keynote, and will be devoted to the delineation of areas
-    of Information Technology or Bionformatics which are currently not
+    of Bioinformatics or Information Technology which are currently not
     solved or serviced by the current suite of Bioinformatics Software
     in existence. Speakers are invited to submit a detailed use case
     which currently cannot be satisfied with readily available toolkits
     and a summary of the problem sufficient to engage developers into
     discussions on how to solve the problem. The last venue of day two
     will be devoted to allowing attendees to present ideas for solving
-    these problems. Talks will be 5 minutes long, with a few minutes for
-    questions for the audience. All problems, and ideas for solution
-    will be published on the BOSC web site.
+    these problems. Talks for both venues will be 5 minutes long, with a
+    few minutes for questions for the audience. All problems, and ideas
+    for solution will be published on the BOSC web site.
 
 <!-- -->
 
@@ -427,7 +427,7 @@ venues.
 1.  Open Source Software Presentations: This venue will be allow
     speakers to present talks on their use, development, or philosophy
     of open source software in bioinformatics to the BOSC attendees. The
-    committee will select several submitted abstracts for 20-minute
+    committee will select several submitted abstracts for 10-minute
     talks, with a few minutes for questions afterward. Accepted
     abstracts will be published on the BOSC web site.
 
