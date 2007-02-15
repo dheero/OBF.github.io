@@ -410,10 +410,7 @@ venues.
     these problems. Talks for both venues will be 5 minutes long, with a
     few minutes for questions for the audience. All problems, and ideas
     for solution will be published on the BOSC web site.
-
-<!-- -->
-
-1.  New Informatics Technologies in Bioinformatics: This venue is
+2.  New Informatics Technologies in Bioinformatics: This venue is
     devoted to the development of systems which make use of newer
     Information Technology practices, such as WebServices (SOAP or
     REST), Folksonomies/Tagging, RSS, Social Networking, and other
@@ -421,19 +418,13 @@ venues.
     2.0](http://www.oreillynet.com/pub/a/oreilly/tim/news/2005/09/30/what-is-web-20.html).
     Talks will be 10 minutes long, with a few minutes for questions from
     the audience. All abstracts will be published on the BOSC website.
-
-<!-- -->
-
-1.  Open Source Software Presentations: This venue will be allow
+3.  Open Source Software Presentations: This venue will be allow
     speakers to present talks on their use, development, or philosophy
     of open source software in bioinformatics to the BOSC attendees. The
     committee will select several submitted abstracts for 10-minute
     talks, with a few minutes for questions afterward. Accepted
     abstracts will be published on the BOSC web site.
-
-<!-- -->
-
-1.  Discussions of Software Design: This venue will allow speakers to to
+4.  Discussions of Software Design: This venue will allow speakers to to
     present on Design Practices in their Open Source Project, or an Open
     Source Project they have used and were happy with, or present ideas
     on the practice of Software Design which would benifit the Open
@@ -450,6 +441,13 @@ much more while they are discussing their favorite projects. The BOSC
 committee will accept ideas for these up to the last day of the
 conference, on a first come-first-served basis until no more space is
 left in the conference room.
+
+### Lets Create an OBF Software CD!
+
+This year we will be devoting a small BOSC session to the task of laying
+the groundwork for the creation and management of a single CD of OBF
+applications, libraries for easy installation. The goal is to start the
+process create a CD to distribute for the next BOSC.
 
 ### Call for Volunteers
 
