@@ -377,10 +377,6 @@ Student : TBA
 Agenda
 ------
 
-### BOSC 2007 Schedule
-
-The [ BOSC 2007 Schedule](BOSC_2007/Schedule "wikilink") Has Been Posted
-
 ### Notes on Submissions
 
 `The Open Bioinformatics Foundation is dedicated to promoting the practice and philosophy of Open Source Software development within the `  
