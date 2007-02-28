@@ -380,7 +380,7 @@ RSS Reader.
 Keynote Speakers
 ----------------
 
-Carol Goble
+[Carol Goble](http://www.cs.man.ac.uk/~carole/)
 
 Fees
 ----
