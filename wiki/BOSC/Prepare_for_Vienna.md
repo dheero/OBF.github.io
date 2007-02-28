@@ -346,6 +346,24 @@ Interest Group (SIG) meetings occurring in conjunction with the [15th
 International Conference on Intelligent Systems for Molecular
 Biology](http://www.iscb.org/ismbeccb2007/).
 
+This year is shaping up to be very exciting. We have changed our format
+to add room for more development oriented talks and discussions, in an
+effort to fully utilize the conference to stimulate new development
+efforts in all areas of Open Source Bioinformatics Software development.
+The primary focus of the conference revolves around the delineation of
+areas of IT or Bioinformatics which are not well serviced by existing
+toolkits. The Keynote session will be headed up by Carol Goble, of
+Manchester University. Speakers in this session will be invited to
+present detailed descriptions of an 'Intractible Problem In
+Bioinformatics'. The last session of the conference has been setup for
+speakers to present ideas for solving any of the problems presented in
+the keynote session. Other sessions will be set up to allow
+presentations on new Software Design Patterns, Software Engineering
+ideas, and more traditional BOSC talks (see below for details and
+deadlines). The Birds of a Feather sessions will be enhanced with wifi
+to create 'Wifi Workshops'. All in all, this should be a great
+conference.
+
 Important Dates
 ---------------
 
