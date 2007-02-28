@@ -418,7 +418,8 @@ All submissions should be emailed to the BOSC mailing list at
 ### Call for Speakers and Abstracts
 
 This year BOSC is requesting submissions for a variety of different
-venues.
+venues. All submissions should be recieved by Monday, May 14th to be
+considered for inclusion:
 
 1.  Currently Intractable Problems In Bioinformatics: This session will
     follow the Keynote, and will be devoted to the delineation of areas
@@ -428,9 +429,9 @@ venues.
     which currently cannot be satisfied with readily available toolkits
     and a summary of the problem sufficient to engage developers into
     discussions on how to solve the problem. The last venue of day two
-    will be devoted to allowing attendees to present ideas for solving
+    will be devoted to allow attendees to present ideas for solving
     these problems. Talks for both venues will be 5 minutes long, with a
-    few minutes for questions for the audience. All problems, and ideas
+    few minutes for questions from the audience. All problems, and ideas
     for solution will be published on the BOSC web site.
 2.  New Informatics Technologies in Bioinformatics: This venue is
     devoted to the development of systems which make use of newer
@@ -440,19 +441,19 @@ venues.
     2.0](http://www.oreillynet.com/pub/a/oreilly/tim/news/2005/09/30/what-is-web-20.html).
     Talks will be 10 minutes long, with a few minutes for questions from
     the audience. All abstracts will be published on the BOSC website.
-3.  Open Source Software Presentations: This venue will be allow
-    speakers to present talks on their use, development, or philosophy
-    of open source software in bioinformatics to the BOSC attendees. The
+3.  Open Source Software Presentations: This venue will allow speakers
+    to present talks on their use, development, or philosophy of open
+    source software in bioinformatics to the BOSC attendees. The
     committee will select several submitted abstracts for 10-minute
     talks, with a few minutes for questions afterward. Accepted
     abstracts will be published on the BOSC web site.
-4.  Discussions of Software Design: This venue will allow speakers to to
-    present on Design Practices in their Open Source Project, or an Open
-    Source Project they have used and were happy with, or present ideas
-    on the practice of Software Design which would benifit the Open
-    Source Developer Community. Talks will be 5 minutes long, with a few
-    minutes for questions afterward. Accepted abstracts will be
-    published on the BOSC web site.
+4.  Discussions of Software Design and Engineering: This venue will
+    allow speakers to to present Design Practices in their Open Source
+    Project, or an Open Source Project they have used and were happy
+    with, or present ideas on the practice of Software Design which
+    would benifit the Open Source Developer Community. Talks will be 5
+    minutes long, with a few minutes for questions afterward. Accepted
+    abstracts will be published on the BOSC web site.
 
 ### Call For Wifi Workshops
 
