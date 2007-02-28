@@ -334,6 +334,9 @@ day are required to summarize ideas revolving around their submitted
 problem  
 5:30 Dismiss
 
+BOSC 2007
+---------
+
 ![The Bosc Pair](Pear.png "The Bosc Pair")
 
 The 8th annual Bioinformatics Open Source Conference
