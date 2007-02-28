@@ -346,6 +346,7 @@ Biology](http://www.iscb.org/ismbeccb2007/).
 Important Dates
 ---------------
 
+June 1 **Early Registration Discount Cutoff Date**  
 July 19,20 **BOSC 2007**
 
 [BOSC Eventful Group](http://eventful.com/groups/G0-001-000014747-0) :
