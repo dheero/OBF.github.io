@@ -360,8 +360,10 @@ speakers to present ideas for solving any of the problems presented in
 the keynote session. Other sessions will be set up to allow
 presentations on new Software Design Patterns, Software Engineering
 ideas, and more traditional BOSC talks (see below for details and
-deadlines). The Birds of a Feather sessions will be enhanced with wifi
-to create 'Wifi Workshops'. All in all, this should be a great
+deadlines). There will be a session of talks by developers in the major
+Bio\* projects giving overviews of recent developments in their
+projects. Finally, the Birds of a Feather sessions will be enhanced with
+wifi to create 'Wifi Workshops'. All in all, this should be a great
 conference.
 
 Important Dates
