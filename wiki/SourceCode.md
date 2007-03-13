@@ -33,8 +33,10 @@ How to browse our latest source code repositories via the web
 -------------------------------------------------------------
 
 Projects using CVS repositories:
-<http://code.open-bio.org/cgi/viewcvs.cgi> Projects using Subversion
-repositories: <http://code.open-bio.org/svnweb/>
+<http://code.open-bio.org/cgi/viewcvs.cgi>
+
+Projects using Subversion repositories:
+<http://code.open-bio.org/svnweb/>
 
 Downloading and updating code via Anonymous CVS
 -----------------------------------------------
