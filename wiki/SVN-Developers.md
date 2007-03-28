@@ -25,12 +25,13 @@ user who invoked it</em>.
 
 The SVN client protocol makes <b>multiple</b> connections to the
 svnserver binary. Since we only allow access via SSH this means you may
-be prompted for you developer password <b>several times</b> during any
-SVN action, including a simple checkout. The easiest way to remove the
-multiple password prompts is to set up your ssh-agent process or make
-use of SSH keypairs for passwordless access via public key encryption.
-For assistance in setting this up, email the OBF Helpdesk at <em>support
-at open-bio.org</em>.
+be prompted for you developer password <b>several times</b> during some
+SVN actions, including `update`, `diff` (over revisions), and `merge`.
+The easiest way to circumvent having to enter your password multiple
+times is to set up your ssh-agent process or make use of SSH keypairs
+for passwordless access via public key encryption. For assistance in
+setting this up, email the OBF Helpdesk at <em>support at
+open-bio.org</em>.
 
 ### Public SVN Access
 
