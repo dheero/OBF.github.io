@@ -2,7 +2,7 @@
 title: BOSC 2007 Schedule
 ---
 
-|         | Thursday July 7th                                                                                    | Friday July 8th                                                                                                                 |
+|         | Thursday July 19th                                                                                   | Friday July 20th                                                                                                                |
 |---------|------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------|
 | 8:45am  | Call To Order                                                                                        | Call To Order                                                                                                                   |
 | 9:00am  | Keynote Speaker: Carole Goble                                                                        | \[OS Software\] Jan Taubert: The ONDEX Data Integration Framework                                                               |
