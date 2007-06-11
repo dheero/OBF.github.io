@@ -12,3 +12,4 @@ Friday July 20th
 
 -   Tom Oinn: Taverna Development
 
+email bosc@open-bio.org if you would like to add to this list
