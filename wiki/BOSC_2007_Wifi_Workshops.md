@@ -10,5 +10,5 @@ Thursday July 19th
 Friday July 20th
 ----------------
 
--   Tom Oinn: Tavernal Development
+-   Tom Oinn: Taverna Development
 
