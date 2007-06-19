@@ -39,9 +39,9 @@ BOSC
 
 Bioinformatics Open Source Conference or [BOSC](BOSC "wikilink") is held
 annually in conjunction with [ISCB's](http://www.iscb.org) meeting ISMB.
-We will be holding [BOSC 2006](BOSC_2006 "wikilink") at [ISMB
-2006](http://ismb2006.cbi.cnptia.embrapa.br/) in [Fortaleza,
-Brazil](wp:Fortaleza,_Brazil "wikilink").
+We will be holding [BOSC 2007](BOSC_2007 "wikilink") at [ISMB
+2007](http://www.iscb.org/ismb07) in [Vienna,
+Austria](wp:Vienna,_Austria "wikilink").
 
 See some of the [Past BOSC
 conferences](Past_BOSC_conferences "wikilink").
