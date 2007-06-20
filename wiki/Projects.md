@@ -26,7 +26,7 @@ Affiliated projects
 -   [Pise](http://www.pasteur.fr/recherche/unites/sis/Pise/) - a tool to
     generate Web interfaces software for submitting jobs to these
     interfaces
--   [openBQS](http://www.ebi.ac.uk/~senger/openbqs/) - Bibliographic
+-   [OpenBQS](http://www.ebi.ac.uk/~senger/openbqs/) - Bibliographic
     query system
 -   [BlipKit](http://blipkit.org) - Chris Mungall's Prolog toolkit for
     Bioinformatics and BioMedical Informatics
