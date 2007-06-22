@@ -629,3 +629,6 @@ with alignments. Combined with Galaxy, 'bx-python' facilitates integrate
 analysis by making it incredibly easy to develop tools for performing
 large scale analysis efficiently, and making those tools available via
 the web to data producers such as experimental biologists.
+
+  
+[ Back To BOSC 2007 Home](BOSC_2007 "wikilink")
