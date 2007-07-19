@@ -88,6 +88,10 @@
 | Coffee
 |-
 | 4:00pm
+| Glenn Proctor: Ensembl Project Update
+| [[BOSC_2007_Wifi_Workshops | Interactive Wifi Workshops]]
+|-
+| 4:15pm
 | Discuss the Creation of an OBF Distribution CD
 | [[BOSC_2007_Wifi_Workshops | Interactive Wifi Workshops]]
 |- 
