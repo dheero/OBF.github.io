@@ -76,7 +76,7 @@
 | [[BOSC_2007_Wifi_Workshops | Interactive Wifi Workshops]]
 |-
 | 3:00pm
-| BioPerl Project Update
+| Jason Stajich: BioPerl Project Update
 | [[BOSC_2007_Wifi_Workshops | Interactive Wifi Workshops]]
 |-
 | 3:15pm
