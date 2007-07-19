@@ -10,7 +10,7 @@ Thursday July 19th
 Friday July 20th
 ----------------
 
--   Tom Oinn: Knoppix Demo
+-   Kazuharu Arakawa: Knoppix for Bio Demo
 -   Tom Oinn: Taverna Development
 -   Eric Jain: Mashing Up UniProt
 -   Shawn Houston: Compute Portal
