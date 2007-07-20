@@ -11,6 +11,7 @@ Friday July 20th
 ----------------
 
 -   Kazuharu Arakawa: Knoppix for Bio Demo
+-   Kam Dahlquist: XMLPipeDB
 -   Tom Oinn: Taverna Development
 -   Eric Jain: Mashing Up UniProt
 -   Shawn Houston: Compute Portal
