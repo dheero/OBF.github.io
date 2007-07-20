@@ -152,3 +152,8 @@ Design of a web / wiki page
 -   assignment of packaging tasks to the community of Debian-Developers.
 -   You have just finished reading it - success!
 
+Related work
+------------
+
+-   [ BioLinux ](http://www.biolinux.org/ "wikilink")
+
