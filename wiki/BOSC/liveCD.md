@@ -13,7 +13,7 @@ the possibility of an 'enriched' software distribution, curated to add
 extra value and built into a Debian based LiveCD.
 
 Debian's package management and procedures guarantee primarily technical
-reliabiliry - they ensure that the software will install (so it has
+reliability - they ensure that the software will install (so it has
 dependencies defined etc) and run successfully on a given architecture.
 They do not, however, guarantee that the software is
 
@@ -155,5 +155,5 @@ Design of a web / wiki page
 Related work
 ------------
 
--   [ BioLinux ](http://www.biolinux.org/ "wikilink")
+-   \[ <http://www.biolinux.org/> BioLinux \]
 
