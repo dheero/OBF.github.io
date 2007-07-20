@@ -125,21 +125,14 @@ Who?
 
 -   Steffen Möller volunteers as a link to the debian community and to
     help with expertise in packaging
-
-<!-- -->
-
 -   Kazuharu Arakawa offers their work on a Knoppix (also Debian)-based
     Bioinformatics CD that is accompanied by a Japanese book (Knoppix
     for Bio Project: <http://knob.sourceforge.jp>) and
     <http://ez-tune-livecd.sourceforge.jp/pukiwiki/> (Live CD creator)
-
-<!-- -->
-
 -   Darin London
-
-<!-- -->
-
 -   Tom Oinn
+-   Stian Soiland
+-   Bastien Chevreux
 
 Getting it started
 ------------------
