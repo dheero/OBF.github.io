@@ -99,7 +99,10 @@ typesetting though.
 
 Distributing printed copy of the tutorials + the live CD or DVD would be
 fantastic for training, basically a bioinformatics mres module or three
-in a box.
+in a box. In particular one can make sure that what is said in the book
+is true with the software on the CD, using the same versions, and
+without the student facing installing issues before they know what the
+software does
 
 Link to Debian
 --------------
