@@ -54,6 +54,32 @@ What we add
     -   Possibly by creating specific 'foo-omics' user with pre-set
         application menus configured?
 
+### Example applications
+
+-   Basic command line tools: emboss, fasta, blast
+
+<!-- -->
+
+-   PDB viewer (preferably one without the MOTIF-1980 look)
+
+### Example data
+
+-   Full GenBank file for a bacteria (like E. Coli), FASTA of proteins
+    and nuclear types of genetic elements
+
+<!-- -->
+
+-   SwissProt (in which format?) - discussion: is quite large, in
+    particular text and xml format (1.1GB and 2.1 GB), but FASTA is 121M
+
+<!-- -->
+
+-   Some nice PDB files for viewing structure in flashing 3d (JMol
+    and friends)
+
+Preferably we should have the same example represented in different
+forms and shapes.
+
 Aggregate Configuration
 -----------------------
 
