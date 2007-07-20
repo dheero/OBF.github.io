@@ -155,5 +155,5 @@ Design of a web / wiki page
 Related work
 ------------
 
--   \[ <http://www.biolinux.org/> BioLinux \]
+-   [BioLinux](http://www.biolinux.org/)
 
