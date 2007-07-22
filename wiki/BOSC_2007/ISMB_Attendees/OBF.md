@@ -6,15 +6,14 @@ Main Mission of the Open Bioinformatics Foundation O|B|F
 --------------------------------------------------------
 
 -   OBF Supports Open Source
-    -   The [www.opensource.org](www.opensource.org "wikilink") website
-        is the primary repository of information for all things Open
-        Source
+    -   The [1](http://www.opensource.org) website is the primary
+        repository of information for all things Open Source
     -   Some of the best Bioinformatics Software in existence is Open
         Source:
-        -   EMBOSS <http://emboss.sourceforge.net/>
-        -   Ensembl <http://www.ensembl.org>
-        -   Biomart <http://www.biomart.org>
-        -   Bioperl/python/java/etc
+        -   [EMBOSS](http://emboss.sourceforge.net/)
+        -   [Ensembl](http://www.ensembl.org)
+        -   [Biomart](http://www.biomart.org)
+        -   [BioPerl](BioPerl "wikilink")/[Biopython](Biopython "wikilink")/[BioJava](BioJava "wikilink")/[BioRuby](BioRuby "wikilink")/etc
 -   OBF Supports Developers
     -   Project Management, Source Distribution, and User Interaction
         Hardware and Software Infrastructure
@@ -26,6 +25,6 @@ Main Mission of the Open Bioinformatics Foundation O|B|F
     -   Hackathons
         -   2002 Tuscon, AZ and Capetown, ZA
         -   2003 Singapore
-        -   2006 Nescent (www.nescent.org) Phylohackathon
+        -   2006 Nescent (http://www.nescent.org) Phylohackathon
     -   BOSC (more Later)
 
