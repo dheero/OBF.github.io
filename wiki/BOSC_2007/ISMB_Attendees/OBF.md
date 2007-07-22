@@ -30,6 +30,26 @@ Main Mission of the Open Bioinformatics Foundation O|B|F
 
 -   -   Project Management, Source Distribution, and User Interaction
         Hardware and Software Infrastructure
-    -   Hackathons
-    -   BOSC (more Later)
+
+<!-- -->
+
+-   -   Web Hosting
+    -   Mailing Lists <http://lists.open-bio.org>
+    -   Development Servers
+    -   Online Documentation Sites
+        <http://www.open-bio.org/wiki/Projects>
+
+<!-- -->
+
+-   -   Hackathons
+
+<!-- -->
+
+-   -   2002 Tuscon, AZ and Capetown, ZA
+    -   2003 Singapore
+    -   2006 Nescent (www.nescent.org) Phylohackathon
+
+<!-- -->
+
+-   -   BOSC (more Later)
 
