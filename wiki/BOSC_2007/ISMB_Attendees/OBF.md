@@ -6,8 +6,8 @@ Main Mission of the Open Bioinformatics Foundation O|B|F
 --------------------------------------------------------
 
 -   OBF Supports Open Source
-    -   The [1](http://www.opensource.org) website is the primary
-        repository of information for all things Open Source
+    -   The [opensource.org website](http://www.opensource.org) is the
+        primary repository of information for all things Open Source
     -   Some of the best Bioinformatics Software in existence is Open
         Source:
         -   [EMBOSS](http://emboss.sourceforge.net/)
