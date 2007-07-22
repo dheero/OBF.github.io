@@ -7,6 +7,7 @@ title: BOSC 2007/ISMB Attendees/BOSC Overview
 
 ### Keynote Speakers
 
+-   2000 Tim O'Reilly
 -   2002 Michael Eisen PloS
 -   2004 Wolfgang Huber Bioconductor
 -   2005 Jason Stajich, Hilmar Lapp
