@@ -6,7 +6,7 @@ title: BOSC 2007/ISMB Attendees
 
 [Past\_BOSC\_conferences](Past_BOSC_conferences "wikilink")
 
-[BOSC\_2007/ISMB\_Attendees/History](BOSC_2007/ISMB_Attendees/History "wikilink")
+[Main\_Page](Main_Page "wikilink")
 
 [BOSC\_2007/ISMB\_Attendees/OBF](BOSC_2007/ISMB_Attendees/OBF "wikilink")
 
