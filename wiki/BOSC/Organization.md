@@ -31,14 +31,18 @@ Document](http://www.iscb.org/ismbeccb2007/wp-content/uploads/2006/10/iscb-sig-r
 Organizational Year
 -------------------
 
+-   Early to mid November?: Organize the BOSC organizing committee, and
+    Abstract Review Board (these may overlap, but may not be the same).
+    Start working out keynotes and other invited speakers, full talk
+    venues, panels, etc. Invite keynotes and other invited speakers. It
+    would be best to have something tentative from them before the SIG
+    proposal is due.
 -   Early to mid December: the SIG proposal is due to the ISCB (see the
     BOSC 2007 page for example dates, etc.). Provisional acceptance is
     announced by early January. At the BOSC 2007 Post-Mortem, it was
     resolved that the ISCB would make the SIG review process more
     transparent, e.g. publish the names of the review board, and a
     formal definitiion of review requirements.
--   Early to mid December: Organize the BOSC organizing committee, and
-    Abstract Review Board (these may overlap, but may not be the same).
 -   Late December: Create the Official BOSC Website. This should contain
     information on keynotes, ISMB registration dates and fees, and all
     requirements for submission of abstracts, lightning talks, demos, or
@@ -81,6 +85,14 @@ Organizational Year
     they were accepted, accepted as a lightning talk, or rejected.
 -   Submit pdf file for printed ISMB BOSC material to be handed out.
     There is a Docbook formated document that I have been using to
-    create this using docbook2pdf. I will make sure this is available in
-    the cvs repository for the conferences.
+    create this using docbook2pdf. These are available from
+    <http://people.genome.duke.edu/~londo003/bosc2007/program>.
+-   Send out a reminder that we are still accepting lightning talks,
+    and wifi-workshops.
+-   Run the conference.
+-   After the conference, there will be a meeting between the ISMB and
+    SIG coordinators, usually Sunday or Monday. On some years, they have
+    wanted the SIGs to present something to the ISMB attendees about
+    the SIG.
+-   Meet with OBF board to discuss future plans.
 
