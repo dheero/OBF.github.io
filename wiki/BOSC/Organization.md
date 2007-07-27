@@ -75,7 +75,7 @@ Organizational Year
     with a plea for help, and it will generally get taken care of by the
     official mailing list admin. The list of recipients can be expanded
     as needed. I have also set up the following (email me for the
-    eventful.com bosc user and password):
+    eventful.com 'bosc' user's password):
     -   [BOSC Eventful
         Group](http://eventful.com/groups/G0-001-000014747-0) : This
         site provides an ICAL feed which will include all deadlines
