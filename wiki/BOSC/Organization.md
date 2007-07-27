@@ -74,7 +74,15 @@ Organizational Year
     will reject it outright, but you can respond to the reject email
     with a plea for help, and it will generally get taken care of by the
     official mailing list admin. The list of recipients can be expanded
-    as needed.
+    as needed. I have also set up the following (email me for the
+    eventful.com bosc user and password):
+    -   [BOSC Eventful
+        Group](http://eventful.com/groups/G0-001-000014747-0) : This
+        site provides an ICAL feed which will include all deadlines
+        associated with BOSC 2007  
+    -   [BOSC Announcement Blog](http://www.open-bio.org/boscblog/) :
+        This Blog will contain all Important BOSC announcements. You can
+        include it in any RSS Reader.
 -   Second Call For Papers: This is to be done at least 2 weeks before
     the deadline.
 -   Review Submitted Proposals: This is done via email. Those on the
