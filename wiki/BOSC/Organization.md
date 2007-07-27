@@ -75,8 +75,8 @@ Organizational Year
     with a plea for help, and it will generally get taken care of by the
     official mailing list admin. The list of recipients can be expanded
     as needed.
--   Second Call For Papers: This is to be done somewhere up to 2 weeks
-    before the deadline.
+-   Second Call For Papers: This is to be done at least 2 weeks before
+    the deadline.
 -   Review Submitted Proposals: This is done via email. Those on the
     review panel should discuss a ratings procedure (preferably before
     the deadline, although this hasnt happened in the past), and all
