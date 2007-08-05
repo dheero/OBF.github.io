@@ -104,3 +104,4 @@ Organizational Year
     the SIG.
 -   Meet with OBF board to discuss future plans.
 
+<Category:BOSC>
