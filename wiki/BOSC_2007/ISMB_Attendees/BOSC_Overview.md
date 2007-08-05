@@ -10,7 +10,8 @@ title: BOSC 2007/ISMB Attendees/BOSC Overview
 -   2000 Tim O'Reilly
 -   2002 Michael Eisen PloS
 -   2004 Wolfgang Huber Bioconductor
--   2005 Jason Stajich, Hilmar Lapp
+-   2005 [Jason Stajich](Jason_Stajich "wikilink"), [Hilmar
+    Lapp](Hilmar_Lapp "wikilink")
 -   2006 Amos Bairoch of the Swiss Institute of Bioinformatics
 -   2006 Alberto M.R. Davila of the DBBM, Instituto Oswaldo Cruz, Rio de
     Janeiro, Brasil
@@ -34,3 +35,4 @@ title: BOSC 2007/ISMB Attendees/BOSC Overview
 -   Creates a nice setting to discuss new ideas, address problems, and
     interact with other developers and users
 
+<Category:BOSC>

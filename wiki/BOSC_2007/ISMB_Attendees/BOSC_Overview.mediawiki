@@ -3,8 +3,8 @@
 * 2000 Tim O'Reilly
 * 2002 Michael Eisen PloS
 * 2004 Wolfgang Huber Bioconductor
-* 2005 Jason Stajich, Hilmar Lapp
-* 2006  Amos Bairoch of the Swiss Institute of Bioinformatics
+* 2005 [[Jason Stajich]], [[Hilmar Lapp]]
+* 2006 Amos Bairoch of the Swiss Institute of Bioinformatics
 * 2006 Alberto M.R. Davila of the DBBM, Instituto Oswaldo Cruz, Rio de Janeiro, Brasil 
 * 2007 Carole Goble
 ===Full Talks===
@@ -17,3 +17,5 @@
 ===Birds of a Feather/Wifi Workshops===
 * Parallel meetings of small groups of attendees with shared interests
 * Creates a nice setting to discuss new ideas, address problems, and interact with other developers and users
+
+[[Category:BOSC]]
