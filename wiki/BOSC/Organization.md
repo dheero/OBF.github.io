@@ -67,7 +67,7 @@ Organizational Year
     have always attempted to mail to multiple lists for the same O|B|F
     project, e.g. dev and announce, if it was possible. Each project has
     a mailman interface which you can find by appending the name of the
-    list to <http://bioperl.org/mailman/admindb/>. You must get the
+    list to <http://lists.open-bio.org/mailman/admin/>. You must get the
     password from Chris Dagdigian. This is useful for you to go in and
     'allow' any BOSC announcements to these lists which get held in the
     moderator que when you are not a member of the list. Other lists
