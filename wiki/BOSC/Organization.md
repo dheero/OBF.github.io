@@ -103,5 +103,10 @@ Organizational Year
     wanted the SIGs to present something to the ISMB attendees about
     the SIG.
 -   Meet with OBF board to discuss future plans.
+-   Get Presentation Slides and post to [The Bosc Slideshare
+    Account](http://www.slideshare.net/bosc) (note username is bosc,
+    email darin for password, or just ask for it to be sent to the
+    registered email address, which is bosc@open-bio.org, and then watch
+    for it in the mailman admindb for bosc).
 
 <Category:BOSC>
