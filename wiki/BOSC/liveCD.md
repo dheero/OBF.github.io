@@ -68,7 +68,15 @@ What we add
 <!-- -->
 
 -   SwissProt (in which format?) - discussion: is quite large, in
-    particular text and xml format (1.1GB and 2.1 GB), but FASTA is 121M
+    particular text and xml format (1.1GB and 2.1 GB), but FASTA is
+    121M, a constraint to a few core organisms may be appropriate (fully
+    sequenced mammals, some pathogens (HIV (ignoring the many variants),
+    EBV, Hepatitis B (tiny), Salmonella, Yeast, Plasmodium))
+
+<!-- -->
+
+-   Some protein domain database ((some subset of) PFAM preferred,
+    PROSITE because of its intuitive regular expressions)
 
 <!-- -->
 
@@ -77,6 +85,8 @@ What we add
 
 Preferably we should have the same example represented in different
 forms and shapes.
+
+The LiveCD is probably limited by the size of a DVD.
 
 Aggregate Configuration
 -----------------------
