@@ -127,8 +127,8 @@ Guidelines](http://www.debian.org/social_contract#guidelines) and
 Who?
 ----
 
--   Steffen Möller <steffen_moeller   gmx.de> volunteers as a link to
-    the debian community and to help with expertise in packaging
+-   Steffen Möller <moeller   debian.org> volunteers as a link to the
+    Debian community and to help with expertise in packaging
 -   Kazuharu Arakawa offers their work on a Knoppix (also Debian)-based
     Bioinformatics CD that is accompanied by a Japanese book (Knoppix
     for Bio Project: <http://knob.sourceforge.jp>) and
