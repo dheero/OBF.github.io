@@ -57,9 +57,7 @@ What we add
 ### Example applications
 
 -   Basic command line tools: emboss, fasta, blast
-
-<!-- -->
-
+-   Sequence-level protein domain finders: mafft, t-coffee, hmmer
 -   PDB viewer (preferably one without the MOTIF-1980 look)
 
 ### Example data
