@@ -149,7 +149,21 @@ Who?
 Getting it started
 ------------------
 
-Seed of 10 packages
+Seed of 10 packages.
+
+Available:
+
+-   BioPerl
+-   EMBOSS
+-   Alignment tools (ClustalW, T-Coffee, Muscle, MAFFT, et al.)
+
+Aiming at:
+
+-   [Taverna](http://tarverna.sf.net)
+-   [BioMart](http://www.biomart.org)
+
+which are all a bit more difficult because of Java library versioning
+which is not yet established.
 
 To get this started we plan to pick (somewhere around) ten packages
 drawn from the assorted participants at BOSC this year.
