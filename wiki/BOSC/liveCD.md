@@ -168,4 +168,5 @@ Related work
 ------------
 
 -   [BioLinux](http://www.biolinux.org/)
+-   [Debian-Med](http://www.debian.org/devel/debian-med/)
 
