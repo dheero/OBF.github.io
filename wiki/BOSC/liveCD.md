@@ -156,6 +156,9 @@ Available:
 -   BioPerl
 -   EMBOSS
 -   Alignment tools (ClustalW, T-Coffee, Muscle, MAFFT, et al.)
+-   HMMer
+-   Exonerate, Wise
+-   RNA tools (RNAhybrid, Infernal)
 
 Aiming at:
 
@@ -164,6 +167,11 @@ Aiming at:
 
 which are all a bit more difficult because of Java library versioning
 which is not yet established.
+
+Missing:
+
+-   Suiteable subset of databases
+-   Tutorials
 
 To get this started we plan to pick (somewhere around) ten packages
 drawn from the assorted participants at BOSC this year.
