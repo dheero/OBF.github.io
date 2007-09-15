@@ -158,12 +158,6 @@ drawn from the assorted participants at BOSC this year.
 -   Tom passively awaits requests for participation from Developers
 -   Expecting to extend ez-tune-livecd
 
-Design of a web / wiki page
-
--   to announce to the community and ask for contribution
--   assignment of packaging tasks to the community of Debian-Developers.
--   You have just finished reading it - success!
-
 Related work
 ------------
 
