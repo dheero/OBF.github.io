@@ -33,7 +33,7 @@ Parliamentarian), Darin London, Kam Dahlquist
     -   Need to look into venue and procedure for publishing the talks
     -   Include a hackathon?
 
-Action items
+**Action items:**
 
 -   Darin to craft on-line feedback survey for BOSC
 -   Darin to draft initial call for nomination to the BOSC Organizing
