@@ -111,7 +111,6 @@ encourage more diversity. For that matter, we're rather close knit,
 which is good, but it doesn't help bring in enough new people to lead
 projects, help with BOSC, be on the Board, etc.
 
-  
 *Chris:* Move to adjourn.  
 *Jason:* Seconded.  
 Motion passed by unanimous consent.
