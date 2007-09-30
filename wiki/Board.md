@@ -57,9 +57,11 @@ Evolutionary Synthesis Center](http://www.nescent.org/) (NESCent).
 [Associate Professor](http://compbio.berkeley.edu) at University of
 California, Berkeley.
 
-Meetings
---------
+Board of Directors Meetings
+---------------------------
 
+-   [Minutes:2007 BOSC Meeting](Minutes:2007_BOSC_Meeting "wikilink")
+-   No Board Meeting was held in 2006.
 -   [Minutes:2005 BOSC Meeting](Minutes:2005_BOSC_Meeting "wikilink")
 -   [Minutes:2004 BOSC Meeting](Minutes:2004_BOSC_Meeting "wikilink")
 
