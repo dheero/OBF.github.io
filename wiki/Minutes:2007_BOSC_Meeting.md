@@ -5,9 +5,10 @@ title: Minutes:2007 BOSC Meeting
 O|B|F Board of Directors Meeting 7/21/2007: Minutes
 ---------------------------------------------------
 
-Venue: Cafe Prückl, Vienna Date: 7/21/2007, 5.30pm Attending: Jason
-Stajich (OBF President), Hilmar Lapp (OBF Parliamentarian), Darin
-London, Kam Dahlquist
+**Venue:** Cafe Prückl, Vienna  
+**Date:** 7/21/2007, 5.30pm  
+**Attending:** Jason Stajich (OBF President), Hilmar Lapp (OBF
+Parliamentarian), Darin London, Kam Dahlquist
 
 ### BOSC
 
