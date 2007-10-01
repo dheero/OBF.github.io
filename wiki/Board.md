@@ -64,4 +64,5 @@ Board of Directors Meetings
 -   No Board Meeting was held in 2006.
 -   [Minutes:2005 BOSC Meeting](Minutes:2005_BOSC_Meeting "wikilink")
 -   [Minutes:2004 BOSC Meeting](Minutes:2004_BOSC_Meeting "wikilink")
+-   [Minutes:2002 BOSC Meeting](Minutes:2002_BOSC_Meeting "wikilink")
 
