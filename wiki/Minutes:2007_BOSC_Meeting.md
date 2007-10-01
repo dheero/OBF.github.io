@@ -2,6 +2,10 @@
 title: Minutes:2007 BOSC Meeting
 ---
 
+An [initial agenda for this
+meeting](2007_BoardMeeting_Agenda "wikilink") was compiled by the
+President prior to the meeting.
+
 O|B|F Board of Directors Meeting 7/21/2007: Minutes
 ---------------------------------------------------
 
