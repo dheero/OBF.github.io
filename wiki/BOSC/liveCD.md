@@ -149,6 +149,8 @@ Who?
 Getting it started
 ------------------
 
+### Packages
+
 Seed of 10 packages.
 
 Available:
@@ -170,11 +172,17 @@ Aiming at:
 which are all a bit more difficult because of Java library versioning
 which is not yet established.
 
-Missing:
+### Tutorials / Book chapters offered:
+
+-   Using computational grid with BioPerl and T-Coffee to distribute
+    computational load in pattern detection. (Steffen)
+
+### Missing:
 
 -   Suiteable subset of databases
 -   Fancy graphics for desktop and startup screen
 -   Tutorials
+-   Pattern describing tools besides HMMER (MEME, spexs, ...?)
 
 To get this started we plan to pick (somewhere around) ten packages
 drawn from the assorted participants at BOSC this year.
