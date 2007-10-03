@@ -154,8 +154,10 @@ Seed of 10 packages.
 Available:
 
 -   BioPerl
+-   BioJava
+-   BioPython
 -   EMBOSS
--   Alignment tools (ClustalW, T-Coffee, Muscle, MAFFT, et al.)
+-   Alignment tools (ClustalW, T-Coffee, Muscle, MAFFT, proda, et al.)
 -   HMMer
 -   Exonerate, Wise
 -   RNA tools (RNAhybrid, Infernal)
@@ -171,6 +173,7 @@ which is not yet established.
 Missing:
 
 -   Suiteable subset of databases
+-   Fancy graphics for desktop and startup screen
 -   Tutorials
 
 To get this started we plan to pick (somewhere around) ten packages
