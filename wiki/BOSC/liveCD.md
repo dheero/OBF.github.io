@@ -194,6 +194,9 @@ drawn from the assorted participants at BOSC this year.
 Related work
 ------------
 
+-   [Bio-Linux](http://nebc.nox.ac.uk/biolinux.html) - by the
+    [NERC](http://www.nerc.ac.uk) Environmental Bioinformatics Centre
+    ([NEBC](http://nebc.nox.ac.uk/))
 -   [BioLinux](http://www.biolinux.org/)
 -   [Debian-Med](http://www.debian.org/devel/debian-med/)
 
