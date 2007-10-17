@@ -199,4 +199,7 @@ Related work
     ([NEBC](http://nebc.nox.ac.uk/))
 -   [BioLinux](http://www.biolinux.org/)
 -   [Debian-Med](http://www.debian.org/devel/debian-med/)
+-   Egon Willighagen's ChemBio
+    [LiveCD](http://chem-bla-ics.blogspot.com/2006/05/live-life-sciences-cd.html)
+-   [Knoppix for Bio Project](http://knob.sourceforge.jp)
 
