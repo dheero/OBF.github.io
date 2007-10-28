@@ -83,6 +83,13 @@ Bad Idea? Harder to identify project branding with this I know, but some
 of the definition pages like [multiple sequence alignment
 tools](bp:MSA "wikilink") is harder.
 
+-   I think keeping the wikis separate is better, though I can also see
+    the benefit of consolidating some of the definition pages into one
+    space, as well as moving anything which relates to more than one
+    project (BioSQL, OBDA, etc). Maybe use the OBF wiki for that and
+    link to those pages where needed?
+    --[Cjfields](User:Cjfields "wikilink") 17:51, 28 October 2007 (EDT)
+
 ### Ideas
 
 If you have any feedback about how we move forward with web and web2.0
