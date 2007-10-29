@@ -99,6 +99,13 @@ facebook, linked in, scilink.com, or nature network as possible ways to
 try and connect everyone up a little more effectively beyond the mailing
 lists.
 
+-   There is also the open source social networking site
+    [Ohloh](http://www.ohloh.net/). See the
+    [Biojava](http://www.ohloh.net/projects/6798?p=BioJava) and
+    [BioPerl](http://www.ohloh.net/projects/6685?p=BioPerl)
+    projects there. --[Andreas](User:Andreas "wikilink") 06:40, 29
+    October 2007 (EDT)
+
 Mailing lists
 -------------
 
