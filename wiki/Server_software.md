@@ -22,6 +22,12 @@ I don't think you HAVE to make a release before the changeover, but you
 just need to get your project coordinated so everyone knows about the
 ways to get code out.
 
+-   BioPerl has a preliminary CVS to SVN [migration
+    page](http://www.bioperl.org/wiki/CVS_to_SVN_Migration) on the wiki
+    to track progress; it just needs to be updated and eventually moved
+    into the full SVN docs once they are up.
+    --[Cjfields](User:Cjfields "wikilink") 11:59, 29 October 2007 (EDT)
+
 ### How will people access the machines?
 
 -   We will still have people use SSH to get onto the dev.open-bio.org
