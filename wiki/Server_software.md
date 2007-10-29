@@ -90,6 +90,14 @@ tools](bp:MSA "wikilink") is harder.
     link to those pages where needed?
     --[Cjfields](User:Cjfields "wikilink") 17:51, 28 October 2007 (EDT)
 
+<!-- -->
+
+-   I quite like [OpenID](http://openid.net) as a single sign on system
+    between multiple web sites. Would be nice to install the [OpenID
+    plugin](http://www.mediawiki.org/wiki/Extension:OpenID). This could
+    be used to identify the same user between our different wikis
+    --[Andreas](User:Andreas "wikilink") 07:07, 29 October 2007 (EDT)
+
 ### Ideas
 
 If you have any feedback about how we move forward with web and web2.0
