@@ -131,6 +131,12 @@ who and what have worked on the projects on the wikis. This is important
 to both give people credit for the work they did and for us to keep
 track of our history on the different projects.
 
+-   you could consider installing automated tools to visualize the
+    historic growth of CVS and SVN projects like
+    [StatCVS](http://statcvs.sourceforge.net/) and
+    [StatSVN](http://statsvn.org/) --[Andreas](User:Andreas "wikilink")
+    06:44, 29 October 2007 (EDT)
+
 We are making strides to get the OBF as a 503(c) organization and so it
 will be important to show the progress we make if we solicit donations
 from corporations.
