@@ -61,6 +61,13 @@ categories instead? I was hoping that projects would be able to
 designate some people to post summaries of list traffic and project
 progress through the news system, but I know this takes a lot of time.
 
+-   I think consolidating the new feeds would be fine; we can always
+    categorize/tag the posts. Speaking as one who wrote them up for a
+    brief time, mailing list summaries are quite time-consuming, so
+    finding a way to semi-automate it might be easier (I think the Perl6
+    list used to do this). --[Cjfields](User:Cjfields "wikilink") 11:56,
+    29 October 2007 (EDT)
+
 ### Wikis
 
 I have started working to try and consolidate the installations so
