@@ -73,6 +73,11 @@ progress through the news system, but I know this takes a lot of time.
     finding a way to semi-automate it might be easier (I think the Perl6
     list used to do this). --[Cjfields](User:Cjfields "wikilink") 11:56,
     29 October 2007 (EDT)
+-   Consolidating them would be much better to provide a nice overview
+    of all O|B|F projects' progress. People who require more detailed
+    tracking of them are used to be subscribed to the
+    corresponding lists. --[Mauricio](User:Mauricio "wikilink") 11:09,
+    31 October 2007 (EDT)
 
 ### Wikis
 
