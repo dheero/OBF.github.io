@@ -120,6 +120,8 @@ Link to Debian
     providing packages for Bioinformatics and Scientific Computing in
     general:
     -   [Debian-Med](http://www.debian.org/devel/debian-med/)
+        ([wiki](http://wiki.debian.org/DebianMed),
+        [portal](http://debian-med.alioth.debian.org))
     -   [Quantian](http://dirk.eddelbuettel.com/quantian.html)
 
 Strong communication between "upstream" BOSC developers and package
