@@ -6,10 +6,11 @@ Anonymous access to the latest hosted source code repositories
 ==============================================================
 
 This page documents the process of obtaining anonymous [
-CVS](wp:Concurrent_Versions_System "wikilink") or [
-RSYNC](wp:Rsync "wikilink") based access to the source code repositories
-hosted by the Open Bioinformatics Foundation. These methods are useful
-for obtaining cutting edge sourcecode and developer snapshots.
+CVS](wp:Concurrent_Versions_System "wikilink"), [
+SVN](wp:SVN "wikilink") or [ RSYNC](wp:Rsync "wikilink") based access to
+the source code repositories hosted by the Open Bioinformatics
+Foundation. These methods are useful for obtaining cutting edge
+sourcecode and developer snapshots.
 
 Note to casual users
 --------------------
