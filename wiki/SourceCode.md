@@ -45,7 +45,10 @@ Downloading and updating code via Anonymous CVS
     installed on your system.
 -   Pick the repository that you wish to use
 
-`    IMPORTANT NOTE (Starting in 2008): BioPerl and BioJava are switching from CVS to Subversion for source code version control management. At some point the CVS links below for BioPerl and BioJava will be removed. `
+'''IMPORTANT NOTE (Starting in 2008): BioPerl and BioJava are switching
+from CVS to Subversion for source code version control management. At
+some point the CVS links below for BioPerl and BioJava will be removed.
+'''
 
 `   * `[`/home/repository/biopython`](http://code.open-bio.org/cgi/viewcvs.cgi/?cvsroot=biopython)  
 `   * `[`/home/repository/biojava`](http://code.open-bio.org/cgi/viewcvs.cgi/?cvsroot=biojava)  
