@@ -140,9 +140,9 @@ functionality to break temporarily. The final step of our codebase
 replication process is to explicitly re-verify the health and status of
 each repository.
 
--   SVN repositories are mirrored hourly
--   SVN repositories are verified and repaired (if necessary) every 15
-    minutes
+-   Anonymous SVN repositories are mirrored hourly
+-   Anonymous SVN repositories are verified and repaired (if necessary)
+    every 15 minutes
 
 If a SVN client error occurs for longer than 15 minutes, please report
 this to: support@helpdesk.open-bio.org
