@@ -136,13 +136,17 @@ If you encounter an error while using the SVN client or SVN Web
 interface, the likely cause is that our server is in the middle of
 replicating the repository from the primary source. While the mirror and
 replication process occurs, it is not unusual for SVN client
-functionality to break temporarily. The final step of our codebase
-replication process is to explicitly re-verify the health and status of
-each repository.
+functionality to break temporarily.
 
--   Anonymous SVN repositories are mirrored hourly
+The final step of our codebase replication process is to explicitly
+re-verify the health and status of each repository, this process takes a
+few moments but while it occurs the repository is "locked" and
+unavailable for access.
+
+-   Anonymous SVN repositories are updated/mirrored hourly from the
+    primary developer server
 -   Anonymous SVN repositories are verified and repaired (if necessary)
-    every 15 minutes
+    every 20 minutes
 
-If a SVN client error occurs for longer than 15 minutes, please report
+If a SVN client error occurs for longer than 20 minutes, please report
 this to: support@helpdesk.open-bio.org
