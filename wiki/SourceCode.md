@@ -129,8 +129,8 @@ directory named "bioperl-live" on your system:
 
 ` svn co `[`svn://code.open-bio.org/bioperl/bioperl-live/trunk`](svn://code.open-bio.org/bioperl/bioperl-live/trunk)` bioperl-live`
 
-Troubleshoowting Anonymous SVN
-------------------------------
+Troubleshooting Anonymous SVN
+-----------------------------
 
 If you encounter an error while using the SVN client or SVN Web
 interface, the likely cause is that our server is in the middle of
