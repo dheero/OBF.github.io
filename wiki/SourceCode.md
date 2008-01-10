@@ -111,9 +111,8 @@ Downloading and updating code via Anonymous SVN
 -----------------------------------------------
 
 The code.open-bio.org server also offers up read-only copies of source
-code repositories via anonymous [ SVN](wp:SVN "wikilink").
-
-A list of code repositories available via SVN can be seen here:
+code repositories via anonymous [ SVN](wp:SVN "wikilink"). A list of
+code repositories available via SVN can be seen here:
 <http://code.open-bio.org/svnweb/index.cgi>
 
 *Example Usage*:
@@ -122,8 +121,6 @@ To see what SVN modules the BioJava project is making available, try
 this command:
 
 ` svn list `[`svn://code.open-bio.org/biojava`](svn://code.open-bio.org/biojava)
-
-The server will echo back the contents of the BioJava SVN repository.
 
 The following example shows how to obtain the latest Bioperl codebase
 snapshot using anonymous SVN, it will check out the latest copy of
