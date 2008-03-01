@@ -1,4 +1,5 @@
-Previous BOSC conferences
+Previous BOSC conferences:
+* [[BOSC 2007]] Vienna, Austria
 * [[BOSC 2006]] Fortaleza, Brasil
 * [[BOSC 2005]] Detroit, MI USA
 * [[BOSC 2004]] Glasgow, UK
