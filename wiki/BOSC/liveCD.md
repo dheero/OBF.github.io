@@ -155,16 +155,17 @@ Getting it started
 
 Seed of 10 packages.
 
-Available:
+Available (see Debian-Med initiative):
 
 -   BioPerl
 -   BioJava
 -   BioPython
 -   EMBOSS
--   Alignment tools (ClustalW, T-Coffee, Muscle, MAFFT, proda, et al.)
+-   Alignment tools (ClustalW, T-Coffee, Muscle, MAFFT, proda et al.)
 -   HMMer
 -   Exonerate, Wise
 -   RNA tools (RNAhybrid, Infernal)
+-   Structures (AutoDock, Gromacs, apbs, pymol et al.)
 
 Aiming at:
 
