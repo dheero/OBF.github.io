@@ -10,6 +10,7 @@ Main projects
 -   [BioPipe](http://biopipe.org)
 -   [BioPython](http://www.biopython.org)
 -   [BioRuby](http://www.bioruby.org)
+-   [BioSQL](http://biosql.org)
 -   [DAS](http://www.biodas.org) and their list of [Global Sequence
     Identifiers](http://biodas.org/wiki/GlobalSeqIDs)
 -   [MOBY](http://www.biomoby.org)
