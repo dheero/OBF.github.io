@@ -38,10 +38,10 @@ BOSC
 ----
 
 [Bioinformatics Open Source Conference](BOSC "wikilink") (BOSC) is held
-annually in conjunction with [ISCB's](http://www.iscb.org) meeting
-[ISMB](http://www.iscb.org/ismb2008/). We held [BOSC
-2007](BOSC_2007 "wikilink") at [ISMB 2007](http://www.iscb.org/ismb07)
-in [Vienna, Austria](wp:Vienna,_Austria "wikilink").
+annually in conjunction with [ISCB's](http://www.iscb.org) meeting ISMB.
+We held [BOSC 2007](BOSC_2007 "wikilink") at [ISMB
+2007](http://www.iscb.org/ismb07) in [Vienna,
+Austria](wp:Vienna,_Austria "wikilink").
 
 See some of the [Past BOSC
 conferences](Past_BOSC_conferences "wikilink").
