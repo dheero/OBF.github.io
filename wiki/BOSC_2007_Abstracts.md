@@ -538,7 +538,7 @@ GenMAPP Gene Database for Arabidopsis thaliana.
 \[Software Design And Engineering\] An Open Source Framework for Teaching Bioinformatics
 ----------------------------------------------------------------------------------------
 
-Kam Dalquist, Department of Biology, Loyola Marymount University
+Kam Dahlquist, Department of Biology, Loyola Marymount University
 
 Bioinformatics training can be categorized into three areas: tool use,
 algorithm design/theoretical foundations, and program development.
