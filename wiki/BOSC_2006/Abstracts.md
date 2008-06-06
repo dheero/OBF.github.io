@@ -428,7 +428,7 @@ Engineering, National Taiwan University, Taipei, 2000.
 XMLPipeDB
 ---------
 
-Kam Dalquist, Department of Biology, Loyola Marymount University
+Kam Dahlquist, Department of Biology, Loyola Marymount University
 
 Saturday August 5th, 11:30am
 
