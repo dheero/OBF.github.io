@@ -492,7 +492,7 @@ are freely available at <http://www.e-cell.org/>.
 \[OS Software\] XMLPipeDB: A Reusable, Open Source Tool Chain for Building Relational Databases from XML Sources
 ----------------------------------------------------------------------------------------------------------------
 
-Kam Dalquist, Department of Biology, Loyola Marymount University
+Kam Dahlquist, Department of Biology, Loyola Marymount University
 
 XMLPipeDB is an open source suite of Java-based tools for automatically
 building relational databases from an XML schema (XSD). XMLPipeDB
