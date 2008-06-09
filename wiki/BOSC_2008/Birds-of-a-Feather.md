@@ -7,5 +7,7 @@ Birds of a Feather Sessions Day 1
 
 -   -   -   
 
-Birds of a Featehr Sessions Day 2
+Birds of a Feather Sessions Day 2
 =================================
+
+-   -   -   
