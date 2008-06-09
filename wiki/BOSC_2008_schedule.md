@@ -127,14 +127,14 @@ Collaboration
 <td width=95 valign=top style='width:71.4pt;border:solid windowtext 1.0pt;
   border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   padding:0in 5.4pt 0in 5.4pt'>
-<span style='font-size:11.0pt'>11:05-11:30<o:p></o:p></span>
+<span style='font-size:11.0pt'>11:05-11:30</span>
 
 </td>
 <td width=136 valign=top style='width:102.0pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt'>
-<span style='font-size:11.0pt'>Richard Smith<o:p></o:p></span>
+<span style='font-size:11.0pt'>Richard Smith</span>
 
 </td>
 <td width=407 valign=top style='width:305.4pt;border-top:none;border-left:
@@ -143,7 +143,7 @@ Collaboration
   mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt'>
 <span style='font-size:11.0pt'>\[cyberinfrastructure\]
 
-` Intermine – Open Source Data Warehouse and Query Interface`<o:p></o:p></span>
+` Intermine – Open Source Data Warehouse and Query Interface`</span>
 
 </td>
 </tr>
@@ -151,14 +151,14 @@ Collaboration
 <td width=95 valign=top style='width:71.4pt;border:solid windowtext 1.0pt;
   border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   padding:0in 5.4pt 0in 5.4pt'>
-<span style='font-size:11.0pt'>11:30-12:05<o:p></o:p></span>
+<span style='font-size:11.0pt'>11:30-12:05</span>
 
 </td>
 <td width=136 valign=top style='width:102.0pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt'>
-<span style='font-size:11.0pt'>Paul Gordon<o:p></o:p></span>
+<span style='font-size:11.0pt'>Paul Gordon</span>
 
 </td>
 <td width=407 valign=top style='width:305.4pt;border-top:none;border-left:
@@ -167,7 +167,7 @@ Collaboration
   mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt'>
 <span style='font-size:11.0pt'>\[cyberinfrastructure\] Bridging
 
-` Existing Bioinformatics Tools and Data into Semantic Web Services`<o:p></o:p></span>
+` Existing Bioinformatics Tools and Data into Semantic Web Services`</span>
 
 </td>
 </tr>
@@ -175,14 +175,14 @@ Collaboration
 <td width=95 valign=top style='width:71.4pt;border:solid windowtext 1.0pt;
   border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   padding:0in 5.4pt 0in 5.4pt'>
-<span style='font-size:11.0pt'>12:05-12:25<o:p></o:p></span>
+<span style='font-size:11.0pt'>12:05-12:25</span>
 
 </td>
 <td width=136 valign=top style='width:102.0pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt'>
-<span style='font-size:11.0pt'>Peter Rice<o:p></o:p></span>
+<span style='font-size:11.0pt'>Peter Rice</span>
 
 </td>
 <td width=407 valign=top style='width:305.4pt;border-top:none;border-left:
@@ -191,7 +191,7 @@ Collaboration
   mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt'>
 <span style='font-size:11.0pt'>\[cyberinfrastructure\]
 
-` Soaplab2: More Reliable Sesame Door to Bioinformatics Programs`<o:p></o:p></span>
+` Soaplab2: More Reliable Sesame Door to Bioinformatics Programs`</span>
 
 </td>
 </tr>
@@ -200,7 +200,7 @@ Collaboration
   border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   padding:0in 5.4pt 0in 5.4pt'>
 <b style='mso-bidi-font-weight:normal'><span
-  style='font-size:11.0pt'>12:30-1:30<o:p></o:p></span></b>
+  style='font-size:11.0pt'>12:30-1:30</span></b>
 
 </td>
 <td width=543 colspan=2 valign=top style='width:407.4pt;border-top:none;
@@ -208,10 +208,10 @@ Collaboration
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt'>
 <b style='mso-bidi-font-weight:normal'><span
-  style='font-size:11.0pt'>Lunch<o:p></o:p></span></b>
+  style='font-size:11.0pt'>Lunch</span></b>
 
 <b style='mso-bidi-font-weight:normal'><span
-  style='font-size:11.0pt'><o:p> </o:p></span></b>
+  style='font-size:11.0pt'></span></b>
 
 </td>
 </tr>
@@ -219,15 +219,14 @@ Collaboration
 <td width=95 valign=top style='width:71.4pt;border:solid windowtext 1.0pt;
   border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   padding:0in 5.4pt 0in 5.4pt'>
-<span style='font-size:11.0pt'>1:30-1:50<o:p></o:p></span>
+<span style='font-size:11.0pt'>1:30-1:50</span>
 
 </td>
 <td width=136 valign=top style='width:102.0pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt'>
-<span style='font-size:11.0pt'>Barry Sanders & David
-Arcoleo<o:p></o:p></span>
+<span style='font-size:11.0pt'>Barry Sanders & David Arcoleo</span>
 
 </td>
 <td width=407 valign=top style='width:305.4pt;border-top:none;border-left:
@@ -237,7 +236,7 @@ Arcoleo<o:p></o:p></span>
 <span style='font-size:11.0pt'>\[cyberinfrastructure\]
 
 ` BeeSpace:`<span style='mso-spacerun:yes'>`  `</span>`An Interactive System for`  
-` Functional Analysis`<o:p></o:p></span>
+` Functional Analysis`</span>
 
 </td>
 </tr>
@@ -245,16 +244,16 @@ Arcoleo<o:p></o:p></span>
 <td width=95 valign=top style='width:71.4pt;border:solid windowtext 1.0pt;
   border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   padding:0in 5.4pt 0in 5.4pt'>
-<span style='font-size:11.0pt'>1:50-2:10<o:p></o:p></span>
+<span style='font-size:11.0pt'>1:50-2:10</span>
 
 </td>
 <td width=136 valign=top style='width:102.0pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt'>
-<span style='font-size:11.0pt'>Andrew Jenkinson<o:p></o:p></span>
+<span style='font-size:11.0pt'>Andrew Jenkinson</span>
 
-<span style='font-size:11.0pt'><o:p> </o:p></span>
+<span style='font-size:11.0pt'></span>
 
 </td>
 <td width=407 valign=top style='width:305.4pt;border-top:none;border-left:
@@ -263,7 +262,7 @@ Arcoleo<o:p></o:p></span>
   mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt'>
 <span style='font-size:11.0pt'>\[cyberinfrastructure\]
 
-` BioDas Project Update`<o:p></o:p></span>
+` BioDas Project Update`</span>
 
 </td>
 </tr>
@@ -271,14 +270,14 @@ Arcoleo<o:p></o:p></span>
 <td width=95 valign=top style='width:71.4pt;border:solid windowtext 1.0pt;
   border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   padding:0in 5.4pt 0in 5.4pt'>
-<span style='font-size:11.0pt'>2:10-2:30<o:p></o:p></span>
+<span style='font-size:11.0pt'>2:10-2:30</span>
 
 </td>
 <td width=136 valign=top style='width:102.0pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt'>
-<span style='font-size:11.0pt'>Kazuharu Arakawa<o:p></o:p></span>
+<span style='font-size:11.0pt'>Kazuharu Arakawa</span>
 
 </td>
 <td width=407 valign=top style='width:305.4pt;border-top:none;border-left:
@@ -288,7 +287,7 @@ Arcoleo<o:p></o:p></span>
 <span style='font-size:11.0pt'>\[visualization\] E-Cell 3D:
 3-Dimensional
 
-` Visualization of Dynamic Cell Simulation`<o:p></o:p></span>
+` Visualization of Dynamic Cell Simulation`</span>
 
 </td>
 </tr>
@@ -296,14 +295,14 @@ Arcoleo<o:p></o:p></span>
 <td width=95 valign=top style='width:71.4pt;border:solid windowtext 1.0pt;
   border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   padding:0in 5.4pt 0in 5.4pt'>
-<span style='font-size:11.0pt'>2:30-2:50<o:p></o:p></span>
+<span style='font-size:11.0pt'>2:30-2:50</span>
 
 </td>
 <td width=136 valign=top style='width:102.0pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt'>
-<span style='font-size:11.0pt'>Peter Rice<o:p></o:p></span>
+<span style='font-size:11.0pt'>Peter Rice</span>
 
 </td>
 <td width=407 valign=top style='width:305.4pt;border-top:none;border-left:
@@ -312,7 +311,7 @@ Arcoleo<o:p></o:p></span>
   mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt'>
 <span style='font-size:11.0pt'>\[bio\*update\] EMBOSS:
 
-` European Molecular Biology Open Software Suite`<o:p></o:p></span>
+` European Molecular Biology Open Software Suite`</span>
 
 </td>
 </tr>
@@ -320,16 +319,16 @@ Arcoleo<o:p></o:p></span>
 <td width=95 valign=top style='width:71.4pt;border:solid windowtext 1.0pt;
   border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   padding:0in 5.4pt 0in 5.4pt'>
-<span style='font-size:11.0pt'>2:50-3:10<o:p></o:p></span>
+<span style='font-size:11.0pt'>2:50-3:10</span>
 
 </td>
 <td width=136 valign=top style='width:102.0pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt'>
-<span style='font-size:11.0pt'>Michael Heuer<o:p></o:p></span>
+<span style='font-size:11.0pt'>Michael Heuer</span>
 
-<span style='font-size:11.0pt'><o:p> </o:p></span>
+<span style='font-size:11.0pt'></span>
 
 </td>
 <td width=407 valign=top style='width:305.4pt;border-top:none;border-left:
@@ -338,7 +337,7 @@ Arcoleo<o:p></o:p></span>
   mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt'>
 <span style='font-size:11.0pt'>\[bio\*update\] BioJava
 
-` Project Update`<o:p></o:p></span>
+` Project Update`</span>
 
 </td>
 </tr>
@@ -346,14 +345,14 @@ Arcoleo<o:p></o:p></span>
 <td width=95 valign=top style='width:71.4pt;border:solid windowtext 1.0pt;
   border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   padding:0in 5.4pt 0in 5.4pt'>
-<span style='font-size:11.0pt'>3:10-3:15<o:p></o:p></span>
+<span style='font-size:11.0pt'>3:10-3:15</span>
 
 </td>
 <td width=136 valign=top style='width:102.0pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt'>
-<span style='font-size:11.0pt'>Justin Wilson<o:p></o:p></span>
+<span style='font-size:11.0pt'>Justin Wilson</span>
 
 </td>
 <td width=407 valign=top style='width:305.4pt;border-top:none;border-left:
@@ -362,7 +361,7 @@ Arcoleo<o:p></o:p></span>
   mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt'>
 <span style='font-size:11.0pt'>\[lightning talk\] Use the
 
-` Make Utility for the Maintenance of Complex Bioinformatics Pipelines`<o:p></o:p></span>
+` Make Utility for the Maintenance of Complex Bioinformatics Pipelines`</span>
 
 </td>
 </tr>
@@ -370,7 +369,7 @@ Arcoleo<o:p></o:p></span>
 <td width=95 valign=top style='width:71.4pt;border:solid windowtext 1.0pt;
   border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   padding:0in 5.4pt 0in 5.4pt'>
-<span style='font-size:11.0pt'>3:15-3:30<o:p></o:p></span>
+<span style='font-size:11.0pt'>3:15-3:30</span>
 
 </td>
 <td width=543 colspan=2 valign=top style='width:407.4pt;border-top:none;
@@ -379,11 +378,11 @@ Arcoleo<o:p></o:p></span>
   mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt'>
 <span style='font-size:11.0pt'>Additional Lightning
 
-` Talks/Demos/Birds of a Feather`<o:p></o:p></span>
+` Talks/Demos/Birds of a Feather`</span>
 
 <span style='font-size:11.0pt'>See
 
-` <`[`http://www.open-bio.org/wiki/BOSC_2008_schedule>`](http://www.open-bio.org/wiki/BOSC_2008_schedule%3E)` for updated listings`<o:p></o:p></span>
+` <`[`http://www.open-bio.org/wiki/BOSC_2008_schedule>`](http://www.open-bio.org/wiki/BOSC_2008_schedule%3E)` for updated listings`</span>
 
 </td>
 </tr>
@@ -392,7 +391,7 @@ Arcoleo<o:p></o:p></span>
   border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   padding:0in 5.4pt 0in 5.4pt'>
 <b style='mso-bidi-font-weight:normal'><span
-  style='font-size:11.0pt'>3:30-4:00<o:p></o:p></span></b>
+  style='font-size:11.0pt'>3:30-4:00</span></b>
 
 </td>
 <td width=543 colspan=2 valign=top style='width:407.4pt;border-top:none;
@@ -400,10 +399,10 @@ Arcoleo<o:p></o:p></span>
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt'>
 <b style='mso-bidi-font-weight:normal'><span
-  style='font-size:11.0pt'>Coffee Break<o:p></o:p></span></b>
+  style='font-size:11.0pt'>Coffee Break</span></b>
 
 <b style='mso-bidi-font-weight:normal'><span
-  style='font-size:11.0pt'><o:p> </o:p></span></b>
+  style='font-size:11.0pt'></span></b>
 
 </td>
 </tr>
@@ -411,23 +410,20 @@ Arcoleo<o:p></o:p></span>
 <td width=95 valign=top style='width:71.4pt;border:solid windowtext 1.0pt;
   border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   padding:0in 5.4pt 0in 5.4pt'>
-<span style='font-size:11.0pt'>4:00-5:30<o:p></o:p></span>
+<span style='font-size:11.0pt'>4:00-5:30</span>
 
 </td>
 <td width=543 colspan=2 valign=top style='width:407.4pt;border-top:none;
   border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt'>
-<span style='font-size:11.0pt'>Lightning
-Talks/Demos/BOFs<o:p></o:p></span>
+<span style='font-size:11.0pt'>Lightning Talks/Demos/BOFs</span>
 
-<span style='font-size:11.0pt'><o:p> </o:p></span>
+<span style='font-size:11.0pt'></span>
 
 </td>
 </tr>
 </table>
-<o:p> </o:p>
-
 <span style='font-size:12.0pt;font-family:"Times New Roman";mso-fareast-font-family:
 "Times New Roman";mso-ansi-language:EN-US;mso-fareast-language:EN-US;
 mso-bidi-language:AR-SA'>  
@@ -435,8 +431,7 @@ mso-bidi-language:AR-SA'>
 
 <b
 style='mso-bidi-font-weight:normal'><span style='font-size:16.0pt;font-family:
-Arial'>2.<span style='mso-tab-count:1'> </span>Schedule (Day
-2)<o:p></o:p></span></b>
+Arial'>Schedule (Day 2)</span></b>
 
 <o:p> </o:p>
 
