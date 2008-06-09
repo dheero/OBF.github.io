@@ -15,7 +15,7 @@ Arial'>Schedule (Day 1)</span></b>
 <td width=638 colspan=3 valign=top style='width:6.65in;border:solid windowtext 1.0pt;
   mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt'>
 <b style='mso-bidi-font-weight:normal'><span
-  style='font-size:11.0pt'>Friday, July18</span></b>
+  style='font-size:11.0pt'>Friday, July 18</span></b>
 
 <b style='mso-bidi-font-weight:normal'><span
   style='font-size:11.0pt'></span></b>
