@@ -151,7 +151,7 @@ Collaboration
 <td width=95 valign=top style='width:71.4pt;border:solid windowtext 1.0pt;
   border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   padding:0in 5.4pt 0in 5.4pt'>
-<span style='font-size:11.0pt'>11:30-12:05</span>
+<span style='font-size:11.0pt'>11:35-12:00</span>
 
 </td>
 <td width=136 valign=top style='width:102.0pt;border-top:none;border-left:
@@ -175,7 +175,7 @@ Collaboration
 <td width=95 valign=top style='width:71.4pt;border:solid windowtext 1.0pt;
   border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   padding:0in 5.4pt 0in 5.4pt'>
-<span style='font-size:11.0pt'>12:05-12:25</span>
+<span style='font-size:11.0pt'>12:00-12:25</span>
 
 </td>
 <td width=136 valign=top style='width:102.0pt;border-top:none;border-left:
