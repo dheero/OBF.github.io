@@ -521,7 +521,7 @@ Arial'>Schedule (Day 2)</span></b>
 <span style='font-size:11.0pt'>\[workflows\] Ergatis: A
 
 ` Web-based Bioinformatics Pipeline Management and Collaborative Development`  
-` System`</span>
+` System `[`Abstract`](http://www.open-bio.org/w/images/5/59/Orvis_Ergatis_abstract.pdf)</span>
 
 </td>
 </tr>
