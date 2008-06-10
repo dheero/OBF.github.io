@@ -291,7 +291,7 @@ Collaboration
 <span style='font-size:11.0pt'>\[visualization\] E-Cell 3D:
 3-Dimensional
 
-` Visualization of Dynamic Cell Simulation`</span>
+` Visualization of Dynamic Cell Simulation `[`Abstract`](http://www.open-bio.org/w/images/2/20/Arakawa_E-Cell3D_abstract.pdf)</span>
 
 </td>
 </tr>
