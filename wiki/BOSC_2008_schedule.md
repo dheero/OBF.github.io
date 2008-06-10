@@ -341,7 +341,7 @@ Collaboration
   mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt'>
 <span style='font-size:11.0pt'>\[bio\*update\] BioJava
 
-` Project Update`</span>
+` Project Update `[`Abstract`](http://www.open-bio.org/w/images/1/10/Heuer_BioJava_abstract.pdf)</span>
 
 </td>
 </tr>
