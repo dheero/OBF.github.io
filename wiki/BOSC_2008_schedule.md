@@ -195,7 +195,7 @@ Collaboration
   mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt'>
 <span style='font-size:11.0pt'>\[cyberinfrastructure\]
 
-` Soaplab2: More Reliable Sesame Door to Bioinformatics Programs`</span>
+` Soaplab2: More Reliable Sesame Door to Bioinformatics Programs `[`Abstract`](http://www.open-bio.org/w/images/3/3c/Rice_Soaplab2_abstract.pdf)</span>
 
 </td>
 </tr>
