@@ -2,6 +2,10 @@
 title: BOSC 2008 schedule
 ---
 
+You may also download the entire BOSC program with the schedule and all
+abstracts as a PDF file (![BOSC 2008
+Program](BOSC2008_program.pdf "fig:BOSC 2008 Program"), 1971KB)
+
 <div class=Section1>
 <b
 style='mso-bidi-font-weight:normal'><span style='font-size:16.0pt;font-family:
