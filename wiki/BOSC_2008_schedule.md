@@ -706,7 +706,7 @@ Arial'>Schedule (Day 2)</span></b>
   mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt'>
 <span style='font-size:11.0pt'>\[bio\*update\] BioSQL
 
-` Reloaded: 1.0 Release, PhyloDB Module, and Future Features`</span>
+` Reloaded: 1.0 Release, PhyloDB Module, and Future Features `[`Abstract`](http://www.open-bio.org/w/images/3/3b/Lapp_BioSQL_abstract.pdf)</span>
 
 </td>
 </tr>
