@@ -7,6 +7,8 @@ abstracts as a [PDF
 file](http://www.open-bio.org/w/images/b/b6/BOSC2008_program.pdf)
 (1971KB).
 
+Return to [ BOSC2008](BOSC_2008 "wikilink") main page.
+
 <div class=Section1>
 <b
 style='mso-bidi-font-weight:normal'><span style='font-size:16.0pt;font-family:
