@@ -3,8 +3,9 @@ title: BOSC 2008 schedule
 ---
 
 You may also download the entire BOSC program with the schedule and all
-abstracts as a PDF file (![BOSC 2008
-Program](BOSC2008_program.pdf "fig:BOSC 2008 Program"), 1971KB)
+abstracts as a [PDF
+file](http://www.open-bio.org/w/images/b/b6/BOSC2008_program.pdf),
+1971KB)
 
 <div class=Section1>
 <b
