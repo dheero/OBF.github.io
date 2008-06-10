@@ -240,7 +240,7 @@ Collaboration
 <span style='font-size:11.0pt'>\[cyberinfrastructure\]
 
 ` BeeSpace:`<span style='mso-spacerun:yes'>`  `</span>`An Interactive System for`  
-` Functional Analysis`</span>
+` Functional Analysis `[`Abstract`](http://www.open-bio.org/wiki/Image:Sanders_Arcoleo_BeeSpace_abstract.pdf)</span>
 
 </td>
 </tr>
