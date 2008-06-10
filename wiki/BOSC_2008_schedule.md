@@ -171,7 +171,7 @@ Collaboration
   mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt'>
 <span style='font-size:11.0pt'>\[cyberinfrastructure\] Bridging
 
-` Existing Bioinformatics Tools and Data into Semantic Web Services`</span>
+` Existing Bioinformatics Tools and Data into Semantic Web Services `[`Abstract`](http://www.open-bio.org/w/images/6/69/Gordon_SemanticWeb_abstract.pdf)</span>
 
 </td>
 </tr>
