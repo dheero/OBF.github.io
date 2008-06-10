@@ -662,7 +662,7 @@ Arial'>Schedule (Day 2)</span></b>
   mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt'>
 <span style='font-size:11.0pt'>\[open source software\]
 
-` Apollo: a Sequence Annotation Editor (with demonstration to follow)`</span>
+` Apollo: a Sequence Annotation Editor (with demonstration to follow)`[`Abstract`](http://www.open-bio.org/w/images/3/3a/Lee_Apollo_abstract.pdf)</span>
 
 </td>
 </tr>
