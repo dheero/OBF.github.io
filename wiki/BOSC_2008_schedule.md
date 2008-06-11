@@ -395,27 +395,6 @@ Source Sequence Analysis Framework </span>
 
 </td>
 </tr>
-<tr style='mso-yfti-irow:15'>
-<td width=95 valign=top style='width:71.4pt;border:solid windowtext 1.0pt;
-  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0in 5.4pt 0in 5.4pt'>
-<span style='font-size:11.0pt'>3:15-3:30</span>
-
-</td>
-<td width=543 colspan=2 valign=top style='width:407.4pt;border-top:none;
-  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt'>
-<span style='font-size:11.0pt'>Additional Lightning
-
-` Talks/Demos/Birds of a Feather`</span>
-
-<span style='font-size:11.0pt'>See
-
-` <`[`http://www.open-bio.org/wiki/BOSC_2008_schedule>`](http://www.open-bio.org/wiki/BOSC_2008_schedule%3E)` for updated listings`</span>
-
-</td>
-</tr>
 <tr style='mso-yfti-irow:16'>
 <td width=95 valign=top style='width:71.4pt;border:solid windowtext 1.0pt;
   border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
@@ -447,7 +426,8 @@ Source Sequence Analysis Framework </span>
   border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt'>
-<span style='font-size:11.0pt'>Lightning Talks/Demos/BOFs</span>
+<span style='font-size:11.0pt'>Additional Lightning
+Talks/Demos/BOFs</span>
 
 <span style='font-size:11.0pt'></span>
 
