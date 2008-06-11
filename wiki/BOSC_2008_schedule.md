@@ -391,7 +391,8 @@ Collaboration
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt'>
 <span style='font-size:11.0pt'>\[lightning talk\] SolexaTools: An Open
-Source Sequence Analysis Framework </span>
+Source Sequence Analysis Framework
+[Abstract](http://www.open-bio.org/w/images/6/63/OConnor_SolexaTools_abstract.pdf)</span>
 
 </td>
 </tr>
