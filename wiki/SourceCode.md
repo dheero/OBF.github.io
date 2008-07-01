@@ -28,7 +28,10 @@ Note to developers
 
 This page describes methods for obtaining **read only** access to the
 latest snapshots of our source code. Updates, fixes and new code **can
-not** be committed or uploaded using the methods described here.
+not** be committed or uploaded using the methods described here. The
+exception is BioRuby, which can be
+[forked](http://github.com/pjotrp/bioruby-testing-central/wikis) on
+[github](http://github.com/bioruby/bioruby/tree/master).
 
 How to browse our latest source code repositories via the web
 -------------------------------------------------------------
