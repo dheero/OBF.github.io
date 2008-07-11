@@ -7,10 +7,9 @@ Main projects
 
 -   [BioJava](http://www.biojava.org)
 -   [BioPerl](bp:BioPerl "wikilink")
--   [BioPipe](http://biopipe.org)
--   [BioPython](http://www.biopython.org)
+-   [Biopython](biopython:Main_Page "wikilink")
 -   [BioRuby](http://www.bioruby.org)
--   [BioSQL](http://biosql.org)
+-   [BioSQL](biosql:Main_Page "wikilink")
 -   [DAS](http://www.biodas.org) and their list of [Global Sequence
     Identifiers](http://biodas.org/wiki/GlobalSeqIDs)
 -   [MOBY](http://www.biomoby.org)
