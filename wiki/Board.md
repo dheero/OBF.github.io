@@ -60,6 +60,7 @@ California, Berkeley.
 Board of Directors Meetings
 ---------------------------
 
+-   [Minutes:2008 BOSC Meeting](Minutes:2008_BOSC_Meeting "wikilink")
 -   [Minutes:2007 BOSC Meeting](Minutes:2007_BOSC_Meeting "wikilink")
 -   No Board Meeting was held in 2006.
 -   [Minutes:2005 BOSC Meeting](Minutes:2005_BOSC_Meeting "wikilink")
