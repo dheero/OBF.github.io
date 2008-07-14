@@ -3,7 +3,7 @@ title: Board
 ---
 
 Board of Directors
-------------------
+==================
 
 The board can be contacted via email at <board@open-bio.org>
 
@@ -27,10 +27,7 @@ by [the BioTeam](http://www.bioteam.net).
 **Secretary**
 
   
-Andrew Dalke
-
-Representing [BioPython](http://www.biopython.org) & [Dalke
-Scientific](http://www.dalkescientific.com)
+Currently Unfilled
 
 **Parliamentarian**
 
@@ -50,11 +47,21 @@ Evolutionary Synthesis Center](http://www.nescent.org/) (NESCent).
 [Ensembl](http://www.ensembl.org) genome annotation project.
 
 Board of Directors Meetings
----------------------------
+===========================
 
+-   [Minutes:2008 BOSC Meeting](Minutes:2008_BOSC_Meeting "wikilink")
 -   [Minutes:2007 BOSC Meeting](Minutes:2007_BOSC_Meeting "wikilink")
 -   No Board Meeting was held in 2006.
 -   [Minutes:2005 BOSC Meeting](Minutes:2005_BOSC_Meeting "wikilink")
 -   [Minutes:2004 BOSC Meeting](Minutes:2004_BOSC_Meeting "wikilink")
 -   [Minutes:2002 BOSC Meeting](Minutes:2002_BOSC_Meeting "wikilink")
+
+Past Board Members
+==================
+
+-   Andrew Dalke, Representing [BioPython](http://www.biopython.org) &
+    [Dalke Scientific](http://www.dalkescientific.com), Secretary.
+-   [Steven E. Brenner](bp:Steven_Brenner "wikilink"), [Associate
+    Professor](http://compbio.berkeley.edu) at University of California,
+    Berkeley, At-large member.
 
