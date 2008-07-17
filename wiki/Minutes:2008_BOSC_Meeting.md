@@ -9,24 +9,45 @@ Agenda
     1.  Approval of [minutes from
         2007](Minutes:2007_BOSC_Meeting "wikilink")
 -   New Business
-    1.  Voting on the board appointments
+    1.  Current Board
+        -   Confirm past term expirations of those who did not run again
+            for the Board.
+        -   What to do about the Secretary seat?
+
+    2.  Voting on the board appointments
         -   Kam Dalhquist has already served as a major organizer for
             BOSC and is interested in helping lead the OBF to achieve
             more outreach and education.
         -   Darin London has served as BOSC chair for the past 4 years
+        -   Strengthen connection with O|B|J
         -   Procedure for appointment of additional BOD members
 
-    2.  Financial report (Treasurer)
-    3.  [BOSC](BOSC "wikilink")
+    3.  Financial report (Treasurer)
+        -   Account standing, reserves
+        -   501(c)3 accounting and filing status
+        -   Sponsorship accounting
+
+    4.  [BOSC](BOSC "wikilink")
         -   Short 2007 report (attendance, talk highlights)
         -   BOSC 2008 summary (attendance, talk hightlights)
         -   Should BOSC 2009 to be held in conjuction with ISMB2009?
         -   Possibilities for including submitted papers for
             a publication.
 
-    4.  OBF Membership accounting and drive to register more members
-    5.  OBF future directions
-    6.  Review of By-Laws (Parliamentarian)
+    5.  OBF Membership accounting and drive to register more members
+        -   Membership forms physical records
+        -   Members who are citizens of trade-restricted countries -
+            legal advice, file for exemption?
+        -   Form doesn't give date, need to amend
+
+    6.  OBF future directions
+    7.  Review of By-Laws (Parliamentarian)
+        -   10-days prior notice of Board meeting requirement: need to
+            change or have a standing Board meeting (BoF) on day 1 or 2
+            of BOSC
+        -   Not clear who elects officers - members may, but not a
+            requirement, Directors can elect officers too. Leave as is
+            or change?
 
 Minutes
 =======
