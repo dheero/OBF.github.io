@@ -17,6 +17,7 @@ Agenda
             by the Board (with prior notification and quorum satisfied).
             Should plan for a (presumably virtual) voting Board meeting
             soon afterwards.
+        -   How can we better ensure quorum?
 
     2.  Voting on the board appointments
         -   Kam Dalhquist has already served as a major organizer for
