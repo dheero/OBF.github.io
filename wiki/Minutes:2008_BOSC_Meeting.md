@@ -13,10 +13,10 @@ Agenda
         -   Confirm past term expirations of those who did not run again
             for the Board.
         -   What to do about the Secretary seat?
-        -   Some of the items on the agenda here need to a legitimate
-            vote by the Board (with prior notification and
-            quorum satisfied). Should plan for a (presumably virtual)
-            voting Board meeting soon afterwards.
+        -   Some of the items on the agenda here need a legitimate vote
+            by the Board (with prior notification and quorum satisfied).
+            Should plan for a (presumably virtual) voting Board meeting
+            soon afterwards.
 
     2.  Voting on the board appointments
         -   Kam Dalhquist has already served as a major organizer for
