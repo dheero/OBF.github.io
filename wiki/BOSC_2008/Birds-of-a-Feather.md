@@ -14,3 +14,9 @@ Birds of a Feather Sessions Day 2
 =================================
 
 -   -   -   
+
+TBA
+===
+
+-   Biojava devs, users, & interested folks (if there is interest)
+
