@@ -817,7 +817,6 @@ Arial'>Schedule (Day 2)</span></b>
 
 </td>
 </tr>
-</tr>
 <tr style='mso-yfti-irow:13'>
 <td width=95 valign=top style='width:71.4pt;border:solid windowtext 1.0pt;
   border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
@@ -842,7 +841,6 @@ Arial'>Schedule (Day 2)</span></b>
 Viewer</span>
 
 </td>
-</tr>
 </tr>
 <tr style='mso-yfti-irow:13'>
 <td width=95 valign=top style='width:71.4pt;border:solid windowtext 1.0pt;
