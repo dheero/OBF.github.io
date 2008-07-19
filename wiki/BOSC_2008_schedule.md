@@ -867,6 +867,31 @@ Resource Information Center</span>
 
 </td>
 </tr>
+<tr style='mso-yfti-irow:13'>
+<td width=95 valign=top style='width:71.4pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0in 5.4pt 0in 5.4pt'>
+<span style='font-size:11.0pt'>3:02-3:10</span>
+
+</td>
+<td width=136 valign=top style='width:102.0pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt'>
+<span style='font-size:11.0pt'>Aaron J. Mackey</span>
+
+<span style='font-size:11.0pt'></span>
+
+</td>
+<td width=407 valign=top style='width:305.4pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt'>
+<span style='font-size:11.0pt'>\[lightning talk\] Off the Beaten
+Track--Buried Treasure and Hidden Jewels in BioPerl</span>
+
+</td>
+</tr>
 <tr style='mso-yfti-irow:15;height:4.45pt'>
 <td width=95 valign=top style='width:71.4pt;border:solid windowtext 1.0pt;
   border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
