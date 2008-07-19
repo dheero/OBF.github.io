@@ -1001,8 +1001,6 @@ with DAS/2 and the Integrated Genome Browser (IGB)</span>
 
 <span style='font-size:11.0pt'>\[demo\] Ergatis - Joshua Orvis</span>
 
-<span style='font-size:11.0pt'>\[demo\] Apollo - Ed Lee</span>
-
 <span style='font-size:11.0pt'>\[lightning talk\] Genographer - Travis
 Banks</span>
 
