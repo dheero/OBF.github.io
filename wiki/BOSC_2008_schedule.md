@@ -822,7 +822,7 @@ Arial'>Schedule (Day 2)</span></b>
 <td width=95 valign=top style='width:71.4pt;border:solid windowtext 1.0pt;
   border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   padding:0in 5.4pt 0in 5.4pt'>
-<span style='font-size:11.0pt'>2:54-3:02</span>
+<span style='font-size:11.0pt'>2:46-2:54</span>
 
 </td>
 <td width=136 valign=top style='width:102.0pt;border-top:none;border-left:
@@ -840,6 +840,32 @@ Arial'>Schedule (Day 2)</span></b>
   mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt'>
 <span style='font-size:11.0pt'>\[lightning talk\] CMap: A Comparative
 Viewer</span>
+
+</td>
+</tr>
+</tr>
+<tr style='mso-yfti-irow:13'>
+<td width=95 valign=top style='width:71.4pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0in 5.4pt 0in 5.4pt'>
+<span style='font-size:11.0pt'>2:54-3:02</span>
+
+</td>
+<td width=136 valign=top style='width:102.0pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt'>
+<span style='font-size:11.0pt'>John Green</span>
+
+<span style='font-size:11.0pt'></span>
+
+</td>
+<td width=407 valign=top style='width:305.4pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt'>
+<span style='font-size:11.0pt'>\[lightning talk\] ERIC: Enteropathogen
+Resource Information Center</span>
 
 </td>
 </tr>
