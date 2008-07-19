@@ -11,4 +11,6 @@ Birds of a Feather Sessions Day 2
 -   Biojava devs, users, & interested folks (if there is interest)
 -   Strategies for how to get IP offices to agree to open
     source licensing.
--   
+-   BioDas: brainstorming for the Distributed Annotation System (DAS,
+    DAS/2, etc.)
+
