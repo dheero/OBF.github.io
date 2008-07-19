@@ -999,9 +999,12 @@ with DAS/2 and the Integrated Genome Browser (IGB)</span>
   mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt'>
 <span style='font-size:11.0pt'>Lightning Talks/Demos/BOFs</span>
 
-<span style='font-size:11.0pt'>Ergatis - Joshua Orvis</span>
+<span style='font-size:11.0pt'>\[demo\] Ergatis - Joshua Orvis</span>
 
-<span style='font-size:11.0pt'>Apollo - Ed Lee</span>
+<span style='font-size:11.0pt'>\[demo\] Apollo - Ed Lee</span>
+
+<span style='font-size:11.0pt'>\[lightning talk\] Genographer - Travis
+Banks</span>
 
 </td>
 </tr>
