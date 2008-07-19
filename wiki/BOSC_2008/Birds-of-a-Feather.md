@@ -12,6 +12,3 @@ Birds of a Feather Sessions Day 2
 -   Strategies for how to get IP offices to agree to open
     source licensing.
 -   
-
-TBA
-===
