@@ -13,4 +13,5 @@ Birds of a Feather Sessions Day 2
     source licensing.
 -   BioDas: brainstorming for the Distributed Annotation System (DAS,
     DAS/2, etc.)
+-   Python users (including but not limited to BioPython)
 
