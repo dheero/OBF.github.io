@@ -944,7 +944,8 @@ Developments with Open Bio in Public health Informatics</span>
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt'>
-<span style='font-size:11.0pt'>\[lightning talk\] BioLib</span>
+<span style='font-size:11.0pt'>\[lightning talk\] BioLib
+[\*\*SLIDES\*\*](http://www.slideshare.net/bosc_2008/prins-bio-lib-bosc2008/)</span>
 
 </td>
 </tr>
