@@ -1016,7 +1016,9 @@ with DAS/2 and the Integrated Genome Browser (IGB)</span>
 <span style='font-size:11.0pt'>\[demo\] Ergatis - Joshua Orvis</span>
 
 <span style='font-size:11.0pt'>\[lightning talk\] Genographer - Travis
-Banks</span>
+Banks
+[\*\*SLIDES\*\*](http://www.slideshare.net/bosc_2008/banks-genographer-bosc2008/)
+</span>
 
 <span style='font-size:11.0pt'>\[BOFs\] See
 [BOSC\_2008/Birds-of-a-Feather](BOSC_2008/Birds-of-a-Feather "wikilink")</span>
