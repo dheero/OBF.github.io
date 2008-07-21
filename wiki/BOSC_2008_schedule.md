@@ -859,7 +859,7 @@ Viewer
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt'>
-<span style='font-size:11.0pt'>John Green</span>
+<span style='font-size:11.0pt'>John Greene</span>
 
 <span style='font-size:11.0pt'></span>
 
@@ -869,7 +869,8 @@ Viewer
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt'>
 <span style='font-size:11.0pt'>\[lightning talk\] ERIC: Enteropathogen
-Resource Information Center</span>
+Resource Information Center
+[\*\*SLIDES\*\*](http://www.slideshare.net/bosc_2008/greene-bosc2008/)</span>
 
 </td>
 </tr>
