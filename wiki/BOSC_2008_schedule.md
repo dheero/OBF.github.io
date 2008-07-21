@@ -921,7 +921,8 @@ Track--Buried Treasure and Hidden Jewels in BioPerl
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt'>
 <span style='font-size:11.0pt'>\[lightning talk\] Web Application
-Developments with Open Bio in Public health Informatics</span>
+Developments with Open Bio in Public health Informatics
+[\*\*SLIDES\*\*](http://www.slideshare.net/bosc_2008/gnaneshan-public-health-bosc2008/)</span>
 
 </td>
 </tr>
