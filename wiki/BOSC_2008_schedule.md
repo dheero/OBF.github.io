@@ -269,7 +269,9 @@ Collaboration
   mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt'>
 <span style='font-size:11.0pt'>\[cyberinfrastructure\]
 
-` BioDas Project Update `[`Abstract`](http://www.open-bio.org/w/images/6/6c/Jenkinson_BioDas_abstract.pdf)</span>
+` BioDas Project Update `[`Abstract`](http://www.open-bio.org/w/images/6/6c/Jenkinson_BioDas_abstract.pdf)`  `[`**SLIDES**`](http://www.slideshare.net/bosc_2008/andy-jenkinson-bosc-das-2008/)
+
+</span>
 
 </td>
 </tr>
