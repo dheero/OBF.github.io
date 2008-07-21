@@ -150,7 +150,9 @@ Collaboration
   mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt'>
 <span style='font-size:11.0pt'>\[cyberinfrastructure\]
 
-` Intermine – Open Source Data Warehouse and Query Interface `[`Abstract`](http://www.open-bio.org/w/images/e/e5/Smith_R_Intermine_abstract.pdf)</span>
+` Intermine – Open Source Data Warehouse and Query Interface `[`Abstract`](http://www.open-bio.org/w/images/e/e5/Smith_R_Intermine_abstract.pdf)` `[`**SLIDES**`](http://www.slideshare.net/bosc_2008/smith-inter-mine-bosc2008/)
+
+</span>
 
 </td>
 </tr>
