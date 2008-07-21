@@ -376,7 +376,9 @@ Collaboration
   mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt'>
 <span style='font-size:11.0pt'>\[lightning talk\] Use the
 
-` Make Utility for the Maintenance of Complex Bioinformatics Pipelines `[`Abstract`](http://www.open-bio.org/w/images/a/a9/Wilson_Make_abstract.pdf)</span>
+` Make Utility for the Maintenance of Complex Bioinformatics Pipelines `[`Abstract`](http://www.open-bio.org/w/images/a/a9/Wilson_Make_abstract.pdf)` `[`**SLIDES**`](http://www.slideshare.net/bosc_2008/wilson-make-bosc2008/)` `
+
+</span>
 
 </td>
 </tr>
