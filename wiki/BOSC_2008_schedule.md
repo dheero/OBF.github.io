@@ -402,7 +402,8 @@ Collaboration
   mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt'>
 <span style='font-size:11.0pt'>\[lightning talk\] SolexaTools: An Open
 Source Sequence Analysis Framework
-[Abstract](http://www.open-bio.org/w/images/6/63/OConnor_SolexaTools_abstract.pdf)</span>
+[Abstract](http://www.open-bio.org/w/images/6/63/OConnor_SolexaTools_abstract.pdf)
+[\*\*SLIDES\*\*](http://www.slideshare.net/bosc_2008/o-connor-solexa-tools-bosc2008/)</span>
 
 </td>
 </tr>
