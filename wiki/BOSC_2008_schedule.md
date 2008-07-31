@@ -607,7 +607,7 @@ Arial'>Schedule (Day 2)</span></b>
   mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt'>
 <span style='font-size:11.0pt'>\[workflows\] myExperiment:
 
-` Social Software for Sharing Workflows `[`Abstract`](http://www.open-bio.org/w/images/7/75/Bhagat_myExperiment_abstract.pdf)</span>
+` Social Software for Sharing Workflows `[`Abstract`](http://www.open-bio.org/w/images/7/75/Bhagat_myExperiment_abstract.pdf)` `[`**SLIDES**`](http://www.slideshare.net/bosc_2008/bhagat-myexperiment-bosc2008/)</span>
 
 </td>
 </tr>
