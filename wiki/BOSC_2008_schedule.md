@@ -631,7 +631,7 @@ Arial'>Schedule (Day 2)</span></b>
   mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt'>
 <span style='font-size:11.0pt'>\[workflows\] BioHDF: Open Binary
 
-` File Formats for Large Scale Data Management `[`Abstract`](http://www.open-bio.org/w/images/9/92/Smith_T_BioHDF_abstract.pdf)</span>
+` File Formats for Large Scale Data Management `[`Abstract`](http://www.open-bio.org/w/images/9/92/Smith_T_BioHDF_abstract.pdf)` `[`**SLIDES**`](http://www.slideshare.net/bosc_2008/smith-t-bio-hdf-bosc2008/)</span>
 
 </td>
 </tr>
