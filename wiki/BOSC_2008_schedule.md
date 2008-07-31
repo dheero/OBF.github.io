@@ -802,7 +802,8 @@ Arial'>Schedule (Day 2)</span></b>
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt'>
-<span style='font-size:11.0pt'>\[lightning talk\] GMOD</span>
+<span style='font-size:11.0pt'>\[lightning talk\]
+[GMOD](http://gmod.org/wiki/index.php/Community_Annotation_System)</span>
 
 </td>
 </tr>
