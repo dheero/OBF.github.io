@@ -656,7 +656,7 @@ Arial'>Schedule (Day 2)</span></b>
 <span style='font-size:11.0pt'>\[open source software\] The
 
 ` Open HeliSphere`<sup>`TM`</sup>` Project: True Open Source from the Inventors of`  
-` True Single Molecule Sequencing `[`Abstract`](http://www.open-bio.org/w/images/f/fb/Kitzmiller_OpenHeliSphere_abstract.pdf)</span>
+` True Single Molecule Sequencing `[`Abstract`](http://www.open-bio.org/w/images/f/fb/Kitzmiller_OpenHeliSphere_abstract.pdf)` `[`**SLIDES**`](http://www.slideshare.net/bosc_2008/kitzmiller-openhelisphereproject-bosc2008/)</span>
 
 </td>
 </tr>
