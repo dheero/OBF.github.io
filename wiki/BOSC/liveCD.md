@@ -205,4 +205,6 @@ Related work
 -   Egon Willighagen's ChemBio
     [LiveCD](http://chem-bla-ics.blogspot.com/2006/05/live-life-sciences-cd.html)
 -   [Knoppix for Bio Project](http://knob.sourceforge.jp)
+-   [BioPuppy - Minimal Open Source Linux OS for
+    BioInformatics](http://biopuppy.org)
 
