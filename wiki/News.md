@@ -11,13 +11,13 @@ OBF news
 </tr>
 <tr>
 <td>
-[OBF RSS](http://news.open-bio.org/index.rdf)
+[OBF RSS](http://news.open-bio.org/news/feed/rss)
 
 </td>
 </tr>
 <tr>
 <td>
-<rss><http://news.open-bio.org/index.rdf></rss>
+<rss><http://news.open-bio.org/news/feed/rss></rss>
 
 </td>
 </tr>
@@ -29,13 +29,14 @@ BioPerl News
 </tr>
 <tr>
 <td>
-[BioPerl RSS](http://bioperl.org/news/feed)
+[BioPerl
+RSS](http://news.open-bio.org/news/category/obf-projects/bioperl/feed/rss)
 
 </td>
 </tr>
 <tr>
 <td>
-<rss><http://bioperl.org/news/feed></rss>
+<rss><http://news.open-bio.org/news/category/obf-projects/bioperl/feed/rss></rss>
 
 </td>
 </tr>
