@@ -247,7 +247,8 @@ Collaboration
 <span style='font-size:11.0pt'>\[cyberinfrastructure\]
 
 ` BeeSpace:`<span style='mso-spacerun:yes'>`  `</span>`An Interactive System for`  
-` Functional Analysis `[`Abstract`](http://www.open-bio.org/w/images/2/27/Sanders_Arcoleo_BeeSpace_abstract.pdf)</span>
+` Functional Analysis `[`Abstract`](http://www.open-bio.org/w/images/2/27/Sanders_Arcoleo_BeeSpace_abstract.pdf)[`**SLIDES**`
+`(PPT)`](http://www.beespace.uiuc.edu/files/BeeSpaceBOSC2008_v3.ppt)</span>
 
 </td>
 </tr>
