@@ -2,8 +2,16 @@
 title: Main Page
 ---
 
+OBF News
+========
+
+An agenda for the [Conference call](Minutes:2008_ConfCall "wikilink")
+for the 2008 Board of Director's meeting is available. Our board
+meetings are public and open, please see the page for information about
+getting a phone number call in access for the Nov 19, 2008 meeting.
+
 About Us
---------
+========
 
 The Open Bioinformatics Foundation or O|B|F is a non profit, volunteer
 run organization focused on supporting [open
@@ -35,7 +43,7 @@ We are incorporated in the state of Delaware, USA as a not-for-profit
 company.
 
 BOSC
-----
+====
 
 [Bioinformatics Open Source Conference](BOSC "wikilink") (BOSC) is held
 annually in conjunction with [ISCB's](http://www.iscb.org) meeting ISMB.
