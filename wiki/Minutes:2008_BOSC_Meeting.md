@@ -57,7 +57,7 @@ Agenda
 Minutes
 -------
 
-**Location:** Radisson Habourfront, 5th floor poolside, July 19, 2008
+**Location:** Radisson Habourfront, 5th floor poolside, July 18, 2008
 
 **Present:**
 
