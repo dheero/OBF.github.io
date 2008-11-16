@@ -61,10 +61,10 @@ Minutes
 
 **Present:**
 
--   -   current BoD members: Jason Stajich, Hilmar Lapp
-    -   Director nominee: Kam Dahlquist
-    -   Guests: Aaron Mackey, Mauricio Herrera Cuadro, Michael Heuer,
-        Paul Gordon, Andrew Jenkinson, Saravanabamuttu Gnaneshan
+-   current BoD members: Jason Stajich, Hilmar Lapp
+-   Director nominee: Kam Dahlquist
+-   Guests: Aaron Mackey, Mauricio Herrera Cuadro, Michael Heuer, Paul
+    Gordon, Andrew Jenkinson, Saravanabamuttu Gnaneshan
 
 **Meeting minutes:**
 
