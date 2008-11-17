@@ -21,8 +21,8 @@ New Business
 1.  To vote on a new member to the board, Kam Dahlquist
 2.  Discuss leadership changes and plan how Board membership will be
     expanded in the next year
-3.  BOSC 2009: planning is underway by BOSC committee, will discuss any
-    input needed by BoD
+3.  [BOSC 2009](BOSC_2009 "wikilink"): planning is underway by BOSC
+    committee, will discuss any input needed by BoD
 4.  Treasurer's financial report from summer 2008
 5.  Any purchase or server hosting decisions
 
