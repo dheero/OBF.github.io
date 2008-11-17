@@ -45,7 +45,11 @@ Andrew Dalke : *Past Secretary*, Representing [BioPython](http://www.biopython.o
 Board of Directors Meetings
 ---------------------------
 
-**Minutes of Board Meetings:**
+**Next Board Meeting:**
+
+-   [Conference call Nov 19, 2008](Minutes:2008_ConfCall "wikilink")
+
+**Minutes of past Board Meetings:**
 
 -   [ 2008 BOSC Meeting](Minutes:2008_BOSC_Meeting "wikilink")
 -   [ 2007 BOSC Meeting](Minutes:2007_BOSC_Meeting "wikilink")
