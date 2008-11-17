@@ -54,3 +54,19 @@ Board of Directors Meetings
 -   [ 2004 BOSC Meeting](Minutes:2004_BOSC_Meeting "wikilink")
 -   [ 2002 BOSC Meeting](Minutes:2002_BOSC_Meeting "wikilink")
 
+Nominating Committee
+--------------------
+
+According to the bylaws, the Nominating Committee "*shall attempt to
+contact members of the Board of Directors and active members of the OBF
+in an effort to identify eligible members interested in serving on the
+Board of Directors, and to solicit nominations from the general
+membership.*" (see Art. IV.7) It consists of "*the Parliamentarian and a
+minimum of 2 active members of the O|B|F.*"
+
+Currently serving:
+
+1.  **Hilmar Lapp**, BoD, Parliamentarian
+2.  **Scott Markel**, active member
+3.  **Aaron Mackey**, active member
+
