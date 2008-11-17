@@ -165,8 +165,7 @@ BOSC
         the submitters.
     -   Open source requirements were pretty rigorously enforced.
     -   Emphasis on quality should help with marketing in the future.
--   BOSC 2007 attendance was around 80-90 (exact number is in the Google
-    Doc - REPLACE)
+-   BOSC 2007 attendance was 97 (registered)
     -   Have 77 primary sign-ups this year.
 
 BOSC proceedings:
