@@ -24,10 +24,7 @@ Agenda
 4.  [Treasurer's financial
     report](Media:2008-OBF-Treasurer-Report_Ammended2.pdf "wikilink")
     from summer 2008, with accounts updated to be current for
-
-Board meeting
-
-1.  Any purchase or server hosting decisions
+5.  Any purchase or server hosting decisions
 
 Minutes
 -------
