@@ -15,8 +15,7 @@ Old Business
 1.  Approve [minutes from BOSC 2008
     Meeting](Minutes:2008_BOSC_Meeting#Minutes "wikilink")
 
-New Business
-------------
+### New Business
 
 1.  To vote on a new member to the board, Kam Dahlquist
 2.  Discuss leadership changes and plan how Board membership will be
@@ -28,3 +27,5 @@ New Business
     2008, with accounts updated to be current for Board meeting
 5.  Any purchase or server hosting decisions
 
+Minutes
+-------
