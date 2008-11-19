@@ -23,7 +23,8 @@ New Business
     expanded in the next year
 3.  [BOSC 2009](BOSC_2009 "wikilink"): planning is underway by BOSC
     committee, will discuss any input needed by BoD
-4.  Treasurer's financial report from summer 2008 (this report will be a
-    live link by Wed morning, waiting on one update to the document)
+4.  [Treasurer's financial
+    report](Media:OBF_Financial_report_2008.pdf "wikilink") from summer
+    2008, with accounts updated to be current for Board meeting
 5.  Any purchase or server hosting decisions
 
