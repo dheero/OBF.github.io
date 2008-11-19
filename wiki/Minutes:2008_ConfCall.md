@@ -22,13 +22,12 @@ Agenda
 3.  [BOSC 2009](BOSC_2009 "wikilink"): planning is underway by BOSC
     committee, will discuss any input needed by BoD
 4.  [Treasurer's financial
-    report](Media:OBF_Financial_report_2008.pdf "wikilink") from summer
-    2008, with accounts updated to be current for
+    report](Media:2008-OBF-Treasurer-Report_Ammended2.pdf "wikilink")
+    from summer 2008, with accounts updated to be current for
 
 Board meeting
 
-1.  <Media:2008-OBF-Treasurer-Report_Ammended2.pdf> Ammended
-2.  Any purchase or server hosting decisions
+1.  Any purchase or server hosting decisions
 
 Minutes
 -------
