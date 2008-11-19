@@ -23,7 +23,8 @@ by [the BioTeam](http://www.bioteam.net).
 **Secretary**
 
   
-Currently Unfilled
+Currently Unfilled. Duties carried out by Parliamentarian in
+the interim.
 
 **Parliamentarian**
 
