@@ -25,6 +25,9 @@ Agenda
     report](Media:2008-OBF-Treasurer-Report_Ammended2.pdf "wikilink")
     from summer 2008, with accounts updated to be current for
 5.  Any purchase or server hosting decisions
+    1.  I put some thoughts regarding the OSC hosting offer on my talk
+        page: <User:Dag> --[Dag](User:Dag "wikilink") 20:34, 19 November
+        2008 (UTC)
 
 Minutes
 -------
