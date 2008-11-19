@@ -33,8 +33,8 @@ Synthesis Center](http://www.nescent.org/) (NESCent).
 
 **At-large member**
 
-  
-Currently Unfilled
+:; Kam Dahlquist : Assistant Professor at [Loyala Marymount
+University](http://myweb.lmu.edu/kdahlqui/), Los Angeles.
 
 ### Past Board Members
 
