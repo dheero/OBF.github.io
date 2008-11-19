@@ -9,8 +9,7 @@ many callers there will be.
 Agenda
 ======
 
-Old Business
-------------
+### Old Business
 
 1.  Approve [minutes from BOSC 2008
     Meeting](Minutes:2008_BOSC_Meeting#Minutes "wikilink")
