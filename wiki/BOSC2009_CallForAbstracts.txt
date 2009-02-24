@@ -34,7 +34,7 @@ Computational Grids
 Visualization 
 There will also be updates from O|B|F-sponsored projects, and as always, abstracts may be submitted for open source software that does not fit neatly into the above categories. Lightning Talks will also highlight very recent developments. 
 
-To contact the organizing committee, e-mail bosc@openbio.org.
+To contact the organizing committee, e-mail bosc@open-bio.org.
 
 To sign up for BOSC-related announcements, subscribe to the Bosc-announce list (http://lists.open-bio.org/mailman/listinfo/bosc-announce).
 
