@@ -207,7 +207,7 @@ Reference Facts & Links
 
 ### Open-Bio Projects involved
 
-[BioPerl](bp:Main_Page "wikilink")  
+[BioPerl](bp:Main_Page "wikilink") :  
 
 :\* [Information for new developers](bp:Becoming_a_developer "wikilink")
 
@@ -216,27 +216,27 @@ Reference Facts & Links
 :\* [developers mailing
 list](http://bioperl.org/mailman/listinfo/bioperl-l)
 
-[Biojava](http://www.biojava.org)  
+[Biojava](http://www.biojava.org) :  
 
 <!-- -->
 
-[Biopython](http://www.biopython.org)  
+[Biopython](http://www.biopython.org) :  
 
 <!-- -->
 
-[Bioruby](http://www.bioruby.org)  
+[Bioruby](http://www.bioruby.org) :  
 
 <!-- -->
 
-[BioSQL](http://biosql.org)  
+[BioSQL](http://biosql.org) :  
 
 <!-- -->
 
-[BioLib](http://biolib.open-bio.org)  
+[BioLib](http://biolib.open-bio.org) :  
 
 <!-- -->
 
-[EMBOSS](http://emboss.sourceforge.net/)  
+[EMBOSS](http://emboss.sourceforge.net/) :  
 
 ### [Google Summer of Code 2009](http://socghop.appspot.com/)
 
