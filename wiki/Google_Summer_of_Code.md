@@ -205,7 +205,7 @@ provide the following in your application material.
 Reference Facts & Links
 -----------------------
 
-### Open-Bio Projects involved
+### Open-Bio projects involved
 
 [BioPerl](bp:Main_Page "wikilink") :  
 
