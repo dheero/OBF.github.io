@@ -181,9 +181,7 @@ Mentors
     Yahoo; backup org admin)
 -   [Chris Fields](bp:User:Cjfields "wikilink") (U. Illinois,
     Chicago; BioPerl)
--   [bp:User:Majensen Mark
-    Jensen](bp:User:Majensen_Mark_Jensen "wikilink")
-    (Fortinbras; BioPerl)
+-   [Mark Jensen](bp:User:Majensen "wikilink") (Fortinbras; BioPerl)
 -   [Roger Hall](bp:User:Rogerhall "wikilink") (U. of Arkansas; BioPerl)
 -   [Hilmar Lapp](User:Lapp "wikilink") (NESCent; org admin)
 -   [Pjotr Prins](http://thebird.nl/pjwiki/wiki.pl) (BioLib)
