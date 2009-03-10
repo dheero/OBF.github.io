@@ -277,22 +277,16 @@ the proposed JEE5 Java webservice, to design a common interface.
 Challenges :  
 
 -   Familiarizing student with Python, Javascript and AJAX, as well as
-    the
-
-` Google App Engine environment.`
-
+    the Google App Engine environment.
 -   Initial implementation of BioSQL server interface with
     useful features.
--   Coordinating input from users on the
-
-` `[`BioSQL` `mailing`
-`list`](http://lists.open-bio.org/mailman/listinfo/biosql-l)`.`  
-` The student will need to solicit desired features from users and prioritize`  
-` based on implementation time and importance. See`  
-` `[`this` `mailing` `list`
-`discussion`](http://lists.open-bio.org/pipermail/biosql-l/2009-January/001464.html)  
-` for an example of interest and initial ideas.`
-
+-   Coordinating input from users on the [BioSQL mailing
+    list](http://lists.open-bio.org/mailman/listinfo/biosql-l). The
+    student will need to solicit desired features from users and
+    prioritize based on implementation time and importance. See [this
+    mailing list
+    discussion](http://lists.open-bio.org/pipermail/biosql-l/2009-January/001464.html)
+    for an example of interest and initial ideas.
 -   Designing the web interface for intuitive use.
 -   Coordinating API development with other projects.
 
