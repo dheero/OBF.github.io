@@ -92,8 +92,11 @@ Mentors : Mike&, founder of BioC&
 Mentors
 -------
 
+-   Brad Chapman (MGH; Biopython)
 -   [Hilmar Lapp](User:Lapp "wikilink") (organization administrator)
--   [Pjotr Prins](http://thebird.nl/pjwiki/wiki.pl)
+-   [Pjotr Prins](http://thebird.nl/pjwiki/wiki.pl) (BioLib)
+-   Jonathan Warren (Sanger Institute, UK; Biojava)
+-   Scooter Willis (Scripps Florida; Biojava)
 
 What should prospective students know?
 --------------------------------------
