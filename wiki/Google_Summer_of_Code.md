@@ -20,7 +20,8 @@ Contact
 -------
 
 Our organization administrators are [Hilmar Lapp](User:Lapp "wikilink")
-([hlapp@gmx.net](mailto:hlapp%40gmx%2enet)) and Mauricio Herrera Cuadra
+([hlapp@gmx.net](mailto:hlapp%40gmx%2enet)) and [Mauricio Herrera
+Cuadra](http://open-bio.org/wiki/User:Mauricio "wikilink")
 ([mauricio@open-bio.org](mailto:mauricio%40open-bio%2eorg)).
 
 If you are a student interested in applying for a Google Summer of Code
