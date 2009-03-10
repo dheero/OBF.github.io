@@ -171,7 +171,7 @@ Degree of difficulty and needed skills : Varies from medium to difficult. Good w
 
 <!-- -->
 
-Mentors : [Mark Jensen](User:Majensen "wikilink") ([BioPerl page](http://www.bioperl.org/wiki/User:Majensen))  
+Mentors : [Mark Jensen](bp:User:Majensen "wikilink")  
 
 Mentors
 -------
