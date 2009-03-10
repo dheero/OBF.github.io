@@ -93,11 +93,13 @@ Mentors
 -------
 
 -   Brad Chapman (MGH; Biopython)
+-   [Mauricio Herrera Cuadra](bp:User:Mauricio "wikilink") (UNAM &
+    Yahoo; backup org admin)
 -   [Chris Fields](bp:User:Cjfields "wikilink") (U. Illinois,
     Chicago; BioPerl)
 -   Mark Jensen (Fortinbras; BioPerl)
 -   [Roger Hall](bp:User:Rogerhall "wikilink") (U. of Arkansas; BioPerl)
--   [Hilmar Lapp](User:Lapp "wikilink") (organization administrator)
+-   [Hilmar Lapp](User:Lapp "wikilink") (NESCent; org admin)
 -   [Pjotr Prins](http://thebird.nl/pjwiki/wiki.pl) (BioLib)
 -   Joshua Udall (BioPerl)
 -   Jonathan Warren (Sanger Institute, UK; Biojava)
