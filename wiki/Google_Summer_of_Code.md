@@ -243,9 +243,9 @@ research and at the time of publication. By deploying on stable
 architectures, long term data access is ensured and not dependent on
 maintenance of local servers. Data archival for replication and
 expansion of ideas is an important part of the scientific process; this
-\[<http://www.portfolio.com/views/blogs/market-movers/2009/02/18/when-academic-papers-arent-replicable?tid=true>
-recent blog review\] summarizes some of the problems associated with
-primary data access.
+[recent blog
+review](http://www.portfolio.com/views/blogs/market-movers/2009/02/18/when-academic-papers-arent-replicable?tid=true)
+summarizes some of the problems associated with primary data access.
 
 Approach :  
 
@@ -255,22 +255,22 @@ The platform provides free quotas which allow a small lab with a limited
 budget to make their data available, and also scales for larger projects
 with popular data sets.
 
-The student project expands an initial demonstration server (XXX Need to
-finish/ get this online; URL here) to a full featured web application.
-The server side implementation will be programmed in Python, utilizing
-the Google App Engine [developers
-toolkit](http://code.google.com/appengine/docs/) supplemented with the
-[Biopython](http://biopython.org/wiki/Main_Page) libraries. The client
-web interface will be designed using HTML, CSS and javascript; the
-interface will utilize a full featured javascript library, such as
-[jQuery](http://jquery.com/) and [jQueryUI](http://jqueryui.com/) or
-[ExtJS](http://extjs.com/). Client to server communication occurs using
+The student project expands an initial demonstration server (under
+development) to a full featured web application. The server side
+implementation will be programmed in Python, utilizing the Google App
+Engine [developers toolkit](http://code.google.com/appengine/docs/)
+supplemented with the [Biopython](http://biopython.org/wiki/Main_Page)
+libraries. The client web interface will be designed using HTML, CSS and
+javascript; the interface will utilize a full featured javascript
+library, such as [jQuery](http://jquery.com/) and
+[jQueryUI](http://jqueryui.com/) or [ExtJS](http://extjs.com/). Client
+to server communication occurs using
 [AJAX](http://en.wikipedia.org/wiki/Ajax_(programming)) techniques with
 [JSON](http://en.wikipedia.org/wiki/JSON) for data exchange.
 
 In addition to the web interface, the server will also provide a
 programming interface using a
-\[<http://en.wikipedia.org/wiki/Representational_State_Transfer> REST\]
+[REST](http://en.wikipedia.org/wiki/Representational_State_Transfer)
 API. This involves coordination with other proposed projects, including
 the proposed JEE5 Java webservice, to design a common interface.
 
@@ -289,8 +289,9 @@ Challenges :
 `list`](http://lists.open-bio.org/mailman/listinfo/biosql-l)`.`  
 ` The student will need to solicit desired features from users and prioritize`  
 ` based on implementation time and importance. See`  
-` [`[`http://lists.open-bio.org/pipermail/biosql-l/2009-January/001464.html`](http://lists.open-bio.org/pipermail/biosql-l/2009-January/001464.html)` this`  
-` mailing list discussion] for an example of interest and initial ideas.`
+` `[`this` `mailing` `list`
+`discussion`](http://lists.open-bio.org/pipermail/biosql-l/2009-January/001464.html)  
+` for an example of interest and initial ideas.`
 
 -   Designing the web interface for intuitive use.
 -   Coordinating API development with other projects.
