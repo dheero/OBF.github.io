@@ -94,7 +94,7 @@ Mentors
 
 -   Brad Chapman (MGH; Biopython)
 -   Mark Jensen (Fortinbras; BioPerl)
--   Roger Hall (U. of Arkansas; BioPerl)
+-   [Roger Hall](bp:User:Rogerhall "wikilink") (U. of Arkansas; BioPerl)
 -   [Hilmar Lapp](User:Lapp "wikilink") (organization administrator)
 -   [Pjotr Prins](http://thebird.nl/pjwiki/wiki.pl) (BioLib)
 -   Joshua Udall (BioPerl)
