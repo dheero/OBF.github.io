@@ -177,8 +177,8 @@ Mentors
 -------
 
 -   Brad Chapman (MGH; Biopython)
--   [Mauricio Herrera Cuadra](bp:User:Mauricio "wikilink") (UNAM &
-    Yahoo; backup org admin)
+-   [Mauricio Herrera Cuadra](User:Mauricio "wikilink") (Yahoo! Inc.;
+    backup org admin)
 -   [Chris Fields](bp:User:Cjfields "wikilink") (U. Illinois,
     Chicago; BioPerl)
 -   [Mark Jensen](bp:User:Majensen "wikilink") (Fortinbras; BioPerl)
