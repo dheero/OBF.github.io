@@ -239,8 +239,9 @@ Mentors
 -   Joshua Udall (BioPerl)
 -   Jonathan Warren (Sanger Institute, UK; Biojava)
 -   Scooter Willis (Scripps Florida; Biojava)
--   [Christian Zmasek](bp:User:cmzmasek "wikilink") (Burnham Institute
-    for Medical Research; BioRuby)
+-   [http://monochrome-effect.net/ Christian
+    Zmasek](http://monochrome-effect.net/_Christian_Zmasek "wikilink")
+    (Burnham Institute for Medical Research; BioRuby)
 
 What should prospective students know?
 --------------------------------------
