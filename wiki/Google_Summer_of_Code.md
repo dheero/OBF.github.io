@@ -93,6 +93,7 @@ Mentors
 -------
 
 -   Brad Chapman (MGH; Biopython)
+-   [Chris Fields](bp:User:Cjfields "wikilink")
 -   Mark Jensen (Fortinbras; BioPerl)
 -   [Roger Hall](bp:User:Rogerhall "wikilink") (U. of Arkansas; BioPerl)
 -   [Hilmar Lapp](User:Lapp "wikilink") (organization administrator)
