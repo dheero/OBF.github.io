@@ -213,8 +213,10 @@ Reference Facts & Links
 
 :\* [Mailing lists](bp:Mailing_lists "wikilink")
 
-:\* [developers mailing
+:\*\* [developers mailing
 list](http://bioperl.org/mailman/listinfo/bioperl-l)
+
+:\* IRC: \#bioperl on [Freenode](http://freenode.net)
 
 [Biojava](http://www.biojava.org) :  
 
