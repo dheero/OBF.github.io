@@ -208,19 +208,19 @@ JAVA, as well as SWIG auto generated documentation and testing.
 
 Involved toolkits or projects :  
 
-BioLib, BioPerl, SWIG (and optionally BioRuby, R/Bioconductor, BioJAVA
-or BioPython)
+[BioLib](http://biolib.open-bio.org/), BioPerl, SWIG (and optionally
+BioRuby, R/Bioconductor, BioJAVA or BioPython)
 
 Degree of difficulty and needed skills :  
 
 This is a challenging project as it crosses computer languages. It
-requires experience in C++ and a wish for understanding of internals of
-at least one high-level OOP language like Perl (did I write OOP?),
-Python, R or Ruby.
+requires experience in C++ and a wish for deeper understanding of at
+least one high-level OOP language like Perl (did I write OOP?), Python,
+JAVA, R or Ruby.
 
 Mentors :  
 
-Pjotr Prins, Chris Fields
+**Pjotr Prins**, Chris Fields
 
 Mentors
 -------
