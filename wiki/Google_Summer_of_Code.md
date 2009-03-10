@@ -90,7 +90,7 @@ Involved toolkits or projects : The [BioC&](http://www.biocamp.org) toolkit has 
 Degree of difficulty and needed skills : Hard. The hardest part is probably inventing C&. Writing the parser itself should be medium, unless C& was ill-designed for writing parsers. Knowledge of the BioC& toolkit will obviously help, as well as knowing the NEXUS format.  
 Mentors : Mike&, founder of BioC&  
 
-### Write a JEE5 webservice interface to BioSQL;
+### Write a JEE5 webservice interface to BioSQL
 
 Rationale :  
 
