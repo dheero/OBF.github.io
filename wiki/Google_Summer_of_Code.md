@@ -93,8 +93,10 @@ Mentors
 -------
 
 -   Brad Chapman (MGH; Biopython)
+-   Mark Jensen (Fortinbras; BioPerl)
 -   [Hilmar Lapp](User:Lapp "wikilink") (organization administrator)
 -   [Pjotr Prins](http://thebird.nl/pjwiki/wiki.pl) (BioLib)
+-   Joshua Udall (BioPerl)
 -   Jonathan Warren (Sanger Institute, UK; Biojava)
 -   Scooter Willis (Scripps Florida; Biojava)
 
