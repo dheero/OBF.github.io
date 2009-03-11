@@ -430,12 +430,12 @@ Mentors
 -------
 
 -   [Brad Chapman](http://bcbio.wordpress.com/) (MGH; Biopython)
--   [Mauricio Herrera Cuadra](User:Mauricio "wikilink") (Yahoo! Inc.;
-    backup org admin)
 -   [Chris Fields](bp:User:Cjfields "wikilink") (U. Illinois,
     Chicago; BioPerl)
 -   [Mark Jensen](bp:User:Majensen "wikilink") (Fortinbras; BioPerl)
 -   [Roger Hall](bp:User:Rogerhall "wikilink") (U. of Arkansas; BioPerl)
+-   [Mauricio Herrera Cuadra](User:Mauricio "wikilink") (Yahoo! Inc.;
+    backup org admin)
 -   [Hilmar Lapp](User:Lapp "wikilink") (NESCent; org admin)
 -   [Pjotr Prins](http://thebird.nl/pjwiki/wiki.pl) (BioLib)
 -   [Mark Schreiber](http://biojava.org/wiki:User:Mark) (Novartis
