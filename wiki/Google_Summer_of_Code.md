@@ -312,6 +312,106 @@ Mentors :
 
 Brad Chapman (plus...)
 
+### Biogeographical and community phylogenetics for BioPython
+
+Rationale :  
+
+The field of phylogenetics has proliferated, and one new development is
+that large, phylogenetically explicit datasets are beginning to be used
+to answer questions about the relationships of ecological communities
+and biogeographic regions, instead of just individual clades. The
+[phylocom](http://www.phylodiversity.net/phylocom/) package (Webb et
+al., 2008) contains fast C implementations of basic analyses such as
+alpha- and beta-phylodiversity (Net Related Index and Nearest Taxon
+Index). The R package [picante](http://picante.r-forge.r-project.org/),
+funded by NESCent and Google Summer of Code 2008, contains utilities for
+processing phylocom inputs/outputs as well as additional tools for
+applied phylogenetics such as phylogenetic signal, phylosor
+(phylogenetic sorenon's index), and lineages-through-time plots. These
+tools, developed for evolutionary community ecology, are useable in any
+context where a collection of lineages are undergoing cladogenesis,
+dispersal, and extinction in a series of containers (communities,
+biogeographic regions, gene families undergoing gene conversion,
+laterally transferring elements in unicell genomes, etc.)
+
+The related field of phylogenetic or historical biogeography -- the
+estimation of the geographic location of ancestral lineages, the history
+of their dispersal, and the history of connectivity and vicariance
+between regions -- has also advanced with a variety of algorithms
+(Ronquist's Dispersal-Vicariance Analysis,
+[DIVA](http://www.ebc.uu.se/systzoo/research/diva/diva.html);
+[lagrange](http://code.google.com/p/lagrange/), a maximum likelihood
+method implemented in Python, [available online at Google
+Code](http://code.google.com/p/lagrange/);
+[GeoPhyloBuilder](https://www.nescent.org/wg_EvoViz/GeoPhyloBuilder), a
+NESCent-sponsored package for producing GIS files to display
+biogeographic history in Google Earth;
+[croizat](http://panbiog.infobio.net/croizat/), a panbiogeographical
+method and visualization package implemented in python using
+matplotlib's Basemap module; and older methods derived from traditional
+ancestral-state reconstruction).
+
+Approach :  
+
+("\*" indicates some version of this already done independently by
+[nmatzke](http://www.open-bio.org/wiki/User:Nmatzke))
+
+-   Improve BioPython's [Bio.Nexus.Trees](Bio.Nexus.Trees "wikilink")
+    [newick](newick "wikilink") parser, which currently cannot
+    successfully read the newick files output by Phylocom (although
+    these files are read successfully by a variety of other programs and
+    modules, e.g.
+    [Dendroscope](http://www-ab.informatik.uni-tuebingen.de/software/dendroscope/welcome.html),
+    [alfacinha](http://pbil.univ-lyon1.fr/software/alfacinha/) python
+    module).\*
+-   Develop a series of functions for processing phylocom inputs and
+    outputs\*
+-   Provide functions for basic community/geographic relatedness (e.g.,
+    NRI, NTI, phylosor)\*
+-   Calculating these statistics for large phylogenies requires
+    calculating/processing a large distance matrix with a C or java
+    library\*
+-   Basic graphics for analyzing community/regional phylogenetic
+    history, e.g. lineage-through-time plots\*
+-   Downloading sample location data from online databases (e.g.
+    [GBIF](http://www.gbif.org/), although see
+    [here](http://iphylo.blogspot.com/search?q=latitude)), combine with
+    phylogenies for input into lagrange, DIVA or other algorithms
+-   Re-creating DIVA in Python; the only available version is 12 years
+    old and currently will only run on certain PCs
+-   Process output from DIVA, lagrange, etc., for display in GISs,
+    Google Earth (KML files), and/or matplotlib's Basemap
+
+Challenges :  
+
+-   Contacting & involving/getting feedback from authors of the
+    mentioned packages (have been in contact with many of them already)
+-   Uncertainty, error, & missing data in geographic location databases
+    (see [here](http://iphylo.blogspot.com/search?q=latitude)), and
+    flagging such
+-   Deciding the appropriate number of BioPython modules, etc. will
+    require mentor advice
+
+Involved toolkits or projects :  
+
+-   [Biopython](http://biopython.org/wiki/Main_Page)
+-   [BioSQL](http://www.biosql.org/wiki/Main_Page)
+-   [Python](http://www.python.org)
+-   others mentioned above
+
+Degree of difficulty and needed skills :  
+
+Medium. Requires a familiarity with not just python/biopython but some
+unusual data formats and datasets, and packages, and integrating them
+(geographic, phylogenetic, metadata, etc.). Must be familiar with
+evolution, phylogenetics, biogeography, and the statistical hazards from
+oversimple interpretations of these.
+
+Mentors :  
+
+[Brad Chapman](http://bcbio.wordpress.com/) (MGH; Biopython) (plus?
+Various python/phylogenetics gurus at NESCent etc might be consulted)
+
 ### phyloXML support in BioRuby
 
 Rationale : Evolutionary trees are central to comparative genomics studies. Trees used in this context are usually annotated with a variety of data elements, such as taxonomic information, genome-related data (gene names, functional annotations) and gene duplication events, as well as information related to the evolutionary tree itself (branch lengths, support values). phyloXML is an XML data exchange standard that can represent this data. Trees in phyloXML format can be displayed and analyzed with [Archaeopteryx](http://www.phylosoft.org/archaeopteryx/) (the successor to [ATV](http://bioinformatics.oxfordjournals.org/cgi/content/abstract/17/4/383)), which also allows manipulation and navigation of the tree. While tools exist to convert other formats (such as the widely used Newick and Nexus formats) to phyloXML, there is currently support for phyloXML in only one of the open source Bio\* projects (in [BioPerl](http://www.bioperl.org/wiki/Phyloxml_Project_Demo), as a result of Google's Summer of Code 2008).  
