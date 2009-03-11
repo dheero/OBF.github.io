@@ -314,6 +314,9 @@ Brad Chapman (plus...)
 
 ### Biogeographical and community phylogenetics for BioPython
 
+(Note: this project is proposed by potential GSoC student [Nick
+Matzke](http://www.open-bio.org/wiki/User:Nmatzke).)
+
 Rationale :  
 
 The field of phylogenetics has proliferated, and one new development is
