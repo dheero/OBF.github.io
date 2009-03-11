@@ -364,6 +364,9 @@ Approach :
     [Dendroscope](http://www-ab.informatik.uni-tuebingen.de/software/dendroscope/welcome.html),
     [alfacinha](http://pbil.univ-lyon1.fr/software/alfacinha/) python
     module).\*
+-   Implement Cardona et al.'s [Extended Newick
+    format](http://www.biomedcentral.com/1471-2105/9/532) for
+    reticulating trees etc. (only exists in BioPerl currently)
 -   Develop a series of functions for processing phylocom inputs and
     outputs\*
 -   Provide functions for basic community/geographic relatedness (e.g.,
