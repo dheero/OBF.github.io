@@ -80,19 +80,6 @@ Regardless of what you decide to do, make sure you read and follow the
 [guidelines for
 students](#What_should_prospective_students_know.3F "wikilink") below.*
 
-### Write a NEXUS parser in C&
-
-*This is a template for how the student project ideas could be
-presented. Feel free to copy & paste & edit, and feel free to adjust the
-format.*
-
-Rationale : C& is an amp'ed-up programming language that has not been invented yet but in a few years will dominate the programming world. The best way to prevent broken non-compliant NEXUS parsers written in C& from appearing is to write a good one now.  
-Approach : Re-implementations of NEXUS parsers inevitably tend to be broken or non-compliant. Hence, the best approach is to write a translator that translates a reference implementation to C&.  
-Challenges : C& has not been invented yet, so a lot of assumptions will have to be made.  
-Involved toolkits or projects : The [BioC&](http://www.biocamp.org) toolkit has much of the needed framework.  
-Degree of difficulty and needed skills : Hard. The hardest part is probably inventing C&. Writing the parser itself should be medium, unless C& was ill-designed for writing parsers. Knowledge of the BioC& toolkit will obviously help, as well as knowing the NEXUS format.  
-Mentors : Mike&, founder of BioC&  
-
 ### Write a JEE5 webservice interface to BioSQL
 
 Rationale :  
