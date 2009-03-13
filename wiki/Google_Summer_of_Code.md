@@ -13,6 +13,9 @@ contact for more information or to bounce ideas off of, etc.
 News
 ----
 
+-   13 Mar 2009: [Application to participate as a mentoring
+    organization](http://docs.google.com/Doc?id=dhs98hzv_7zn8bxqjm) submitted.
+    *--[Lapp](User:Lapp "wikilink")*
 -   08 Mar 2009: The project ideas page (the page you are looking at) is
     ready for adding project ideas. *--[Lapp](User:Lapp "wikilink")*
 
