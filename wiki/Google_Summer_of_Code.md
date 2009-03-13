@@ -563,28 +563,6 @@ list](http://bioperl.org/mailman/listinfo/bioperl-l)
 
 :\* IRC: \#bioperl on [Freenode](http://freenode.net)
 
-[Biojava](http://www.biojava.org) :  
-
-<!-- -->
-
-[Biopython](http://www.biopython.org) :  
-
-<!-- -->
-
-[Bioruby](http://www.bioruby.org) :  
-
-<!-- -->
-
-[BioSQL](http://biosql.org) :  
-
-<!-- -->
-
-[BioLib](http://biolib.open-bio.org) :  
-
-<!-- -->
-
-[EMBOSS](http://emboss.sourceforge.net/) :  
-
 ### [Google Summer of Code 2009](http://socghop.appspot.com/)
 
 -   Mentoring organizations apply between March 9-13, 2009. Accepted
