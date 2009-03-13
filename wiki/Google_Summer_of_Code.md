@@ -39,7 +39,7 @@ lists the O|B|F project it is a part of; look it up in the list below
 and you have the information you need. If you want to propose your own
 project idea and the project to which you would contribute isn't
 obvious, send email to
-[open-bio-l@open-bio.org](mailto:open-bio-l%40open-bio%2eorg).
+[gsoc@lists.open-bio.org](mailto:gsoc%40lists%2eopen-bio%2eorg).
 
 Some of us also hang out regularly on IRC, see the list of O|B|F
 projects below for information on which projects have a channel and the
