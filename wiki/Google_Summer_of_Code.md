@@ -540,8 +540,9 @@ provide the following in your application material.
 
 ### Other information
 
--   Our \[ 2009 application document\] with Google's questions and our
-    answers
+-   Our [2009 application
+    document](http://docs.google.com/Doc?id=dhs98hzv_7zn8bxqjm) with
+    Google's questions and our answers.
 -   For questions of eligibility, see the [GSoC eligibility requirements
     for
     students](http://code.google.com/opensource/gsoc/2009/faqs.html#0_1_eligibility_83343977761348_13148542340972003).
