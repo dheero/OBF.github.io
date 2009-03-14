@@ -644,4 +644,5 @@ code](http://code.open-bio.org/svnweb/index.cgi/biosql/browse/biosql-schema/trun
     there is no requirement or expectation to travel, neither for
     students nor for mentors.
 
-[Category:Summer of Code](Category:Summer_of_Code "wikilink")
+[Category:Google Summer of
+Code](Category:Google_Summer_of_Code "wikilink")
