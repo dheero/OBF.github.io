@@ -599,7 +599,7 @@ code](http://code.open-bio.org/cgi/viewcvs.cgi/biopython/?cvsroot=biopython)
 
 :\*\* No IRC channel at present
 
-[BioRuby](http://bioruby.org)\] :  
+[BioRuby](http://bioruby.org) :  
 
 :\* [Project website](http://bioruby.org)
 
