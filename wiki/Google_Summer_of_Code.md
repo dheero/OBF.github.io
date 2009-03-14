@@ -460,7 +460,7 @@ Challenges :
 <!-- -->
 
 -   Identifying and interfacing `Bio::Phylo` output and NeXML-serialized
-    data with downstream BioPerl operations; e.g., adding a
+    data with up- and downstream BioPerl operations; e.g., adding a
     `Bio::SeqIO::nexml` module for doing BioPerl-native NeXML IO.
 
 Involved toolkits or projects :  
