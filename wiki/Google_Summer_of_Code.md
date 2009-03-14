@@ -568,16 +568,18 @@ sub-projects](http://code.open-bio.org/svnweb/index.cgi/bioperl/)
 
 :\*\* IRC: \#bioperl on [Freenode](http://freenode.net)
 
-[Biojava](http://biojava.org) :  
+[BioJava](http://biojava.org) :  
 
 :\* [Project website](http://biojava.org)
 
 :\* Quick links:
 
-:\*\* [developers mailing
-list](http://biojava.org/mailman/listinfo/biojava-l)
+:\*\* source code for
+[biojava-live](http://code.open-bio.org/svnweb/index.cgi/biojava/browse/biojava-live/trunk)
+(the main BioJava code base) and [all BioJava
+sub-projects](http://code.open-bio.org/svnweb/index.cgi/biojava/)
 
-:\*\* [source code](http://code.open-bio.org/svnweb/index.cgi/biojava/)
+:\*\* \[\[biojava:BioJava:MailingLists|Mailing lists\]
 
 :\*\* No IRC channel at present
 
