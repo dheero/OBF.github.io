@@ -595,9 +595,9 @@ code](http://code.open-bio.org/svnweb/index.cgi/biopython/)
 
 :\*\* No IRC channel at present
 
-[BioSQL](bioruby:Main_Page "wikilink") :  
+[BioRuby](http://bioruby.org)\] :  
 
-:\* [Project website](biosql:Main_Page "wikilink")
+:\* [Project website](http://bioruby.org)
 
 :\* Quick links:
 
