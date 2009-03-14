@@ -369,13 +369,9 @@ Involved toolkits or projects :
 
 :\* others mentioned above
 
-Degree of difficulty and needed skills :  
+Degree of difficulty and needed skills : Medium. Requires a familiarity with not just python/biopython but some unusual data formats and datasets, and packages, and integrating them (geographic, phylogenetic, metadata, etc.). Must be familiar with evolution, phylogenetics, biogeography, and the statistical hazards from oversimple interpretations of these.  
 
-Medium. Requires a familiarity with not just python/biopython but some
-unusual data formats and datasets, and packages, and integrating them
-(geographic, phylogenetic, metadata, etc.). Must be familiar with
-evolution, phylogenetics, biogeography, and the statistical hazards from
-oversimple interpretations of these.
+<!-- -->
 
 Mentors : [Brad Chapman](http://bcbio.wordpress.com/) (plus? Various python/phylogenetics gurus at NESCent etc might be consulted)  
 
