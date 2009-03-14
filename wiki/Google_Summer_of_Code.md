@@ -579,7 +579,7 @@ sub-projects](http://code.open-bio.org/svnweb/index.cgi/bioperl/)
 (the main BioJava code base) and [all BioJava
 sub-projects](http://code.open-bio.org/svnweb/index.cgi/biojava/)
 
-:\*\* [Mailing lists](biojava:BioJava:MailingLists "wikilink")
+:\*\* [Mailing lists](http://biojava.org/wiki/BioJava:MailingLists)
 
 :\*\* No IRC channel at present
 
