@@ -313,8 +313,8 @@ The related field of phylogenetic or historical biogeography -- the estimation o
 <!-- -->
 
 Approach : Write BioPython modules/functions to:  
-("\*" indicates some version of this already done independently by
-[User:Nmatzke Nick Matzke](User:Nmatzke_Nick_Matzke "wikilink"))
+("\*" indicates some version of this already done independently by [Nick
+Matzke](User:Nmatzke "wikilink"))
 
 -   Improve BioPython's [Bio.Nexus.Trees](Bio.Nexus.Trees "wikilink")
     [newick](newick "wikilink") parser, which currently cannot
