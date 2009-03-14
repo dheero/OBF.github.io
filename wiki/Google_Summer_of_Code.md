@@ -589,11 +589,13 @@ sub-projects](http://code.open-bio.org/svnweb/index.cgi/biojava/)
 
 :\* Quick links:
 
-:\*\* [developers mailing
-list](http://biopython.org/mailman/listinfo/biopython-l)
+:\*\* [Information for contributors](biopython:Contributing "wikilink")
+
+:\*\* [Mailing lists](biopython:Mailing_lists "wikilink")
 
 :\*\* [source
-code](http://code.open-bio.org/svnweb/index.cgi/biopython/)
+code](http://code.open-bio.org/cgi/viewcvs.cgi/biopython/?cvsroot=biopython)
+(see also [Biopython CVS documentation](biopython:CVS "wikilink")
 
 :\*\* No IRC channel at present
 
@@ -604,9 +606,9 @@ code](http://code.open-bio.org/svnweb/index.cgi/biopython/)
 :\* Quick links:
 
 :\*\* [developers mailing
-list](http://bioruby.org/mailman/listinfo/bioruby-l)
+list](http://lists.open-bio.org/mailman/listinfo/bioruby)
 
-:\*\* [source code](http://code.open-bio.org/svnweb/index.cgi/bioruby/)
+:\*\* [source code](http://github.com/bioruby/bioruby/tree/master)
 
 :\*\* No IRC channel at present
 
