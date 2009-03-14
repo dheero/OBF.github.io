@@ -552,14 +552,75 @@ Reference Facts & Links
 
 [BioPerl](bp:Main_Page "wikilink") :  
 
-:\* [Information for new developers](bp:Becoming_a_developer "wikilink")
+:\* [Project website](bp:Main_Page "wikilink")
 
-:\* [Mailing lists](bp:Mailing_lists "wikilink")
+:\* Quick links:
+
+:\*\* [Information for new
+developers](bp:Becoming_a_developer "wikilink")
+
+:\*\* source code browser for
+[bioperl-live](http://code.open-bio.org/svnweb/index.cgi/bioperl/browse/bioperl-live/trunk)
+(the main BioPerl code base), and [all BioPerl
+sub-projects](http://code.open-bio.org/svnweb/index.cgi/bioperl/)
+
+:\*\* [Mailing lists](bp:Mailing_lists "wikilink")
+
+:\*\* IRC: \#bioperl on [Freenode](http://freenode.net)
+
+[Biojava](http://biojava.org) :  
+
+:\* [Project website](http://biojava.org)
+
+:\* Quick links:
 
 :\*\* [developers mailing
-list](http://bioperl.org/mailman/listinfo/bioperl-l)
+list](http://biojava.org/mailman/listinfo/biojava-l)
 
-:\* IRC: \#bioperl on [Freenode](http://freenode.net)
+:\*\* [source code](http://code.open-bio.org/svnweb/index.cgi/biojava/)
+
+:\*\* No IRC channel at present
+
+[Biopython](biopython:Main_Page "wikilink") :  
+
+:\* [Project website](biopython:Main_Page "wikilink")
+
+:\* Quick links:
+
+:\*\* [developers mailing
+list](http://biopython.org/mailman/listinfo/biopython-l)
+
+:\*\* [source
+code](http://code.open-bio.org/svnweb/index.cgi/biopython/)
+
+:\*\* No IRC channel at present
+
+[BioSQL](bioruby:Main_Page "wikilink") :  
+
+:\* [Project website](biosql:Main_Page "wikilink")
+
+:\* Quick links:
+
+:\*\* [developers mailing
+list](http://bioruby.org/mailman/listinfo/bioruby-l)
+
+:\*\* [source code](http://code.open-bio.org/svnweb/index.cgi/bioruby/)
+
+:\*\* No IRC channel at present
+
+[BioSQL](biosql:Main_Page "wikilink") :  
+
+:\* [Project website](biosql:Main_Page "wikilink")
+
+:\* Quick links:
+
+:\*\* [developers mailing
+list](http://biosql.org/mailman/listinfo/biosql-l)
+
+:\*\* [source
+code](http://code.open-bio.org/svnweb/index.cgi/biosql/browse/biosql-schema/trunk)
+
+:\*\* No IRC channel at present
 
 ### [Google Summer of Code 2009](http://socghop.appspot.com/)
 
