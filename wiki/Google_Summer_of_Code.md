@@ -119,172 +119,88 @@ students](#What_should_prospective_students_know.3F "wikilink") below.*
 
 ### Write a JEE5 webservice interface to BioSQL
 
-Rationale :  
+Rationale : BioSQL is a intelligently designed database schema for storing sequence data and associated metadata. It does however lack any kind of user API. A sensible way to design an API for a BioSQL backed database would be to expose the API as webservices. This would allow the API to be language and database agnostic (unlike an API based on database proceedures). It would also allow data in BioSQL to be very loosely coupled into bioinformatics workflows. Once an API is in place one could even adopt modified SQL schemas underneath as long as the data access API still conforms to some specification.  
 
-BioSQL is a intelligently designed database schema for storing sequence
-data and associated metadata. It does however lack any kind of user API.
-A sensible way to design an API for a BioSQL backed database would be to
-expose the API as webservices. This would allow the API to be language
-and database agnostic (unlike an API based on database proceedures). It
-would also allow data in BioSQL to be very loosely coupled into
-bioinformatics workflows. Once an API is in place one could even adopt
-modified SQL schemas underneath as long as the data access API still
-conforms to some specification.
+<!-- -->
 
-Approach :  
+Approach : Since the development of Java EE5 (and EJB3) the development of Enterprise Java Beans that interoperate with databases and webservices is exceptionally easy. In addition Java Session Beans can be readily exported as webservices with the addition of simple annotations, often no specific configuration is required. Free and open Java app servers (such as glassfish) that provide almost all of the management middleware for object relational mapping (ORM) and webservice deployment (and a whole host of other things) are available and relatively simple to use. Finally the free and open IDE Netbeans has excellent integration with Glassfish and Java EE5 (plus I am most experienced with this IDE so I can provide more help with it's use). For these reasons I would suggest that Java EE5 is the most sensible approach to implementing this project.  
+During a development meeting, in Tokyo in 2008, a preliminary EJB mapping to BioSQL was generated. What remains to be done is the development of a simple, well documented and well tested API specification and implementation that bioinformatics developers can use to perform CRUD (CReate, Update, Delete) functions on the database as well as useful search and retreival operations.  
+In summary the project will define and document an API and expected behaivour and then implement the webservice interface. A set of unit tests will also be developed along with a proof-of-concept app that demonstrates use of the API.  
 
-Since the development of Java EE5 (and EJB3) the development of
-Enterprise Java Beans that interoperate with databases and webservices
-is exceptionally easy. In addition Java Session Beans can be readily
-exported as webservices with the addition of simple annotations, often
-no specific configuration is required. Free and open Java app servers
-(such as glassfish) that provide almost all of the management middleware
-for object relational mapping (ORM) and webservice deployment (and a
-whole host of other things) are available and relatively simple to use.
-Finally the free and open IDE Netbeans has excellent integration with
-Glassfish and Java EE5 (plus I am most experienced with this IDE so I
-can provide more help with it's use). For these reasons I would suggest
-that Java EE5 is the most sensible approach to implementing this
-project.
-
-During a development meeting, in Tokyo in 2008, a preliminary EJB
-mapping to BioSQL was generated. What remains to be done is the
-development of a simple, well documented and well tested API
-specification and implementation that bioinformatics developers can use
-to perform CRUD (CReate, Update, Delete) functions on the database as
-well as useful search and retreival operations.
-
-In summary the project will define and document an API and expected
-behaivour and then implement the webservice interface. A set of unit
-tests will also be developed along with a proof-of-concept app that
-demonstrates use of the API.
+<!-- -->
 
 Challenges :  
 
--   Designing and documenting the API so that it is simple and intuitive
--   Making simple queries simple and efficient and complex
-    queries possible.
--   Making CRUD operations secure (only people with the right
-    credentials should be able to delete the data).
--   Loaders for common file types.
--   \[Nice to have\] Making a test application that will call API
-    methods with predefined arguments. This will let people make
-    alternative implementations of the API while testing they are still
-    compatible with the API. For example someone could make an entire
-    implementation in Perl/ BioPerl and still have it validate against
-    the API.
+:\* Designing and documenting the API so that it is simple and intuitive
 
-Involved toolkits or projects :  
+:\* Making simple queries simple and efficient and complex queries
+possible.
 
-JavaEE5, BioSQL, parts of BioJava would be useful to steal for parsing.
+:\* Making CRUD operations secure (only people with the right
+credentials should be able to delete the data).
 
-Degree of difficulty and needed skills :  
+:\* Loaders for common file types.
 
-Medium to Hard. While the use of Java EE5 is now quite easy (esp with
-IDEs like Netbeans) there is quite a lot of concepts involved in the
-project (Webservices, ORM, EJBs etc). The hard part would be getting up
-to speed with those concepts. If you already know a lot of this then the
-project would only be medium difficulty. At minimum the student should
-be confident with Java and at least aware of some of the technologies.
-This is not the right project for a very new programmer.
+:\* \[Nice to have\] Making a test application that will call API
+methods with predefined arguments. This will let people make alternative
+implementations of the API while testing they are still compatible with
+the API. For example someone could make an entire implementation in
+Perl/ BioPerl and still have it validate against the API.
+
+Involved toolkits or projects : JavaEE5, BioSQL, parts of BioJava would be useful to steal for parsing.  
+
+<!-- -->
+
+Degree of difficulty and needed skills : Medium to Hard. While the use of Java EE5 is now quite easy (esp with IDEs like Netbeans) there is quite a lot of concepts involved in the project (Webservices, ORM, EJBs etc). The hard part would be getting up to speed with those concepts. If you already know a lot of this then the project would only be medium difficulty. At minimum the student should be confident with Java and at least aware of some of the technologies. This is not the right project for a very new programmer.  
+
+<!-- -->
 
 Mentors : [Mark Schreiber](http://www.linkedin.com/in/markjschreiber) (and anyone else who wants to help)  
 
 ### Mapping the NCBI toolkit to BioPerl, BioRuby, BioConductor and BioJAVA using BioLib
 
-Rationale :  
+Rationale : The National Center for Biotechnology Information (NCBI) has created a large collection of utilities developed for the production and distribution of GenBank, Entrez, BLAST, and related services. To support these utilities a large set of C and C++ libraries are maintained and regularly improved by NCBI. These include, for example, sequence alignment algorithms, antigenic determinant prediction, CPG-island finder, ORF finder and string matchers. This functionality is ultimately of great interest to all scientists working in molecular biology with application in biology and biomedical research.  
+Unfortunately, few bioinformaticians work with C/C++. Addressing this NCBI has made a binding available for Python. This is not enough as bioinformaticians work in many different programming languages, and to be fully effective support should be made available at least for Perl, R and JAVA. These three together, probably, represent over 90% of bioinformaticians. The [BioLib project](http://biolib.open-bio.org/) successfully provides the 'mapping' infrastructure to map complex libraries against many computer languages using SWIG. Basically one mapping suffices to support all popular languages.  
 
-The National Center for Biotechnology Information (NCBI) has created a
-large collection of utilities developed for the production and
-distribution of GenBank, Entrez, BLAST, and related services. To support
-these utilities a large set of C and C++ libraries are maintained and
-regularly improved by NCBI. These include, for example, sequence
-alignment algorithms, antigenic determinant prediction, CPG-island
-finder, ORF finder and string matchers. This functionality is ultimately
-of great interest to all scientists working in molecular biology with
-application in biology and biomedical research.
+<!-- -->
 
-Unfortunately, few bioinformaticians work with C/C++. Addressing this
-NCBI has made a binding available for Python. This is not enough as
-bioinformaticians work in many different programming languages, and to
-be fully effective support should be made available at least for Perl, R
-and JAVA. These three together, probably, representing over 90% of
-bioinformaticians. The [BioLib project](http://biolib.open-bio.org/)
-successfully provides the 'mapping' infrastructure to map complex
-libraries against many computer languages using SWIG. Basically one
-mapping suffices to support all popular languages.
+Approach : Special interfaces need to be developed to map the NCBI toolkit libraries against Perl initially. The (outdated) NCBI [Python mapping](http://pypi.python.org/pypi/ncbi/0308) can be used as an initial guide for mapping functionality. Once mapped against Perl mapping against Ruby and Python is trivial. However, at this point BioLib support for R and JAVA needs to be developed. A proof-of-concept can  
 
-Approach :  
-
-Special interfaces need to be developed to map the NCBI toolkit
-libraries against Perl initially. The (outdated) NCBI [Python
-mapping](http://pypi.python.org/pypi/ncbi/0308) can be used as an
-initial guide for mapping functionality. Once mapped against Perl
-mapping against Ruby and Python is trivial. However, at this point
-BioLib support for R and JAVA needs to be developed. A proof-of-concept
-can be part of this project. Finally SWIG mappings can be used to create
+be part of this project. Finally SWIG mappings can be used to create
 automated documentation and testing of BioLib code.
 
-Challenges :  
+Challenges : The main challenge is to provide nice and consistent interfaces in high-level languages against the NCBI C/C++ toolkit library. This  
 
-The main challenge is to provide nice and consistent interfaces in
-high-level languages against the NCBI C/C++ toolkit library. This
 requires OOP design and unit testing of existing functionality. Also
 some SWIG hacking may be involved to provide decent mappings for R and
 JAVA, as well as SWIG auto generated documentation and testing.
 
-Involved toolkits or projects :  
+Involved toolkits or projects : [BioLib](http://biolib.open-bio.org/), BioPerl, SWIG (and optionally BioRuby, R/Bioconductor, BioJAVA  
 
-[BioLib](http://biolib.open-bio.org/), BioPerl, SWIG (and optionally
-BioRuby, R/Bioconductor, BioJAVA or BioPython)
+or BioPython)
 
-Degree of difficulty and needed skills :  
+Degree of difficulty and needed skills : This is a challenging project as it crosses computer languages. It requires experience in C++ and a wish for deeper understanding of at least one high-level OOP language like Perl (did I write OOP?), Python, JAVA, R or Ruby.  
 
-This is a challenging project as it crosses computer languages. It
-requires experience in C++ and a wish for deeper understanding of at
-least one high-level OOP language like Perl (did I write OOP?), Python,
-JAVA, R or Ruby.
+<!-- -->
 
-Mentors :  
-
-**Pjotr Prins**, Chris Fields
+Mentors : **Pjotr Prins**, Chris Fields  
 
 ### BioSQL web interface and API on Google App Engine
 
-Rationale :  
+Rationale : The [BioSQL](http://www.biosql.org/wiki/Main_Page) project provides a robust and well supported database schema for storing sequence data and associated annotations and features. It does not have a standard web interface or web facing API, both of which would provide improved access to scientific data. Deployment of BioSQL currently requires knowledge and administration of relational databases, which can hinder its use in smaller research laboratories that do not have public servers or experienced systems administrators.  
+This proposal seeks to bridge this gap by providing a rapidly deployable [cloud based](http://en.wikipedia.org/wiki/Cloud_computing) solution utilizing the established BioSQL backend. This system will allow scientists to share results in a standard format both early on during research and at the time of  
 
-The [BioSQL](http://www.biosql.org/wiki/Main_Page) project provides a
-robust and well supported database schema for storing sequence data and
-associated annotations and features. It does not have a standard web
-interface or web facing API, both of which would provide improved access
-to scientific data. Deployment of BioSQL currently requires knowledge
-and administration of relational databases, which can hinder its use in
-smaller research laboratories that do not have public servers or
-experienced systems administrators.
-
-This proposal seeks to bridge this gap by providing a rapidly deployable
-[cloud based](http://en.wikipedia.org/wiki/Cloud_computing) solution
-utilizing the established BioSQL backend. This system will allow
-scientists to share results in a standard format both early on during
-research and at the time of publication. By deploying on stable
-architectures, long term data access is ensured and not dependent on
-maintenance of local servers. Data archival for replication and
-expansion of ideas is an important part of the scientific process; this
-[recent blog
+publication. By deploying on stable architectures, long term data access
+is ensured and not dependent on maintenance of local servers. Data
+archival for replication and expansion of ideas is an important part of
+the scientific process; this [recent blog
 review](http://www.portfolio.com/views/blogs/market-movers/2009/02/18/when-academic-papers-arent-replicable?tid=true)
 summarizes some of the problems associated with primary data access.
 
-Approach :  
+Approach : [Google App Engine](http://code.google.com/appengine/) provides a full development stack for rapidly building and deploying web applications. The platform provides free quotas which allow a small lab with a limited budget to make their data available, and also scales for larger projects with popular data sets.  
+The student project expands an initial demonstration server ([demo server](http://biosqlweb.appspot.com/);  
 
-[Google App Engine](http://code.google.com/appengine/) provides a full
-development stack for rapidly building and deploying web applications.
-The platform provides free quotas which allow a small lab with a limited
-budget to make their data available, and also scales for larger projects
-with popular data sets.
-
-The student project expands an initial demonstration server ([demo
-server](http://biosqlweb.appspot.com/); [source
-code](http://github.com/chapmanb/biosqlweb/tree/master); [blog
+[source code](http://github.com/chapmanb/biosqlweb/tree/master); [blog
 post](http://bcbio.wordpress.com/2009/03/15/biosql-on-google-app-engine/))
 to a full featured web application. The server side implementation will
 be programmed in Python, utilizing the Google App Engine [developers
@@ -295,8 +211,7 @@ interface will utilize a full featured javascript library, such as
 [jQuery](http://jquery.com/) and [jQueryUI](http://jqueryui.com/) or
 [ExtJS](http://extjs.com/). Client to server communication occurs using
 [AJAX](http://en.wikipedia.org/wiki/Ajax_(programming)) techniques with
-[JSON](http://en.wikipedia.org/wiki/JSON) for data exchange.
-
+[JSON](http://en.wikipedia.org/wiki/JSON) for data exchange.  
 In addition to the web interface, the server will also provide a
 programming interface using a
 [REST](http://en.wikipedia.org/wiki/Representational_State_Transfer)
@@ -305,41 +220,42 @@ the proposed JEE5 Java webservice, to design a common interface.
 
 Challenges :  
 
--   Familiarizing student with Python, Javascript and AJAX, as well as
-    the Google App Engine environment.
--   Initial implementation of BioSQL server interface with
-    useful features.
--   Coordinating input from users on the [BioSQL mailing
-    list](http://lists.open-bio.org/mailman/listinfo/biosql-l). The
-    student will need to solicit desired features from users and
-    prioritize based on implementation time and importance. See [this
-    mailing list
-    discussion](http://lists.open-bio.org/pipermail/biosql-l/2009-January/001464.html)
-    for an example of interest and initial ideas.
--   Designing the web interface for intuitive use.
--   Coordinating API development with other projects.
+:\* Familiarizing student with Python, Javascript and AJAX, as well as
+the Google App Engine environment.
+
+:\* Initial implementation of BioSQL server interface with useful
+features.
+
+:\* Coordinating input from users on the [BioSQL mailing
+list](http://lists.open-bio.org/mailman/listinfo/biosql-l). The student
+will need to solicit desired features from users and prioritize based on
+implementation time and importance. See [this mailing list
+discussion](http://lists.open-bio.org/pipermail/biosql-l/2009-January/001464.html)
+for an example of interest and initial ideas.
+
+:\* Designing the web interface for intuitive use.
+
+:\* Coordinating API development with other projects.
 
 Involved toolkits or projects :  
 
--   [BioSQL](http://www.biosql.org/wiki/Main_Page)
--   [Biopython](http://biopython.org/wiki/Main_Page)
--   [Google App Engine](http://code.google.com/appengine/)
--   [Python](http://www.python.org)
--   [jQuery](http://jquery.com/); [jQueryUI](http://jqueryui.com/)
--   [ExtJS](http://extjs.com/)
+:\* [BioSQL](http://biosql.org/)
 
-Degree of difficulty and needed skills :  
+:\* [Biopython](http://biopython.org/)
 
-Medium to Hard. This requires a familiarity with current web frameworks
-and utilizes a number of existing libraries to allow the student to jump
-right into the development process. This requires the interested student
-to be comfortable with quickly learning outside libraries. Beyond
-programming, the project will also involve creative thinking about
-interface and usability design.
+:\* [Google App Engine](http://code.google.com/appengine/)
 
-Mentors :  
+:\* [Python](http://www.python.org)
 
-Brad Chapman (plus...)
+:\* [jQuery](http://jquery.com/); [jQueryUI](http://jqueryui.com/)
+
+:\* [ExtJS](http://extjs.com/)
+
+Degree of difficulty and needed skills : Medium to Hard. This requires a familiarity with current web frameworks and utilizes a number of existing libraries to allow the student to jump right into the development process. This requires the interested student to be comfortable with quickly learning outside libraries. Beyond programming, the project will also involve creative thinking about interface and usability design.  
+
+<!-- -->
+
+Mentors : Brad Chapman (plus...)  
 
 ### Biogeographical and community phylogenetics for BioPython
 
