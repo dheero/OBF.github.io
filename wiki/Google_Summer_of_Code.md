@@ -164,20 +164,17 @@ Unfortunately, few bioinformaticians work with C/C++. Addressing this NCBI has m
 
 <!-- -->
 
-Approach : Special interfaces need to be developed to map the NCBI toolkit libraries against Perl initially. The (outdated) NCBI [Python mapping](http://pypi.python.org/pypi/ncbi/0308) can be used as an initial guide for mapping functionality. Once mapped against Perl mapping against Ruby and Python is trivial. However, at this point BioLib support for R and JAVA needs to be developed. A proof-of-concept can  
+Approach : Special interfaces need to be developed to map the NCBI toolkit libraries against Perl initially. The (outdated) NCBI [Python mapping](http://pypi.python.org/pypi/ncbi/0308) can be used as an initial guide for mapping functionality. Once mapped against Perl mapping against Ruby and Python is trivial. However, at this point BioLib support for R and JAVA needs to be developed. A proof-of-concept can be part of this project. Finally SWIG mappings can be used to create automated documentation and testing of BioLib code.  
 
-be part of this project. Finally SWIG mappings can be used to create
-automated documentation and testing of BioLib code.
+<!-- -->
 
-Challenges : The main challenge is to provide nice and consistent interfaces in high-level languages against the NCBI C/C++ toolkit library. This  
+Challenges : The main challenge is to provide nice and consistent interfaces in high-level languages against the NCBI C/C++ toolkit library. This requires OOP design and unit testing of existing functionality. Also some SWIG hacking may be involved to provide decent mappings for R and JAVA, as well as SWIG auto generated documentation and testing.  
 
-requires OOP design and unit testing of existing functionality. Also
-some SWIG hacking may be involved to provide decent mappings for R and
-JAVA, as well as SWIG auto generated documentation and testing.
+<!-- -->
 
-Involved toolkits or projects : [BioLib](http://biolib.open-bio.org/), BioPerl, SWIG (and optionally BioRuby, R/Bioconductor, BioJAVA  
+Involved toolkits or projects : [BioLib](http://biolib.open-bio.org/), BioPerl, SWIG (and optionally BioRuby, R/Bioconductor, BioJAVA or BioPython)  
 
-or BioPython)
+<!-- -->
 
 Degree of difficulty and needed skills : This is a challenging project as it crosses computer languages. It requires experience in C++ and a wish for deeper understanding of at least one high-level OOP language like Perl (did I write OOP?), Python, JAVA, R or Ruby.  
 
