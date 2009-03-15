@@ -429,7 +429,7 @@ Mentors
     backup org admin)
 -   [Hilmar Lapp](User:Lapp "wikilink") (NESCent; org admin)
 -   [Pjotr Prins](http://thebird.nl/pjwiki/wiki.pl) (BioLib)
--   [Mark Schreiber](http://biojava.org/wiki:User:Mark) (Novartis
+-   [Mark Schreiber](http://biojava.org/wiki/User:Mark) (Novartis
     Institute for Tropical Diseases, Singapore; BioJava)
 -   Joshua Udall (BioPerl)
 -   Jonathan Warren (Sanger Institute, UK; Biojava)
