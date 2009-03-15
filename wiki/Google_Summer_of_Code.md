@@ -421,8 +421,8 @@ Mentors
 -------
 
 -   [Brad Chapman](http://bcbio.wordpress.com/) (MGH; Biopython)
--   [Chris Fields](bp:User:Cjfields "wikilink") (U. Illinois,
-    Chicago; BioPerl)
+-   [Chris Fields](bp:User:Cjfields "wikilink") (U. Illinois at
+    Urbana-Champaign; BioPerl)
 -   [Mark Jensen](bp:User:Majensen "wikilink") (Fortinbras; BioPerl)
 -   [Roger Hall](bp:User:Rogerhall "wikilink") (U. of Arkansas; BioPerl)
 -   [Mauricio Herrera Cuadra](User:Mauricio "wikilink") (Yahoo! Inc.;
