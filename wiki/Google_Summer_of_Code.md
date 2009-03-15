@@ -619,6 +619,9 @@ developers](bp:Becoming_a_developer "wikilink")
 (the main BioPerl code base), and [all BioPerl
 sub-projects](http://code.open-bio.org/svnweb/index.cgi/bioperl/)
 
+:\*\* [Priority list](bp:Project_priority_list "wikilink") of things
+aside from the ideas above that need work
+
 :\*\* [Mailing lists](bp:Mailing_lists "wikilink")
 
 :\*\* IRC: \#bioperl on [Freenode](http://freenode.net)
