@@ -10,6 +10,55 @@ On this page we are collecting ideas, possible projects, prerequisites,
 possible solution approaches, mentors, other people or channels to
 contact for more information or to bounce ideas off of, etc.
 
+About Google Summer of Code
+---------------------------
+
+![](GSoC2009Logo.png "fig:GSoC2009Logo.png") Google Summer of Code
+(GSoC) is maybe best described as a remote student internship program
+for globally distributed, collaboratively developed open-source
+projects. The program offers eligible student developers stipends to
+write code for open source projects over a period of 3 summer months
+("flip bits, not burgers"). Aside from the stipend, perhaps the most
+important qualitative difference of this program is that students are
+paired with mentors, who are typically experienced developers from the
+project to which the student would be contributing, and who can guide
+the student to interact productively with the community, prevent getting
+stuck in obstacles, and avoid chasing down the wrong direction. The
+program is global - students and mentors may be located anywhere where
+they have internet connection ([except for countries affected by US
+trade
+restrictions](http://socghop.appspot.com/document/show/program/google/gsoc2009/faqs#not_eligible)),
+and no travel is required. Thus, other than the stipend and the
+mentorship, the internship mirrors normal contributors to such
+distributed development projects, which is a useful learning experience
+in itself, as the skills needed to be effective at this are typically
+not taught in computer science curricula, yet are highly desired in an
+increasingly global IT industry.
+
+From the viewpoint of participating open-source projects, the program
+not only offers to pay students for contributing, but more importantly
+offers an opportunity to recruit new developers in a way that allows far
+more people to leap over the barrier from interested user to code
+contributor.
+
+The program was started in 2005 and has since been run annually out of
+Google's Open Source Program Office (OSPO). Google sponsors the program
+not only by providing administrative staff support and an overall
+framework, but also with a very significant amount of money (paid-out
+stipends amounted to more than $5M alone in 2009). Quoting from the
+[GSoC
+documentation](http://socghop.appspot.com/document/show/program/google/gsoc2009/faqs#about_gsoc),
+"the program has historically brought together over 2,400 students with
+over 230 open source projects. The majority of past student participants
+were enrolled in university or college Computer Science and Computer
+Engineering programs, but overall GSoCers come from a wide variety of
+educational backgrounds, from computational biology to mining
+engineering. Many past student participants had never participated in an
+open-source project before GSoC; others used the GSoC stipend as an
+opportunity to concentrate fully on their existing open source coding
+activities over the summer. Many GSoC 'graduates' have later become
+program mentors."
+
 News
 ----
 
@@ -654,8 +703,6 @@ list](http://lists.open-bio.org/mailman/listinfo/biolib-dev)
 
 Reference Facts & Links: <span class="plainlinks">[Google Summer of Code 2009](http://socghop.appspot.com/)</span>
 ------------------------------------------------------------------------------------------------------------------
-
-![](GSoC2009Logo.png "GSoC2009Logo.png")
 
 -   Mentoring organizations apply between March 9-13, 2009. Accepted
     mentoring organizations will be published March 18. See [full set of
