@@ -635,6 +635,21 @@ code](http://code.open-bio.org/svnweb/index.cgi/biosql/browse/biosql-schema/trun
 
 :\*\* No IRC channel at present
 
+![](BioLib_logo_tiny.png "BioLib_logo_tiny.png")
+
+[BioLib](http://biolib.open-bio.org) :  
+
+:\* [Project website](http://biolib.open-bio.org)
+
+:\* Quick links:
+
+:\*\* [developers mailing
+list](http://lists.open-bio.org/mailman/listinfo/biolib-dev)
+
+:\*\* [source code](http://github.com/pjotrp/biolib/tree/master)
+
+:\*\* No IRC channel at present
+
 Reference Facts & Links: <span class="plainlinks">[Google Summer of Code 2009](http://socghop.appspot.com/)</span>
 ------------------------------------------------------------------------------------------------------------------
 
