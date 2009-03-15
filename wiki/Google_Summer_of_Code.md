@@ -369,6 +369,8 @@ Mentors
 -   [Scooter Willis](mailto:willishf@ufl.edu) (Scripps Florida; Biojava)
 -   [Christian Zmasek](http://monochrome-effect.net/) (Burnham Institute
     for Medical Research; BioRuby)
+-   [ Vivek Gopalan](bp:User:Vgopalan "wikilink") (Contractor
+    at BCBB/NAID/NIH))
 
 What should prospective students know?
 --------------------------------------
