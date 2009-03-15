@@ -546,10 +546,8 @@ provide the following in your application material.
     payments](http://code.google.com/opensource/gsoc/2009/faqs.html#0_1_administrivia_842873138659_49145328697313184)
     for full documentation.
 
-Reference Facts & Links
------------------------
-
-### Open-Bio projects involved
+Open-Bio projects involved
+--------------------------
 
 ![](BioPerl_logo_tiny.jpg "BioPerl_logo_tiny.jpg")
 
@@ -637,7 +635,8 @@ code](http://code.open-bio.org/svnweb/index.cgi/biosql/browse/biosql-schema/trun
 
 :\*\* No IRC channel at present
 
-### [Google Summer of Code 2009](http://socghop.appspot.com/)
+Reference Facts & Links: <span class="plainlinks">[Google Summer of Code 2009](http://socghop.appspot.com/)</span>
+------------------------------------------------------------------------------------------------------------------
 
 -   Mentoring organizations apply between March 9-13, 2009. Accepted
     mentoring organizations will be published March 18. See [full set of
