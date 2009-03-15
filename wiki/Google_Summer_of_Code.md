@@ -45,8 +45,8 @@ The program was started in 2005 and has since been run annually out of
 Google's Open Source Program Office (OSPO). Google sponsors the program
 not only by providing administrative staff support and an overall
 framework, but also with a very significant amount of money (paid-out
-stipends amounted to more than $5M alone in 2009). Quoting from the
-[GSoC
+stipends amounted to more than $5M alone in 2009). [Quoting from the
+GSoC
 documentation](http://socghop.appspot.com/document/show/program/google/gsoc2009/faqs#about_gsoc),
 "the program has historically brought together over 2,400 students with
 over 230 open source projects. The majority of past student participants
@@ -58,6 +58,9 @@ open-source project before GSoC; others used the GSoC stipend as an
 opportunity to concentrate fully on their existing open source coding
 activities over the summer. Many GSoC 'graduates' have later become
 program mentors."
+
+See also below for [reference facts such as eligibility and
+timelines](#Reference_Facts_.26_Links:_Google_Summer_of_Code_2009 "wikilink").
 
 News
 ----
