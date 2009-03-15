@@ -185,35 +185,15 @@ Mentors : **Pjotr Prins**, Chris Fields
 ### BioSQL web interface and API on Google App Engine
 
 Rationale : The [BioSQL](http://www.biosql.org/wiki/Main_Page) project provides a robust and well supported database schema for storing sequence data and associated annotations and features. It does not have a standard web interface or web facing API, both of which would provide improved access to scientific data. Deployment of BioSQL currently requires knowledge and administration of relational databases, which can hinder its use in smaller research laboratories that do not have public servers or experienced systems administrators.  
-This proposal seeks to bridge this gap by providing a rapidly deployable [cloud based](http://en.wikipedia.org/wiki/Cloud_computing) solution utilizing the established BioSQL backend. This system will allow scientists to share results in a standard format both early on during research and at the time of  
+This proposal seeks to bridge this gap by providing a rapidly deployable [cloud based](http://en.wikipedia.org/wiki/Cloud_computing) solution utilizing the established BioSQL backend. This system will allow scientists to share results in a standard format both early on during research and at the time of publication. By deploying on stable architectures, long term data access is ensured and not dependent on maintenance of local servers. Data archival for replication and expansion of ideas is an important part of the scientific process; this [recent blog review](http://www.portfolio.com/views/blogs/market-movers/2009/02/18/when-academic-papers-arent-replicable?tid=true) summarizes some of the problems associated with primary data access.  
 
-publication. By deploying on stable architectures, long term data access
-is ensured and not dependent on maintenance of local servers. Data
-archival for replication and expansion of ideas is an important part of
-the scientific process; this [recent blog
-review](http://www.portfolio.com/views/blogs/market-movers/2009/02/18/when-academic-papers-arent-replicable?tid=true)
-summarizes some of the problems associated with primary data access.
+<!-- -->
 
 Approach : [Google App Engine](http://code.google.com/appengine/) provides a full development stack for rapidly building and deploying web applications. The platform provides free quotas which allow a small lab with a limited budget to make their data available, and also scales for larger projects with popular data sets.  
-The student project expands an initial demonstration server ([demo server](http://biosqlweb.appspot.com/);  
+The student project expands an initial demonstration server ([demo server](http://biosqlweb.appspot.com/); [source code](http://github.com/chapmanb/biosqlweb/tree/master); [blog post](http://bcbio.wordpress.com/2009/03/15/biosql-on-google-app-engine/)) to a full featured web application. The server side implementation will be programmed in Python, utilizing the Google App Engine [developers toolkit](http://code.google.com/appengine/docs/) supplemented with the [Biopython](http://biopython.org/wiki/Main_Page) libraries. The client web interface will be designed using HTML, CSS and javascript; the interface will utilize a full featured javascript library, such as [jQuery](http://jquery.com/) and [jQueryUI](http://jqueryui.com/) or [ExtJS](http://extjs.com/). Client to server communication occurs using [AJAX](http://en.wikipedia.org/wiki/Ajax_(programming)) techniques with [JSON](http://en.wikipedia.org/wiki/JSON) for data exchange.  
+In addition to the web interface, the server will also provide a programming interface using a [REST](http://en.wikipedia.org/wiki/Representational_State_Transfer) API. This involves coordination with other proposed projects, including the proposed JEE5 Java webservice, to design a common interface.  
 
-[source code](http://github.com/chapmanb/biosqlweb/tree/master); [blog
-post](http://bcbio.wordpress.com/2009/03/15/biosql-on-google-app-engine/))
-to a full featured web application. The server side implementation will
-be programmed in Python, utilizing the Google App Engine [developers
-toolkit](http://code.google.com/appengine/docs/) supplemented with the
-[Biopython](http://biopython.org/wiki/Main_Page) libraries. The client
-web interface will be designed using HTML, CSS and javascript; the
-interface will utilize a full featured javascript library, such as
-[jQuery](http://jquery.com/) and [jQueryUI](http://jqueryui.com/) or
-[ExtJS](http://extjs.com/). Client to server communication occurs using
-[AJAX](http://en.wikipedia.org/wiki/Ajax_(programming)) techniques with
-[JSON](http://en.wikipedia.org/wiki/JSON) for data exchange.  
-In addition to the web interface, the server will also provide a
-programming interface using a
-[REST](http://en.wikipedia.org/wiki/Representational_State_Transfer)
-API. This involves coordination with other proposed projects, including
-the proposed JEE5 Java webservice, to design a common interface.
+<!-- -->
 
 Challenges :  
 
