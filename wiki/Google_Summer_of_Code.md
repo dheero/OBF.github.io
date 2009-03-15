@@ -245,16 +245,18 @@ The platform provides free quotas which allow a small lab with a limited
 budget to make their data available, and also scales for larger projects
 with popular data sets.
 
-The student project expands an initial demonstration server (under
-development) to a full featured web application. The server side
-implementation will be programmed in Python, utilizing the Google App
-Engine [developers toolkit](http://code.google.com/appengine/docs/)
-supplemented with the [Biopython](http://biopython.org/wiki/Main_Page)
-libraries. The client web interface will be designed using HTML, CSS and
-javascript; the interface will utilize a full featured javascript
-library, such as [jQuery](http://jquery.com/) and
-[jQueryUI](http://jqueryui.com/) or [ExtJS](http://extjs.com/). Client
-to server communication occurs using
+The student project expands an initial demonstration server ([demo
+server](http://biosqlweb.appspot.com/); [source
+code](http://github.com/chapmanb/biosqlweb/tree/master); [blog
+post](http://bcbio.wordpress.com/2009/03/15/biosql-on-google-app-engine/))
+to a full featured web application. The server side implementation will
+be programmed in Python, utilizing the Google App Engine [developers
+toolkit](http://code.google.com/appengine/docs/) supplemented with the
+[Biopython](http://biopython.org/wiki/Main_Page) libraries. The client
+web interface will be designed using HTML, CSS and javascript; the
+interface will utilize a full featured javascript library, such as
+[jQuery](http://jquery.com/) and [jQueryUI](http://jqueryui.com/) or
+[ExtJS](http://extjs.com/). Client to server communication occurs using
 [AJAX](http://en.wikipedia.org/wiki/Ajax_(programming)) techniques with
 [JSON](http://en.wikipedia.org/wiki/JSON) for data exchange.
 
