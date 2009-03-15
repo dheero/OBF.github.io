@@ -432,7 +432,8 @@ Mentors
 -   [Mark Schreiber](http://biojava.org/wiki/User:Mark) (Novartis
     Institute for Tropical Diseases, Singapore; BioJava)
 -   Joshua Udall (BioPerl)
--   Jonathan Warren (Sanger Institute, UK; Biojava)
+-   [Jonathan Warren](mailto:jw12@sanger.ac.uk) (Sanger Institute,
+    UK; Biojava)
 -   [Scooter Willis](mailto:willishf@ufl.edu) (Scripps Florida; Biojava)
 -   [Christian Zmasek](http://monochrome-effect.net/) (Burnham Institute
     for Medical Research; BioRuby)
