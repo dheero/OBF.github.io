@@ -620,7 +620,7 @@ developers](bp:Becoming_a_developer "wikilink")
 sub-projects](http://code.open-bio.org/svnweb/index.cgi/bioperl/)
 
 :\*\* [Priority list](bp:Project_priority_list "wikilink") of things
-aside from the ideas above that need work
+that need work, as another source for student-conceived project ideas
 
 :\*\* [Mailing lists](bp:Mailing_lists "wikilink")
 
@@ -633,6 +633,9 @@ aside from the ideas above that need work
 :\* [Project website](http://biojava.org)
 
 :\* Quick links:
+
+:\*\* [Proposal for BioJava3](http://biojava.org/wiki/BioJava3_Proposal)
+as another source for student-conceived project ideas
 
 :\*\* source code for
 [biojava-live](http://code.open-bio.org/svnweb/index.cgi/biojava/browse/biojava-live/trunk)
@@ -683,6 +686,10 @@ list](http://lists.open-bio.org/mailman/listinfo/bioruby)
 :\* [Project website](biosql:Main_Page "wikilink")
 
 :\* Quick links:
+
+:\*\* Current [enhancement
+requests](http://biosql.org/wiki/Enhancement_Requests) as another source
+for student-conceived project ideas
 
 :\*\* [developers mailing
 list](http://biosql.org/mailman/listinfo/biosql-l)
