@@ -653,6 +653,8 @@ list](http://lists.open-bio.org/mailman/listinfo/biolib-dev)
 Reference Facts & Links: <span class="plainlinks">[Google Summer of Code 2009](http://socghop.appspot.com/)</span>
 ------------------------------------------------------------------------------------------------------------------
 
+![](GSoC2009Logo.png "GSoC2009Logo.png")
+
 -   Mentoring organizations apply between March 9-13, 2009. Accepted
     mentoring organizations will be published March 18. See [full set of
     timelines](http://code.google.com/opensource/gsoc/2009/faqs.html#0_1_timeline_5354032302481437_).
