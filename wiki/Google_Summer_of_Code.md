@@ -551,6 +551,8 @@ Reference Facts & Links
 
 ### Open-Bio projects involved
 
+![](BioPerl_logo_tiny.jpg "BioPerl_logo_tiny.jpg")
+
 [BioPerl](bp:Main_Page "wikilink") :  
 
 :\* [Project website](bp:Main_Page "wikilink")
@@ -569,6 +571,8 @@ sub-projects](http://code.open-bio.org/svnweb/index.cgi/bioperl/)
 
 :\*\* IRC: \#bioperl on [Freenode](http://freenode.net)
 
+![](Biojava_logo_tiny.jpg "Biojava_logo_tiny.jpg")
+
 [BioJava](http://biojava.org) :  
 
 :\* [Project website](http://biojava.org)
@@ -583,6 +587,8 @@ sub-projects](http://code.open-bio.org/svnweb/index.cgi/biojava/)
 :\*\* [Mailing lists](http://biojava.org/wiki/BioJava:MailingLists)
 
 :\*\* No IRC channel at present
+
+![](Biopython_logo_tiny.png "Biopython_logo_tiny.png")
 
 [Biopython](biopython:Main_Page "wikilink") :  
 
@@ -600,6 +606,8 @@ code](http://code.open-bio.org/cgi/viewcvs.cgi/biopython/?cvsroot=biopython)
 
 :\*\* No IRC channel at present
 
+![](BioRuby_logo_tiny.png "BioRuby_logo_tiny.png")
+
 [BioRuby](http://bioruby.org) :  
 
 :\* [Project website](http://bioruby.org)
@@ -612,6 +620,8 @@ list](http://lists.open-bio.org/mailman/listinfo/bioruby)
 :\*\* [source code](http://github.com/bioruby/bioruby/tree/master)
 
 :\*\* No IRC channel at present
+
+![](BioSQL_logo.png "BioSQL_logo.png")
 
 [BioSQL](biosql:Main_Page "wikilink") :  
 
