@@ -433,7 +433,7 @@ Mentors
     Institute for Tropical Diseases, Singapore; BioJava)
 -   Joshua Udall (BioPerl)
 -   Jonathan Warren (Sanger Institute, UK; Biojava)
--   Scooter Willis (Scripps Florida; Biojava)
+-   [Scooter Willis](mailto:willishf@ufl.edu) (Scripps Florida; Biojava)
 -   [Christian Zmasek](http://monochrome-effect.net/) (Burnham Institute
     for Medical Research; BioRuby)
 
