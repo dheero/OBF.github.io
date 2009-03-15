@@ -33,12 +33,12 @@ projects you would like to propose, etc to the developer mailing list of
 the pertinent O|B|F project.
 
 How do you know which project is pertinent and the address of its
-developer mailing list? The projects under the O|B|F umbrella are listed
-below, with home page and developer mailing lists. Each project idea
-lists the O|B|F project it is a part of; look it up in the list below
-and you have the information you need. If you want to propose your own
-project idea and the project to which you would contribute isn't
-obvious, send email to
+developer mailing list? The [projects under the O|B|F umbrella are
+listed below](#Open-Bio_projects_involved "wikilink"), with home page
+and developer mailing lists. Each project idea lists the O|B|F project
+it is a part of; look it up in the list below and you have the
+information you need. If you want to propose your own project idea and
+the project to which you would contribute isn't obvious, send email to
 [gsoc@lists.open-bio.org](mailto:gsoc%40lists%2eopen-bio%2eorg).
 
 Some of us also hang out regularly on IRC, see the list of O|B|F
