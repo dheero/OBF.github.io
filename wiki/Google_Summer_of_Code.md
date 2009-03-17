@@ -538,9 +538,7 @@ sub-projects](http://code.open-bio.org/svnweb/index.cgi/biojava/)
 
 :\*\* [Mailing lists](biopython:Mailing_lists "wikilink")
 
-:\*\* [source
-code](http://code.open-bio.org/cgi/viewcvs.cgi/biopython/?cvsroot=biopython)
-(see also [Biopython CVS documentation](biopython:CVS "wikilink")
+:\*\* [ Source Code](biopython:SourceCode "wikilink")
 
 :\*\* No IRC channel at present
 
