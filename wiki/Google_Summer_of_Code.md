@@ -50,6 +50,13 @@ timelines](#Reference_Facts_.26_Links:_Google_Summer_of_Code_2009 "wikilink").
 News
 ----
 
+-   18 Mar 2009: **We have not been accepted to participate** as
+    an organization. However, some of the projects fit into the scope of
+    the [NESCent
+    participation](http://hackathon.nescent.org/Phyloinformatics_Summer_of_Code_2009)
+    (which was accepted), so if you want to support us, please check
+    those out and apply! The more students apply the stronger the
+    organization is. *--[Lapp](User:Lapp "wikilink")*
 -   13 Mar 2009: [Application to participate as a mentoring
     organization](http://docs.google.com/Doc?id=dhs98hzv_7zn8bxqjm) submitted.
     *--[Lapp](User:Lapp "wikilink")*
