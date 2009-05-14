@@ -61,6 +61,8 @@ Confirmed speakers include:
 
 -   Jean-Stéphane Varré - Biomanycores, a repository of interoperable
     open-source code for many-cores bioinformatics (15 min.)
+-   Josh Buckner - Enabling GPU Computing in the R Statistical
+    Environment (15 min.)
 -   Oswaldo Trelles - Qnorm: A library of parallel methods for
     gene-expression Q-normalization (5 min. Lightning Talk)
 
