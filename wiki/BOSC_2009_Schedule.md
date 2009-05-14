@@ -77,6 +77,8 @@ Visualization
 
 Confirmed speakers include:
 
+-   Allan Kuchinsky - Cytoscape Springs Forward: Re-architecture for
+    Version 3.0 (15 min.)
 -   Bernat Gel - DASGenExp: an interactive web-based DAS client with
     client-side rendering (10 min.)
 
