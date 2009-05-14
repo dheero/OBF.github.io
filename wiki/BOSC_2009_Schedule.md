@@ -117,6 +117,8 @@ Confirmed speakers include:
 -   Peter Rice - EMBOSS: European Molecular Biology Open Software Suite
     (10 min.)
 -   Peter Cock - Biopython Project Update (10 min.)
+-   Andreas Prlic - BioJava 2009: an Open-Source Framework for
+    Bioinformatics (10 min.)
 -   Steffen Möller - Debian adopts and disseminates Bioinformatics Open
     Source Software (5 min. Lightning Talk)
 
