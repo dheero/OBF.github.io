@@ -110,6 +110,8 @@ Confirmed speakers include:
     BioPython, BioRuby, R/Bioconductor and BioJAVA (15 min.)
 -   Peter Rice - EMBOSS: European Molecular Biology Open Software Suite
     (10 min.)
+-   Steffen Möller - Debian adopts and disseminates Bioinformatics Open
+    Source Software (5 min. Lightning Talk)
 
 Regulatory Genomics
 -------------------
