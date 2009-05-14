@@ -70,7 +70,7 @@ Data & Analysis Management (shared session with D&AM SIG)
 Confirmed speakers include:
 
 -   Kam Dahlquist - XMLPipeDB: A Reusable, Open Source Tool Chain for
-    Building Relational Databases from XML Sources
+    Building Relational Databases from XML Sources (10 min.)
 
 Bio\* Update
 ------------
