@@ -105,5 +105,7 @@ Confirmed speakers include:
 Regulatory Genomics
 -------------------
 
+-   Sophie Schbath - R'MES (15 min.)
+
 Design Patterns Panel Discussion
 --------------------------------
