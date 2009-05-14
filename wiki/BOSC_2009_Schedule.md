@@ -136,6 +136,9 @@ Regulatory Genomics
     categorisation with NestedMICA (10 min.)
 -   Bartek Wilczynski - BNfinder: free software for effective Bayesian
     Network inference (15 min.)
+-   Lonnie Welch - Open Source Implementation of Batch-Extraction for
+    Coding and Non-coding Sequences/An Open Source Framework for
+    Bioinformatics Word Enumeration and Scoring (10 min.)
 
 Design Patterns Panel Discussion
 --------------------------------
