@@ -57,6 +57,11 @@ Computer Science from Northwestern University in Evanston, Illinois.
 Multicore & GPGPU Computing
 ---------------------------
 
+Confirmed speakers include:
+
+-   Jean-Stéphane Varré - Biomanycores, a repository of interoperable
+    open-source code for many-cores bioinformatics (15 min.)
+
 Computational Grids
 -------------------
 
