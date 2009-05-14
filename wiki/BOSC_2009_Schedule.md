@@ -60,6 +60,11 @@ Multicore & GPGPU Computing
 Computational Grids
 -------------------
 
+Confirmed speakers include:
+
+-   Joel Hedlund - The Nordic BioGrid project -- Bioinformatics for the
+    grid (5 min. Lightning Talk)
+
 Visualization
 -------------
 
