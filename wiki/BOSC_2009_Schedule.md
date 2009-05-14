@@ -66,6 +66,11 @@ Visualization
 Open Source Software
 --------------------
 
+Confirmed speakers include:
+
+-   Kazuharu Arakawa - Web Service Interface for G-language Genome
+    Analysis Environment (10 min)
+
 Data & Analysis Management (shared session with D&AM SIG)
 ---------------------------------------------------------
 
