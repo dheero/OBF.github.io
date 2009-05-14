@@ -68,6 +68,11 @@ Confirmed speakers include:
 Visualization
 -------------
 
+Confirmed speakers include:
+
+-   Bernat Gel - DASGenExp: an interactive web-based DAS client with
+    client-side rendering (10 min.)
+
 Open Source Software
 --------------------
 
