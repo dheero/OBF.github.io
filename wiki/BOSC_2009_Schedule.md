@@ -121,6 +121,8 @@ Regulatory Genomics
 -   Sophie Schbath - R'MES (15 min.)
 -   Matias Piipari - Large-scale gene regulatory motif discovery and
     categorisation with NestedMICA (10 min.)
+-   Bartek Wilczynski - BNfinder: free software for effective Bayesian
+    Network inference (15 min.)
 
 Design Patterns Panel Discussion
 --------------------------------
