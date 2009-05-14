@@ -101,6 +101,8 @@ Confirmed speakers include:
     Bioinformatics Programs (10 min.)
 -   Pjotr Prins - BioLib: Sharing high performance code between BioPerl,
     BioPython, BioRuby, R/Bioconductor and BioJAVA (15 min.)
+-   Peter Rice - EMBOSS: European Molecular Biology Open Software Suite
+    (10 min.)
 
 Regulatory Genomics
 -------------------
