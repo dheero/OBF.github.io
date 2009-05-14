@@ -104,6 +104,8 @@ Confirmed speakers include:
     Building Relational Databases from XML Sources (10 min.)
 -   Morris Swertz - MOLGENIS by example: generating an extensible
     platform for genotype and phenotype experiments (15 min.)
+-   Mark Welsh - BioHDF: Open binary file formats for large-scale data
+    management – Project Update (15 min.)
 -   Brad Chapman - Lowering barriers to publishing biological data on
     the web (10 min.)
 
