@@ -142,3 +142,9 @@ Regulatory Genomics
 
 Design Patterns Panel Discussion
 --------------------------------
+
+Confirmed speakers for the Panel include:
+
+-   Lonnie Welch - The WORDIFIER Pattern for Functional and Regulatory
+    Genomics (5 min.)
+
