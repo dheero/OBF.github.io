@@ -106,6 +106,8 @@ Regulatory Genomics
 -------------------
 
 -   Sophie Schbath - R'MES (15 min.)
+-   Matias Piipari - Large-scale gene regulatory motif discovery and
+    categorisation with NestedMICA (10 min.)
 
 Design Patterns Panel Discussion
 --------------------------------
