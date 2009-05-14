@@ -123,6 +123,8 @@ Confirmed speakers include:
 -   Peter Cock - Biopython Project Update (10 min.)
 -   Andreas Prlic - BioJava 2009: an Open-Source Framework for
     Bioinformatics (10 min.)
+-   Jim Procter - Application of VAMSAS enabled tools for the
+    investigation of protein evolution (10 min.)
 -   Steffen Möller - Debian adopts and disseminates Bioinformatics Open
     Source Software (5 min. Lightning Talk)
 
