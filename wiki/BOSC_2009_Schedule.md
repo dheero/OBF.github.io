@@ -70,6 +70,11 @@ Data & Analysis Management (shared session with D&AM SIG)
 Bio\* Update
 ------------
 
+Confirmed speakers include:
+
+-   Martin Senger - Soaplab: Open Source Web Services Framework for
+    Bioinformatics Programs (10 min.)
+
 Regulatory Genomics
 -------------------
 
