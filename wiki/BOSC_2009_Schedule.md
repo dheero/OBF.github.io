@@ -134,6 +134,8 @@ Confirmed speakers include:
 Regulatory Genomics
 -------------------
 
+-   Finn Drablos - Computational discovery of composite motifs in DNA
+    (15 min.)
 -   Sophie Schbath - R'MES (15 min.)
 -   Matias Piipari - Large-scale gene regulatory motif discovery and
     categorisation with NestedMICA (10 min.)
