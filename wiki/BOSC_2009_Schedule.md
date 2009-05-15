@@ -71,6 +71,7 @@ Computational Grids
 
 Confirmed speakers include:
 
+-   Ann-Kristin Grimm - Grid-based expression QTL analysis (10 min.)
 -   Joel Hedlund - The Nordic BioGrid project -- Bioinformatics for the
     grid (5 min. Lightning Talk)
 
