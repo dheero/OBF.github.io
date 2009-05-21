@@ -88,6 +88,8 @@ Confirmed speakers include:
     Version 3.0 (15 min.)
 -   Bernat Gel - DASGenExp: an interactive web-based DAS client with
     client-side rendering (10 min.)
+-   Frederik Decouttere - Bioinformatics simplified with seqpad
+    (10 min.)
 
 Open Source Software
 --------------------
