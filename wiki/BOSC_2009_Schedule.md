@@ -158,4 +158,6 @@ Confirmed speakers for the Panel include:
 
 -   Lonnie Welch - The WORDIFIER Pattern for Functional and Regulatory
     Genomics (5 min.)
+-   Aleksi Kallio - Robust architectural patterns for bioinformatics:
+    experiences with Chipster (5 min.)
 
