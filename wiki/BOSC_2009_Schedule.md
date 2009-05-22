@@ -101,6 +101,8 @@ Confirmed speakers include:
 -   Sylvain Brohée - Best of both worlds : combining the
     user-friendliness of Wikis and the rigor of biological databases
     (10 min.)
+-   Quinn Snell - PSODA: Open Source Phylogenetic Search and DNA
+    Analysis (15 min.)
 
 Data & Analysis Management (shared session with D&AM SIG)
 ---------------------------------------------------------
