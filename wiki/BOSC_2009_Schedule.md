@@ -154,6 +154,8 @@ Regulatory Genomics
 -   Lonnie Welch - Open Source Implementation of Batch-Extraction for
     Coding and Non-coding Sequences/An Open Source Framework for
     Bioinformatics Word Enumeration and Scoring (10 min.)
+-   François Fauteux - SEEDER: PERL MODULES FOR CIS-REGULATORY MOTIF
+    DISCOVERY (10 min.)
 
 Design Patterns Panel Discussion
 --------------------------------
