@@ -120,20 +120,24 @@ Click on the title to view the abstract.
 Data & Analysis Management (shared session with D&AM SIG)
 ---------------------------------------------------------
 
-Confirmed speakers include:
+Click on the title to view the abstract.
 
--   Morris Swertz - MOLGENIS by example: generating an extensible
-    platform for genotype and phenotype experiments (15 min.)
--   Mark Welsh - BioHDF: Open binary file formats for large-scale data
-    management – Project Update (15 min.)
--   Robert Murphy - PSLID, the Protein Subcellular Location Image
+-   Morris Swertz - [ MOLGENIS by example: generating an extensible
+    platform for genotype and phenotype
+    experiments](Media:Bosc2009_submission_27.pdf "wikilink") (15 min.)
+-   Mark Welsh - [ BioHDF: Open binary file formats for large-scale data
+    management – Project
+    Update](Media:Bosc2009_submission_10.pdf "wikilink") (15 min.)
+-   Robert Murphy - [ PSLID, the Protein Subcellular Location Image
     Database: Subcellular location assignments, annotated image
     collections, image analysis tools, and generative models of protein
-    distributions (15 min.)
--   Kam Dahlquist - XMLPipeDB: A Reusable, Open Source Tool Chain for
-    Building Relational Databases from XML Sources (10 min.)
--   Brad Chapman - Lowering barriers to publishing biological data on
-    the web (10 min.)
+    distributions](Media:Bosc2009_submission_34.pdf "wikilink")
+    (15 min.)
+-   Kam Dahlquist - [ XMLPipeDB: A Reusable, Open Source Tool Chain for
+    Building Relational Databases from XML
+    Sources](Media:Bosc2009_submission_35.pdf "wikilink") (10 min.)
+-   Brad Chapman - [ Lowering barriers to publishing biological data on
+    the web](Media:Bosc2009_submission_14.pdf "wikilink") (10 min.)
 
 Bio\* Update
 ------------
