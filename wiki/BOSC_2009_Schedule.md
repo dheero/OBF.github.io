@@ -60,7 +60,7 @@ Design".
 Multicore & GPGPU Computing
 ---------------------------
 
-Confirmed speakers include:
+Click on the title to view the abstract.
 
 -   Jean-Stéphane Varré - [ Biomanycores, a repository of interoperable
     open-source code for many-cores
