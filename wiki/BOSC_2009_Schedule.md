@@ -79,13 +79,16 @@ Click on the title to view the abstract.
 Computational Grids
 -------------------
 
-Confirmed speakers include:
+Click on the title to view the abstract.
 
--   Hajo N. Krabbenhöft - Taverna workflows across Grids, web services
-    and the command line
--   Ann-Kristin Grimm - Grid-based expression QTL analysis (10 min.)
--   Joel Hedlund - The Nordic BioGrid project -- Bioinformatics for the
-    grid (5 min. Lightning Talk)
+-   Hajo N. Krabbenhöft - [ Taverna workflows across Grids, web services
+    and the command line](Media:Bosc2009_submission_31.pdf "wikilink")
+    (15 min.)
+-   Ann-Kristin Grimm - [ Grid-based expression QTL
+    analysis](Media:Bosc2009_submission_12.pdf "wikilink") (10 min.)
+-   Joel Hedlund - [ The Nordic BioGrid project -- Bioinformatics for
+    the grid](Media:Bosc2009_submission_28.pdf "wikilink") (5 min.
+    Lightning Talk)
 
 Visualization
 -------------
