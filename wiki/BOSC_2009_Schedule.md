@@ -66,12 +66,15 @@ Click on the title to view the abstract.
     open-source code for many-cores
     bioinformatics](Media:Bosc2009_submission_22.pdf "wikilink")
     (15 min.)
--   Josh Buckner - Enabling GPU Computing in the R Statistical
-    Environment (15 min.)
--   Mikhail Fursov - UGENE – A practical approach for complex
-    computational analysis in molecular biology (10 min.)
--   Oswaldo Trelles - Qnorm: A library of parallel methods for
-    gene-expression Q-normalization (5 min. Lightning Talk)
+-   Josh Buckner - [ Enabling GPU Computing in the R Statistical
+    Environment](Media:Bosc2009_submission_32.pdf "wikilink") (15 min.)
+-   Mikhail Fursov - [ UGENE – A practical approach for complex
+    computational analysis in molecular
+    biology](Media:Bosc2009_submission_18.pdf "wikilink") (10 min.)
+-   Oswaldo Trelles - [ Qnorm: A library of parallel methods for
+    gene-expression
+    Q-normalization](Media:Bosc2009_submission_11.pdf "wikilink")
+    (5 min. Lightning Talk)
 
 Computational Grids
 -------------------
