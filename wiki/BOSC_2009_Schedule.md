@@ -167,6 +167,8 @@ Click on the title to view the abstract.
 Regulatory Genomics
 -------------------
 
+Click on the title to view the abstract.
+
 -   Finn Drablos - [ Computational discovery of composite motifs in
     DNA](Media:Bosc2009_submission_6.pdf "wikilink") (15 min.)
 -   Sophie Schbath - [
