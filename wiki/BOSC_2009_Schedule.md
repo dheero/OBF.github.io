@@ -167,18 +167,22 @@ Click on the title to view the abstract.
 Regulatory Genomics
 -------------------
 
--   Finn Drablos - Computational discovery of composite motifs in DNA
+-   Finn Drablos - [ Computational discovery of composite motifs in
+    DNA](Media:Bosc2009_submission_6.pdf "wikilink") (15 min.)
+-   Sophie Schbath - [
+    R'MES](Media:Bosc2009_submission_38.pdf "wikilink") (15 min.)
+-   Matias Piipari - [ Large-scale gene regulatory motif discovery and
+    categorisation with
+    NestedMICA](Media:Bosc2009_submission_24.pdf "wikilink") (10 min.)
+-   Bartek Wilczynski - [ BNfinder: free software for effective Bayesian
+    Network inference](Media:Bosc2009_submission_29.pdf "wikilink")
     (15 min.)
--   Sophie Schbath - R'MES (15 min.)
--   Matias Piipari - Large-scale gene regulatory motif discovery and
-    categorisation with NestedMICA (10 min.)
--   Bartek Wilczynski - BNfinder: free software for effective Bayesian
-    Network inference (15 min.)
--   Lonnie Welch - Open Source Implementation of Batch-Extraction for
+-   Lonnie Welch - [ Open Source Implementation of Batch-Extraction for
     Coding and Non-coding Sequences/An Open Source Framework for
-    Bioinformatics Word Enumeration and Scoring (10 min.)
--   François Fauteux - SEEDER: PERL MODULES FOR CIS-REGULATORY MOTIF
-    DISCOVERY (10 min.)
+    Bioinformatics Word Enumeration and
+    Scoring](Media:Bosc2009_submission_7_21.pdf "wikilink") (10 min.)
+-   François Fauteux - [ SEEDER: PERL MODULES FOR CIS-REGULATORY MOTIF
+    DISCOVERY](Media:Bosc2009_submission_40.pdf "wikilink") (10 min.)
 
 Design Patterns Panel Discussion
 --------------------------------
