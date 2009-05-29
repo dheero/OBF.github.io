@@ -95,11 +95,12 @@ Visualization
 
 Confirmed speakers include:
 
--   Allan Kuchinsky - Cytoscape Springs Forward: Re-architecture for
-    Version 3.0 (15 min.)
--   Bernat Gel - DASGenExp: an interactive web-based DAS client with
-    client-side rendering (10 min.)
--   Frederik Decouttere - Bioinformatics simplified with seqpad
+-   Allan Kuchinsky - [ Cytoscape Springs Forward: Re-architecture for
+    Version 3.0](Media:Bosc2009_submission_23.pdf "wikilink") (15 min.)
+-   Frederik Decouttere - [ Bioinformatics simplified with
+    seqpad](Media:Bosc2009_submission_8.pdf "wikilink") (10 min.)
+-   Bernat Gel - [ DASGenExp: an interactive web-based DAS client with
+    client-side rendering](Media:Bosc2009_submission_26.pdf "wikilink")
     (10 min.)
 
 Open Source Software
