@@ -189,11 +189,12 @@ Click on the title to view the abstract.
 Design Patterns Panel Discussion
 --------------------------------
 
-Confirmed speakers for the Panel include:
+Click on the title to view the abstract.
 
 -   Robert Hanmer - Moderator
--   Lonnie Welch - The WORDIFIER Pattern for Functional and Regulatory
-    Genomics (5 min.)
--   Aleksi Kallio - Robust architectural patterns for bioinformatics:
-    experiences with Chipster (5 min.)
+-   Lonnie Welch - [ The WORDIFIER Pattern for Functional and Regulatory
+    Genomics](Media:Bosc2009_submission_9.pdf "wikilink") (5 min.)
+-   Aleksi Kallio - [ Robust architectural patterns for bioinformatics:
+    experiences with
+    Chipster](Media:Bosc2009_submission_17.pdf "wikilink") (5 min.)
 
