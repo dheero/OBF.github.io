@@ -93,7 +93,7 @@ Click on the title to view the abstract.
 Visualization
 -------------
 
-Confirmed speakers include:
+Click on the title to view the abstract.
 
 -   Allan Kuchinsky - [ Cytoscape Springs Forward: Re-architecture for
     Version 3.0](Media:Bosc2009_submission_23.pdf "wikilink") (15 min.)
