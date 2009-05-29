@@ -62,8 +62,10 @@ Multicore & GPGPU Computing
 
 Confirmed speakers include:
 
--   Jean-Stéphane Varré - Biomanycores, a repository of interoperable
-    open-source code for many-cores bioinformatics (15 min.)
+-   Jean-Stéphane Varré - [ Biomanycores, a repository of interoperable
+    open-source code for many-cores
+    bioinformatics](Media:Bosc2009_submission_22.pdf "wikilink")
+    (15 min.)
 -   Josh Buckner - Enabling GPU Computing in the R Statistical
     Environment (15 min.)
 -   Mikhail Fursov - UGENE – A practical approach for complex
