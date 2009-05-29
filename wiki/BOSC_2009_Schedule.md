@@ -54,6 +54,9 @@ Computer Society, a Senior Member of the ACM and current President of
 sponsors the PLoP conference. He received his B.S. and M.S. degrees in
 Computer Science from Northwestern University in Evanston, Illinois.
 
+His talk at BOSC will be entitled "Software Patterns for Reusable
+Design".
+
 Multicore & GPGPU Computing
 ---------------------------
 
