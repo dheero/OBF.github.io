@@ -165,6 +165,7 @@ Design Patterns Panel Discussion
 
 Confirmed speakers for the Panel include:
 
+-   Robert Hanmer - Moderator
 -   Lonnie Welch - The WORDIFIER Pattern for Functional and Regulatory
     Genomics (5 min.)
 -   Aleksi Kallio - Robust architectural patterns for bioinformatics:
