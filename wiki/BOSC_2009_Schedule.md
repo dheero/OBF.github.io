@@ -189,12 +189,12 @@ Click on the title to view the abstract.
 Design Patterns Panel Discussion
 --------------------------------
 
-Click on the title to view the abstract.
+**On the Applicability of Design Patterns for the Bioinformatics Open
+Source Community**
+
+Click on the author's name to view the abstract submitted for the panel.
 
 -   Robert Hanmer - Moderator
--   Lonnie Welch - [ The WORDIFIER Pattern for Functional and Regulatory
-    Genomics](Media:Bosc2009_submission_9.pdf "wikilink") (5 min.)
--   Aleksi Kallio - [ Robust architectural patterns for bioinformatics:
-    experiences with
-    Chipster](Media:Bosc2009_submission_17.pdf "wikilink") (5 min.)
+-   [ Lonnie Welch](Media:Bosc2009_submission_9.pdf "wikilink")
+-   [ Aleksi Kallio](Media:Bosc2009_submission_17.pdf "wikilink")
 
