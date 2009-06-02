@@ -200,3 +200,12 @@ Click on the author's name to view the abstract submitted for the panel.
 
 Schedule
 --------
+
+### Day 1
+
+| Time         | Speaker         | Title                                 |
+|--------------|-----------------|---------------------------------------|
+| 9:00-9:15am  | Kam Dahlquist   | \[Welcome\]                           |
+| 9:15-10:15am | Alan Ruttenberg | \[Keynote\] Semantic Web Technologies |
+
+
