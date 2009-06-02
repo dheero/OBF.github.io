@@ -231,4 +231,12 @@ Schedule
 | 5:30-6:00       |                     | Lightning Talks and Birds of a Feather                                                                                                                                                                                     |
 | 7:00            |                     | O|B|F Board Meeting and No-host Dinner (location TBA)                                                                                                                                                                      |
 
+### Day 2
+
+| Time            | Speaker          | Title                                             |
+|-----------------|------------------|---------------------------------------------------|
+| 9:00-9:15am     | Kam Dahlquist    | \[Announcements\]                                 |
+| 9:15-10:15      | Robert Hanmer    | \[Keynote\] Software Patterns for Reusable Design |
+| **10:15-10:45** | **Coffee Break** |
+
 
