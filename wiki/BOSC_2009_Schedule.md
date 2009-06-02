@@ -201,9 +201,7 @@ Click on the author's name to view the abstract submitted for the panel.
 Schedule
 --------
 
-### Day 1
-
-| Time            | Speaker             | Title                                                                                                                                                                                                                      |
+| Day 1           | Speaker             | Title                                                                                                                                                                                                                      |
 |-----------------|---------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | 9:00-9:15am     | Kam Dahlquist       | \[Welcome\]                                                                                                                                                                                                                |
 | 9:15-10:15      | Alan Ruttenberg     | \[Keynote\] Semantic Web Technologies                                                                                                                                                                                      |
@@ -230,13 +228,9 @@ Schedule
 | 5:15-5:30       | Kam Dahlquist       | \[Data & Analysis Management\] XMLPipeDB: A Reusable, Open Source Tool Chain for Building Relational Databases from XML Sources                                                                                            |
 | 5:30-6:00       |                     | Lightning Talks and Birds of a Feather                                                                                                                                                                                     |
 | 7:00            |                     | O|B|F Board Meeting and No-host Dinner (location TBA)                                                                                                                                                                      |
-
-### Day 2
-
-| Time            | Speaker          | Title                                             |
-|-----------------|------------------|---------------------------------------------------|
-| 9:00-9:15am     | Kam Dahlquist    | \[Announcements\]                                 |
-| 9:15-10:15      | Robert Hanmer    | \[Keynote\] Software Patterns for Reusable Design |
-| **10:15-10:45** | **Coffee Break** |
+| **Day 2**       |                     |                                                                                                                                                                                                                            |
+| 9:00-9:15am     | Kam Dahlquist       | \[Announcements\]                                                                                                                                                                                                          |
+| 9:15-10:15      | Robert Hanmer       | \[Keynote\] Software Patterns for Reusable Design                                                                                                                                                                          |
+| **10:15-10:45** | **Coffee Break**    |
 
 
