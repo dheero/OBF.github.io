@@ -57,39 +57,6 @@ Computer Science from Northwestern University in Evanston, Illinois.
 His talk at BOSC will be entitled "Software Patterns for Reusable
 Design".
 
-Multicore & GPGPU Computing
----------------------------
-
-Click on the title to view the abstract.
-
--   Jean-Stéphane Varré - [ Biomanycores, a repository of interoperable
-    open-source code for many-cores
-    bioinformatics](Media:Bosc2009_submission_22.pdf "wikilink")
-    (15 min.)
--   Josh Buckner - [ Enabling GPU Computing in the R Statistical
-    Environment](Media:Bosc2009_submission_32.pdf "wikilink") (15 min.)
--   Mikhail Fursov - [ UGENE – A practical approach for complex
-    computational analysis in molecular
-    biology](Media:Bosc2009_submission_18.pdf "wikilink") (10 min.)
--   Oswaldo Trelles - [ Qnorm: A library of parallel methods for
-    gene-expression
-    Q-normalization](Media:Bosc2009_submission_11.pdf "wikilink")
-    (5 min. Lightning Talk)
-
-Computational Grids
--------------------
-
-Click on the title to view the abstract.
-
--   Hajo N. Krabbenhöft - [ Taverna workflows across Grids, web services
-    and the command line](Media:Bosc2009_submission_31.pdf "wikilink")
-    (15 min.)
--   Ann-Kristin Grimm - [ Grid-based expression QTL
-    analysis](Media:Bosc2009_submission_12.pdf "wikilink") (10 min.)
--   Joel Hedlund - [ The Nordic BioGrid project -- Bioinformatics for
-    the grid](Media:Bosc2009_submission_28.pdf "wikilink") (5 min.
-    Lightning Talk)
-
 Visualization
 -------------
 
@@ -210,9 +177,9 @@ Schedule
 | 11:25-11:40     | Josh Buckner                                                                | \[Multicore & GPGPU Computing\] [ Enabling GPU Computing in the R Statistical Environment](Media:Bosc2009_submission_32.pdf "wikilink")                                                                                    |
 | 11:25-11:40     | Mikhail Fursov                                                              | \[Multicore & GPGPU Computing\] [ UGENE – A practical approach for complex computational analysis in molecular biology](Media:Bosc2009_submission_18.pdf "wikilink")                                                       |
 | 11:40-11:48     | Oswaldo Trelles                                                             | \[Multicore & GPGPU Computing Lightning Talk\] [ Qnorm: A library of parallel methods for gene-expression Q-normalization](Media:Bosc2009_submission_11.pdf "wikilink")                                                    |
-| 11:48-12:08pm   | Hajo N. Krabbenhöft                                                         | \[Computational Grids\] Taverna workflows across Grids, web services and the command line                                                                                                                                  |
-| 12:08-12:23     | Ann-Kristin Grimm                                                           | \[Computational Grids\] Grid-based expression QTL analysis                                                                                                                                                                 |
-| 12:23-12:31     | Joel Hedlund                                                                | \[Computational Grids Lightning Talk\] The Nordic BioGrid project -- Bioinformatics for the grid                                                                                                                           |
+| 11:48-12:08pm   | Hajo N. Krabbenhöft                                                         | \[Computational Grids\] [ Taverna workflows across Grids, web services and the command line](Media:Bosc2009_submission_31.pdf "wikilink")                                                                                  |
+| 12:08-12:23     | Ann-Kristin Grimm                                                           | \[Computational Grids\] [ Grid-based expression QTL analysis](Media:Bosc2009_submission_12.pdf "wikilink")                                                                                                                 |
+| 12:23-12:31     | Joel Hedlund                                                                | \[Computational Grids Lightning Talk\] [ The Nordic BioGrid project -- Bioinformatics for the grid](Media:Bosc2009_submission_28.pdf "wikilink")                                                                           |
 | **12:31-2:00**  | **Lunch**                                                                   |
 | 2:00-2:20       | Allan Kuchinsky                                                             | \[Visualization\] Cytoscape Springs Forward: Re-architecture for Version 3.0                                                                                                                                               |
 | 2:20-2:33       | Frederik Decouttere                                                         | \[Visualization\] Bioinformatics simplified with seqpad                                                                                                                                                                    |
