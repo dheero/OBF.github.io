@@ -3,7 +3,8 @@ title: BOSC 2009 Schedule
 ---
 
 -   Return to [ BOSC 2009](BOSC_2009 "wikilink") main page.
--   Click on the title to view the abstract as a PDF file.
+-   Click on the talk title to view the individual abstract as a
+    PDF file.
 -   Click **[ here](Media:BOSC2009_program_20090601.pdf "wikilink")** to
     download full program in PDF format (2 MB).
 
