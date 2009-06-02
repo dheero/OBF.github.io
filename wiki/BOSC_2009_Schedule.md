@@ -57,31 +57,6 @@ Computer Science from Northwestern University in Evanston, Illinois.
 His talk at BOSC will be entitled "Software Patterns for Reusable
 Design".
 
-Bio\* Update
-------------
-
-Click on the title to view the abstract.
-
--   Martin Senger - [ Soaplab: Open Source Web Services Framework for
-    Bioinformatics
-    Programs](Media:Bosc2009_submission_13.pdf "wikilink") (10 min.)
--   Pjotr Prins - [ BioLib: Sharing high performance code between
-    BioPerl, BioPython, BioRuby, R/Bioconductor and
-    BioJAVA](Media:Bosc2009_submission_4.pdf "wikilink") (15 min.)
--   Peter Rice - [ EMBOSS: European Molecular Biology Open Software
-    Suite](Media:Bosc2009_submission_5.pdf "wikilink") (10 min.)
--   Peter Cock - [ Biopython Project
-    Update](Media:Bosc2009_submission_19.pdf "wikilink") (10 min.)
--   Andreas Prlic - [ BioJava 2009: an Open-Source Framework for
-    Bioinformatics](Media:Bosc2009_submission_15.pdf "wikilink")
-    (10 min.)
--   Jim Procter - [ Application of VAMSAS enabled tools for the
-    investigation of protein
-    evolution](Media:Bosc2009_submission_16.pdf "wikilink") (10 min.)
--   Steffen Möller - [ Debian adopts and disseminates Bioinformatics
-    Open Source Software](Media:Bosc2009_submission_30.pdf "wikilink")
-    (5 min. Lightning Talk)
-
 Regulatory Genomics
 -------------------
 
@@ -159,12 +134,12 @@ Schedule
 | 12:20-12:28     | Steffen Möller                                                              | \[OS Software Lightning Talk\] [ Debian adopts and disseminates Bioinformatics Open Source Software](Media:Bosc2009_submission_30.pdf "wikilink")                                                                                                                          |
 | **12:30-2:00**  | **Lunch**                                                                   |
 | 2:00-2:20       | Quinn Snell                                                                 | \[OS Software\] [ PSODA: Open Source Phylogenetic Search and DNA Analysis](Media:Bosc2009_submission_33.pdf "wikilink")                                                                                                                                                    |
-| 2:20-2:40       | Finn Drablos                                                                | \[Regulatory Genomics\] Computational discovery of composite motifs in DNA                                                                                                                                                                                                 |
-| 2:40-2:55       | François Fauteux                                                            | \[Regulatory Genomics\] SEEDER: PERL MODULES FOR CIS-REGULATORY MOTIF DISCOVERY                                                                                                                                                                                            |
-| 2:55-3:10       | Matias Piipari                                                              | \[Regulatory Genomics\] Large-scale gene regulatory motif discovery and categorisation with NestedMICA                                                                                                                                                                     |
-| 3:10-3:30       | Sophie Schbath                                                              | \[Regulatory Genomics\] R'MES:                                                                                                                                                                                                                                             |
+| 2:20-2:40       | Finn Drablos                                                                | \[Regulatory Genomics\] [ Computational discovery of composite motifs in DNA](Media:Bosc2009_submission_6.pdf "wikilink")                                                                                                                                                  |
+| 2:40-2:55       | François Fauteux                                                            | \[Regulatory Genomics\] [ SEEDER: PERL MODULES FOR CIS-REGULATORY MOTIF DISCOVERY](Media:Bosc2009_submission_40.pdf "wikilink")                                                                                                                                            |
+| 2:55-3:10       | Matias Piipari                                                              | \[Regulatory Genomics\] [ Large-scale gene regulatory motif discovery and categorisation with NestedMICA](Media:Bosc2009_submission_24.pdf "wikilink")                                                                                                                     |
+| 3:10-3:30       | Sophie Schbath                                                              | \[Regulatory Genomics\] [ R'MES](Media:Bosc2009_submission_38.pdf "wikilink")                                                                                                                                                                                              |
 | **3:30-4:00**   | **Coffee Break**                                                            |
-| 4:00-4:15       | Lonnie Welch                                                                | \[Regulatory Genomics\] Open Source Implementation of Batch-Extraction for Coding and Non-coding Sequences/An Open Source Framework for Bioinformatics Word Enumeration and Scoring                                                                                        |
+| 4:00-4:15       | Lonnie Welch                                                                | \[Regulatory Genomics\] [ Open Source Implementation of Batch-Extraction for Coding and Non-coding Sequences/An Open Source Framework for Bioinformatics Word Enumeration and Scoring](Media:Bosc2009_submission_7_21.pdf "wikilink")                                      |
 | 4:15-4:50       | Robert Hanmer (moderator), Lonnie Welch, Aleksi Kallio, other panelists TBA | \[Panel Discussion\] On the Applicability of Design Patterns for the Bioinformatics Open Source Community                                                                                                                                                                  |
 | 4:50-5:30       | Lightning Talks and Birds of a Feather                                      |
 
