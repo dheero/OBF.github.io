@@ -198,3 +198,5 @@ Click on the author's name to view the abstract submitted for the panel.
 -   [ Lonnie Welch](Media:Bosc2009_submission_9.pdf "wikilink")
 -   [ Aleksi Kallio](Media:Bosc2009_submission_17.pdf "wikilink")
 
+Schedule
+--------
