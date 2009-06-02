@@ -57,19 +57,6 @@ Computer Science from Northwestern University in Evanston, Illinois.
 His talk at BOSC will be entitled "Software Patterns for Reusable
 Design".
 
-Visualization
--------------
-
-Click on the title to view the abstract.
-
--   Allan Kuchinsky - [ Cytoscape Springs Forward: Re-architecture for
-    Version 3.0](Media:Bosc2009_submission_23.pdf "wikilink") (15 min.)
--   Frederik Decouttere - [ Bioinformatics simplified with
-    seqpad](Media:Bosc2009_submission_8.pdf "wikilink") (10 min.)
--   Bernat Gel - [ DASGenExp: an interactive web-based DAS client with
-    client-side rendering](Media:Bosc2009_submission_26.pdf "wikilink")
-    (10 min.)
-
 Open Source Software
 --------------------
 
@@ -181,9 +168,9 @@ Schedule
 | 12:08-12:23     | Ann-Kristin Grimm                                                           | \[Computational Grids\] [ Grid-based expression QTL analysis](Media:Bosc2009_submission_12.pdf "wikilink")                                                                                                                 |
 | 12:23-12:31     | Joel Hedlund                                                                | \[Computational Grids Lightning Talk\] [ The Nordic BioGrid project -- Bioinformatics for the grid](Media:Bosc2009_submission_28.pdf "wikilink")                                                                           |
 | **12:31-2:00**  | **Lunch**                                                                   |
-| 2:00-2:20       | Allan Kuchinsky                                                             | \[Visualization\] Cytoscape Springs Forward: Re-architecture for Version 3.0                                                                                                                                               |
-| 2:20-2:33       | Frederik Decouttere                                                         | \[Visualization\] Bioinformatics simplified with seqpad                                                                                                                                                                    |
-| 2:33-2:46       | Bernat Gel                                                                  | \[Visualization\] DASGenExp: an interactive web-based DAS client with client-side rendering                                                                                                                                |
+| 2:00-2:20       | Allan Kuchinsky                                                             | \[Visualization\] [ Cytoscape Springs Forward: Re-architecture for Version 3.0](Media:Bosc2009_submission_23.pdf "wikilink")                                                                                               |
+| 2:20-2:33       | Frederik Decouttere                                                         | \[Visualization\] [ Bioinformatics simplified with seqpad](Media:Bosc2009_submission_8.pdf "wikilink")                                                                                                                     |
+| 2:33-2:46       | Bernat Gel                                                                  | \[Visualization\] [ DASGenExp: an interactive web-based DAS client with client-side rendering](Media:Bosc2009_submission_26.pdf "wikilink")                                                                                |
 | 2:46-2:59       | Kazuharu Arakawa                                                            | \[OS Software\] Web Service Interface for G-language Genome Analysis Environment                                                                                                                                           |
 | 2:59-3:12       | Sylvain Brohée                                                              | \[OS Software\] Best of both worlds : combining the user-friendliness of Wikis and the rigor of biological databases                                                                                                       |
 | 3:12-3:30       | Bartek Wilczynski                                                           | \[Regulatory Genomics\] BNfinder: free software for effective Bayesian Network inference                                                                                                                                   |
