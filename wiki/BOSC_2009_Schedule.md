@@ -203,9 +203,11 @@ Schedule
 
 ### Day 1
 
-| Time         | Speaker         | Title                                 |
-|--------------|-----------------|---------------------------------------|
-| 9:00-9:15am  | Kam Dahlquist   | \[Welcome\]                           |
-| 9:15-10:15am | Alan Ruttenberg | \[Keynote\] Semantic Web Technologies |
+| Time          | Speaker             | Title                                                                                                                      |
+|---------------|---------------------|----------------------------------------------------------------------------------------------------------------------------|
+| 9:00-9:15am   | Kam Dahlquist       | \[Welcome\]                                                                                                                |
+| 9:15-10:15am  | Alan Ruttenberg     | \[Keynote\] Semantic Web Technologies                                                                                      |
+| 10:15-10:45am | Coffee Break        |
+| 10:45-11:05am | Jean-Stéphane Varré | \[Multicore & GPGPU Computing\] Biomanycores, a repository of interoperable open-source code for many-cores bioinformatics |
 
 
