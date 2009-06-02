@@ -203,25 +203,32 @@ Schedule
 
 ### Day 1
 
-| Time          | Speaker             | Title                                                                                                                      |
-|---------------|---------------------|----------------------------------------------------------------------------------------------------------------------------|
-| 9:00-9:15am   | Kam Dahlquist       | \[Welcome\]                                                                                                                |
-| 9:15-10:15    | Alan Ruttenberg     | \[Keynote\] Semantic Web Technologies                                                                                      |
-| 10:15-10:45   | Coffee Break        |
-| 10:45-11:05   | Jean-Stéphane Varré | \[Multicore & GPGPU Computing\] Biomanycores, a repository of interoperable open-source code for many-cores bioinformatics |
-| 11:25-11:40   | Josh Buckner        | \[Multicore & GPGPU Computing\] Enabling GPU Computing in the R Statistical Environment                                    |
-| 11:25-11:40   | Mikhail Fursov      | \[Multicore & GPGPU Computing\] UGENE – A practical approach for complex computational analysis in molecular biology       |
-| 11:40-11:48   | Oswaldo Trelles     | \[Multicore & GPGPU Computing Lightning Talk\] Qnorm: A library of parallel methods for gene-expression Q-normalization    |
-| 11:48-12:08pm | Hajo N. Krabbenhöft | \[Computational Grids\] Taverna workflows across Grids, web services and the command line                                  |
-| 12:08-12:23   | Ann-Kristin Grimm   | \[Computational Grids\] Grid-based expression QTL analysis                                                                 |
-| 12:23-12:31   | Joel Hedlund        | \[Computational Grids Lightning Talk\] The Nordic BioGrid project -- Bioinformatics for the grid                           |
-| 12:31-2:00    | Lunch               |
-| 2:00-2:20     | Allan Kuchinsky     | \[Visualization\] Cytoscape Springs Forward: Re-architecture for Version 3.0                                               |
-| 2:20-2:33     | Frederik Decouttere | \[Visualization\] Bioinformatics simplified with seqpad                                                                    |
-| 2:33-2:46     | Bernat Gel          | \[Visualization\] DASGenExp: an interactive web-based DAS client with client-side rendering                                |
-| 2:46-2:59     | Kazuharu Arakawa    | \[OS Software\] Web Service Interface for G-language Genome Analysis Environment                                           |
-| 2:59-3:12     | Sylvain Brohée      | \[OS Software\] Best of both worlds : combining the user-friendliness of Wikis and the rigor of biological databases       |
-| 3:12-3:30     | Bartek Wilczynski   | \[Regulatory Genomics\] BNfinder: free software for effective Bayesian Network inference                                   |
-| 3:30-4:00     | Coffee Break        |
+| Time          | Speaker                                               | Title                                                                                                                                                                                                                      |
+|---------------|-------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 9:00-9:15am   | Kam Dahlquist                                         | \[Welcome\]                                                                                                                                                                                                                |
+| 9:15-10:15    | Alan Ruttenberg                                       | \[Keynote\] Semantic Web Technologies                                                                                                                                                                                      |
+| 10:15-10:45   | Coffee Break                                          |
+| 10:45-11:05   | Jean-Stéphane Varré                                   | \[Multicore & GPGPU Computing\] Biomanycores, a repository of interoperable open-source code for many-cores bioinformatics                                                                                                 |
+| 11:25-11:40   | Josh Buckner                                          | \[Multicore & GPGPU Computing\] Enabling GPU Computing in the R Statistical Environment                                                                                                                                    |
+| 11:25-11:40   | Mikhail Fursov                                        | \[Multicore & GPGPU Computing\] UGENE – A practical approach for complex computational analysis in molecular biology                                                                                                       |
+| 11:40-11:48   | Oswaldo Trelles                                       | \[Multicore & GPGPU Computing Lightning Talk\] Qnorm: A library of parallel methods for gene-expression Q-normalization                                                                                                    |
+| 11:48-12:08pm | Hajo N. Krabbenhöft                                   | \[Computational Grids\] Taverna workflows across Grids, web services and the command line                                                                                                                                  |
+| 12:08-12:23   | Ann-Kristin Grimm                                     | \[Computational Grids\] Grid-based expression QTL analysis                                                                                                                                                                 |
+| 12:23-12:31   | Joel Hedlund                                          | \[Computational Grids Lightning Talk\] The Nordic BioGrid project -- Bioinformatics for the grid                                                                                                                           |
+| 12:31-2:00    | Lunch                                                 |
+| 2:00-2:20     | Allan Kuchinsky                                       | \[Visualization\] Cytoscape Springs Forward: Re-architecture for Version 3.0                                                                                                                                               |
+| 2:20-2:33     | Frederik Decouttere                                   | \[Visualization\] Bioinformatics simplified with seqpad                                                                                                                                                                    |
+| 2:33-2:46     | Bernat Gel                                            | \[Visualization\] DASGenExp: an interactive web-based DAS client with client-side rendering                                                                                                                                |
+| 2:46-2:59     | Kazuharu Arakawa                                      | \[OS Software\] Web Service Interface for G-language Genome Analysis Environment                                                                                                                                           |
+| 2:59-3:12     | Sylvain Brohée                                        | \[OS Software\] Best of both worlds : combining the user-friendliness of Wikis and the rigor of biological databases                                                                                                       |
+| 3:12-3:30     | Bartek Wilczynski                                     | \[Regulatory Genomics\] BNfinder: free software for effective Bayesian Network inference                                                                                                                                   |
+| 3:30-4:00     | Coffee Break                                          |
+| 4:00-4:20     | Morris Swertz                                         | \[Data & Analysis Management\] MOLGENIS by example: generating an extensible platform for genotype and phenotype experiments                                                                                               |
+| 4:20-4:40     | Robert Murphy                                         | \[Data & Analysis Management\] PSLID, the Protein Subcellular Location Image Database: Subcellular location assignments, annotated image collections, image analysis tools, and generative models of protein distributions |
+| 4:40-5:00     | Mark Welsh                                            | \[Data & Analysis Management\] BioHDF: Open binary file formats for large-scale data management – Project Update                                                                                                           |
+| 5:00-5:15     | Brad Chapman                                          | \[Data & Analysis Management\] Lowering barriers to publishing biological data on the web                                                                                                                                  |
+| 5:15-5:30     | Kam Dahlquist                                         | \[Data & Analysis Management\] XMLPipeDB: A Reusable, Open Source Tool Chain for Building Relational Databases from XML Sources                                                                                            |
+| 5:30-6:00     | Lightning Talks and Birds of a Feather                |
+| 7:00          | O|B|F Board Meeting and No-host Dinner (location TBA) |
 
 
