@@ -15,3 +15,6 @@ Saturday BOFs (Day 1)
 
 Sunday BOFs (Day 2)
 -------------------
+
+-   Peter Cock - Biopython BOF/Hackathon
+
