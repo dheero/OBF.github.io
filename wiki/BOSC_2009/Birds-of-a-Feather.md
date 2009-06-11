@@ -12,6 +12,7 @@ Saturday BOFs (Day 1)
 ---------------------
 
 -   Mark Welsh - Applying HDF to next-gen sequence analysis
+-   Joel Hedlund - Biogrid BOF
 -   Peter Cock - Biopython BOF/Tutorial
 
 Sunday BOFs (Day 2)
