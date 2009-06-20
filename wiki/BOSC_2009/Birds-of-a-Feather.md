@@ -20,4 +20,5 @@ Sunday BOFs (Day 2)
 
 -   Peter Cock - Biopython BOF/Hackathon
 -   Pjotr Prins - BioLib BOF
+-   Andreas Prlic - BioJava user meeting
 
