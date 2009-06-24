@@ -13,12 +13,14 @@ Saturday BOFs (Day 1)
 
 -   Mark Welsh - Applying HDF to next-gen sequence analysis
 -   Joel Hedlund - Biogrid BOF
--   Peter Cock - Biopython BOF/Tutorial
+-   Peter Cock, Brad Chapman, etc - [Biopython](http://biopython.org)
+    BOF Hackathon/Tutorial
 
 Sunday BOFs (Day 2)
 -------------------
 
--   Peter Cock - Biopython BOF/Hackathon
+-   Peter Cock, Brad Chapman, etc - [Biopython](http://biopython.org)
+    BOF Tutorial/Hackathon
 -   Pjotr Prins - BioLib BOF
 -   Andreas Prlic - BioJava user meeting
 
