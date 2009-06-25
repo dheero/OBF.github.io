@@ -23,4 +23,6 @@ Sunday BOFs (Day 2)
     BOF Tutorial/Hackathon
 -   Pjotr Prins - BioLib BOF
 -   Andreas Prlic - [BioJava](http://www.biojava.org) user meeting
+-   Peter Rice - Open Bio Projects common issues (standard formats,
+    interfaces, methods, ...)
 
