@@ -72,6 +72,6 @@ Schedule
 | **3:30-4:00**   | **Coffee Break**                                                                                                                                                       |
 | 4:00-4:15       | Lonnie Welch                                                                                                                                                           | \[Regulatory Genomics\] [ Open Source Implementation of Batch-Extraction for Coding and Non-coding Sequences/An Open Source Framework for Bioinformatics Word Enumeration and Scoring](Media:Bosc2009_submission_7_21.pdf "wikilink")                                      |
 | 4:15-4:50       | Robert Hanmer (moderator), [ Lonnie Welch](Media:Bosc2009_submission_9.pdf "wikilink"), [ Aleksi Kallio](Media:Bosc2009_submission_17.pdf "wikilink") and Jim Procter. | \[Panel Discussion\] On the Applicability of Design Patterns for the Bioinformatics Open Source Community                                                                                                                                                                  |
-| 4:50-5:30       | Lightning Talks and [ Birds of a Feather](BOSC_2009/Birds-of-a-Feather "wikilink")                                                                                     |
+| 4:50-5:30       | [ Birds of a Feather](BOSC_2009/Birds-of-a-Feather "wikilink")                                                                                                         |
 
 
