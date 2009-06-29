@@ -145,7 +145,7 @@
 |-
 | 11:15-11:30
 | [http://biojava.org/wiki/Andreas_Prlic Andreas Prlic]
-| [Bio* Update] [[Media:Bosc2009_submission_15.pdf | BioJava 2009: an Open-Source Framework for Bioinformatics]] 
+| [Bio* Update] [[Media:Bosc2009_submission_15.pdf | BioJava 2009: an Open-Source Framework for Bioinformatics]] [http://www.slideshare.net/bosc/prlic-bio-java-bosc2009 ***SLIDES***]
 |- 
 | 11:30-11:45
 | Jim Procter
