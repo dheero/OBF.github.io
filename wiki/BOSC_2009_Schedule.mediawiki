@@ -43,7 +43,7 @@
 |-
 | 11:48-12:08pm
 | Hajo N. Krabbenhöft
-| [Computational Grids] [[Media:Bosc2009_submission_31.pdf | Taverna workflows across Grids, web services and the command line]]
+| [Computational Grids] [[Media:Bosc2009_submission_31.pdf | Taverna workflows across Grids, web services and the command line]] [http://www.slideshare.net/bosc/krabbenhofttavernaarcbosc2009 ***SLIDES***]
 |-
 | 12:08-12:23
 | Ann-Kristin Grimm
