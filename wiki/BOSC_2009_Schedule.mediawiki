@@ -157,7 +157,7 @@
 |-
 | 12:00-12:20
 | Pjotr Prins
-| [Bio* Update] [[Media:Bosc2009_submission_4.pdf | BioLib: Sharing high performance code between BioPerl, BioPython, BioRuby, R/Bioconductor and BioJAVA]] 
+| [Bio* Update] [[Media:Bosc2009_submission_4.pdf | BioLib: Sharing high performance code between BioPerl, BioPython, BioRuby, R/Bioconductor and BioJAVA]] [http://www.slideshare.net/bosc/prins-bio-lib-bosc-2009 ***SLIDES***]
 |-
 | 12:20-12:28
 | Steffen Möller
