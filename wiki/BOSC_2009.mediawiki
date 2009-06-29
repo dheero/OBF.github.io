@@ -4,6 +4,8 @@ BOSC 2009 will be held for 2 days in conjunction with [http://www.iscb.org/ismbe
 
 Please see [[Past BOSC conferences|past BOSC conferences]] for the previous 9 conferences.
 
+'''''Announcement: For BOSC attendees that are currently at ISMB, you can pick up a free username and password for the higher-bandwidth wireless network from the registration desk.''''' &mdash; [[User:Kdahlquist|Kdahlquist]] 10:05, 29 June 2009 (UTC)
+
 == Overview ==
 The Bioinformatics Open Source Conference (BOSC) is sponsored by the Open Bioinformatics Foundation (O|B|F), a non-profit group dedicated to promoting the practice and philosophy of Open Source software development within the biological research community. 
 
