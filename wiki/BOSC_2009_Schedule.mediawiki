@@ -49,7 +49,7 @@
 | Ann-Kristin Grimm
 
 (talk given by Steffen Moeller)
-| [Computational Grids] [[Media:Bosc2009_submission_12.pdf | Grid-based expression QTL analysis]]
+| [Computational Grids] [[Media:Bosc2009_submission_12.pdf | Grid-based expression QTL analysis]] [http://www.slideshare.net/bosc/moellergridqtlbosc2009 ***SLIDES***]
 |-
 | 12:23-12:31
 | Joel Hedlund
