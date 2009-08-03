@@ -1,1 +1,2 @@
-#REDIRECT [[Biopython]]
+
+See [http://biopython.org biopython.org] for more information on the project.
