@@ -1,6 +1,6 @@
 ---
-title: Biopython
+title: BioPython
+redirect_to: /wiki/Biopython
 ---
 
-See [biopython.org](http://biopython.org) for more information on the
-project.
+You should automatically be redirected to [Biopython](/wiki/Biopython)
