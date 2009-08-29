@@ -10,9 +10,9 @@ The board can be contacted via email at <board@open-bio.org>
 **President**
 
 :; [Jason Stajich](bp:Jason_Stajich "wikilink") :
-[BioPerl](bp:BioPerl "wikilink") core developer.
-[Postdoc](http://pmb.berkeley.edu/~taylor/people/js.html) at [University
-of California, Berkeley](http://www.berkeley.edu/).
+[BioPerl](bp:BioPerl "wikilink") core developer. [Assistant
+Professor](http://stajichlab.fungalgenomes.org) at [University of
+California, Riverside](http://www.ucr.edu/).
 
 **Treasurer**
 
