@@ -4,6 +4,7 @@ title: Past BOSC conferences
 
 Previous BOSC conferences:
 
+-   [BOSC 2009](BOSC_2009 "wikilink") Stockholm, Sweden
 -   [BOSC 2008](BOSC_2008 "wikilink") Toronto, Ontario, Canada
 -   [BOSC 2007](BOSC_2007 "wikilink") Vienna, Austria
 -   [BOSC 2006](BOSC_2006 "wikilink") Fortaleza, Brasil
