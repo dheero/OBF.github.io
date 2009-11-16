@@ -4,7 +4,6 @@ BOSC 2010 is currently in the planning stages.  It will be held for 2 days in co
 
 Please see [[Past BOSC conferences|past BOSC conferences]] for the previous 10 conferences.
 
-== Overview ==
 
 == Overview ==
 The Bioinformatics Open Source Conference (BOSC) is sponsored by the Open Bioinformatics Foundation (O|B|F), a non-profit group dedicated to promoting the practice and philosophy of Open Source software development within the biological research community. 
