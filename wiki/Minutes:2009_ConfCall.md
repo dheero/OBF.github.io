@@ -1,0 +1,39 @@
+---
+title: Minutes:2009 ConfCall
+---
+
+Minutes from the meeting
+========================
+
+Tentative Agenda
+================
+
+1.  Old business
+    -   Previous minutes
+
+2.  New business
+    -   Summary of O|B|F supported projects: projects are active(?),
+        need more support (?), have had releases(?)
+        -   BioPerl
+        -   BioJava
+        -   BioPython
+        -   BioSQL
+        -   BioMOBY
+        -   BioDAS
+        -   EMBOSS
+        -   BioRuby?
+        -   BioLib?
+    -   Treasurer's 2009 report
+    -   OBF Hardware & Sysadmin report
+    -   Domain names currently registered, upcoming expirations, newly
+        purchased names
+        -   Proposal to purchase new hardware - [2009 hardware purchase
+            proposal](2009_hardware_purchase_proposal "wikilink")
+        -   Proposal to purchase box for upstream SPAM filtering
+        -   System Administration status & coverage report (who, what,
+            issues, future)
+            -   Consider possibility of moving code mirroring to public
+                (code.google.com; etc)
+
+3.  Additional topics proposed by community
+
