@@ -38,6 +38,9 @@ Tentative Agenda
                 (code.google.com; etc)
 
 3.  BOSC 2010 - held with ISMB2010 in Boston, MA, USA
-4.  Hackathons 2010 (Tokyo hackathon in Feb 2010)
-5.  Additional topics proposed by community
+4.  Hackathons 2010 (Tokyo hackathon in Feb 2010) will involve some OBF
+    projects/developers
+5.  BoD membership and succession. Need plan to elect new BoD members
+    and rotate officers.
+6.  Additional topics proposed by community
 
