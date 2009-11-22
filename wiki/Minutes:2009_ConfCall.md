@@ -37,5 +37,7 @@ Tentative Agenda
             -   Consider possibility of moving code mirroring to public
                 (code.google.com; etc)
 
-3.  Additional topics proposed by community
+3.  BOSC 2010 - held with ISMB2010 in Boston, MA, USA
+4.  Hackathons 2010 (Tokyo hackathon in Feb 2010)
+5.  Additional topics proposed by community
 
