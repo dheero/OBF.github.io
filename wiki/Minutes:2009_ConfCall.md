@@ -10,6 +10,7 @@ Tentative Agenda
 
 1.  Old business
     -   Previous minutes
+    -   Summary of BOSC 2009 (Kam)
 
 2.  New business
     -   Summary of O|B|F supported projects: projects are active(?),
@@ -24,8 +25,8 @@ Tentative Agenda
         -   EMBOSS
         -   BioRuby?
         -   BioLib?
-    -   Treasurer's 2009 report
-    -   OBF Hardware & Sysadmin report
+    -   Treasurer's 2009 report (ChrisD)
+    -   OBF Hardware & Sysadmin report (JasonS and ChrisD)
     -   Domain names currently registered, upcoming expirations, newly
         purchased names
         -   Proposal to purchase new hardware - [2009 hardware purchase
