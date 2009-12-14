@@ -32,11 +32,17 @@ the interim.
 [BioPerl](bp:BioPerl "wikilink"). Employed by the [National Evolutionary
 Synthesis Center](http://www.nescent.org/) (NESCent).
 
-**At-large member**
+**At-large members**
 
 :; [Kam Dahlquist](User:Kdahlquist "wikilink") : Associate Professor at
 [Loyola Marymount University](http://myweb.lmu.edu/kdahlqui/), Los
 Angeles.
+
+:; <span class="plainlinks">[Nomi
+Harris](http://www.linkedin.com/in/nomiharris)</span> : Member of the
+[Berkeley Bioinformatics Open-Source
+Projects](http://www.berkeleybop.org/) group at the Lawrence Berkeley
+National Laboratory.
 
 ### Past Board Members
 
