@@ -133,7 +133,9 @@ Proposals exist to purchase two main infrastructure devices:
 
 *' Server Quotes*'
 
--   ![](Silicon_Mechanics_Quote_173894.pdf "fig:Silicon_Mechanics_Quote_173894.pdf")
+-   $5000
+    ![](Silicon_Mechanics_Quote_173894.pdf "fig:Silicon_Mechanics_Quote_173894.pdf")
+-   $1400 MailFoundry 1150 Email Filtering Appliance
 
 Deployment and upgrade plan
 ---------------------------
