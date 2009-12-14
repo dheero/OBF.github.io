@@ -59,7 +59,7 @@ via greylisting and blocklists than the previous generation of spammers
 who preferred sending large volumes of email through a smaller
 collection of hosts.
 
-Current methods of anti-spam and anti-virus include:
+**Current OBF methods of anti-spam and anti-virus include**:
 
 -   Greylisting in effect on all inbound email from unknown senders
 -   All inbound/outbound email scanned by clamAV for viral payloads
@@ -73,7 +73,7 @@ Even with the above methods in place, a huge amount of spam still gets
 through and clogs up the moderator queues of our very active mailing
 lists.
 
-Bad effects of the spam deluge:
+**Bad effects of the spam deluge:**
 
 -   Overworked volunteer list administrators
 -   Legit emails being lost or deleted in bulk moderator cleanup
@@ -83,6 +83,7 @@ Bad effects of the spam deluge:
 -   Overall our mailing list community is not as open/accessible as it
     has been in the past, due to the anti-spam defenses we've had to
     emplace
+-   Our community is not as open as it could or should be
 
 Proposed purchases
 ------------------
