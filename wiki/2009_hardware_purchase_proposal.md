@@ -5,8 +5,8 @@ title: 2009 hardware purchase proposal
 Proposal to purchase new machines for OBF
 =========================================
 
-Justification for new servers & dedicated mail scanning appliance
------------------------------------------------------------------
+Justification for total replacement of existing servers
+-------------------------------------------------------
 
 **Total Server Refresh - Move to 100% hypervisor-based virtualization**
 
@@ -35,6 +35,9 @@ Justification for new servers & dedicated mail scanning appliance
     -   Allow much greater distribution of administrative powers
     -   Consume less datacenter space
     -   Consume less datacenter electricity
+
+Justification for new Email Scanning Appliance
+----------------------------------------------
 
 **New Purchase - Mail scanning appliance**
 
