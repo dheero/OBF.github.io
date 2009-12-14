@@ -61,11 +61,13 @@ collection of hosts.
 
 Current methods of anti-spam and anti-virus include:
 
-`* Greylisting in effect on all inbound email from unknown senders`  
-`* All inbound/outbound email scanned by clamAV for viral payloads`  
-`* Email that passes the clamAV test gets routed through MIMEDefang for additional scrutiny`  
-`* Email that passes clamAV and MIMEDefang gets processed by SpamAssassin`  
-`* A high SA score causes the email to be discarded automatically`
+-   Greylisting in effect on all inbound email from unknown senders
+-   All inbound/outbound email scanned by clamAV for viral payloads
+-   Email that passes the clamAV test gets routed through MIMEDefang for
+    additional scrutiny
+-   Email that passes clamAV and MIMEDefang gets processed by
+    SpamAssassin
+-   A high SA score causes the email to be discarded automatically
 
 Even with the above methods in place, a huge amount of spam still gets
 through and clogs up the moderator queues of our very active mailing
