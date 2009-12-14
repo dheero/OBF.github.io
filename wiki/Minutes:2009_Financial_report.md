@@ -62,7 +62,6 @@ All OBF operating expenses have been donated by 3rd parties:
 
 We expect to issue a few checks shortly to cover the following:
 
--   Travel reimbursement for BOSC'2009 organizers
 -   BOSC'2010 Student Prize awards
 
 ***Please note that several items on the OBF Board Meeting Agenda relate
