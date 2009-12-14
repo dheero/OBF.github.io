@@ -93,7 +93,7 @@ hosted/outsourced email cleaning service operated by MailFoundry Inc.
 (http://www.mailfoundry.com). The hosted service charges a flat monthly
 fee per email address protected. Over the years Bioteam has consistently
 seen upwards of 90% of total email volume being spam, malware-laden or
-otherwise unwanted. Via MailFoundry scanning the 90% of "bad" email is
+otherwise unwanted. Via MailFoundry scanning, the 90% of "bad" email is
 caught and isolated before hitting the mailserver. False positives do
 exist but experience shows that they occur on the order of 3-4 times per
 year.
@@ -106,6 +106,18 @@ each mailing list has 6-7 related addresses ("-admin, "-help", etc.) our
 research has shown that we can't really make use of a hosted solution
 that charges by domain or email address in any financially reasonable
 way.
+
+Our recommended solution is to spend real money on a hardware email
+scanning appliance from www.mailfoundry.com. For the cost of the
+appliance and the annual update fees we gain the ability to protect an
+**unlimited number of email addresses and domains**. This alone will be
+a huge win for the OBF and if it works really well we may be able to
+open our lists to ad-hoc messages from the general public again. This
+also could allow us to offer more individual email services to OBF
+projects and volunteers.
+
+The commercial solution is expected to cost $1,200 - $1,400 USD
+depending on support options selected.
 
 Proposed purchases
 ------------------
