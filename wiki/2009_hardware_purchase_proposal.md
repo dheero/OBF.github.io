@@ -47,6 +47,10 @@ Proposed purchases
     SVN, GIT(?)
 -   *Chris to insert price quote(s) and specs here*
 
+*' Server Quote*'
+
+-   ![](:Silicon_Mechanics_Quote_173894.pdf "fig::Silicon_Mechanics_Quote_173894.pdf")
+
 Deployment and upgrade plan
 ---------------------------
 
