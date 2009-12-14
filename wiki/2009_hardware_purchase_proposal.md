@@ -41,13 +41,16 @@ Justification for new servers & dedicated mail scanning appliance
 Proposed purchases
 ------------------
 
--   A new machine to replace Portal which would be Xen enabled and
-    virtually support mailing lists, web wiki.
--   A new machine to replace dev which would be Xen enabled? and support
-    SVN, GIT(?)
--   *Chris to insert price quote(s) and specs here*
+Proposals exist to purchase two main infrastructure devices:
 
-*' Server Quote*'
+-   A pair of quad-core Intel Nehalem server systems with 24GB RAM &
+    remote management capability (including KVM) all packaged into a
+    single "1U twin server" space and power-efficient package. For an
+    example of this type of system see this URL
+    <http://www.siliconmechanics.com/c1159/1u-twin-servers.php>
+-   A dedicated email scanning appliance from <http://mailfoundry.com/>
+
+*' Server Quotes*'
 
 -   ![](Silicon_Mechanics_Quote_173894.pdf "fig:Silicon_Mechanics_Quote_173894.pdf")
 
