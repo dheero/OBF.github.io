@@ -34,7 +34,7 @@ Synthesis Center](http://www.nescent.org/) (NESCent).
 
 **At-large member**
 
-:; [Kam Dahlquist](User:Kdahlquist "wikilink") : Assistant Professor at
+:; [Kam Dahlquist](User:Kdahlquist "wikilink") : Associate Professor at
 [Loyola Marymount University](http://myweb.lmu.edu/kdahlqui/), Los
 Angeles.
 
