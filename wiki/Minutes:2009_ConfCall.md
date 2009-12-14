@@ -10,8 +10,7 @@ Tentative Agenda
 
 1.  Old business
 
--   Previous minutes [Minutes:2008 BOSC
-    Meeting](Minutes:2008_BOSC_Meeting "wikilink")
+-   [ 2008 BoD minutes](Minutes:2008_BOSC_Meeting "wikilink")
 
 <li>
 New business
@@ -32,8 +31,7 @@ New business
 Treasurer's 2009 report (ChrisD)
 
 </li>
--   (Chris will link report) [Minutes:2009 Financial
-    report](Minutes:2009_Financial_report "wikilink")
+-   [ 2009 Financial report](Minutes:2009_Financial_report "wikilink")
 
 <li>
 BoD membership and succession.
