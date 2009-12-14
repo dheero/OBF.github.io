@@ -18,24 +18,16 @@ New business
 
 </li>
 1.  BOSC
+    -   BOSC 2009 (Kam)
 
--   BOSC 2009 (Kam)
+    <!-- -->
 
-<!-- -->
+    -   Money spent/made attendee number, any other feedback
 
--   Money spent/made attendee number, any other feedback
+2.  BOSC 2010 - held with ISMB2010 in Boston, MA, USA
 
-<li>
-BOSC 2010 - held with ISMB2010 in Boston, MA, USA
-
-</li>
 </ul>
-<li>
-BoD membership and succession.
-
--   Nomination of Nomi Harris for election to the BoD
--   Need plan to elect new BoD members and rotate officers.
-
+</li>
 <li>
 Treasurer's 2009 report (ChrisD)
 
@@ -44,9 +36,15 @@ Treasurer's 2009 report (ChrisD)
     report](Minutes:2009_Financial_report "wikilink")
 
 <li>
+BoD membership and succession.
+
+-   Nomination of Nomi Harris for election to the BoD
+-   Need plan to elect new BoD members and rotate officers.
+
+</li>
+<li>
 OBF Hardware & Sysadmin report (JasonS and ChrisD)
 
-<li>
 -   Domain names currently registered, upcoming expirations, newly
     purchased names
 -   Proposal to purchase new hardware - [2009 hardware purchase
@@ -57,6 +55,7 @@ OBF Hardware & Sysadmin report (JasonS and ChrisD)
 -   Consider possibility of moving code mirroring to public
     (code.google.com; etc) mailling lists to googlegroups?
 
+</li>
 <li>
 Hackathons 2010 (Tokyo hackathon in Feb 2010) will involve some OBF
 projects/developers
