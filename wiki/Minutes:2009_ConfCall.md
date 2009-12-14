@@ -10,7 +10,7 @@ Tentative Agenda
 
 1.  Old business
 
--   [ 2008 BoD meeting minutes](Minutes:2008_BOSC_Meeting "wikilink")
+-   [ 2008 BoD meeting minutes](Minutes:2008_ConfCall "wikilink")
 
 <li>
 New business
