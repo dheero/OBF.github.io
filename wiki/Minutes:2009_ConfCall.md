@@ -31,10 +31,11 @@ BOSC 2010 - held with ISMB2010 in Boston, MA, USA
 </li>
 </ul>
 <li>
-BoD membership and succession. Need plan to elect new BoD members and
-rotate officers.
+BoD membership and succession.
 
-</li>
+-   Nomination of Nomi Harris for election to the BoD
+-   Need plan to elect new BoD members and rotate officers.
+
 <li>
 Treasurer's 2009 report (ChrisD)
 
