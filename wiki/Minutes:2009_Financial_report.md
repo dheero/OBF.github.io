@@ -38,7 +38,7 @@ money we issue paper checks.
 
 **2009 Expenses (to date)**
 
--   $(520.00) : Reimburse Jason S. for two BOSC 2009 Student
+-   $(520.00) : Reimburse Jason S. for two BOSC 2008 Student
     Awards ($260/ea) paid via PayPall
 
 '''2009 Income (to date) '''
