@@ -137,6 +137,16 @@ Proposals exist to purchase two main infrastructure devices:
     ![](Silicon_Mechanics_Quote_173894.pdf "fig:Silicon_Mechanics_Quote_173894.pdf")
 -   $1400 MailFoundry 1150 Email Filtering Appliance
 
+### In-kind Donations
+
+It is not 100% set yet, but it is highly likely that BioTeam Inc. will
+be able to donate a 16-disk SATA storage server to the OBF for use as a
+NFS fileshare among the virtualization platforms. When used with Citrix
+XenSever or VMWare this NFS storage pool will allow for live migration
+of running servers between physical virtualization hosts. This will
+allow for hardware failures and maintenance to have minimal or no impact
+on OBF operations.
+
 Deployment and upgrade plan
 ---------------------------
 
