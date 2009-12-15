@@ -54,14 +54,14 @@ from CVS to Subversion for source code version control management. At
 some point the CVS links below for BioPerl and BioJava will be removed.
 '''
 
-`   * `[`/home/repository/biopython`](http://code.open-bio.org/cgi/viewcvs.cgi/?cvsroot=biopython)  
-`   * `[`/home/repository/biojava`](http://code.open-bio.org/cgi/viewcvs.cgi/?cvsroot=biojava)  
-`   * `[`/home/repository/bioperl`](http://code.open-bio.org/cgi/viewcvs.cgi/?cvsroot=bioperl)  
+`   * `[`/home/repository/biopython`](http://code.open-bio.org/cgi/viewcvs.cgi/?cvsroot=biopython)` `**`obsolete`**`, now using git, see `[`here`](http://www.biopython.org/wiki/SourceCode)  
+`   * `[`/home/repository/biojava`](http://code.open-bio.org/cgi/viewcvs.cgi/?cvsroot=biojava)` `**`obsolete`**`, now using SVN, see `[`here`](http://www.biojava.org/wiki/CVS_to_SVN_Migration)  
+`   * `[`/home/repository/bioperl`](http://code.open-bio.org/cgi/viewcvs.cgi/?cvsroot=bioperl)` `**`obsolete`**`, now using SVN, see `[`here`](http://www.bioperl.org/wiki/Subversion)  
 `   * `[`/home/repository/biodas`](http://code.open-bio.org/cgi/viewcvs.cgi/?cvsroot=biodas)  
 `   * `[`/home/repository/moby`](http://code.open-bio.org/cgi/viewcvs.cgi/?cvsroot=biomoby)  
 `   * `[`/home/repository/biocorba`](http://code.open-bio.org/cgi/viewcvs.cgi/?cvsroot=biocorba)  
-`   * `[`/home/repository/biosql`](http://code.open-bio.org/cgi/viewcvs.cgi/?cvsroot=biosql)  
-`   * `[`/home/repository/bioruby`](http://code.open-bio.org/cgi/viewcvs.cgi/?cvsroot=bioruby)  
+`   * `[`/home/repository/biosql`](http://code.open-bio.org/cgi/viewcvs.cgi/?cvsroot=biosql)` `**`obsolete`**`, now using SVN, see `[`here`](http://www.biosql.org)  
+`   * `[`/home/repository/bioruby`](http://code.open-bio.org/cgi/viewcvs.cgi/?cvsroot=bioruby)` `**`obsolete`**`, now using git, see `[`here`](http://www.bioruby.org/)  
 `   * `[`/home/repository/emboss`](http://code.open-bio.org/cgi/viewcvs.cgi/?cvsroot=emboss)  
 `   * `[`/home/repository/obf-common`](http://code.open-bio.org/cgi/viewcvs.cgi/?cvsroot=obf-common)` `
 
