@@ -8,8 +8,7 @@ title: Main Page
 |                                                                                                 |
 | See also our [news page](News "wikilink"), and [twitter](http://twitter.com/obf_news).          |
 
-About Us
-========
+### About Us
 
 The Open Bioinformatics Foundation or O|B|F is a non profit, volunteer
 run organization focused on supporting [open
@@ -40,8 +39,7 @@ Our main activities are:
 We are incorporated in the state of Delaware, USA as a not-for-profit
 company.
 
-BOSC
-====
+### BOSC
 
 [Bioinformatics Open Source Conference](BOSC "wikilink") (BOSC) is held
 annually in conjunction with [ISCB's](http://www.iscb.org) meeting ISMB.
