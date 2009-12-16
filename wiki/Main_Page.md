@@ -2,17 +2,11 @@
 title: Main Page
 ---
 
-OBF News
-========
-
--   [O|B|F is applying to participate in the 2009 Google Summer of
-    Code](Google_Summer_of_Code_2009 "wikilink") as an umbrella
-    organization for the Bio\* projects.
--   An agenda for the [Conference
-    call](Minutes:2008_ConfCall "wikilink") for the 2008 Board of
-    Director's meeting is available. Our board meetings are public and
-    open, please see the page for information about getting a phone
-    number call in access for the Nov 19, 2008 meeting.
+|                                                                                                 |
+|-------------------------------------------------------------------------------------------------|
+| <rss><http://news.open-bio.org/news/feed/%7Ccharset=utf-8%7Cshort%7Cdata%7Cmax=10%7Cdate></rss> |
+|                                                                                                 |
+| See also our [news page](News "wikilink"), and [twitter](http://twitter.com/obf_news).          |
 
 About Us
 ========
