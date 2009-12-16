@@ -27,7 +27,7 @@ Occasionally the O|B|F directors may make announcements about our
 direction or purpose (a recent one was on the licensing of academic
 software) when the board feels there is a need to clarify matters, but
 in general we prefer to remain simply the administrative support
-organization for our member projects.
+organization for our [member projects](Projects "wikilink").
 
 Our main activities are:
 
