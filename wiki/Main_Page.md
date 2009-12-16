@@ -32,7 +32,8 @@ organization for our [member projects](Projects "wikilink").
 Our main activities are:
 
 -   Underwriting and supporting the [BOSC](BOSC "wikilink") conferences
--   Organizing and supporting developer-centric "hackathon" events
+-   Organizing and supporting developer-centric
+    "[Hackathon](Hackathon "wikilink")" events
 -   Managing our servers, colocation facilities, bank account & other
     assets
 
