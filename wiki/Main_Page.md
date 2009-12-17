@@ -17,7 +17,7 @@ source](wp:open_source "wikilink") programming in
 
 The foundation grew out of the volunteer projects
 [BioPerl](BioPerl "wikilink"), [BioJava](BioJava "wikilink") and
-[BioPython](BioPython "wikilink") and was formally incorporated in order
+[Biopython](Biopython "wikilink") and was formally incorporated in order
 to handle our modest requirements of hardware ownership, domain name
 management and funding for conferences and workshops.The Foundation does
 not participate directly in the development or structure of the open
