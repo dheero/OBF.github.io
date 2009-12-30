@@ -21,6 +21,7 @@
 * [http://biophp.org BioPHP]
 * [http://www.yandell-lab.org/cgl/ CGL] - Comparative Genomics Library
 * [http://wikiomics.org Wikiomics] - Bioinformatics wiki
+* [http://www.resumesplanet.com resume help]
 
 ==Ontologies and Definitions==
 * [http://nemo-cyclone.sourceforge.net Cyclone] - provides an open source Java API to the pathway tool BioCyc.

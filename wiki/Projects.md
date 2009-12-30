@@ -40,6 +40,7 @@ Other related projects
 -   [CGL](http://www.yandell-lab.org/cgl/) - Comparative Genomics
     Library
 -   [Wikiomics](http://wikiomics.org) - Bioinformatics wiki
+-   [resume help](http://www.resumesplanet.com)
 
 Ontologies and Definitions
 --------------------------
