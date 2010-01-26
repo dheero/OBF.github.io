@@ -19,9 +19,9 @@ lists and IRC chats. Additionally, contributors work on these projects
 in their spare time, coordinating improving the projects with their day
 jobs and life outside of the computer. The objective of the Codefest is
 to give these talented developers a chance to be fully focused on the
-projects for a few days, interacting in real time. Previous \[
-<http://www.open-bio.org/wiki/Hackathon> Hackathons\] have been
-immensely successful at producing new high quality code and innovative
+projects for a few days, interacting in real time. Previous
+[Hackathons](http://www.open-bio.org/wiki/Hackathon) have been immensely
+successful at producing new high quality code and innovative
 developments.
 
 The general aim of the Codefest is improving the accessibility,
@@ -32,10 +32,10 @@ are:
 
 -   Improving the presence of OpenBio libraries on distributed computing
     environments like [Amazon Elastic Compute
-    Cloud](http://aws.amazon.com/ec2/) and \[
-
-<http://open.eucalyptus.com/> Eucalyptus\]. Ntino has written up an
-excellent project proposal available for download in pdf here.
+    Cloud](http://aws.amazon.com/ec2/) and
+    [Eucalyptus](http://open.eucalyptus.com/). Ntino has written up an
+    excellent project proposal available for [download in pdf
+    format](http://www.open-bio.org/w/images/8/85/BOSC_2010_Cloud_BioLinux.pdf).
 
 Location
 --------
