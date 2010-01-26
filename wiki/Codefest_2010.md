@@ -44,7 +44,7 @@ Location
     \[<http://maps.google.com/maps?hl=en&source=hp&q=655+Huntington+Avenue,+Boston,+MA&um=1&ie=UTF-8&hq>=&hnear=655+Huntington+Ave,+Boston,+MA+02115&gl=us&ei=vepeS6rVAsSztgeV-7z9Cw&sa=X&oi=geocode\_result&ct=image&resnum=1&ved=0CAkQ8gEwAA
     655 Huntington Avenue, Boston, MA\]
 -   July 8, 2010 -- Massachusetts General Hospital (MGH), Simches
-    Research Building,
+    Research Building, Room 3130
     \[<http://maps.google.com/maps?hl=en&source=hp&q=185+Cambridge+St,+Boston,+Suffolk,+Massachusetts+02114&um=1&ie=UTF-8&hq>=&hnear=185+Cambridge+St,+Boston,+MA+02114&gl=us&ei=qeteS\_eUGoy1tgeDyKjwCw&sa=X&oi=geocode\_result&ct=image&resnum=1&ved=0CAsQ8gEwAA
     185 Cambridge Street, Boston, MA\]
 
