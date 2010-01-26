@@ -21,7 +21,7 @@ jobs and life outside of the computer. The objective of the Codefest is
 to give these talented developers a chance to be fully focused on the
 projects for a few days, interacting in real time. Previous
 [Hackathons](http://www.open-bio.org/wiki/Hackathon) have been immensely
-successful at producing new high quality code and innovative
+successful at producing new high quality code and innovative project
 developments.
 
 The general aim of the Codefest is improving the accessibility,
