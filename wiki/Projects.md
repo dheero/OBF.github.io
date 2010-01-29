@@ -36,6 +36,7 @@ Affiliated projects
 Other related projects
 ----------------------
 
+-   [Bioinformatics tools in Haskell](http://malde.org/~ketil/)
 -   [BioPHP](http://biophp.org)
 -   [CGL](http://www.yandell-lab.org/cgl/) - Comparative Genomics
     Library
