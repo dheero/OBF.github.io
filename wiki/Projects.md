@@ -38,6 +38,7 @@ Other related projects
 
 -   [Bioinformatics tools in Haskell](http://malde.org/~ketil/)
 -   [BioPHP](http://biophp.org)
+-   [BioWeka](http://bioweka.sourceforge.net/index.php/Main_Page)
 -   [CGL](http://www.yandell-lab.org/cgl/) - Comparative Genomics
     Library
 -   [Wikiomics](http://wikiomics.org) - Bioinformatics wiki
