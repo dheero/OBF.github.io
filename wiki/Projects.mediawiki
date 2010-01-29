@@ -21,6 +21,7 @@
 * [http://malde.org/~ketil/ Bioinformatics tools in Haskell]
 * [http://biophp.org BioPHP]
 * [http://bioweka.sourceforge.net/index.php/Main_Page BioWeka]
+* [http://www.bioclipse.net/ BioClipse] - visual platform based on Eclipse
 * [http://www.yandell-lab.org/cgl/ CGL] - Comparative Genomics Library
 * [http://wikiomics.org Wikiomics] - Bioinformatics wiki
 * [http://www.resumesplanet.com resume help]
