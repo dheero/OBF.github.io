@@ -70,6 +70,7 @@ Attendees
 -   [Michael Heuer](http://www.biojava.org/wiki/Michael_Heuer)
 -   [Chris Fields](http://www.bioperl.org/wiki/User:Cjfields)
 -   [Ntino Krampis](http://www.linkedin.com/in/agbiotec)
+-   [Tim Booth](http://nebc.nox.ac.uk/nebc/about-us/people)
 
 Feel free to add yourself if you are interested. We are happy to have
 you.
