@@ -13,5 +13,5 @@ title: Open Bioinformatics Foundation:Current events
 ===========
 
 -   [BOSC 2009](BOSC_2009 "wikilink")
--   [custom essays](http://www.bestessays.com)
+-   [custom essays](http://www.nonplagiarizedessays.co.uk)
 
