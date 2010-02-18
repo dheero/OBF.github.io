@@ -74,11 +74,10 @@ decide on one or more challenges to use:
     project](http://intermine.modencode.org/release-16/experiment.do?experiment=RNA-seq%20support%20of%20the%20ChIP%20data).
     Alignments of total RNA from both male and female flies
     are available. Your goal is to use these alignments to highlight
-    major expression differences between male and female flies. This
-    will involve identifying alignment locations relative to genomic
-    features, identifying differences between males and females, and
-    providing summary charts and tables that explain interesting
-    differences to the audience.
+    major expression differences between the genders. This will involve
+    organizing alignment locations relative to genomic features,
+    identifying differences, and providing summary charts and tables
+    that explain the most interesting results.
 
 Discussion
 ----------
