@@ -55,9 +55,14 @@ Guidelines
     sees your talk gets a vote. The criteria conference attendees should
     vote on are
 
-` * Execution of the analysis. How easy is it to understand and replicate?`  
-` * Quality of the answer. What interesting biological was discovered?`  
-` * Uniqueness of the approach. What elements of the toolkit make it useful for the problem?`
+<!-- -->
+
+-   -   Execution of the analysis. How easy is it to understand and
+        replicate?
+    -   Quality of the answer. What interesting biological was
+        discovered?
+    -   Uniqueness of the approach. What elements of the toolkit make it
+        useful for the problem?
 
 Project ideas
 -------------
