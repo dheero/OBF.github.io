@@ -29,25 +29,27 @@ Guidelines
 ----------
 
 -   The goal is to pick a challenging problem that demonstrates the
-    utility of a bioinformatics approach to answering the question,
+    utility of a bioinformatics approach to answering the question, not
+    necessarily an unsolved problem like the [Netflix
+    Prize](http://www.netflixprize.com/).
 
-not necessarily an unsolved problem like the [Netflix
-Prize](http://www.netflixprize.com/).
+<!-- -->
 
 -   Feel free to use any publicly available programs and libraries in
-    solving the problem. If you are solving a problem in Python,
+    solving the problem. If you are solving a problem in Python, we
+    certainly want to see how the language and toolkits help you do that
+    most efficiently, but re-writing BLAST in Python makes no sense. How
+    you integrate the external programs into your automated analysis
+    pipeline is of extreme interest.
 
-we certainly want to see how the language and toolkits help you do that
-most efficiently, but re-writing BLAST in Python makes no sense. How you
-integrate the external programs into your automated analysis pipeline is
-of extreme interest.
+<!-- -->
 
 -   We can select from one overall challenge or a panel of challenges.
     We'd like to provide some overlap to help compare and contrast
-    various approaches,
+    various approaches, but some challenges may fit better with a focus
+    of a toolkit then others.
 
-but some challenges may fit better with a focus of a toolkit then
-others.
+<!-- -->
 
 -   The winner will be selected by conference participants; everyone who
     sees your talk gets a vote. The criteria conference attendees should
