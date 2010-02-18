@@ -65,10 +65,20 @@ Project ideas
 -------------
 
 These are collected project ideas from various members. Please create a
-wiki account and add your own. As a group we will decide on one or more
-challenges to use:
+wiki account for yourself and add your own ideas. As a group we will
+decide on one or more challenges to use:
 
--   Drosophila RNA-seq gender analysis
+-   Fly RNA-seq gender analysis. Start with short read alignments in
+    [SAM format](http://samtools.sourceforge.net/SAM1.pdf) from the
+    [modENCODE
+    project](http://intermine.modencode.org/release-16/experiment.do?experiment=RNA-seq%20support%20of%20the%20ChIP%20data).
+    Alignments of total RNA from both male and female flies
+    are available. Your goal is to use these alignments to highlight
+    major expression differences between male and female flies. This
+    will involve identifying alignment locations relative to genomic
+    features, identifying differences between males and females, and
+    providing summary charts and tables that explain interesting
+    differences to the audience.
 
 Discussion
 ----------
