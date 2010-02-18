@@ -54,10 +54,7 @@ Guidelines
 -   The winner will be selected by conference participants; everyone who
     sees your talk gets a vote. The criteria conference attendees should
     vote on are
-
-<!-- -->
-
--   -   Execution of the analysis. How easy is it to understand and
+    -   Execution of the analysis. How easy is it to understand and
         replicate?
     -   Quality of the answer. What interesting biological was
         discovered?
