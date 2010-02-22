@@ -2,6 +2,8 @@
 title: SolutionChallenge
 ---
 
+Back to [BOSC 2010](BOSC_2010 "wikilink")
+
 OpenBio solution challenge: Project updates at BOSC 2010
 --------------------------------------------------------
 
