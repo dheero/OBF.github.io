@@ -71,6 +71,7 @@ Attendees
 -   [Chris Fields](http://www.bioperl.org/wiki/User:Cjfields)
 -   [Ntino Krampis](http://www.linkedin.com/in/agbiotec)
 -   [Tim Booth](http://nebc.nox.ac.uk/nebc/about-us/people)
+-   [Peter Cock](http://www.scri.ac.uk/staff/petercock) (TBC)
 
 Feel free to add yourself if you are interested. We are happy to have
 you.
