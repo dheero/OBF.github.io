@@ -1,5 +1,6 @@
-= 2010 Events ==
+= 2010 Events =
 * [[BOSC 2010]]
+* [[Codefest 2010]]
 
 =2009 Events=
 * [[BOSC 2009]]

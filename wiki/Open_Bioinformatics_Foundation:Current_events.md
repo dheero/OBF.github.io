@@ -5,9 +5,8 @@ title: Open Bioinformatics Foundation:Current events
 2010 Events
 ===========
 
-=
-
 -   [BOSC 2010](BOSC_2010 "wikilink")
+-   [Codefest 2010](Codefest_2010 "wikilink")
 
 2009 Events
 ===========
