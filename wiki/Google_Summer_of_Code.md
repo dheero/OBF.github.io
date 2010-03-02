@@ -2,7 +2,7 @@
 title: Google Summer of Code
 ---
 
-The O|B|F is applying for the first time for the [Google Summer of
+Once again in 2010, the O|B|F is applying to the [Google Summer of
 Code](http://socghop.appspot.com/) (GSoC) program as an umbrella
 organization for all O|B|F-affiliated projects.
 
@@ -25,15 +25,15 @@ project to which the student would be contributing, and who can guide
 the student to interact productively with the community, prevent getting
 stuck in obstacles, and avoid chasing down the wrong direction. The
 program is global - students and mentors may be located anywhere where
-they have internet connection ([except for countries affected by US
-trade
-restrictions](http://socghop.appspot.com/document/show/program/google/gsoc2009/faqs#not_eligible)),
-and no travel is required. Thus, other than the stipend and the
-mentorship, the internship mirrors normal contributors to such
-distributed development projects, which is a useful learning experience
-in itself, as the skills needed to be effective at this are typically
-not taught in computer science curricula, yet are highly desired in an
-increasingly global IT industry.
+they have internet connection
+(\[<http://socghop.appspot.com/document/show/program/google/gsoc2009/faqs#not_eligible>
+except for countries affected by US trade restrictions\]), and no travel
+is required. Thus, other than the stipend and the mentorship, the
+internship mirrors normal contributors to such distributed development
+projects, which is a useful learning experience in itself, as the skills
+needed to be effective at this are typically not taught in computer
+science curricula, yet are highly desired in an increasingly global IT
+industry.
 
 From the viewpoint of participating open-source projects, the program
 not only offers to pay students for contributing, but more importantly
@@ -41,10 +41,10 @@ offers an opportunity to recruit new developers in a way that allows far
 more people to leap over the barrier from interested user to code
 contributor.
 
-See [the GSoC FAQs and
-documentation](http://socghop.appspot.com/document/show/program/google/gsoc2009/faqs#about_gsoc)
-for further information, and see below for [reference facts such as
-eligibility and
+See
+\[<http://socghop.appspot.com/document/show/program/google/gsoc2009/faqs#about_gsoc>
+the GSoC FAQs and documentation\] for further information, and see below
+for [reference facts such as eligibility and
 timelines](#Reference_Facts_.26_Links:_Google_Summer_of_Code_2009 "wikilink").
 
 News
