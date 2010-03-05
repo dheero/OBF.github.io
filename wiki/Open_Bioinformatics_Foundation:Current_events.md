@@ -7,6 +7,9 @@ title: Open Bioinformatics Foundation:Current events
 
 -   [BOSC 2010](BOSC_2010 "wikilink")
 -   [Codefest 2010](Codefest_2010 "wikilink")
+-   [http://www.professays.com/ Essay Contest
+    2010](http://www.professays.com/_Essay_Contest_2010 "wikilink") Even
+    dedicated to writing and coding
 
 2009 Events
 ===========

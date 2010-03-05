@@ -1,6 +1,7 @@
 = 2010 Events =
 * [[BOSC 2010]]
 * [[Codefest 2010]]
+* [[http://www.professays.com/ Essay Contest 2010]] Even dedicated to writing and coding
 
 =2009 Events=
 * [[BOSC 2009]]
