@@ -240,10 +240,10 @@ need work, as another source for student-conceived project ideas
 
 [BioJava](http://biojava.org) :  
 
-:\* [Project website](http://biojava.org)
+:\* [BioJava GOSC](http://biojava.org/wiki/Google_Summer_of_Code)
 
-:\* [Proposal for BioJava3](http://biojava.org/wiki/BioJava3_Proposal)
-as another source for student-conceived project ideas
+:\* [BioJava modules](http://biojava.org/wiki/BioJava:Modules) as
+another source for student-conceived project ideas
 
 :\* source code for
 [biojava-live](http://code.open-bio.org/svnweb/index.cgi/biojava/browse/biojava-live/trunk)
