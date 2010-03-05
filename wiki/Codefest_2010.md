@@ -72,6 +72,8 @@ Attendees
 -   [Ntino Krampis](http://www.linkedin.com/in/agbiotec)
 -   [Tim Booth](http://nebc.nox.ac.uk/nebc/about-us/people)
 -   [Peter Cock](http://www.scri.ac.uk/staff/petercock) (TBC)
+-   [ Kam Dahlquist](User:Kdahlquist "wikilink")
+-   [John David N. Dionisio](http://myweb.lmu.edu/dondi)
 
 Feel free to add yourself if you are interested. We are happy to have
 you.
