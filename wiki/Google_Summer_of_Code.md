@@ -213,8 +213,8 @@ provide the following in your application material.
     payments](http://code.google.com/opensource/gsoc/2009/faqs.html#0_1_administrivia_842873138659_49145328697313184)
     for full documentation.
 
-Open-Bio projects involved
---------------------------
+Open-Bio projects Accepting Applicants
+--------------------------------------
 
 ![](BioPerl_logo_tiny.jpg "BioPerl_logo_tiny.jpg")
 
