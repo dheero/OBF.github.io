@@ -222,22 +222,19 @@ Open-Bio Projects Accepting Applicants
 
 :\* [Project website](bp:Main_Page "wikilink")
 
-:\* Quick links:
+:\* [Information for new developers](bp:Becoming_a_developer "wikilink")
 
-:\*\* [Information for new
-developers](bp:Becoming_a_developer "wikilink")
-
-:\*\* source code browser for
+:\* source code browser for
 [bioperl-live](http://code.open-bio.org/svnweb/index.cgi/bioperl/browse/bioperl-live/trunk)
 (the main BioPerl code base), and [all BioPerl
 sub-projects](http://code.open-bio.org/svnweb/index.cgi/bioperl/)
 
-:\*\* [Priority list](bp:Project_priority_list "wikilink") of things
-that need work, as another source for student-conceived project ideas
+:\* [Priority list](bp:Project_priority_list "wikilink") of things that
+need work, as another source for student-conceived project ideas
 
-:\*\* [Mailing lists](bp:Mailing_lists "wikilink")
+:\* [Mailing lists](bp:Mailing_lists "wikilink")
 
-:\*\* IRC: \#bioperl on [Freenode](http://freenode.net)
+:\* IRC: \#bioperl on [Freenode](http://freenode.net)
 
 ![](Biojava_logo_tiny.jpg "Biojava_logo_tiny.jpg")
 
@@ -245,19 +242,17 @@ that need work, as another source for student-conceived project ideas
 
 :\* [Project website](http://biojava.org)
 
-:\* Quick links:
-
-:\*\* [Proposal for BioJava3](http://biojava.org/wiki/BioJava3_Proposal)
+:\* [Proposal for BioJava3](http://biojava.org/wiki/BioJava3_Proposal)
 as another source for student-conceived project ideas
 
-:\*\* source code for
+:\* source code for
 [biojava-live](http://code.open-bio.org/svnweb/index.cgi/biojava/browse/biojava-live/trunk)
 (the main BioJava code base) and [all BioJava
 sub-projects](http://code.open-bio.org/svnweb/index.cgi/biojava/)
 
-:\*\* [Mailing lists](http://biojava.org/wiki/BioJava:MailingLists)
+:\* [Mailing lists](http://biojava.org/wiki/BioJava:MailingLists)
 
-:\*\* No IRC channel at present
+:\* No IRC channel at present
 
 ![](Biopython_logo_tiny.png "Biopython_logo_tiny.png")
 
@@ -265,15 +260,13 @@ sub-projects](http://code.open-bio.org/svnweb/index.cgi/biojava/)
 
 :\* [Project website](biopython:Main_Page "wikilink")
 
-:\* Quick links:
+:\* [Information for contributors](biopython:Contributing "wikilink")
 
-:\*\* [Information for contributors](biopython:Contributing "wikilink")
+:\* [Mailing lists](biopython:Mailing_lists "wikilink")
 
-:\*\* [Mailing lists](biopython:Mailing_lists "wikilink")
+:\* [ Source Code](biopython:SourceCode "wikilink")
 
-:\*\* [ Source Code](biopython:SourceCode "wikilink")
-
-:\*\* No IRC channel at present
+:\* No IRC channel at present
 
 ![](BioRuby_logo_tiny.png "BioRuby_logo_tiny.png")
 
@@ -281,14 +274,12 @@ sub-projects](http://code.open-bio.org/svnweb/index.cgi/biojava/)
 
 :\* [Project website](http://bioruby.org)
 
-:\* Quick links:
-
-:\*\* [developers mailing
+:\* [developers mailing
 list](http://lists.open-bio.org/mailman/listinfo/bioruby)
 
-:\*\* [source code](http://github.com/bioruby/bioruby/tree/master)
+:\* [source code](http://github.com/bioruby/bioruby/tree/master)
 
-:\*\* No IRC channel at present
+:\* No IRC channel at present
 
 ![](BioSQL_logo.png "BioSQL_logo.png")
 
@@ -296,19 +287,17 @@ list](http://lists.open-bio.org/mailman/listinfo/bioruby)
 
 :\* [Project website](biosql:Main_Page "wikilink")
 
-:\* Quick links:
-
-:\*\* Current [enhancement
+:\* Current [enhancement
 requests](http://biosql.org/wiki/Enhancement_Requests) as another source
 for student-conceived project ideas
 
-:\*\* [developers mailing
+:\* [developers mailing
 list](http://biosql.org/mailman/listinfo/biosql-l)
 
-:\*\* [source
+:\* [source
 code](http://code.open-bio.org/svnweb/index.cgi/biosql/browse/biosql-schema/trunk)
 
-:\*\* No IRC channel at present
+:\* No IRC channel at present
 
 ![](BioLib_logo_tiny.png "BioLib_logo_tiny.png")
 
@@ -316,14 +305,12 @@ code](http://code.open-bio.org/svnweb/index.cgi/biosql/browse/biosql-schema/trun
 
 :\* [Project website](http://biolib.open-bio.org)
 
-:\* Quick links:
-
-:\*\* [developers mailing
+:\* [developers mailing
 list](http://lists.open-bio.org/mailman/listinfo/biolib-dev)
 
-:\*\* [source code](http://github.com/pjotrp/biolib/tree/master)
+:\* [source code](http://github.com/pjotrp/biolib/tree/master)
 
-:\*\* No IRC channel at present
+:\* No IRC channel at present
 
 Reference Facts & Links: <span class="plainlinks">[Google Summer of Code 2010](http://socghop.appspot.com/)</span>
 ------------------------------------------------------------------------------------------------------------------
