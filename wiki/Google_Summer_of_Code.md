@@ -118,6 +118,8 @@ Mentor List
 -   [Chris Fields](bp:User:Cjfields "wikilink") (U. Illinois at
     Urbana-Champaign; BioPerl)
 -   [Mark Jensen](bp:User:Majensen "wikilink") (Fortinbras; BioPerl)
+-   [Andreas Prlic](http://biojava.org/wiki/User:Andreas) (UCSD;
+    [BioJava](http://biojava.org/wiki/Google_Summer_of_Code))
 
 What should prospective students know?
 --------------------------------------
