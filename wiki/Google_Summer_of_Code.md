@@ -50,11 +50,8 @@ timelines](#Reference_Facts_.26_Links:_Google_Summer_of_Code_2009 "wikilink").
 Contact
 -------
 
-Our organization administrators are primary administrator [Robert
-Buels](User:RobertBuels "wikilink")
-([rmb32@cornell.edu](mailto:rmb32%40cornell%2eedu)) and backup
-administrator [Hilmar Lapp](User:Lapp "wikilink")
-([hlapp@gmx.net](mailto:hlapp%40gmx%2enet)).
+Organization administrator: [Robert Buels](User:RobertBuels "wikilink") ([rmb32@cornell.edu](mailto:rmb32%40cornell%2eedu))  
+Backup administrator: [Hilmar Lapp](User:Lapp "wikilink") ([hlapp@gmx.net](mailto:hlapp%40gmx%2enet))  
 
 If you are a student interested in applying for a Google Summer of Code
 project with our organization, please send questions and project ideas
