@@ -13,9 +13,9 @@ contact for more information.
 About Google Summer of Code
 ---------------------------
 
-![](GSoC2009Logo.png "fig:GSoC2009Logo.png") For those not familiar with
-the program, Google Summer of Code (GSoC) is maybe best described as a
-remote student internship program for globally distributed,
+![](Gsoc_2010_logo.jpg "fig:Gsoc_2010_logo.jpg") For those not familiar
+with the program, Google Summer of Code (GSoC) is maybe best described
+as a remote student internship program for globally distributed,
 collaboratively developed open-source projects. The program offers
 eligible student developers stipends to write code for open source
 projects over a period of 3 summer months ("flip bits, not burgers").
