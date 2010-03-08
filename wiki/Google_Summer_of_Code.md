@@ -223,6 +223,9 @@ Open-Bio Projects Accepting Applicants
 
 [BioPerl](bp:Main_Page "wikilink") :  
 
+:\* [BioPerl GSoC Page](http://bioperl.org/wiki/Google_Summer_of_Code) -
+project ideas and mentors
+
 :\* [Project website](bp:Main_Page "wikilink")
 
 :\* [Information for new developers](bp:Becoming_a_developer "wikilink")
@@ -243,7 +246,8 @@ need work, as another source for student-conceived project ideas
 
 [BioJava](http://biojava.org) :  
 
-:\* [BioJava GOSC](http://biojava.org/wiki/Google_Summer_of_Code)
+:\* [BioJava GSoC Page](http://biojava.org/wiki/Google_Summer_of_Code) -
+project ideas and mentors
 
 :\* [BioJava modules](http://biojava.org/wiki/BioJava:Modules) as
 another source for student-conceived project ideas
