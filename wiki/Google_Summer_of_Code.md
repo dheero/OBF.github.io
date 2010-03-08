@@ -120,6 +120,8 @@ Mentor List
 -   [Mark Jensen](bp:User:Majensen "wikilink") (Fortinbras; BioPerl)
 -   [Andreas Prlic](http://biojava.org/wiki/User:Andreas) (UCSD;
     [BioJava](http://biojava.org/wiki/Google_Summer_of_Code))
+-   [Robert Buels](bp:User:RobertBuels "wikilink") (Sol Genomics
+    Network; BioPerl)
 
 What should prospective students know?
 --------------------------------------
