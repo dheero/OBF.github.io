@@ -2,7 +2,8 @@
 title: Google Summer of Code
 ---
 
-Once again in 2010, the OBF is applying to the [Google Summer of
+![](Gsoc_2010_logo.jpg "fig:Gsoc_2010_logo.jpg") Once again in 2010, the
+OBF is applying to the [Google Summer of
 Code](http://socghop.appspot.com/) (GSoC) program as an umbrella
 organization for all OBF-affiliated projects.
 
@@ -13,19 +14,19 @@ contact for more information.
 About Google Summer of Code
 ---------------------------
 
-![](Gsoc_2010_logo.jpg "fig:Gsoc_2010_logo.jpg") For those not familiar
-with the program, Google Summer of Code (GSoC) is maybe best described
-as a remote student internship program for globally distributed,
-collaboratively developed open-source projects. The program offers
-eligible student developers stipends to write code for open source
-projects over a period of 3 summer months ("flip bits, not burgers").
-Aside from the stipend, perhaps the most important qualitative
-difference of this program is that students are paired with mentors, who
-are typically experienced developers from the project to which the
-student would be contributing, and who can guide the student to interact
-productively with the community, prevent getting stuck in obstacles, and
-avoid chasing down the wrong direction. The program is global - students
-and mentors may be located anywhere where they have internet connection
+For those not familiar with the program, Google Summer of Code (GSoC) is
+maybe best described as a remote student internship program for globally
+distributed, collaboratively developed open-source projects. The program
+offers eligible student developers stipends to write code for open
+source projects over a period of 3 summer months ("flip bits, not
+burgers"). Aside from the stipend, perhaps the most important
+qualitative difference of this program is that students are paired with
+mentors, who are typically experienced developers from the project to
+which the student would be contributing, and who can guide the student
+to interact productively with the community, prevent getting stuck in
+obstacles, and avoid chasing down the wrong direction. The program is
+global - students and mentors may be located anywhere where they have
+internet connection
 (\[<http://socghop.appspot.com/document/show/program/google/gsoc2009/faqs#not_eligible>
 except for countries affected by US trade restrictions\]), and no travel
 is required. Thus, other than the stipend and the mentorship, the
