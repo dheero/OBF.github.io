@@ -85,13 +85,12 @@ Primer](http://irchelp.org/irchelp/ircprimer.html) at [IRC
 Help](http://irchelp.org/), which also has links to lots of other
 material.)*
 
-For applying, please make sure you read our [documentation on
-information that students should know and guidelines we expect you to
-follow](#What_should_prospective_students_know.3F "wikilink") *before*
-you apply. We don't have a format template for application that you need
-to adhere to, but we do ask that you include specific kinds of
-information. What those are is documented under "[When you
-apply](#When_you_apply "wikilink")."
+Before applying, please read our [documentation on information that
+students should know and guidelines we expect you to
+follow](#What_should_prospective_students_know.3F "wikilink"). We don't
+have a format template for application that you need to adhere to, but
+we ask that you include specific kinds of information, documented under
+"[When you apply](#When_you_apply "wikilink")."
 
 Mentors and Project Ideas
 -------------------------
