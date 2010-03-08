@@ -40,11 +40,9 @@ offers an opportunity to recruit new developers in a way that allows far
 more people to leap over the barrier from interested user to code
 contributor.
 
-See
-\[<http://socghop.appspot.com/document/show/program/google/gsoc2009/faqs#about_gsoc>
-the GSoC FAQs and documentation\] for further information, and see below
-for [reference facts such as eligibility and
-timelines](#Reference_Facts_.26_Links:_Google_Summer_of_Code_2009 "wikilink").
+See the [Main GSoC Site](http://code.google.com/soc) for more
+information and FAQs, and see below for [other facts such as eligibility
+and timelines ](#Other_Facts_.26_Links "wikilink").
 
 Contact
 -------
