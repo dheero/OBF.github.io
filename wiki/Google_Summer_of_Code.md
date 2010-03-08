@@ -247,7 +247,8 @@ provide the following in your application material.
     in particular those available as open-source, including, if
     applicable, any past Summer of Code involvement.
 4.  A project plan for the project you are proposing, even if your
-    proposed project is directly based on one of the ideas above.
+    proposed project is directly based on one of the proposed project
+    ideas for member projects.
     -   A project plan in principle divides up the whole project into a
         series of manageable milestones and timelines that, when all
         accomplished, logically lead to the end goal(s) of the project.
