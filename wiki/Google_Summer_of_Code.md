@@ -315,24 +315,16 @@ list](http://lists.open-bio.org/mailman/listinfo/biolib-dev)
 
 :\* No IRC channel at present
 
-Reference Facts & Links: <span class="plainlinks">[Google Summer of Code 2010](http://socghop.appspot.com/)</span>
-------------------------------------------------------------------------------------------------------------------
+Other Facts & Links: <span class="plainlinks">[Google Summer of Code 2010](http://socghop.appspot.com/)</span>
+--------------------------------------------------------------------------------------------------------------
 
--   Mentoring organizations apply between March 9-13, 2009. Accepted
-    mentoring organizations will be published March 18. See [full set of
-    timelines](http://code.google.com/opensource/gsoc/2009/faqs.html#0_1_timeline_5354032302481437_).
--   Google expects to accept around 150 mentoring organizations, a bit
-    less than in 2008 (when they accepted 175). If the trend over the
-    past years is any indication, this will be out of at least 3x as
-    many organizations that apply.
--   Students apply between March 23-April 3, 2009. The [eligibility
-    requirements for
-    students](http://code.google.com/opensource/gsoc/2009/faqs.html#0_1_eligibility_83343977761348_13148542340972003)
-    are in the GSoC FAQ.
--   [Development occurs
-    on-line](http://code.google.com/opensource/gsoc/2009/faqs.html#0_1_development_where_91701355_4247830955169275),
-    there is no requirement or expectation to travel, neither for
-    students nor for mentors.
+-   Mentoring organizations apply between March 8-12, 2010. Accepted
+    mentoring organizations will be published March 19.
+-   Google expects to accept around 150 mentoring organizations.
+-   Students apply between March 22-April 2, 2010. See the [GSoC
+    site](http://code.google.com/soc) for eligibility requirements.
+-   Development is done entirely remotely and on-line, there is no
+    requirement or expectation for either students or mentors to travel.
 
 [Category:Google Summer of
 Code](Category:Google_Summer_of_Code "wikilink")
