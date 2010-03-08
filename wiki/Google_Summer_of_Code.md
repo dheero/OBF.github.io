@@ -203,18 +203,17 @@ provide the following in your application material.
 -   Our [2009 application
     document](http://docs.google.com/Doc?id=dhs98hzv_7zn8bxqjm) with
     Google's questions and our answers.
--   For questions of eligibility, see the [GSoC eligibility requirements
-    for
-    students](http://code.google.com/opensource/gsoc/2009/faqs.html#0_1_eligibility_83343977761348_13148542340972003).
-    These requirements must be met on April 20, 2009.
+-   For questions of eligibility, see the [2010 GSoC eligibility
+    requirements for
+    students](http://socghop.appspot.com/document/show/gsoc_program/google/gsoc2010/faqs#eligibility).
 -   There is also a [Google group for posting GSoC
     questions](http://groups.google.com/group/google-summer-of-code-discuss)
     (and receiving answers; note that you will need to sign up for
     the group) that relate to the program itself (and are not specific
     to our organization).
--   Students receive a stipend from Google if accepted. See the [Google
-    SoC FAQ on
-    payments](http://code.google.com/opensource/gsoc/2009/faqs.html#0_1_administrivia_842873138659_49145328697313184)
+-   Students receive a stipend from Google if accepted. See the [2010
+    GSoC FAQ on
+    payments](http://socghop.appspot.com/document/show/gsoc_program/google/gsoc2010/faqs#payments)
     for full documentation.
 
 Open-Bio Projects Accepting Applicants
