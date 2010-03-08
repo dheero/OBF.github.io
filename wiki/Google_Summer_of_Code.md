@@ -93,126 +93,22 @@ to adhere to, but we do ask that you include specific kinds of
 information. What those are is documented under "[When you
 apply](#When_you_apply "wikilink")."
 
-Ideas
------
+Mentors and Project Ideas
+-------------------------
 
-*Note: primary project mentors are in **bold font**. Biographical and
-other information on the mentors is linked to in the [Mentors
-section](#Mentors "wikilink").*
+Mentors and project ideas are hosted on each member project's wiki on a
+dedicated Google Summer of Code page. See each of the member projects,
+linked below.
 
-*Students: The project **ideas** below are suggested projects from
-mentors, albeit well thought-out ones. You are welcome to propose your
-own project if none of those below catches your interest, or if your
-idea is more exciting to you, provided it is still a contribution to one
-the OBF member projects (see list below). Just be aware that we can't
-guarantee finding an appropriate mentor, but if we like your proposal we
-will try. Regardless of what you decide to do, make sure you read and
+*Note to students: project ideas on the wikis of member projects are
+only selected projects, albeit well thought-out ones. You are welcome to
+propose your own project if none of those below catches your interest,
+or if your idea is more exciting to you, provided it is still a
+contribution to one the OBF member projects (see list below). If we like
+your proposal, we will try to find a mentor to help you with the
+project. Regardless of what you decide to do, make sure you read and
 follow the [guidelines for
 students](#What_should_prospective_students_know.3F "wikilink") below.*
-
-Mentor List
------------
-
--   [Chris Fields](bp:User:Cjfields "wikilink") (U. Illinois at
-    Urbana-Champaign; BioPerl)
--   [Mark Jensen](bp:User:Majensen "wikilink") (Fortinbras; BioPerl)
--   [Andreas Prlic](http://biojava.org/wiki/User:Andreas) (UCSD;
-    [BioJava](http://biojava.org/wiki/Google_Summer_of_Code))
--   [Robert Buels](bp:User:RobertBuels "wikilink") (Sol Genomics
-    Network; BioPerl)
-
-What should prospective students know?
---------------------------------------
-
-### Before you apply
-
--   If you want to apply with your own idea, determine which OBF project
-    you would be contributing to, and [contact us](#Contact "wikilink")
-    early on so we can try to find a mentor.
--   Proposals should extend one of affiliated toolkits.
--   [Ask us questions](#Contact "wikilink") about the project idea you
-    have in mind.
--   Write a project proposal draft, include a project plan (see below),
-    and [bounce those off of us](#Contact "wikilink").
-
-Again, **students are strongly encouraged to [contact
-us](#Contact "wikilink") before applying**. Frequent and early
-communication is extremely valuable for putting together successful
-projects.
-
-### When you apply
-
-When applying, (aside from the information requested by Google) please
-provide the following in your application material.
-
-1.  Why you are interested in the project you are proposing and are
-    well-suited to undertake it.
-2.  A summary of your programming experience and skills.
-3.  Programs or projects you have previously authored or contributed to,
-    in particular those available as open-source, including, if
-    applicable, any past Summer of Code involvement.
-4.  A project plan for the project you are proposing, even if your
-    proposed project is directly based on one of the ideas above.
-    -   A project plan in principle divides up the whole project into a
-        series of manageable milestones and timelines that, when all
-        accomplished, logically lead to the end goal(s) of the project.
-        Put in another way, a project plan explains what you expect you
-        will need to be doing, and what you expect you need to have
-        accomplished, at which time, so that at the end you reach the
-        goals of the project.
-    -   Do not take this part lightly. A compelling plan takes a
-        significant amount of work. Empirically, applications with no or
-        a hastily composed project plan have not been competitive, and a
-        more thorough project plan can easily make an applicant
-        outcompete another with more advanced skills.
-    -   A good plan will require you to thoroughly think about the
-        project itself and how one might want to go about the work.
-    -   We don't expect you to have all the experience, background, and
-        knowledge to come up with the final, real work plan on your own
-        at the time you apply. We do expect your plan to demonstrate,
-        however, that you have made the effort and thoroughly dissected
-        the goals into tasks and successive accomplishments that
-        make sense.
-    -   We strongly recommend that you bounce your proposed project and
-        your project plan draft off of us, using either the pertinent
-        developers mailing list or the IRC channel(s). Through the
-        project plan exercise you will inevitably discover that you are
-        missing a lot of the pieces - we are there to help you fill
-        those in as best as we can.
-
-5.  Any obligations or plans for the summer during the coding period
-    that may possibly conflict.
-    -   We expect the your GSoC projec to be your primary focus over
-        the summer. It should not be regarded as a part-time occupation.
-    -   If you feel that you can manage other work obligations
-        concurrently with your Summer of Code project, make your case
-        and support it with evidence.
-    -   Be honest and open. If it turns out later that you weren't clear
-        about other obligations, at best (i.e., if your accomplishment
-        record at that point is spotless) our trust in you will be
-        severely degraded. Also, if you are accepted, discuss with your
-        GSoC mentor before taking on additional obligations.
-    -   One of the most common reasons for students to struggle or fail
-        is being overcommitted. Do not set yourself up for failure! GSoC
-        summers should be fun and rewarding!
-
-### Other information
-
--   Our [2009 application
-    document](http://docs.google.com/Doc?id=dhs98hzv_7zn8bxqjm) with
-    Google's questions and our answers.
--   For questions of eligibility, see the [2010 GSoC eligibility
-    requirements for
-    students](http://socghop.appspot.com/document/show/gsoc_program/google/gsoc2010/faqs#eligibility).
--   There is also a [Google group for posting GSoC
-    questions](http://groups.google.com/group/google-summer-of-code-discuss)
-    (and receiving answers; note that you will need to sign up for
-    the group) that relate to the program itself (and are not specific
-    to our organization).
--   Students receive a stipend from Google if accepted. See the [2010
-    GSoC FAQ on
-    payments](http://socghop.appspot.com/document/show/gsoc_program/google/gsoc2010/faqs#payments)
-    for full documentation.
 
 Open-Bio Projects Accepting Applicants
 --------------------------------------
@@ -321,6 +217,81 @@ list](http://lists.open-bio.org/mailman/listinfo/biolib-dev)
 
 :\* No IRC channel at present
 
+Guide for prospective GSoC students
+-----------------------------------
+
+### Before you apply
+
+-   If you want to apply with your own idea, determine which OBF project
+    you would be contributing to, and [contact us](#Contact "wikilink")
+    early on so we can try to find a mentor.
+-   Proposals should extend one of affiliated toolkits.
+-   [Ask us questions](#Contact "wikilink") about the project idea you
+    have in mind.
+-   Write a project proposal draft, include a project plan (see below),
+    and [bounce those off of us](#Contact "wikilink").
+
+Again, **students are strongly encouraged to [contact
+us](#Contact "wikilink") before applying**. Frequent and early
+communication is extremely valuable for putting together successful
+projects.
+
+### When you apply
+
+When applying, (aside from the information requested by Google) please
+provide the following in your application material.
+
+1.  Why you are interested in the project you are proposing and are
+    well-suited to undertake it.
+2.  A summary of your programming experience and skills.
+3.  Programs or projects you have previously authored or contributed to,
+    in particular those available as open-source, including, if
+    applicable, any past Summer of Code involvement.
+4.  A project plan for the project you are proposing, even if your
+    proposed project is directly based on one of the ideas above.
+    -   A project plan in principle divides up the whole project into a
+        series of manageable milestones and timelines that, when all
+        accomplished, logically lead to the end goal(s) of the project.
+        Put in another way, a project plan explains what you expect you
+        will need to be doing, and what you expect you need to have
+        accomplished, at which time, so that at the end you reach the
+        goals of the project.
+    -   Do not take this part lightly. A compelling plan takes a
+        significant amount of work. Empirically, applications with no or
+        a hastily composed project plan have not been competitive, and a
+        more thorough project plan can easily make an applicant
+        outcompete another with more advanced skills.
+    -   A good plan will require you to thoroughly think about the
+        project itself and how one might want to go about the work.
+    -   We don't expect you to have all the experience, background, and
+        knowledge to come up with the final, real work plan on your own
+        at the time you apply. We do expect your plan to demonstrate,
+        however, that you have made the effort and thoroughly dissected
+        the goals into tasks and successive accomplishments that
+        make sense.
+    -   We strongly recommend that you bounce your proposed project and
+        your project plan draft off of us, using either the pertinent
+        developers mailing list or the IRC channel(s). Through the
+        project plan exercise you will inevitably discover that you are
+        missing a lot of the pieces - we are there to help you fill
+        those in as best as we can.
+
+5.  Any obligations or plans for the summer during the coding period
+    that may possibly conflict.
+    -   We expect the your GSoC projec to be your primary focus over
+        the summer. It should not be regarded as a part-time occupation.
+    -   If you feel that you can manage other work obligations
+        concurrently with your Summer of Code project, make your case
+        and support it with evidence.
+    -   Be honest and open. If it turns out later that you weren't clear
+        about other obligations, at best (i.e., if your accomplishment
+        record at that point is spotless) our trust in you will be
+        severely degraded. Also, if you are accepted, discuss with your
+        GSoC mentor before taking on additional obligations.
+    -   One of the most common reasons for students to struggle or fail
+        is being overcommitted. Do not set yourself up for failure! GSoC
+        summers should be fun and rewarding!
+
 Other Facts & Links: <span class="plainlinks">[Google Summer of Code 2010](http://socghop.appspot.com/)</span>
 --------------------------------------------------------------------------------------------------------------
 
@@ -331,6 +302,21 @@ Other Facts & Links: <span class="plainlinks">[Google Summer of Code 2010](http:
     site](http://code.google.com/soc) for eligibility requirements.
 -   Development is done entirely remotely and on-line, there is no
     requirement or expectation for either students or mentors to travel.
+-   Our [2009 application
+    document](http://docs.google.com/Doc?id=dhs98hzv_7zn8bxqjm) with
+    Google's questions and our answers.
+-   For questions of eligibility, see the [2010 GSoC eligibility
+    requirements for
+    students](http://socghop.appspot.com/document/show/gsoc_program/google/gsoc2010/faqs#eligibility).
+-   There is also a [Google group for posting GSoC
+    questions](http://groups.google.com/group/google-summer-of-code-discuss)
+    (and receiving answers; note that you will need to sign up for
+    the group) that relate to the program itself (and are not specific
+    to our organization).
+-   Students receive a stipend from Google if accepted. See the [2010
+    GSoC FAQ on
+    payments](http://socghop.appspot.com/document/show/gsoc_program/google/gsoc2010/faqs#payments)
+    for full documentation.
 
 [Category:Google Summer of
 Code](Category:Google_Summer_of_Code "wikilink")
