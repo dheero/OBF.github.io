@@ -40,9 +40,11 @@ offers an opportunity to recruit new developers in a way that allows far
 more people to leap over the barrier from interested user to code
 contributor.
 
-See the [Main GSoC Site](http://code.google.com/soc) for more
-information and FAQs, and see below for [other facts such as eligibility
-and timelines ](#Other_Facts_.26_Links "wikilink").
+See
+\[<http://socghop.appspot.com/document/show/program/google/gsoc2009/faqs#about_gsoc>
+the GSoC FAQs and documentation\] for further information, and see below
+for [reference facts such as eligibility and
+timelines](#Reference_Facts_.26_Links:_Google_Summer_of_Code_2009 "wikilink").
 
 Contact
 -------
@@ -288,8 +290,10 @@ provide the following in your application material.
         is being overcommitted. Do not set yourself up for failure! GSoC
         summers should be fun and rewarding!
 
-Other Facts & Links: <span class="plainlinks">[Google Summer of Code 2010](http://socghop.appspot.com/)</span>
---------------------------------------------------------------------------------------------------------------
+Other Facts & Links
+-------------------
+
+**Google Summer of Code Main Site: [1](http://code.google.com/soc)**
 
 -   Mentoring organizations apply between March 8-12, 2010. Accepted
     mentoring organizations will be published March 19.
