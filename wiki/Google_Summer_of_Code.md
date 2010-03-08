@@ -265,6 +265,10 @@ sub-projects](http://code.open-bio.org/svnweb/index.cgi/biojava/)
 
 [Biopython](biopython:Main_Page "wikilink") :  
 
+:\* [BioPython GSoC
+Page](http://biopython.org/wiki/Google_Summer_of_Code) - project ideas
+and mentors
+
 :\* [Project website](biopython:Main_Page "wikilink")
 
 :\* [Information for contributors](biopython:Contributing "wikilink")
