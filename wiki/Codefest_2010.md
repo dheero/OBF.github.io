@@ -74,6 +74,7 @@ Attendees
 -   [Peter Cock](http://www.scri.ac.uk/staff/petercock) (TBC)
 -   [ Kam Dahlquist](User:Kdahlquist "wikilink")
 -   [John David N. Dionisio](http://myweb.lmu.edu/dondi)
+-   Steffen Moeller
 
 Feel free to add yourself if you are interested. We are happy to have
 you.
