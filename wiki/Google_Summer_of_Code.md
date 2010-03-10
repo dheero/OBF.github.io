@@ -109,8 +109,9 @@ Open-Bio Projects Accepting Applicants
 
 [BioPerl](bp:Main_Page "wikilink") :  
 
-:\* [BioPerl GSoC Page](http://bioperl.org/wiki/Google_Summer_of_Code) -
-project ideas and mentors
+:\* **[BioPerl GSoC
+Page](http://bioperl.org/wiki/Google_Summer_of_Code)** - project ideas
+and mentors
 
 :\* [Project website](bp:Main_Page "wikilink")
 
@@ -128,12 +129,31 @@ need work, as another source for student-conceived project ideas
 
 :\* IRC: \#bioperl on [Freenode](http://freenode.net)
 
+![](Biopython_logo_tiny.png "Biopython_logo_tiny.png")
+
+[Biopython](biopython:Main_Page "wikilink") :  
+
+:\* **[BioPython GSoC
+Page](http://biopython.org/wiki/Google_Summer_of_Code)** - project ideas
+and mentors
+
+:\* [Project website](biopython:Main_Page "wikilink")
+
+:\* [Information for contributors](biopython:Contributing "wikilink")
+
+:\* [Mailing lists](biopython:Mailing_lists "wikilink")
+
+:\* [ Source Code](biopython:SourceCode "wikilink")
+
+:\* No IRC channel at present
+
 ![](Biojava_logo_tiny.jpg "Biojava_logo_tiny.jpg")
 
 [BioJava](http://biojava.org) :  
 
-:\* [BioJava GSoC Page](http://biojava.org/wiki/Google_Summer_of_Code) -
-project ideas and mentors
+:\* **[BioJava GSoC
+Page](http://biojava.org/wiki/Google_Summer_of_Code)** - project ideas
+and mentors
 
 :\* [BioJava modules](http://biojava.org/wiki/BioJava:Modules) as
 another source for student-conceived project ideas
@@ -144,24 +164,6 @@ another source for student-conceived project ideas
 sub-projects](http://code.open-bio.org/svnweb/index.cgi/biojava/)
 
 :\* [Mailing lists](http://biojava.org/wiki/BioJava:MailingLists)
-
-:\* No IRC channel at present
-
-![](Biopython_logo_tiny.png "Biopython_logo_tiny.png")
-
-[Biopython](biopython:Main_Page "wikilink") :  
-
-:\* [BioPython GSoC
-Page](http://biopython.org/wiki/Google_Summer_of_Code) - project ideas
-and mentors
-
-:\* [Project website](biopython:Main_Page "wikilink")
-
-:\* [Information for contributors](biopython:Contributing "wikilink")
-
-:\* [Mailing lists](biopython:Mailing_lists "wikilink")
-
-:\* [ Source Code](biopython:SourceCode "wikilink")
 
 :\* No IRC channel at present
 
@@ -214,17 +216,18 @@ Guide for prospective GSoC students
 
 ### Before you apply
 
--   If you want to apply with your own idea, determine which OBF project
-    you would be contributing to, and [contact us](#Contact "wikilink")
-    early on so we can try to find a mentor.
--   Proposals should extend one of affiliated toolkits.
+-   Proposals should extend one of affiliated toolkits, not start a
+    new project.
+-   If you want to apply with your own idea, try to [contact
+    us](#Contact "wikilink") early on so we can work with you to find a
+    mentor and solidify your project idea and application.
 -   [Ask us questions](#Contact "wikilink") about the project idea you
     have in mind.
 -   Write a project proposal draft, include a project plan (see below),
     and [bounce those off of us](#Contact "wikilink").
 
 Again, **students are strongly encouraged to [contact
-us](#Contact "wikilink") before applying**. Frequent and early
+us](#Contact "wikilink") as early as possible**. Frequent and early
 communication is extremely valuable for putting together successful
 projects.
 
