@@ -86,10 +86,9 @@ idea.
 
 Before applying, please read our [documentation on information that
 students should know and guidelines we expect you to
-follow](#What_should_prospective_students_know.3F "wikilink"). We don't
-have a format template for application that you need to adhere to, but
-we ask that you include specific kinds of information, documented under
-"[When you apply](#When_you_apply "wikilink")."
+follow](#What_should_prospective_students_know.3F "wikilink"). We also
+require that you include certain information, listed below, under "[When
+you apply](#When_you_apply "wikilink")."
 
 Some mentors and developers can regularly be found on IRC, see the list
 of OBF projects below for information on which projects have a channel
