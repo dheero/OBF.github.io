@@ -41,6 +41,23 @@ See the [Main GSoC Site](http://code.google.com/soc) for more
 information and FAQs, and see below for [other facts such as eligibility
 and timelines ](#Other_Facts_.26_Links "wikilink").
 
+Mentors and Project Ideas
+-------------------------
+
+Mentors and project ideas are hosted on each member project's wiki on a
+dedicated Google Summer of Code page. See each of the member projects,
+linked below.
+
+*Note to students: project ideas on the wikis of member projects are
+only selected projects, albeit well thought-out ones. You are welcome to
+propose your own project if none of those below catches your interest,
+or if your idea is more exciting to you, provided it is still a
+contribution to one the OBF member projects (see list below). If we like
+your proposal, we will try to find a mentor to help you with the
+project. Regardless of what you decide to do, make sure you read and
+follow the [guidelines for
+students](#What_should_prospective_students_know.3F "wikilink") below.*
+
 Contact
 -------
 
@@ -87,23 +104,6 @@ well. If you have never used IRC, try the [IRC
 Primer](http://irchelp.org/irchelp/ircprimer.html) at [IRC
 Help](http://irchelp.org/), which also has links to lots of other
 material.)*
-
-Mentors and Project Ideas
--------------------------
-
-Mentors and project ideas are hosted on each member project's wiki on a
-dedicated Google Summer of Code page. See each of the member projects,
-linked below.
-
-*Note to students: project ideas on the wikis of member projects are
-only selected projects, albeit well thought-out ones. You are welcome to
-propose your own project if none of those below catches your interest,
-or if your idea is more exciting to you, provided it is still a
-contribution to one the OBF member projects (see list below). If we like
-your proposal, we will try to find a mentor to help you with the
-project. Regardless of what you decide to do, make sure you read and
-follow the [guidelines for
-students](#What_should_prospective_students_know.3F "wikilink") below.*
 
 Open-Bio Projects Accepting Applicants
 --------------------------------------
