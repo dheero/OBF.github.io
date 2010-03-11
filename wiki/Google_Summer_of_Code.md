@@ -237,8 +237,8 @@ projects.
 When applying, (aside from the information requested by Google) please
 provide the following in your application material.
 
-1.  **Your complete contact information, including full name, physical
-    address, preferred email address, and telephone number**, plus other
+1.  **Your complete contact information**, including full name, physical
+    address, preferred email address, and telephone number, plus other
     pertinent contact information such as IRC handles, etc.
 2.  Why you are interested in the project you are proposing and are
     well-suited to undertake it.
