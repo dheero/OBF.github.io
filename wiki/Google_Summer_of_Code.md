@@ -44,30 +44,40 @@ and timelines ](#Other_Facts_.26_Links "wikilink").
 Contact
 -------
 
+For prospective students, the first point of contact should be the
+mailing list of the OBF project you are interested in working with:
+
+BioPerl: [bioperl-l@lists.open-bio.org](mailto:bioperl-l%40lists%2eopen-bio%2eorg)  
+BioPython: [biopython@lists.open-bio.org](mailto:biopython%40lists%2eopen-bio%2eorg)  
+BioJava: [biojava-l@lists.open-bio.org](mailto:biojava-l%40lists%2eopen-bio%2eorg)  
+BioRuby: [bioruby@lists.open-bio.org](mailto:bioruby%40lists%2eopen-bio%2eorg)  
+BioSQL: [biosql-l@lists.open-bio.org](mailto:biosql-l%40lists%2eopen-bio%2eorg)  
+BioLib: [biolib-dev@lists.open-bio.org](mailto:biolib-dev%40lists%2eopen-bio%2eorg)  
+
+Also, it would be a good idea to CC the organization adminstrator, so he
+can make sure that you are properly taken care of:
+
 Organization administrator: [Robert Buels](User:RobertBuels "wikilink") ([rmb32@cornell.edu](mailto:rmb32%40cornell%2eedu))  
 Backup administrator: [Hilmar Lapp](User:Lapp "wikilink") ([hlapp@gmx.net](mailto:hlapp%40gmx%2enet))  
 
-If you are a student interested in applying for a Google Summer of Code
-project with our organization, please send questions and project ideas
-to the develop mailing list of the pertinent OBF project.
+If you are not quite sure which project you would like to contribute to,
+you can email to the organization administrator for help. However, do
+not worry overly much about picking the right OBF project at the outset.
+If you are unsure, simply make your best guess, and other members of the
+email list will help you to find the best organization to suit your
+idea.
 
-How do you know which project is pertinent and the address of its
-developer mailing list? The [projects under the OBF umbrella are listed
-below](#Open-Bio_projects_involved "wikilink"), with home page and
-developer mailing lists. Each project idea lists the OBF project it is a
-part of; look it up in the list below and you have the information you
-need. If you want to propose your own project idea and the project to
-which you would contribute isn't obvious, send email to
-[gsoc@lists.open-bio.org](mailto:gsoc%40lists%2eopen-bio%2eorg).
-However, do not worry overly much about picking the right OBF project at
-the outset. If you are unsure, simply make your best guess, and other
-members of the email list will help you to find the best organization to
-suit your idea.
+Before applying, please read our [documentation on information that
+students should know and guidelines we expect you to
+follow](#What_should_prospective_students_know.3F "wikilink"). We don't
+have a format template for application that you need to adhere to, but
+we ask that you include specific kinds of information, documented under
+"[When you apply](#When_you_apply "wikilink")."
 
-Some of us also can regularly be found on IRC, see the list of OBF
-projects below for information on which projects have a channel and the
-name of the channel. *(If you do not have an IRC client installed, you
-might find the [comparison on
+Some mentors and developers can regularly be found on IRC, see the list
+of OBF projects below for information on which projects have a channel
+and the name of the channel. *(If you do not have an IRC client
+installed, you might find the [comparison on
 Wikipedia](http://en.wikipedia.org/wiki/List_of_IRC_clients), the
 [Google
 directory](http://directory.google.com/Top/Computers/Software/Internet/Clients/Chat/IRC/),
@@ -77,13 +87,6 @@ well. If you have never used IRC, try the [IRC
 Primer](http://irchelp.org/irchelp/ircprimer.html) at [IRC
 Help](http://irchelp.org/), which also has links to lots of other
 material.)*
-
-Before applying, please read our [documentation on information that
-students should know and guidelines we expect you to
-follow](#What_should_prospective_students_know.3F "wikilink"). We don't
-have a format template for application that you need to adhere to, but
-we ask that you include specific kinds of information, documented under
-"[When you apply](#When_you_apply "wikilink")."
 
 Mentors and Project Ideas
 -------------------------
