@@ -110,11 +110,10 @@ Open-Bio Projects Accepting Applicants
 
 ![](BioPerl_logo_tiny.jpg "BioPerl_logo_tiny.jpg")
 
-[BioPerl](bp:Main_Page "wikilink") :  
+[BioPerl](bp:Google_Summer_of_Code "wikilink") :  
 
-:\* **[BioPerl GSoC
-Page](http://bioperl.org/wiki/Google_Summer_of_Code)** - project ideas
-and mentors
+:\* **[ BioPerl GSoC Page](bp:Google_Summer_of_Code "wikilink")** -
+project ideas and mentors
 
 :\* [Project website](bp:Main_Page "wikilink")
 
@@ -134,11 +133,11 @@ need work, as another source for student-conceived project ideas
 
 ![](Biopython_logo_tiny.png "Biopython_logo_tiny.png")
 
-[Biopython](biopython:Main_Page "wikilink") :  
+[BioPython](biopython:Google_Summer_of_Code "wikilink") :  
 
-:\* **[BioPython GSoC
-Page](http://biopython.org/wiki/Google_Summer_of_Code)** - project ideas
-and mentors
+:\* **[ BioPython GSoC
+Page](biopython:Google_Summer_of_Code "wikilink")** - project ideas and
+mentors
 
 :\* [Project website](biopython:Main_Page "wikilink")
 
@@ -152,7 +151,7 @@ and mentors
 
 ![](Biojava_logo_tiny.jpg "Biojava_logo_tiny.jpg")
 
-[BioJava](http://biojava.org) :  
+[BioJava](http://biojava.org/wiki/Google_Summer_of_Code) :  
 
 :\* **[BioJava GSoC
 Page](http://biojava.org/wiki/Google_Summer_of_Code)** - project ideas
