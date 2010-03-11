@@ -237,13 +237,16 @@ projects.
 When applying, (aside from the information requested by Google) please
 provide the following in your application material.
 
-1.  Why you are interested in the project you are proposing and are
+1.  **Your complete contact information, including full name, physical
+    address, preferred email address, and telephone number**, plus other
+    pertinent contact information such as IRC handles, etc.
+2.  Why you are interested in the project you are proposing and are
     well-suited to undertake it.
-2.  A summary of your programming experience and skills.
-3.  Programs or projects you have previously authored or contributed to,
+3.  A summary of your programming experience and skills.
+4.  Programs or projects you have previously authored or contributed to,
     in particular those available as open-source, including, if
     applicable, any past Summer of Code involvement.
-4.  A project plan for the project you are proposing, even if your
+5.  A project plan for the project you are proposing, even if your
     proposed project is directly based on one of the proposed project
     ideas for member projects.
     -   A project plan in principle divides up the whole project into a
@@ -273,7 +276,7 @@ provide the following in your application material.
         missing a lot of the pieces - we are there to help you fill
         those in as best as we can.
 
-5.  Any obligations or plans for the summer during the coding period
+6.  Any obligations or plans for the summer during the coding period
     that may possibly conflict.
     -   We expect the your GSoC projec to be your primary focus over
         the summer. It should not be regarded as a part-time occupation.
