@@ -66,6 +66,8 @@ linked below, for more details about any project:
     Alignment](http://biojava.org/wiki/Google_Summer_of_Code)
 -   [(BioRuby) Ruby 1.9.2 support of
     BioRuby](http://bioruby.open-bio.org/wiki/Google_Summer_of_Code#Ruby_1.9.2_support_of_BioRuby)
+-   [(BioRuby) Implementation of algorithm to infer gene duplications in
+    BioRuby](http://bioruby.open-bio.org/wiki/Google_Summer_of_Code#Implementation_of_algorithm_to_infer_gene_duplications_in_BioRuby)
 -   [(Biolib) Mapping JAVA libraries to Perl/Ruby/Python using
     Biolib+SWIG+JNI](http://biolib.open-bio.org/wiki/GSoC2010)
 
