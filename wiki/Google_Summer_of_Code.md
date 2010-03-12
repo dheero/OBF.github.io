@@ -273,7 +273,7 @@ provide the following in your application material.
     proposed project is directly based on one of the proposed project
     ideas for member projects.
     -   A project plan in principle divides up the whole project into a
-        series of manageable milestones and timelines that, when all
+        series of manageable milestones and time-lines that, when all
         accomplished, logically lead to the end goal(s) of the project.
         Put in another way, a project plan explains what you expect you
         will need to be doing, and what you expect you need to have
@@ -282,8 +282,8 @@ provide the following in your application material.
     -   Do not take this part lightly. A compelling plan takes a
         significant amount of work. Empirically, applications with no or
         a hastily composed project plan have not been competitive, and a
-        more thorough project plan can easily make an applicant
-        outcompete another with more advanced skills.
+        more thorough project plan can easily make an applicant out
+        compete another with more advanced skills.
     -   A good plan will require you to thoroughly think about the
         project itself and how one might want to go about the work.
     -   We don't expect you to have all the experience, background, and
@@ -301,7 +301,7 @@ provide the following in your application material.
 
 6.  Any obligations, vacations, or plans for the summer that may require
     scheduling during the GSoC work period.
-    -   We expect the your GSoC projec to be your primary focus over
+    -   We expect the your GSoC project to be your primary focus over
         the summer. It should not be regarded as a part-time occupation.
     -   If you feel that you can manage other work obligations
         concurrently with your Summer of Code project, make your case
