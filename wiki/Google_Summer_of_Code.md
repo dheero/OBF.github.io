@@ -66,6 +66,8 @@ linked below, for more details about any project:
     Alignment](http://biojava.org/wiki/Google_Summer_of_Code)
 -   [(BioRuby) Ruby 1.9.2 support of
     BioRuby](http://bioruby.open-bio.org/wiki/Google_Summer_of_Code#Ruby_1.9.2_support_of_BioRuby)
+-   [Biolib](http://biolib.open-bio.org/wiki/GSoC2010): Mapping JAVA
+    libraries to Perl/Ruby/Python using Biolib+SWIG+JNI
 
 *Note to students: project ideas on the wikis of member projects are
 only selected projects, albeit well thought-out ones. You are welcome to
