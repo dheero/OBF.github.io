@@ -46,7 +46,26 @@ Mentors and Project Ideas
 
 Mentors and project ideas are hosted on each member project's wiki on a
 dedicated Google Summer of Code page. See each of the member projects,
-linked below.
+linked below, for more details about any project:
+
+-   [(BioPerl) Major BioPerl
+    reorganization](http://bioperl.org/wiki/Google_Summer_of_Code#Major_BioPerl_reorganization)
+-   [(BioPerl) Lightweight Sequence objects and Lazy
+    Parsing](http://bioperl.org/wiki/Google_Summer_of_Code#Lightweight_Sequence_objects_and_Lazy_Parsing)
+-   [(BioPerl) Alignment Subsystem
+    Refactoring](http://bioperl.org/wiki/Google_Summer_of_Code#Alignment_Subsystem_Refactoring)
+-   \[<http://bioperl.org/wiki/Google_Summer_of_Code#Bio>::Assembly (BioPerl)
+    Bio::Assembly\]
+-   [(Biopython) Biopython and PyCogent
+    interoperability](http://biopython.org/wiki/Google_Summer_of_Code#Biopython_and_PyCogent_interoperability)
+-   [(Biopython) Galaxy phylogenetics pipeline
+    development](http://biopython.org/wiki/Google_Summer_of_Code#Galaxy_phylogenetics_pipeline_development)
+-   [(Biopython) Accessing R phylogenetic tools from
+    Python](http://biopython.org/wiki/Google_Summer_of_Code#Accessing_R_phylogenetic_tools_from_Python)
+-   [(BioJava) All-Java Multiple Sequence
+    Alignment](http://biojava.org/wiki/Google_Summer_of_Code)
+-   [(BioRuby) Ruby 1.9.2 support of
+    BioRuby](http://bioruby.open-bio.org/wiki/Google_Summer_of_Code#Ruby_1.9.2_support_of_BioRuby)
 
 *Note to students: project ideas on the wikis of member projects are
 only selected projects, albeit well thought-out ones. You are welcome to
