@@ -276,8 +276,8 @@ provide the following in your application material.
         missing a lot of the pieces - we are there to help you fill
         those in as best as we can.
 
-6.  Any obligations or plans for the summer during the coding period
-    that may possibly conflict.
+6.  Any obligations, vacations, or plans for the summer that may require
+    scheduling during the GSoC work period.
     -   We expect the your GSoC projec to be your primary focus over
         the summer. It should not be regarded as a part-time occupation.
     -   If you feel that you can manage other work obligations
