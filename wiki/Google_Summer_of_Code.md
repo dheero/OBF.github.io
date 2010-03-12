@@ -172,6 +172,10 @@ sub-projects](http://code.open-bio.org/svnweb/index.cgi/biojava/)
 
 [BioRuby](http://bioruby.org) :  
 
+:\* **[BioRuby GSoC
+Page](http://bioruby.open-bio.org/wiki/Google_Summer_of_Code)** -
+project ideas and mentors
+
 :\* [Project website](http://bioruby.org)
 
 :\* [developers mailing
