@@ -74,13 +74,12 @@ linked below, for more details about any project:
     Biolib+SWIG+JNI](http://biolib.open-bio.org/wiki/GSoC2010)
 
 *Note to students: project ideas on the wikis of member projects are
-only selected projects, albeit well thought-out ones. You are welcome to
-propose your own project if none of those below catches your interest,
-or if your idea is more exciting to you, provided it is still a
-contribution to one the OBF member projects (see list below). If we like
-your proposal, we will try to find a mentor to help you with the
-project. Regardless of what you decide to do, make sure you read and
-follow the [guidelines for
+only selected projects, albeit well thought-out ones. You are encouraged
+to propose your own project, just make sure it is still a contribution
+to one the OBF member projects (see list below)! If we like your
+proposal, we will try to find a mentor to help you with the project.
+Regardless of what you decide to do, make sure you read and follow the
+[guidelines for
 students](#What_should_prospective_students_know.3F "wikilink") below.*
 
 Contact
