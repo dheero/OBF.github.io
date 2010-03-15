@@ -75,6 +75,7 @@ Attendees
 -   [ Kam Dahlquist](User:Kdahlquist "wikilink")
 -   [John David N. Dionisio](http://myweb.lmu.edu/dondi)
 -   Steffen Moeller
+-   [Richard Holland](http://www.biojava.org/wiki/User:Rholland) (TBC)
 
 Feel free to add yourself if you are interested. We are happy to have
 you.
