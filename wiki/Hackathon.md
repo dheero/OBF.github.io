@@ -26,10 +26,14 @@ Hackathons involving O|B|F projects
         National Evolutionary Synthesis Center (NESCent).
 -   [2008 BioHackathon](http://hackathon.dbcls.jp/)
     -   Feb 11-15, 2008, in Tokyo, Japan. Sponsored by the Database
-        Center for Life Science (DBCLS) and Computational Biology
+        Center for Life Science (DBCLS) and the Computational Biology
         Research Center (CBRC).
 -   [2009 BioHackathon](http://hackathon2.dbcls.jp/)
     -   Mar 16-20, 2009, in Tokyo and Okinawa, Japan. Sponsored by the
         Database Center for Life Science (DBCLS) and the Okinawa
         Institute of Science and Technology (OIST).
+-   [2010 BioHackathon](http://hackathon3.dbcls.jp/)
+    -   Feb 8-12, 2010, in Tokyo, Japan. Sponsored by the Database
+        Center for Life Science (DBCLS) and the Computational Biology
+        Research Center (CBRC).
 
