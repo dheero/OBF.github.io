@@ -76,6 +76,8 @@ Attendees
 -   [John David N. Dionisio](http://myweb.lmu.edu/dondi)
 -   Steffen Moeller
 -   [Richard Holland](http://www.biojava.org/wiki/User:Rholland) (TBC)
+-   [Bela Tiwari](http://nebc.nox.ac.uk/nebc/about-us/people)
+-   [Oliver Buckley](http://nebc.nox.ac.uk/nebc/about-us/people)
 
 Feel free to add yourself if you are interested. We are happy to have
 you.
