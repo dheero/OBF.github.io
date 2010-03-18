@@ -152,7 +152,7 @@ need work, as another source for student-conceived project ideas
 
 :\* [Mailing lists](bp:Mailing_lists "wikilink")
 
-:\* IRC: \#bioperl on [Freenode](http://freenode.net)
+:\* IRC: `#bioperl` on [Freenode](http://freenode.net)
 
 ![](Biopython_logo_tiny.png "Biopython_logo_tiny.png")
 
