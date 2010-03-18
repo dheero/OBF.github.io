@@ -116,9 +116,9 @@ you apply](#When_you_apply "wikilink")."
 
 Some mentors and developers can regularly be found on IRC, see the list
 of OBF projects below for information on which projects have a channel
-and the name of the channel. *(If you do not have an IRC client
-installed, you might find the [comparison on
-Wikipedia](http://en.wikipedia.org/wiki/List_of_IRC_clients), the
+and the name of the channel. And/or join `#obf-soc` on Freenode. *(If
+you do not have an IRC client installed, you might find the [comparison
+on Wikipedia](http://en.wikipedia.org/wiki/List_of_IRC_clients), the
 [Google
 directory](http://directory.google.com/Top/Computers/Software/Internet/Clients/Chat/IRC/),
 or the [IRC Reviews](http://www.ircreviews.org/clients/) helpful. For
