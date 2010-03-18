@@ -112,7 +112,7 @@ What is the main IRC channel for your organization? (required):
 BioPerl has an IRC channel, \#bioperl on freenode. The other subprojects
 do not maintain IRC channels. Depending on the number of GSoC students
 we end up with and their working habits, we will most likely create an
-\#obf-gsoc or similar channel to coordinate student and mentor work, if
+\#obf-soc or similar channel to coordinate student and mentor work, if
 OBF is accepted as a mentoring organization.
 
 Add a Comment (optional):  
