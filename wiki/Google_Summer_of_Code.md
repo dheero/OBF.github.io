@@ -85,6 +85,18 @@ students](#What_should_prospective_students_know.3F "wikilink") below.*
 Contact
 -------
 
+### IRC - Internet Relay Chat
+
+IRC is the preferred method of real-time communication between GSoC
+participants. OBF IRC channels are maintained on
+[Freenode](http://freenode.net), connect your IRC client to
+**chat.freenode.net**.
+
+Main OBF GSoC Channel: \#obf-soc  
+BioPerl: \#bioperl  
+
+### Email
+
 For prospective students, the first point of contact should be the
 mailing list of the OBF project you are interested in working with:
 
