@@ -89,11 +89,11 @@ Contact
 
 IRC is the preferred method of real-time communication between GSoC
 participants. OBF IRC channels are maintained on
-[Freenode](http://freenode.net), connect your IRC client to
-**chat.freenode.net**.
+[freenode](http://freenode.net), connect your IRC client to
+`chat.freenode.net`.
 
-Main OBF GSoC Channel: \#obf-soc  
-BioPerl: \#bioperl  
+Main OBF GSoC Channel: `#obf-soc`  
+BioPerl: `#bioperl`  
 
 ### Email
 
