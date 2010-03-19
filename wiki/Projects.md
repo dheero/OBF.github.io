@@ -36,7 +36,9 @@ Affiliated projects
 Other related projects
 ----------------------
 
--   [Bioinformatics tools in Haskell](http://malde.org/~ketil/)
+-   BioHaskell [home page](http://blog.malde.org/),
+    [releases](http://hackage.haskell.org/packages/archive/pkg-list.html#cat:bioinformatics),
+    [source code](http://malde.org/~ketil/)
 -   [BioPHP](http://biophp.org)
 -   [BioWeka](http://bioweka.sourceforge.net/index.php/Main_Page)
 -   [BioClipse](http://www.bioclipse.net/) - visual platform based on
