@@ -78,6 +78,7 @@ Attendees
 -   [Richard Holland](http://www.biojava.org/wiki/User:Rholland) (TBC)
 -   [Bela Tiwari](http://nebc.nox.ac.uk/nebc/about-us/people)
 -   [Oliver Buckley](http://nebc.nox.ac.uk/nebc/about-us/people)
+-   [ Dominique Belhachemi](User:Domibel "wikilink")
 
 Feel free to add yourself if you are interested. We are happy to have
 you.
