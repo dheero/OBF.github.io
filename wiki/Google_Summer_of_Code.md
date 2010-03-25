@@ -72,6 +72,10 @@ linked below, for more details about any project:
     BioRuby](http://bioruby.open-bio.org/wiki/Google_Summer_of_Code#Implementation_of_algorithm_to_infer_gene_duplications_in_BioRuby)
 -   [(Biolib) Mapping JAVA libraries to Perl/Ruby/Python using
     Biolib+SWIG+JNI](http://biolib.open-bio.org/wiki/GSoC2010)
+-   [(BioDAS) Redesign of the DAS
+    Registry](http://www.biodas.org/wiki/GSoC2010)
+-   [(BioDAS) DAS Server for large files on local
+    filesystems](http://www.biodas.org/wiki/GSoC2010)
 
 *Note to students: project ideas on the wikis of member projects are
 only selected projects, albeit well thought-out ones. You are encouraged
@@ -106,6 +110,7 @@ BioJava: [biojava-l@lists.open-bio.org](mailto:biojava-l%40lists%2eopen-bio%2eor
 BioRuby: [bioruby@lists.open-bio.org](mailto:bioruby%40lists%2eopen-bio%2eorg)  
 BioSQL: [biosql-l@lists.open-bio.org](mailto:biosql-l%40lists%2eopen-bio%2eorg)  
 BioLib: [biolib-dev@lists.open-bio.org](mailto:biolib-dev%40lists%2eopen-bio%2eorg)  
+BioDAS: <das@lists.open-bio.org>  
 
 Also, it would be a good idea to CC the organization adminstrator, so he
 can make sure that you are properly taken care of:
@@ -250,6 +255,19 @@ code](http://code.open-bio.org/svnweb/index.cgi/biosql/browse/biosql-schema/trun
 list](http://lists.open-bio.org/mailman/listinfo/biolib-dev)
 
 :\* [source code](http://github.com/pjotrp/biolib/tree/master)
+
+:\* No IRC channel at present
+
+![](DAS_logo_160px.png "DAS_logo_160px.png")
+
+[BioDAS](http://www.biodas.org) :  
+
+:\* **[BioDAS GSoC Page](http://www.biodas.org/wiki/GSoc2010)** -
+project ideas and mentors
+
+:\* [Project website](http://www.biodas.org)
+
+:\* [mailing list](http://lists.open-bio.org/mailman/listinfo/das)
 
 :\* No IRC channel at present
 
