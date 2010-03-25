@@ -1,5 +1,5 @@
 ---
-title: Gsoc
+title: GSoC
 redirect_to: /wiki/Google_Summer_of_Code
 ---
 
