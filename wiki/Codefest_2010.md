@@ -48,6 +48,20 @@ Location
     \[<http://maps.google.com/maps?hl=en&source=hp&q=185+Cambridge+St,+Boston,+Suffolk,+Massachusetts+02114&um=1&ie=UTF-8&hq>=&hnear=185+Cambridge+St,+Boston,+MA+02114&gl=us&ei=qeteS\_eUGoy1tgeDyKjwCw&sa=X&oi=geocode\_result&ct=image&resnum=1&ved=0CAsQ8gEwAA
     185 Cambridge Street, Boston, MA\]
 
+Resources
+---------
+
+-   [Amazon Web Services](http://aws.amazon.com/) -- We will be able to
+    use EC2 and other Amazon services thanks to [Amazon
+    grant](http://aws.amazon.com/education/) support for a proposal put
+    together by Steffan Moellar. Many thanks to Amazon for supporting
+    the initiative and Steffan for putting together the application.
+-   [Eucalyptus](http://www.eucalyptus.com/) -- The
+    [Universitätsklinikum
+    Schleswig-Holstein](http://www.uk-sh.de/index.phtml?NavID=676.467.4&La=4&switch_la=1&back_qs=NavID%3D676.467.4)
+    is sponsoring a 12 node local Eucalyptus cloud for testing
+    and development. Thanks again to Steffan for making this available.
+
 Sponsorship
 -----------
 
