@@ -56,7 +56,7 @@ linked below, for more details about any project:
     Refactoring](http://bioperl.org/wiki/Google_Summer_of_Code#Alignment_Subsystem_Refactoring)
 -   [(BioPerl) Perl Run Wrappers for External Programs in a
     Flash](http://bioperl.org/wiki/Google_Summer_of_Code#Perl_Run_Wrappers_for_External_Programs_in_a_Flash)
--   [BioPerl 2.0 (Modern::Perl, Perl6, and
+-   [(BioPerl) BioPerl 2.0: Modern::Perl, Perl6, and
     BioPerl](http://bioperl.org/wiki/Google_Summer_of_Code#BioPerl_2.0_.28and_beyond.29)
 -   [(Biopython) Biopython and PyCogent
     interoperability](http://biopython.org/wiki/Google_Summer_of_Code#Biopython_and_PyCogent_interoperability)
