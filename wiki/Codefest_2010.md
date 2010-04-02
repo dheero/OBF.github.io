@@ -94,6 +94,7 @@ Attendees
 -   [Oliver Buckley](http://nebc.nox.ac.uk/nebc/about-us/people)
 -   [ Dominique Belhachemi](User:Domibel "wikilink")
 -   [Toshiaki Katayama](http://www.linkedin.com/in/toshiakikatayama)
+-   [Mitsuteru NAKAO](http://www.linkedin.com/in/nakaomitsuteru)
 
 Feel free to add yourself if you are interested. We are happy to have
 you.
