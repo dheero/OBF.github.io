@@ -93,6 +93,7 @@ Attendees
 -   [Bela Tiwari](http://nebc.nox.ac.uk/nebc/about-us/people)
 -   [Oliver Buckley](http://nebc.nox.ac.uk/nebc/about-us/people)
 -   [ Dominique Belhachemi](User:Domibel "wikilink")
+-   [Toshiaki Katayama](http://www.linkedin.com/in/toshiakikatayama)
 
 Feel free to add yourself if you are interested. We are happy to have
 you.
