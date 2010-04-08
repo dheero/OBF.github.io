@@ -95,6 +95,7 @@ Attendees
 -   [ Dominique Belhachemi](User:Domibel "wikilink")
 -   [Toshiaki Katayama](http://www.linkedin.com/in/toshiakikatayama)
 -   [Mitsuteru NAKAO](http://www.linkedin.com/in/nakaomitsuteru)
+-   [Dave Messina](http://www.bioperl.org/wiki/User:Dave_Messina)
 
 Feel free to add yourself if you are interested. We are happy to have
 you.
