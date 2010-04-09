@@ -28,8 +28,8 @@ we'll have to make some very tough calls.
 With that in mind, here are suggested guidelines for scoring in the
 first round.
 
-First-round scoring Guidelines
-------------------------------
+Round 1 Scoring Guidelines
+--------------------------
 
 1.  Review the applications that you would be primary or secondary
     mentor for (this should be apparent from the title). Point out any
