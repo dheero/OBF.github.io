@@ -75,20 +75,27 @@ This should leave us with those applications that a slot is being
 requested for at score +4 or +5. It would be great if we can get to this
 point by Tuesday night. (Yes, you can change your mind later.)
 
+Round 2 Scoring Guidelines
+--------------------------
+
 In the second round of scoring, all mentors will be invited to look at
 all applications scored positively in the first round (except those
 they'd mentor themselves), and add scores corresponding to the degree
 they agree an application should receive a slot. We'll wait with this
 until Tuesday and the first round is hopefully complete.
 
+Interviews
+----------
+
 Finally, the primary (or secondary) mentors should start to arrange an
-interview with at least their top applicant, and with both top and
-second if they are close in order to assess the student's communication
-abilities and whether personalities (yours and theirs) match well
-enough. The interview should take place \*during the review period\*,
-the earlier the better, and you should comment on your conclusions from
-it in a private comment. The interview may be by email, chat, Skype, or
-phone, depending on what you feel lets you best make the assessment.
+interview (if one has not already been done) with at least their top
+applicant, and with both top and second if they are close in order to
+assess the student's communication abilities and whether personalities
+(yours and theirs) match well enough. The interview should take place
+\*during the review period\*, the earlier the better, and you should
+comment on your conclusions from it in a private comment. The interview
+may be by email, chat, Skype, or phone, depending on what you feel lets
+you best make the assessment.
 
 Things to keep in mind
 ----------------------
