@@ -8,23 +8,24 @@ procedure by Hilmar Lapp.
 Overview
 --------
 
-We'll have 3 rounds of scoring. In the first round, mentors review the
-applications for their project idea and score them (see below for
-specifics). In the second round we would also like all mentors to look
-at (at least) the top-scoring applications for project ideas other than
-their own and score them too so that we get a poll on consensus or
-divergence of opinions. In the third round where necessary Todd and I
-may weigh in to ensure optimal alignment with NESCent's objectives and
-mission.
+There are 3 rounds of scoring.
 
-Before I'll go into specifics, as a reminder we're not expecting to
-accept more than 6 students this year. With 17 project ideas listed at
-last count, simple math shows already that about 1/3 of our project
-ideas won't get funded. Some of those may not receive strong
-applications in the end, so the decision will be easier in those cases;
-however, we do expect that we'll have to make some very tough calls.
+Round 1: Mentors review the applications for their project idea and score them (see below for specifics).  
 
-With that in mind, here are my suggested guidelines for scoring in the
+<!-- -->
+
+Round 2: All mentors look at (at least) the top-scoring applications for project ideas other than their own and score them too so that we get a poll on consensus or divergence of opinions.  
+
+<!-- -->
+
+Round 3: Where necessary, organization admins weigh in to ensure optimal alignment with OBFs projects and objectives.  
+
+Keep in mind that typically **fewer than 40% of project *ideas*** are
+funded. Some project ideas may not receive any strong applications, so
+the decision will be easier in those cases; however, we do expect that
+we'll have to make some very tough calls.
+
+With that in mind, here are suggested guidelines for scoring in the
 first round.
 
 First-round scoring Guidelines
@@ -39,7 +40,7 @@ First-round scoring Guidelines
     presumably edit his/her application to respond to your request for
     information or criticism (at least they could last year).
 2.  For scoring, leave the 'Public review' box unchecked (i.e., the
-    student will not see it, but other mentors will), change the 'Score'
+    student will not see it, but other mentors will), change the *Score*
     drop-down to where you want it, add explanatory comment for your
     score, and hit 'Submit'. Scores are cumulative, so you can revert a
     score by subtracting what you previously added. Scores without
@@ -52,7 +53,7 @@ First-round scoring Guidelines
     the primary mentor to take into consideration, or email the
     primary mentor.
 4.  Give the top 2 or 3 applications for your idea that may warrant
-    funding (see below) a gradated positive score to establish your
+    funding (see below) a graduated positive score to establish your
     preference (+4 for the best, +3 second, +2 third). Add +1 to the
     best one (for a total of +5) if your comments only point out
     refinements and in principle you're happy with the application
