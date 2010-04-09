@@ -2,6 +2,9 @@
 title: Google Summer of Code Application Evaluation
 ---
 
+Originally based on the NESCent Phyloinformatics Summer of Code
+procedure by Hilmar Lapp.
+
 Overview
 --------
 
