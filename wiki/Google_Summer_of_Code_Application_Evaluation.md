@@ -87,15 +87,15 @@ until Tuesday and the first round is hopefully complete.
 Interviews
 ----------
 
-Finally, the primary (or secondary) mentors should start to arrange an
-interview (if one has not already been done) with at least their top
-applicant, and with both top and second if they are close in order to
-assess the student's communication abilities and whether personalities
-(yours and theirs) match well enough. The interview should take place
-\*during the review period\*, the earlier the better, and you should
-comment on your conclusions from it in a private comment. The interview
-may be by email, chat, Skype, or phone, depending on what you feel lets
-you best make the assessment.
+Finally, the primary (or secondary) mentors should arrange an interview
+(if one has not already been done) with at least their top applicant, or
+possibly the top two applicants if the decision is close. This lets the
+mentor better assess the student's communication abilities and whether
+personalities (yours and theirs) match well enough. The interview should
+take place \*during the review period\*, the earlier the better, and you
+should comment on your conclusions from it in a private comment. The
+interview may be by email, chat, Skype, or phone, depending on what you
+feel lets you best make the assessment.
 
 Things to keep in mind
 ----------------------
