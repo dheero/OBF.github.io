@@ -353,14 +353,13 @@ provide the following in your application material.
         is being overcommitted. Do not set yourself up for failure! GSoC
         summers should be fun and rewarding!
 
-Guide for Mentors
------------------
-
 Mentor Resources
 ----------------
 
 -   [GSoC Mentoring
     Guide](http://en.flossmanuals.net/GSoCMentoringGuide)
+-   [OBF Application Evaluation
+    Guidelines](Google_Summer_of_Code_Application_Evaluation "wikilink")
 
 Other Facts & Links
 -------------------
