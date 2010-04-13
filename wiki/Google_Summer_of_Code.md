@@ -353,10 +353,19 @@ provide the following in your application material.
         is being overcommitted. Do not set yourself up for failure! GSoC
         summers should be fun and rewarding!
 
+Guide for Mentors
+-----------------
+
+Mentor Resources
+----------------
+
+-   [GSoC Mentoring
+    Guide](http://en.flossmanuals.net/GSoCMentoringGuide)
+
 Other Facts & Links
 -------------------
 
-**Google Summer of Code Main Site: [1](http://code.google.com/soc)**
+**[Google Summer of Code Main Site](http://code.google.com/soc)**
 
 -   Mentoring organizations apply between March 8-12, 2010. Accepted
     mentoring organizations will be published March 19.
