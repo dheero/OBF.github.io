@@ -30,12 +30,26 @@ specific goals are determined based on the interests of attending
 members and inputs of sponsors. Some current areas of topic discussion
 are:
 
--   Improving the presence of OpenBio libraries on distributed computing
-    environments like [Amazon Elastic Compute
-    Cloud](http://aws.amazon.com/ec2/) and
-    [Eucalyptus](http://open.eucalyptus.com/). Ntino has written up an
-    excellent project proposal available for [download in pdf
-    format](http://www.open-bio.org/w/images/8/85/BOSC_2010_Cloud_BioLinux.pdf).
+### Cloud computing
+
+Improving the presence of OpenBio libraries on distributed computing
+environments like [Amazon Elastic Compute
+Cloud](http://aws.amazon.com/ec2/) and
+[Eucalyptus](http://open.eucalyptus.com/). Ntino has written up an
+excellent project proposal available for [download in pdf
+format](http://www.open-bio.org/w/images/8/85/BOSC_2010_Cloud_BioLinux.pdf).
+
+Initial work has started to develop an automated build environment that
+incorporates the [Cloud
+BioLinux](http://www.jcvi.org/cms/research/projects/jcvi-cloud-biolinux/overview/)
+and [bioperl-max](http://fortinbras.us/bioperl-max/) efforts. See the
+[blog
+post](http://bcbio.wordpress.com/2010/05/08/automated-build-environment-for-bioinformatics-cloud-images/)
+for full details. Code and configuration files are available from a
+[GitHub
+repository](http://github.com/chapmanb/bcbb/tree/master/ec2/biolinux/).
+The post outlines several areas of improvements which could be targets
+for focused work at the Codefest.
 
 Location
 --------
