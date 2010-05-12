@@ -2,10 +2,11 @@
 title: Google Summer of Code
 ---
 
-![](Gsoc_2010_logo.jpg "fig:Gsoc_2010_logo.jpg") **The OBF has been
-accepted into the [Google Summer of Code](http://code.google.com/soc)
-(GSoC) program as an umbrella organization for all OBF-affiliated
-projects.**
+![](Gsoc_2010_logo.jpg "Gsoc_2010_logo.jpg")
+
+**The OBF has been accepted into the 2010 [Google Summer of
+Code](http://code.google.com/soc) (GSoC) program as an umbrella
+organization for all OBF-affiliated projects.**
 
 This page is the collection point for ideas, projects, prerequisites,
 solution approaches, mentors, other people or channels to contact for
