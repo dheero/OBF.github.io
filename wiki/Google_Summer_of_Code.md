@@ -6,11 +6,36 @@ title: Google Summer of Code
 
 **The OBF has been accepted into the 2010 [Google Summer of
 Code](http://code.google.com/soc) (GSoC) program as an umbrella
-organization for all OBF-affiliated projects.**
+organization for all OBF-affiliated projects. [Program
+Timeline](http://socghop.appspot.com/document/show/gsoc_program/google/gsoc2010/timeline).**
 
-This page is the collection point for ideas, projects, prerequisites,
-solution approaches, mentors, other people or channels to contact for
-more information.
+2010 Funded Students and Projects (6 students)
+----------------------------------------------
+
+### BioJava: Improvements including Implementation of Multiple Sequence Alignment Algorithms
+
+student Mark Chapman, primary mentor Andreas Prlic
+
+### BioJava: Packages for Identification, Classification, and Visualization of Posttranslational Modification of Proteins
+
+student Jianjiong Gao, primary mentor Peter Rose
+
+### BioPerl: BioPerl Alignment Subsystem Refactoring
+
+student Jun Yin, primary mentor Chris Fields
+
+### BioPython: Extending Bio.PDB: broadening the usefulness of BioPython’s Structural Biology module
+
+student Joao Pedro Garcia Lopes Maia Rodrigues, primary mentor Eric
+Talevich
+
+### BioRuby: Ruby 1.9.2 support of BioRuby
+
+student Kazuhiro Hayashi, primary mentor Naohisa Goto
+
+### BioRuby: Implementing Speciation & Duplication Inference Algorithm for Binary and Non-binary Species Tree
+
+student Sara Rayburn, primary mentor Christian Zmasek
 
 About Google Summer of Code
 ---------------------------
