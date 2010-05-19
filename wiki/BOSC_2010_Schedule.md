@@ -40,4 +40,7 @@ Apache and other open source projects.
 List of confirmed speakers from submitted abstracts
 ---------------------------------------------------
 
+This list is in no particular order, the exact schedule of talks will be
+forthcoming.
+
 Click on the talk title to view the abstract as a PDF file.
