@@ -55,8 +55,8 @@ Click on the talk title to view the abstract as a PDF file.
     Update](Media:16_BOSC2010.pdf "wikilink")
 -   Laurent Gautier: [ Bioconductor with Python, What else
     ?](Media:2_BOSC2010.pdf "wikilink")
--   [ interPopula: Database and tool integration for population genetics
-    using Python](Media:13_BOSC2010.pdf "wikilink")
+-   Tiago Antao: [ interPopula: Database and tool integration for
+    population genetics using Python](Media:13_BOSC2010.pdf "wikilink")
 -   [ Bio.Phylo: A unified phylogenetics toolkit for
     Biopython](Media:8_BOSC2010.pdf "wikilink")
 -   [ An overview of the Hadoop/MapReduce/HBase framework and its
