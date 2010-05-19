@@ -49,7 +49,7 @@ Click on the talk title to view the abstract as a PDF file.
     BioPerl Update 2010](Media:22_BOSC2010.pdf "wikilink")
 -   Raoul J.P. Bonnal: [ BioRuby 2010 updates: moving to agile
     bioinformatics](Media:15_BOSC2010.pdf "wikilink")
--   [ EMBOSS: The European Molecular Biology Open Software
+-   Peter Rice: [ EMBOSS: The European Molecular Biology Open Software
     Suite](Media:14_BOSC2010.pdf "wikilink")
 -   [ Biopython Project Update](Media:16_BOSC2010.pdf "wikilink")
 -   [ Bioconductor with Python, What else
