@@ -69,8 +69,8 @@ Click on the talk title to view the abstract as a PDF file.
     Science Applications](Media:40_BOSC2010.pdf "wikilink")
 -   S. Möller: [ Community-driven computational biology with Debian and
     Taverna](Media:26_BOSC2010.pdf "wikilink")
--   [ SeqWare Query Engine: Storing and Searching Sequence Data in the
-    Cloud](Media:39_BOSC2010.pdf "wikilink")
+-   Brian D. O'Connor: [ SeqWare Query Engine: Storing and Searching
+    Sequence Data in the Cloud](Media:39_BOSC2010.pdf "wikilink")
 -   [ Dealing with the Data Deluge: What can the Robotics Community
     Teach us?](Media:3_BOSC2010.pdf "wikilink")
 -   [ From Moby to SADI - Modeling Semantic Web Services with the
