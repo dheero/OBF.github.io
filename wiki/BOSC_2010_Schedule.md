@@ -59,8 +59,8 @@ Click on the talk title to view the abstract as a PDF file.
     population genetics using Python](Media:13_BOSC2010.pdf "wikilink")
 -   Eric W Talevich: [ Bio.Phylo: A unified phylogenetics toolkit for
     Biopython](Media:8_BOSC2010.pdf "wikilink")
--   [ An overview of the Hadoop/MapReduce/HBase framework and its
-    current applications in
+-   Ronald Taylor: [ An overview of the Hadoop/MapReduce/HBase framework
+    and its current applications in
     bioinformatics](Media:29_BOSC2010.pdf "wikilink")
 -   [ The Genome Analysis Toolkit: a MapReduce framework for analyzing
     next-generation DNA sequencing
