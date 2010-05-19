@@ -53,7 +53,7 @@ Click on the talk title to view the abstract as a PDF file.
     Suite](Media:14_BOSC2010.pdf "wikilink")
 -   Peter Cock/Brad Chapman: [ Biopython Project
     Update](Media:16_BOSC2010.pdf "wikilink")
--   [ Bioconductor with Python, What else
+-   Laurent Gautier: [ Bioconductor with Python, What else
     ?](Media:2_BOSC2010.pdf "wikilink")
 -   [ interPopula: Database and tool integration for population genetics
     using Python](Media:13_BOSC2010.pdf "wikilink")
