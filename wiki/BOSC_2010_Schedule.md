@@ -62,8 +62,8 @@ Click on the talk title to view the abstract as a PDF file.
 -   Ronald Taylor: [ An overview of the Hadoop/MapReduce/HBase framework
     and its current applications in
     bioinformatics](Media:29_BOSC2010.pdf "wikilink")
--   [ The Genome Analysis Toolkit: a MapReduce framework for analyzing
-    next-generation DNA sequencing
+-   M. Hanna: [ The Genome Analysis Toolkit: a MapReduce framework for
+    analyzing next-generation DNA sequencing
     data](Media:18_BOSC2010.pdf "wikilink")
 -   [ Hybrid Cloud and Cluster Computing Paradigms for Life Science
     Applications](Media:40_BOSC2010.pdf "wikilink")
