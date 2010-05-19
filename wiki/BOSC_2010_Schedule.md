@@ -45,8 +45,8 @@ forthcoming.
 
 Click on the talk title to view the abstract as a PDF file.
 
--   [ Towards a Modern BioPerl: BioPerl Update
-    2010](Media:22_BOSC2010.pdf "wikilink")
+-   Christopher Fields and Mark Jensen: [ Towards a Modern BioPerl:
+    BioPerl Update 2010](Media:22_BOSC2010.pdf "wikilink")
 -   [ BioRuby 2010 updates: moving to agile
     bioinformatics](Media:15_BOSC2010.pdf "wikilink")
 -   [ EMBOSS: The European Molecular Biology Open Software
