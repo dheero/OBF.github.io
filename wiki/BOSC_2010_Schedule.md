@@ -67,7 +67,7 @@ Click on the talk title to view the abstract as a PDF file.
     data](Media:18_BOSC2010.pdf "wikilink")
 -   Judy Qiu: [ Hybrid Cloud and Cluster Computing Paradigms for Life
     Science Applications](Media:40_BOSC2010.pdf "wikilink")
--   [ Community-driven computational biology with Debian and
+-   S. Möller: [ Community-driven computational biology with Debian and
     Taverna](Media:26_BOSC2010.pdf "wikilink")
 -   [ SeqWare Query Engine: Storing and Searching Sequence Data in the
     Cloud](Media:39_BOSC2010.pdf "wikilink")
