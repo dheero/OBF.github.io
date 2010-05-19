@@ -73,8 +73,8 @@ Click on the talk title to view the abstract as a PDF file.
     Sequence Data in the Cloud](Media:39_BOSC2010.pdf "wikilink")
 -   Darin London: [ Dealing with the Data Deluge: What can the Robotics
     Community Teach us?](Media:3_BOSC2010.pdf "wikilink")
--   [ From Moby to SADI - Modeling Semantic Web Services with the
-    Semantic Automated Discovery and Integration
+-   Mark Wilkinson: [ From Moby to SADI - Modeling Semantic Web Services
+    with the Semantic Automated Discovery and Integration
     Framework](Media:4_BOSC2010.pdf "wikilink")
 -   [ Long-term availability of bioinformatics web
     services](Media:5_BOSC2010.pdf "wikilink")
