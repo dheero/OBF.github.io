@@ -76,8 +76,8 @@ Click on the talk title to view the abstract as a PDF file.
 -   Mark Wilkinson: [ From Moby to SADI - Modeling Semantic Web Services
     with the Semantic Automated Discovery and Integration
     Framework](Media:4_BOSC2010.pdf "wikilink")
--   [ Long-term availability of bioinformatics web
-    services](Media:5_BOSC2010.pdf "wikilink")
+-   Sebastian J. Schultheiss: [ Long-term availability of bioinformatics
+    web services](Media:5_BOSC2010.pdf "wikilink")
 -   [ G-language Bookmarklet: a gateway for Semantic Web, Linked Data,
     and Web Services](Media:6_BOSC2010.pdf "wikilink")
 -   [ ONTO-ToolKit: enabling bio-ontology engineering via
