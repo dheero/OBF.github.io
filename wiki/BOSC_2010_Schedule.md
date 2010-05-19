@@ -44,3 +44,69 @@ This list is in no particular order, the exact schedule of talks will be
 forthcoming.
 
 Click on the talk title to view the abstract as a PDF file.
+
+-   [ Towards a Modern BioPerl: BioPerl Update
+    2010](Media:22_BOSC2010.pdf "wikilink")
+-   [ BioRuby 2010 updates: moving to agile
+    bioinformatics](Media:15_BOSC2010.pdf "wikilink")
+-   [ EMBOSS: The European Molecular Biology Open Software
+    Suite](Media:14_BOSC2010.pdf "wikilink")
+-   [ Biopython Project Update](Media:16_BOSC2010.pdf "wikilink")
+-   [ Bioconductor with Python, What else
+    ?](Media:2_BOSC2010.pdf "wikilink")
+-   [ interPopula: Database and tool integration for population genetics
+    using Python](Media:13_BOSC2010.pdf "wikilink")
+-   [ Bio.Phylo: A unified phylogenetics toolkit for
+    Biopython](Media:8_BOSC2010.pdf "wikilink")
+-   [ An overview of the Hadoop/MapReduce/HBase framework and its
+    current applications in
+    bioinformatics](Media:29_BOSC2010.pdf "wikilink")
+-   [ The Genome Analysis Toolkit: a MapReduce framework for analyzing
+    next-generation DNA sequencing
+    data](Media:18_BOSC2010.pdf "wikilink")
+-   [ Hybrid Cloud and Cluster Computing Paradigms for Life Science
+    Applications](Media:40_BOSC2010.pdf "wikilink")
+-   [ Community-driven computational biology with Debian and
+    Taverna](Media:26_BOSC2010.pdf "wikilink")
+-   [ SeqWare Query Engine: Storing and Searching Sequence Data in the
+    Cloud](Media:39_BOSC2010.pdf "wikilink")
+-   [ Dealing with the Data Deluge: What can the Robotics Community
+    Teach us?](Media:3_BOSC2010.pdf "wikilink")
+-   [ From Moby to SADI - Modeling Semantic Web Services with the
+    Semantic Automated Discovery and Integration
+    Framework](Media:4_BOSC2010.pdf "wikilink")
+-   [ Long-term availability of bioinformatics web
+    services](Media:5_BOSC2010.pdf "wikilink")
+-   [ G-language Bookmarklet: a gateway for Semantic Web, Linked Data,
+    and Web Services](Media:6_BOSC2010.pdf "wikilink")
+-   [ ONTO-ToolKit: enabling bio-ontology engineering via
+    Galaxy](Media:21_BOSC2010.pdf "wikilink")
+-   [ Connecting TOPSAN to Computational
+    Analysis](Media:25_BOSC2010.pdf "wikilink")
+-   [ Musite: Global Prediction of General and Kinase-Specific
+    Phosphorylation Sites](Media:20_BOSC2010.pdf "wikilink")
+-   [ Building Bioinformatics Web Application with
+    Clickframes](Media:36_BOSC2010.pdf "wikilink")
+-   [ MOLGENIS: rapid prototyping of biosoftware at the push of a
+    button](Media:24_BOSC2010.pdf "wikilink")
+-   [ Generating a data platform for microarray gene expression
+    experiments using MOLGENIS and
+    MAGE-TAB](Media:17_BOSC2010.pdf "wikilink")
+-   [ BioHDF: Open binary file formats for NGS data - current status and
+    future directions](Media:10_BOSC2010.pdf "wikilink")
+-   [ Automated Annotation of NGS Transcriptome Data using ISGA and
+    Ergatis](Media:30_BOSC2010.pdf "wikilink")
+-   [ Cytoscape Web: An interactive, customizable web-based network
+    browser](Media:12_BOSC2010.pdf "wikilink")
+-   [ Pathway Projector: Web-Based Zoomable Pathway Browser Using KEGG
+    Atlas and Google Maps API](Media:38_BOSC2010.pdf "wikilink")
+-   [ GBrowse2](Media:34_BOSC2010.pdf "wikilink")
+-   [ Fiji Is Just ImageJ - an Open Source platform for biological image
+    analysis](Media:11_BOSC2010.pdf "wikilink")
+-   [ IPRStats: visualization and analysis of InterProScan
+    Results](Media:32_BOSC2010.pdf "wikilink")
+-   [ The Microsoft Biology Foundation](Media:9_BOSC2010.pdf "wikilink")
+-   [ Concurrent Bioinformatics Software for Discovering Genome-wide
+    Patterns and Word-based Genomic
+    Signatures](Media:28_BOSC2010.pdf "wikilink")
+
