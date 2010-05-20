@@ -87,7 +87,7 @@ Click on the talk title to view the abstract as a PDF file.
 -   Jianjiong Gao: [ Musite: Global Prediction of General and
     Kinase-Specific Phosphorylation
     Sites](Media:20_BOSC2010.pdf "wikilink")
--   [ Building Bioinformatics Web Application with
+-   William Crawford: [ Building Bioinformatics Web Application with
     Clickframes](Media:36_BOSC2010.pdf "wikilink")
 -   [ MOLGENIS: rapid prototyping of biosoftware at the push of a
     button](Media:24_BOSC2010.pdf "wikilink")
