@@ -111,7 +111,7 @@ Click on the talk title to view the abstract as a PDF file.
     InterProScan Results](Media:32_BOSC2010.pdf "wikilink")
 -   Simon Mercer: [ The Microsoft Biology
     Foundation](Media:9_BOSC2010.pdf "wikilink")
--   [ Concurrent Bioinformatics Software for Discovering Genome-wide
-    Patterns and Word-based Genomic
+-   Jens Lichtenberg: [ Concurrent Bioinformatics Software for
+    Discovering Genome-wide Patterns and Word-based Genomic
     Signatures](Media:28_BOSC2010.pdf "wikilink")
 
