@@ -105,8 +105,8 @@ Click on the talk title to view the abstract as a PDF file.
     Browser Using KEGG Atlas and Google Maps
     API](Media:38_BOSC2010.pdf "wikilink")
 -   Lincoln Stein: [ GBrowse2](Media:34_BOSC2010.pdf "wikilink")
--   [ Fiji Is Just ImageJ - an Open Source platform for biological image
-    analysis](Media:11_BOSC2010.pdf "wikilink")
+-   Pavel Tomancak: [ Fiji Is Just ImageJ - an Open Source platform for
+    biological image analysis](Media:11_BOSC2010.pdf "wikilink")
 -   [ IPRStats: visualization and analysis of InterProScan
     Results](Media:32_BOSC2010.pdf "wikilink")
 -   [ The Microsoft Biology Foundation](Media:9_BOSC2010.pdf "wikilink")
