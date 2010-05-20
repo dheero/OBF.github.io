@@ -91,8 +91,8 @@ Click on the talk title to view the abstract as a PDF file.
     Clickframes](Media:36_BOSC2010.pdf "wikilink")
 -   Morris A. Swertz: [ MOLGENIS: rapid prototyping of biosoftware at
     the push of a button](Media:24_BOSC2010.pdf "wikilink")
--   [ Generating a data platform for microarray gene expression
-    experiments using MOLGENIS and
+-   Alexandros Kanterakis: [ Generating a data platform for microarray
+    gene expression experiments using MOLGENIS and
     MAGE-TAB](Media:17_BOSC2010.pdf "wikilink")
 -   [ BioHDF: Open binary file formats for NGS data - current status and
     future directions](Media:10_BOSC2010.pdf "wikilink")
