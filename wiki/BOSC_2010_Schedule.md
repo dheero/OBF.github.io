@@ -94,8 +94,9 @@ Click on the talk title to view the abstract as a PDF file.
 -   Alexandros Kanterakis: [ Generating a data platform for microarray
     gene expression experiments using MOLGENIS and
     MAGE-TAB](Media:17_BOSC2010.pdf "wikilink")
--   [ BioHDF: Open binary file formats for NGS data - current status and
-    future directions](Media:10_BOSC2010.pdf "wikilink")
+-   Dana Robinson: [ BioHDF: Open binary file formats for NGS data -
+    current status and future
+    directions](Media:10_BOSC2010.pdf "wikilink")
 -   [ Automated Annotation of NGS Transcriptome Data using ISGA and
     Ergatis](Media:30_BOSC2010.pdf "wikilink")
 -   [ Cytoscape Web: An interactive, customizable web-based network
