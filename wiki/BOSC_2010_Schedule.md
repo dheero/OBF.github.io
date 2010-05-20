@@ -84,8 +84,9 @@ Click on the talk title to view the abstract as a PDF file.
     engineering via Galaxy](Media:21_BOSC2010.pdf "wikilink")
 -   Christian M Zmasek: [ Connecting TOPSAN to Computational
     Analysis](Media:25_BOSC2010.pdf "wikilink")
--   [ Musite: Global Prediction of General and Kinase-Specific
-    Phosphorylation Sites](Media:20_BOSC2010.pdf "wikilink")
+-   Jianjiong Gao: [ Musite: Global Prediction of General and
+    Kinase-Specific Phosphorylation
+    Sites](Media:20_BOSC2010.pdf "wikilink")
 -   [ Building Bioinformatics Web Application with
     Clickframes](Media:36_BOSC2010.pdf "wikilink")
 -   [ MOLGENIS: rapid prototyping of biosoftware at the push of a
