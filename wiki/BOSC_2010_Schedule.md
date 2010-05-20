@@ -89,8 +89,8 @@ Click on the talk title to view the abstract as a PDF file.
     Sites](Media:20_BOSC2010.pdf "wikilink")
 -   William Crawford: [ Building Bioinformatics Web Application with
     Clickframes](Media:36_BOSC2010.pdf "wikilink")
--   [ MOLGENIS: rapid prototyping of biosoftware at the push of a
-    button](Media:24_BOSC2010.pdf "wikilink")
+-   Morris A. Swertz: [ MOLGENIS: rapid prototyping of biosoftware at
+    the push of a button](Media:24_BOSC2010.pdf "wikilink")
 -   [ Generating a data platform for microarray gene expression
     experiments using MOLGENIS and
     MAGE-TAB](Media:17_BOSC2010.pdf "wikilink")
