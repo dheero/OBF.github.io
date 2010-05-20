@@ -80,8 +80,8 @@ Click on the talk title to view the abstract as a PDF file.
     web services](Media:5_BOSC2010.pdf "wikilink")
 -   Kazuharu Arakawa: [ G-language Bookmarklet: a gateway for Semantic
     Web, Linked Data, and Web Services](Media:6_BOSC2010.pdf "wikilink")
--   [ ONTO-ToolKit: enabling bio-ontology engineering via
-    Galaxy](Media:21_BOSC2010.pdf "wikilink")
+-   Aravind Venkatesan: [ ONTO-ToolKit: enabling bio-ontology
+    engineering via Galaxy](Media:21_BOSC2010.pdf "wikilink")
 -   [ Connecting TOPSAN to Computational
     Analysis](Media:25_BOSC2010.pdf "wikilink")
 -   [ Musite: Global Prediction of General and Kinase-Specific
