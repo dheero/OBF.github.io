@@ -104,7 +104,7 @@ Click on the talk title to view the abstract as a PDF file.
 -   Nobuaki Kono: [ Pathway Projector: Web-Based Zoomable Pathway
     Browser Using KEGG Atlas and Google Maps
     API](Media:38_BOSC2010.pdf "wikilink")
--   [ GBrowse2](Media:34_BOSC2010.pdf "wikilink")
+-   Lincoln Stein: [ GBrowse2](Media:34_BOSC2010.pdf "wikilink")
 -   [ Fiji Is Just ImageJ - an Open Source platform for biological image
     analysis](Media:11_BOSC2010.pdf "wikilink")
 -   [ IPRStats: visualization and analysis of InterProScan
