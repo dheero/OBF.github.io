@@ -97,8 +97,8 @@ Click on the talk title to view the abstract as a PDF file.
 -   Dana Robinson: [ BioHDF: Open binary file formats for NGS data -
     current status and future
     directions](Media:10_BOSC2010.pdf "wikilink")
--   [ Automated Annotation of NGS Transcriptome Data using ISGA and
-    Ergatis](Media:30_BOSC2010.pdf "wikilink")
+-   Chris Hemmerich: [ Automated Annotation of NGS Transcriptome Data
+    using ISGA and Ergatis](Media:30_BOSC2010.pdf "wikilink")
 -   [ Cytoscape Web: An interactive, customizable web-based network
     browser](Media:12_BOSC2010.pdf "wikilink")
 -   [ Pathway Projector: Web-Based Zoomable Pathway Browser Using KEGG
