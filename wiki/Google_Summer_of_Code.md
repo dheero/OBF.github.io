@@ -14,7 +14,9 @@ Timeline](http://socghop.appspot.com/document/show/gsoc_program/google/gsoc2010/
 
 ### BioJava: Improvements including Implementation of Multiple Sequence Alignment Algorithms
 
-student Mark Chapman, primary mentor Andreas Prlic
+student [Mark Chapman](http://biojava.org/wiki/Mark_Chapman), primary
+mentor [Andreas Prlic](http://biojava.org/wiki/Andreas_Prlic), [overview
+and updates](http://biojava.org/wiki/GSoC:MSA)
 
 ### BioJava: Packages for Identification, Classification, and Visualization of Posttranslational Modification of Proteins
 
