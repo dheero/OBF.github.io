@@ -117,4 +117,6 @@ Click on the talk title to view the abstract as a PDF file.
 -   Nyasha Chambwe [ The Goby framework: towards efficient
     next-generation sequencing data
     analysis](Media:19_BOSC2010.pdf "wikilink")
+-   James A. Morris [ Evoker: a visualization tool for genotype
+    intensity data](Media:7_BOSC2010.pdf "wikilink")
 
