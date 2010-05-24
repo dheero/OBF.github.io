@@ -114,4 +114,7 @@ Click on the talk title to view the abstract as a PDF file.
 -   Jens Lichtenberg: [ Concurrent Bioinformatics Software for
     Discovering Genome-wide Patterns and Word-based Genomic
     Signatures](Media:28_BOSC2010.pdf "wikilink")
+-   Nyasha Chambwe [ The Goby framework: towards efficient
+    next-generation sequencing data
+    analysis](Media:Nyasha_Chambwe "wikilink")
 
