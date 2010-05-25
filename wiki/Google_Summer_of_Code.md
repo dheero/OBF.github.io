@@ -20,7 +20,9 @@ and updates](http://biojava.org/wiki/GSoC:MSA)
 
 ### BioJava: Packages for Identification, Classification, and Visualization of Posttranslational Modification of Proteins
 
-student Jianjiong Gao, primary mentor Peter Rose
+student [Jianjiong Gao](http://www.biojava.org/wiki/Jianjiong_Gao),
+primary mentor [Peter Rose](http://www.linkedin.com/in/peterrose), [more
+information on this project](http://www.biojava.org/wiki/GSoC:PTM)
 
 ### BioPerl: BioPerl Alignment Subsystem Refactoring
 
