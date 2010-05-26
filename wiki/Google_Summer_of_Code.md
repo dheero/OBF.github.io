@@ -39,8 +39,9 @@ student Kazuhiro Hayashi, primary mentor Naohisa Goto
 
 ### BioRuby: Implementing Speciation & Duplication Inference Algorithm for Binary and Non-binary Species Tree
 
-student Sara Rayburn, primary mentor Christian Zmasek, secondary mentor
-Diana Jaunzeikare, [overview and
+student Sara Rayburn, primary mentor [Christian
+Zmasek](http://www.linkedin.com/in/cmzmasek), secondary mentor Diana
+Jaunzeikare, [overview and
 updates](http://wiki.github.com/srayburn/bioruby/gsoc-2010-implementing-sdi-project-updates)
 
 About Google Summer of Code
