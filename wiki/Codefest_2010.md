@@ -120,4 +120,4 @@ Discussion
 ----------
 
 We welcome any thoughts from interested participants. Please direct
-discussion to the BOSC mailing list: <bosc@open-bio.org>.
+discussion to the BOSC mailing list: <open-bio-l@lists.open-bio.org>.
