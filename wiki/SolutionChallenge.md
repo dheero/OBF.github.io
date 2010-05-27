@@ -86,5 +86,4 @@ Discussion
 
 Your thoughts and project ideas are very welcome. Please use the open
 bio mailing list as a central point of discussion:
-<open-bio-l@lists.open-bio.org> [dissertation writing
-service](http://dissertations.superiorpapers.com/)
+<open-bio-l@lists.open-bio.org>
