@@ -35,7 +35,8 @@ Talevich
 
 ### BioRuby: Ruby 1.9.2 support of BioRuby
 
-student Kazuhiro Hayashi, primary mentor Naohisa Goto
+student Kazuhiro Hayashi, primary mentor Naohisa Goto, [overview and
+updates](http://gsoc2010kh.blogspot.com/)
 
 ### BioRuby: Implementing Speciation & Duplication Inference Algorithm for Binary and Non-binary Species Tree
 
