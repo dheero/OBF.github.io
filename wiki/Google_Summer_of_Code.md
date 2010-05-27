@@ -27,8 +27,8 @@ information on this project](http://www.biojava.org/wiki/GSoC:PTM)
 ### BioPerl: BioPerl Alignment Subsystem Refactoring
 
 student Jun Yin, primary mentor [Chris
-Fields](http://bioperl.org/wiki/User:Cjfields), [more information on
-this project](http://gsoc2010-junyin.blogspot.com/)
+Fields](http://bioperl.org/wiki/User:Cjfields), [overview and
+updates](http://gsoc2010-junyin.blogspot.com/)
 
 ### BioPython: Extending Bio.PDB: broadening the usefulness of BioPython’s Structural Biology module
 
