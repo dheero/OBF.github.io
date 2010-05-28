@@ -113,6 +113,7 @@ Attendees
 -   [Christian Zmasek](http://www.linkedin.com/in/cmzmasek) (TBC)
 -   Kimberly Begley
 -   [Akira KINJO (PDBj)](http://jp.linkedin.com/in/akirakinjo)
+-   [Naohisa Goto](http://www.linkedin.com/in/ngoto)
 
 Feel free to add yourself if you are interested. We are happy to have
 you.
