@@ -112,7 +112,7 @@ Attendees
 -   [Dave Messina](http://www.bioperl.org/wiki/User:Dave_Messina)
 -   [Christian Zmasek](http://www.linkedin.com/in/cmzmasek) (TBC)
 -   Kimberly Begley
--   [Akira KINJO (PDBj)](http://jp.linkedin.com/in/akirakinjol)
+-   [Akira KINJO (PDBj)](http://jp.linkedin.com/in/akirakinjo)
 
 Feel free to add yourself if you are interested. We are happy to have
 you.
