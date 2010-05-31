@@ -115,6 +115,7 @@ Attendees
 -   [Akira KINJO (PDBj)](http://jp.linkedin.com/in/akirakinjo)
 -   [Naohisa Goto](http://www.linkedin.com/in/ngoto)
 -   [Yasunori Yamamoto](http://purl.org/yayamamo/home)
+-   [Raoul J.P. Bonnal](http://it.linkedin.com/in/raoulbonnal)
 
 Feel free to add yourself if you are interested. We are happy to have
 you.
