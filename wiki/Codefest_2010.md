@@ -116,6 +116,7 @@ Attendees
 -   [Naohisa Goto](http://www.linkedin.com/in/ngoto)
 -   [Yasunori Yamamoto](http://purl.org/yayamamo/home)
 -   [Raoul J.P. Bonnal](http://it.linkedin.com/in/raoulbonnal)
+-   [Atsuko YAMAGUCHI](http://www.linkedin.com/in/atsukoyamaguchi)
 
 Feel free to add yourself if you are interested. We are happy to have
 you.
