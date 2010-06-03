@@ -35,8 +35,11 @@ project](http://bioperl.org/wiki/Google_Summer_of_Code#Alignment_Subsystem_Refac
 
 ### BioPython: Extending Bio.PDB: broadening the usefulness of BioPython’s Structural Biology module
 
-student Joao Pedro Garcia Lopes Maia Rodrigues, primary mentor Eric
-Talevich
+student [João Rodrigues](http://www.biopython.org/wiki/User:Joaor),
+primary mentor [Eric Talevich](http://eric.talevich.com/), [Weekly
+Schedule & Progress
+Overview](http://www.biopython.org/wiki/GSOC2010_Joao), [Project's Code
+on GitHub](http://github.com/JoaoRodrigues/biopython/tree/GSOC2010)
 
 ### BioRuby: Ruby 1.9.2 support of BioRuby
 
