@@ -99,7 +99,8 @@ Attendees
 -   [Chris Fields](http://www.bioperl.org/wiki/User:Cjfields)
 -   [Ntino Krampis](http://www.linkedin.com/in/agbiotec)
 -   [Tim Booth](http://nebc.nox.ac.uk/nebc/about-us/people)
--   [Peter Cock](http://www.scri.ac.uk/staff/petercock) (TBC)
+-   <s>[Peter Cock](http://www.scri.ac.uk/staff/petercock)</s> (Unable
+    to attend)
 -   [ Kam Dahlquist](User:Kdahlquist "wikilink")
 -   [John David N. Dionisio](http://myweb.lmu.edu/dondi)
 -   Steffen Moeller
