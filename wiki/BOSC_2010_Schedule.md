@@ -14,7 +14,7 @@ title: BOSC 2010 Schedule
 Schedule
 --------
 
-Click on the talk title to view the abstract as a PDF file.
+Click on the talk title to view the individual abstract as a PDF file.
 
 | Day 1           | Friday                   | July 9                                                                                                                                                                       |
 |-----------------|--------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
