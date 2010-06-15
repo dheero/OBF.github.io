@@ -51,7 +51,7 @@ Click on the talk title to view the abstract as a PDF file.
     bioinformatics](Media:15_BOSC2010.pdf "wikilink")
 -   Peter Rice: [ EMBOSS: The European Molecular Biology Open Software
     Suite](Media:14_BOSC2010.pdf "wikilink")
--   Peter Cock/Brad Chapman: [ Biopython Project
+-   Brad Chapman: [ Biopython Project
     Update](Media:16_BOSC2010.pdf "wikilink")
 -   Laurent Gautier: [ Bioconductor with Python, What else
     ?](Media:2_BOSC2010.pdf "wikilink")
@@ -122,5 +122,5 @@ Click on the talk title to view the abstract as a PDF file.
 -   Ben Langmead: [ Cloud-scale genomics: examples and
     lessons](Media:42_BOSC2010.pdf "wikilink")
 -   Enis Afgan: [ Deploying Galaxy on the
-    Cloud](Media:43_BOSC2010 "wikilink")
+    Cloud](Media:43_BOSC2010.pdf "wikilink")
 
