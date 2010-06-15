@@ -114,9 +114,13 @@ Click on the talk title to view the abstract as a PDF file.
 -   Jens Lichtenberg: [ Concurrent Bioinformatics Software for
     Discovering Genome-wide Patterns and Word-based Genomic
     Signatures](Media:28_BOSC2010.pdf "wikilink")
--   Nyasha Chambwe [ The Goby framework: towards efficient
+-   Nyasha Chambwe: [ The Goby framework: towards efficient
     next-generation sequencing data
     analysis](Media:19_BOSC2010.pdf "wikilink")
--   James A. Morris [ Evoker: a visualization tool for genotype
+-   James A. Morris: [ Evoker: a visualization tool for genotype
     intensity data](Media:7_BOSC2010.pdf "wikilink")
+-   Ben Langmead: [ Cloud-scale genomics: examples and
+    lessons](Media:42_BOSC2010.pdf "wikilink")
+-   Enis Afgan: [ Deploying Galaxy on the
+    Cloud](Media:43_BOSC2010 "wikilink")
 
