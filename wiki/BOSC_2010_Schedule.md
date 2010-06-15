@@ -10,7 +10,7 @@ Keynote Speakers
 ### Guy Coates
 
 [Guy Coates](http://uk.linkedin.com/pub/guy-coates/3/b5b/9b0), Group
-leader of the Informatics Systems Group at the [Wellome Trust Sanger
+leader of the Informatics Systems Group at the [Wellcome Trust Sanger
 Institute](http://www.sanger.ac.uk/), will be one of our keynote
 speakers at BOSC 2010. Guy Coates is an expert in large Linux/Unix
 systems architecture, management and application optimization, next-gen
