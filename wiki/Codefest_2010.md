@@ -163,4 +163,4 @@ Discussion
 ----------
 
 We welcome any thoughts from interested participants. Please direct
-discussion to the BOSC mailing list: <open-bio-l@lists.open-bio.org>.
+discussion to the OpenBio mailing list: <open-bio-l@lists.open-bio.org>.
