@@ -119,10 +119,12 @@ GitHub](http://github.com/chapmanb/bcbb/tree/master/ec2/biolinux/)):
 -   Documentation: especially targeted at new users.
 -   Produce an automated manifest for an AMI, listing versions of all
     installed packages and libraries.
+-   Provide standard data like indexed next-gen genomes, blast
+    databases, and so on via EBS snapshots.
 -   Automation to build AMI and roll out to Amazon on a
     bi-weekly/monthly basis based on latest code.
--   Website with documentation, AMI history, other goals.
--   Testing and work on [Eucalyptus cloud](http://ecc.eucalyptus.com/)
+-   Website with documentation, AMI history.
+-   Testing on [Eucalyptus clouds](http://ecc.eucalyptus.com/).
 
 Attendees
 ---------
