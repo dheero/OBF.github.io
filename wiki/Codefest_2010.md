@@ -111,7 +111,7 @@ Attendees
 -   [Toshiaki Katayama](http://www.linkedin.com/in/toshiakikatayama)
 -   [Mitsuteru NAKAO](http://www.linkedin.com/in/nakaomitsuteru)
 -   [Dave Messina](http://www.bioperl.org/wiki/User:Dave_Messina)
--   [Christian Zmasek](http://www.linkedin.com/in/cmzmasek) (TBC)
+-   [Christian Zmasek](http://www.linkedin.com/in/cmzmasek)
 -   Kimberly Begley
 -   [Akira KINJO (PDBj)](http://jp.linkedin.com/in/akirakinjo)
 -   [Naohisa Goto](http://www.linkedin.com/in/ngoto)
