@@ -65,12 +65,12 @@ Location
         stops are 'Charles/MGH' (Red Line), 'Bowdoin' (Blue line) and
         'Government Center' (Green line). All three are located next to
         Cambridge Street. From the Red Line stop, walk away from the
-        River; walk towards the river from either the Blue or
+        river; walk towards the river from either the Blue or
         Green line. Simches is located slightly off Cambridge Street --
-        the closest landmark on Cambridge Street is an Au Bon Pain. Walk
-        up the stairs next to the Au Bon Pain and you'll be in a parking
-        lot: the Simches building is located immediately to the right of
-        the Whole Foods and CVS.
+        the closest landmark on Cambridge Street is a big yellow Au
+        Bon Pain. Walk up the stairs next to the Au Bon Pain and you'll
+        be in a parking lot: the Simches building is located immediately
+        to the right of the Whole Foods and CVS.
 
 Resources
 ---------
