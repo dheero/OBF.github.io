@@ -87,6 +87,33 @@ meal costs for developers. If you're interested in contributing to Open
 Source development in Bioinformatics and helping to direct the focus on
 the Codefest, please contact Brad.
 
+ToDo List
+---------
+
+Add your goals and plans for the Codefest here. This is a brainstorming
+section to help us organize ourselves.
+
+### Cloud computing
+
+Work for the current [community bioinformatics
+image](http://bcbio.wordpress.com/2010/05/08/automated-build-environment-for-bioinformatics-cloud-images/)
+([framework on
+GitHub](http://github.com/chapmanb/bcbb/tree/master/ec2/biolinux/)):
+
+-   Perl library support and useful package list
+-   Java library organization and expand useful packages
+-   Provide packaging for missing programs. See comments at the end of
+    the [Package
+    config](http://github.com/chapmanb/bcbb/blob/master/ec2/biolinux/config/packages.yaml)
+    for some targets.
+-   Documentation: especially targeted at new users.
+-   Produce an automated manifest for an AMI, listing versions of all
+    installed packages and libraries.
+-   Automation to build AMI and roll out to Amazon on a
+    bi-weekly/monthly basis based on latest code.
+-   Website with documentation, AMI history, other goals.
+-   Testing and work on [Eucalyptus cloud](http://ecc.eucalyptus.com/)
+
 Attendees
 ---------
 
