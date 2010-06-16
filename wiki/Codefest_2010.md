@@ -159,6 +159,22 @@ Attendees
 Feel free to add yourself if you are interested. We are happy to have
 you.
 
+BBQ
+---
+
+After two days of hard work, there will be a celebratory BBQ at
+\[<http://maps.google.com/maps?hl=en&q=35+Partridge+Avenue+Somerville,+MA+02145&um=1&ie=UTF-8&hq>=&hnear=35+Partridge+Ave,+Somerville,+MA+02145&gl=us&ei=3ckYTKzOL4OC8gbd\_qDODA&sa=X&oi=geocode\_result&ct=image&resnum=1&ved=0CBQQ8gEwAA
+Brad's house in Somerville\] the evening of July 8th. All are welcome
+for drinks and whatever magic I can whip up on my little charcoal grill.
+
+The easiest way to get there is via cab. From Mass General Hospital,
+walk up Cambridge Street a few blocks to the Liberty Hotel where there
+is a cab stand. Ask the cab driver to take you to Medford Street in
+Somerville, via McGrath Highway. Partridge Avenue is located off Medford
+Street, on the right a few blocks after Central Street. I'll pass out my
+cell phone number to everyone during the coding sessions if more
+directions are needed on route.
+
 Discussion
 ----------
 
