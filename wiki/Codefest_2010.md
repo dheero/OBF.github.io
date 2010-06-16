@@ -157,6 +157,7 @@ Attendees
 -   [Yasunori Yamamoto](http://purl.org/yayamamo/home)
 -   [Raoul J.P. Bonnal](http://it.linkedin.com/in/raoulbonnal)
 -   [Atsuko Yamaguchi](http://www.linkedin.com/in/atsukoyamaguchi)
+-   Christopher Bottoms
 
 Feel free to add yourself if you are interested. We are happy to have
 you.
