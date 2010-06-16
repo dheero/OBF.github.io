@@ -10,6 +10,8 @@ title: BOSC 2010 Schedule
 -   Click **[
     here](Media:BOSC2010_program_20100615_compiledabstracts.pdf "wikilink")**
     to download all abstracts compiled into one PDF file (2 MB).
+-   Important **[ Information for
+    Speakers](BOSC_2010#Information_for_Speakers "wikilink")**
 
 Schedule
 --------
