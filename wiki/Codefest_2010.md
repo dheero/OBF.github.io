@@ -76,9 +76,21 @@ technology.
 Location
 --------
 
--   July 7, 2010 -- Harvard School of Public Health
-    \[<http://maps.google.com/maps?hl=en&source=hp&q=655+Huntington+Avenue,+Boston,+MA&um=1&ie=UTF-8&hq>=&hnear=655+Huntington+Ave,+Boston,+MA+02115&gl=us&ei=vepeS6rVAsSztgeV-7z9Cw&sa=X&oi=geocode\_result&ct=image&resnum=1&ved=0CAkQ8gEwAA
-    655 Huntington Avenue, Boston, MA\]
+-   July 7, 2010 -- Countway Library of Medicine at the Harvard Medical
+    School, 10 Shattuck St Boston
+    [1](http://maps.google.com/maps?oe=utf-8&rls=org.mozilla:en-US:official&client=firefox-a&um=1&ie=UTF-8&q=countway+library&fb=1&gl=us&hq=countway+library&hnear=Boston,+MA&cid=0,0,5764501267301494561&ei=DKgjTMqrGoT6lwf00aS4AQ&sa=X&oi=local_result&ct=image&resnum=1&ved=0CBMQnwIwAA)
+    -   Getting there: take the E-line green line train (direction
+        Heath St) to the Brigham Circle stop. Cross over to the right
+        side of the street and walk back a bit in the direction from
+        which you came. There is a passageway directly before the
+        Harvard School of Public Health; walk down the steps into the
+        courtyard area behind the Harvard School of Public Health, and
+        continue straight back through the courtyard and up the steps on
+        the other side. Turn left at the top of the stairs and you will
+        see the Countway Library on your left.
+
+<!-- -->
+
 -   July 8, 2010 -- Massachusetts General Hospital (MGH), Simches
     Research Building, Room 3130
     \[<http://maps.google.com/maps?hl=en&source=hp&q=185+Cambridge+St,+Boston,+Suffolk,+Massachusetts+02114&um=1&ie=UTF-8&hq>=&hnear=185+Cambridge+St,+Boston,+MA+02114&gl=us&ei=qeteS\_eUGoy1tgeDyKjwCw&sa=X&oi=geocode\_result&ct=image&resnum=1&ved=0CAsQ8gEwAA
