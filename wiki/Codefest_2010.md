@@ -87,7 +87,9 @@ Location
         courtyard area behind the Harvard School of Public Health, and
         continue straight back through the courtyard and up the steps on
         the other side. Turn left at the top of the stairs and you will
-        see the Countway Library on your left.
+        see the Countway Library on your left. When you arrive, the
+        security guard should have your name, but if not, tell him you
+        are attending the Hackathon and he will let you through.
 
 <!-- -->
 
