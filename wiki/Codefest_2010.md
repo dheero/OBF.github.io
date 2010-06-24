@@ -53,17 +53,18 @@ for focused work at the Codefest.
 
 ### Semantic Web
 
-During [the 3rd DBCLS BioHackathon](http://hackathon3.dbcls.jp/), we had
-focused on the Semantic Web technologies in bioinformatics. As a result,
-in addition to the UniProt, several database providers including
-[DDBJ](http://www.ddbj.nig.ac.jp/), [PDBj](http://www.pdbj.org/) and
-[KEGG](http://www.kegg.jp/en/) started to generate their data in RDF.
-These Linked Data can be queried by SPARQL and initial attempt to
-provide high level library for biological queries was made by
-[BioPython](http://biopython.org/) and [BioRuby](http://bioruby.org/)
-groups. We propose to continue this challenge with all OpenBio projects
-to make a standard interface (query builder, ontology mapping etc.) for
-major biological SPARQL endpoints and handling RDF files.
+[The 3rd DBCLS BioHackathon](http://hackathon3.dbcls.jp/) was focused on
+the Semantic Web technologies in bioinformatics. As a result, in
+addition to the [UniProt](http://uniprot.org/), several database
+providers including [DDBJ](http://www.ddbj.nig.ac.jp/),
+[PDBj](http://www.pdbj.org/) and [KEGG](http://www.kegg.jp/en/) started
+to generate their data in RDF. These Linked Data can be queried by
+SPARQL and initial attempt to provide high level library for biological
+queries was made by [BioPython](http://biopython.org/) and
+[BioRuby](http://bioruby.org/) groups. We propose to continue this
+challenge with all OpenBio projects to make a standard interface (query
+builder, ontology mapping etc.) for major biological SPARQL endpoints
+and handling RDF files.
 
 To achieve this goal, we also need to develop an integrated/distributed
 triple store such as
