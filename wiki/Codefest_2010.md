@@ -51,6 +51,26 @@ repository](http://github.com/chapmanb/bcbb/tree/master/ec2/biolinux/).
 The post outlines several areas of improvements which could be targets
 for focused work at the Codefest.
 
+### Semantic Web
+
+During [the 3rd DBCLS BioHackathon](http://hackathon3.dbcls.jp/), we had
+focused on the Semantic Web technologies in bioinformatics. As a result,
+in addition to the UniProt, several database providers including DDBJ,
+PDBj and KEGG started to generate their data in RDF. These Linked Data
+can be queried by SPARQL and initial attempt to provide high level
+library for biological queries was made by BioPython and BioRuby groups.
+We propose to continue this challenge with all OpenBio projects to make
+a standard interface (query builder, ontology mapping etc.) for major
+biological SPARQL endpoints and handling RDF files.
+
+To achieve this goal, we also need to develop an integrated/distributed
+triple store such as
+[BioGateway](http://www.semantic-systems-biology.org/). From our
+experience, to generate and store a large scale RDF triples is still a
+major issue even with standard triple stores. Additionally, we will try
+to convert biological queries in natural language to SPARQL with a NLP
+technology.
+
 Location
 --------
 
