@@ -76,8 +76,8 @@ technology.
 Location
 --------
 
--   July 7, 2010 -- Countway Library of Medicine at the Harvard Medical
-    School, 10 Shattuck St Boston
+-   July 7, 2010 (10am to whenever) -- Countway Library of Medicine at
+    the Harvard Medical School, 10 Shattuck St Boston
     [1](http://maps.google.com/maps?oe=utf-8&rls=org.mozilla:en-US:official&client=firefox-a&um=1&ie=UTF-8&q=countway+library&fb=1&gl=us&hq=countway+library&hnear=Boston,+MA&cid=0,0,5764501267301494561&ei=DKgjTMqrGoT6lwf00aS4AQ&sa=X&oi=local_result&ct=image&resnum=1&ved=0CBMQnwIwAA)
     -   Getting there: take the E-line green line train (direction
         Heath St) to the Brigham Circle stop. Cross over to the right
@@ -93,8 +93,8 @@ Location
 
 <!-- -->
 
--   July 8, 2010 -- Massachusetts General Hospital (MGH), Simches
-    Research Building, Room 3130
+-   July 8, 2010 (10:30am to whenever) -- Massachusetts General Hospital
+    (MGH), Simches Research Building, Room 3130
     \[<http://maps.google.com/maps?hl=en&source=hp&q=185+Cambridge+St,+Boston,+Suffolk,+Massachusetts+02114&um=1&ie=UTF-8&hq>=&hnear=185+Cambridge+St,+Boston,+MA+02114&gl=us&ei=qeteS\_eUGoy1tgeDyKjwCw&sa=X&oi=geocode\_result&ct=image&resnum=1&ved=0CAsQ8gEwAA
     185 Cambridge Street, Boston, MA\]
     -   Getting there: The three closest [MBTA](http://www.mbta.com/)
@@ -109,7 +109,7 @@ Location
         to the left of the Whole Foods and CVS. Walk in the lobby and
         the security desk should have a badge for you. You can take the
         elevators up to the 3rd floor. Room 3130 is down the only
-        non-secured corridor and is on the right side just past
+        non-secured corridor and is on the left side just past
         the cafeteria.
 
 Resources
