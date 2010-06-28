@@ -185,7 +185,8 @@ Attendees
 -   Steffen Moeller
 -   [Richard Holland](http://www.biojava.org/wiki/User:Rholland) (TBC)
 -   [Bela Tiwari](http://nebc.nox.ac.uk/nebc/about-us/people)
--   [Oliver Buckley](http://nebc.nox.ac.uk/nebc/about-us/people)
+-   <s>[Oliver Buckley](http://nebc.nox.ac.uk/nebc/about-us/people)</s>
+    (Changed job)
 -   [ Dominique Belhachemi](User:Domibel "wikilink")
 -   [Toshiaki Katayama](http://www.linkedin.com/in/toshiakikatayama)
 -   [Mitsuteru NAKAO](http://www.linkedin.com/in/nakaomitsuteru)
