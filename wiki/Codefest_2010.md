@@ -166,6 +166,11 @@ GitHub](http://github.com/chapmanb/bcbb/tree/master/ec2/biolinux/)):
 -   Website with documentation, AMI history.
 -   Testing on [Eucalyptus clouds](http://ecc.eucalyptus.com/).
 
+### Semantic Web
+
+-   Building SPARQL endpoints of DDBJ RDF, PDBj RDF, MEDLINE, KEGG
+    and UniProt.
+
 Attendees
 ---------
 
