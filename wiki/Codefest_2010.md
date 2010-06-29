@@ -202,6 +202,8 @@ Attendees
 -   [James Taylor](http://bx.mathcs.emory.edu)
 -   [Enis Afgan](http://bx.mathcs.emory.edu)
 -   [Dannon Baker](http://bx.mathcs.emory.edu)
+-   Shuichi Kawashima
+-   Jin-Dong Kim
 
 Feel free to add yourself if you are interested. We are happy to have
 you.
