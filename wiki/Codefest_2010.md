@@ -209,6 +209,8 @@ Attendees
 -   [Dannon Baker](http://bx.mathcs.emory.edu)
 -   Shuichi Kawashima
 -   Jin-Dong Kim
+-   [Heikki
+    Lehvaslaiho](http://sa.linkedin.com/pub/heikki-lehvaslaiho/1/974/377)
 
 Feel free to add yourself if you are interested. We are happy to have
 you.
