@@ -20,7 +20,8 @@ Click on the talk title to view the individual abstract as a PDF file.
 
 | Day 1           | Friday                   | July 9                                                                                                                                                                       |
 |-----------------|--------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 8:00-9:00AM     | Registration             | Register for BOSC 2010, Hynes Convention Center -                                                                                                                            |
+| 8:00-9:00AM     | Registration             | Register for BOSC 2010, Hynes Convention Center                                                                                                                              |
+| 9:00-9:15AM     | Kam Dahlquist            | \[Welcome\] Introduction to the O|B|F and Welcome to BOSC 2010                                                                                                               |
 | 9:15-10:15      | Guy Coates               | \[Keynote\] [ Clouds: all fluff and no substance?](BOSC_2010#Guy_Coates "wikilink")                                                                                          |
 | **10:15-10:45** |                          | **Coffee Break**                                                                                                                                                             |
 | 10:45-11:05     | Ronald Taylor            | \[Cloud Computing/HT 'omics Data\] [ An overview of the Hadoop/MapReduce/HBase framework and its current applications in bioinformatics](Media:29_BOSC2010.pdf "wikilink")   |
