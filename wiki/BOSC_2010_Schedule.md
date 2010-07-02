@@ -20,7 +20,7 @@ Click on the talk title to view the individual abstract as a PDF file.
 
 | Day 1           | Friday                   | July 9: Hynes Convention Center room 207                                                                                                                                     |
 |-----------------|--------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 8:00-9:00AM     | Registration             | Register for BOSC 2010, Hynes Convention Center                                                                                                                              |
+| 7:30-9:00AM     | Registration             | Pick up badges for BOSC 2010, Hynes Convention Center (early arrival is recommended as there is usually long lines)                                                          |
 | 9:00-9:15AM     | Kam Dahlquist            | \[Welcome\] Introduction to the O|B|F and Welcome to BOSC 2010                                                                                                               |
 | 9:15-10:15      | Guy Coates               | \[Keynote\] [ Clouds: all fluff and no substance?](BOSC_2010#Guy_Coates "wikilink")                                                                                          |
 | **10:15-10:45** |                          | **Coffee Break**                                                                                                                                                             |
