@@ -18,7 +18,7 @@ Schedule
 
 Click on the talk title to view the individual abstract as a PDF file.
 
-| Day 1           | Friday                   | July 9                                                                                                                                                                       |
+| Day 1           | Friday                   | July 9: Hynes Convention Center room 207                                                                                                                                     |
 |-----------------|--------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | 8:00-9:00AM     | Registration             | Register for BOSC 2010, Hynes Convention Center                                                                                                                              |
 | 9:00-9:15AM     | Kam Dahlquist            | \[Welcome\] Introduction to the O|B|F and Welcome to BOSC 2010                                                                                                               |
@@ -48,7 +48,7 @@ Click on the talk title to view the individual abstract as a PDF file.
                                               [ Birds of a Feather](BOSC_2010/Birds-of-a-Feather "wikilink")                                                                                                                |
 | 6:30            |                          | O|B|F Board Meeting and No-host Dinner; Location TBA                                                                                                                         |
 |                 |                          |                                                                                                                                                                              |
-| **Day 2**       | **Saturday**             | **July 10**                                                                                                                                                                  |
+| **Day 2**       | **Saturday**             | **July 10**: Hynes Convention Center room 207                                                                                                                                |
 | 9:00-9:15AM     | Kam Dahlquist            | \[Announcements\]                                                                                                                                                            |
 | 9:15-10:15      | Ross Gardler             | \[Keynote\] [ Community Development at the Apache Software Foundation](BOSC_2010#Ross_Gardler "wikilink")                                                                    |
 | **10:15-10:45** |                          | **Coffee Break**                                                                                                                                                             |
