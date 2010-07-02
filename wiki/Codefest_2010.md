@@ -89,7 +89,10 @@ Location
         the other side. Turn left at the top of the stairs and you will
         see the Countway Library on your left. When you arrive, the
         security guard should have your name, but if not, tell him you
-        are attending the Hackathon and he will let you through.
+        are attending the Hackathon and he will let you through. If you
+        get lost use the [PDF
+        map](http://www.open-bio.org/w/File:Brigham_Circle_-_Countway_Map.pdf)
+        as a guide.
 
 <!-- -->
 
