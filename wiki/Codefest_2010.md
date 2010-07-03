@@ -133,7 +133,8 @@ Sponsorship
 -----------
 
 Space and internet for the Codefest are kindly provided by the [Harvard
-School of Public Health](http://www.hsph.harvard.edu/) and
+School of Public Health Bioinformatics
+Core](http://www.hsph.harvard.edu/research/bioinfocore/) and
 [Massachusetts General Hospital](http://www.mgh.harvard.edu/). We are
 actively seeking sponsors to help supplement the travel, lodging and
 meal costs for developers. If you're interested in contributing to Open
