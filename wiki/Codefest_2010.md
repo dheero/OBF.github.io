@@ -91,7 +91,7 @@ Location
         security guard should have your name, but if not, tell him you
         are attending the Hackathon and he will let you through. If you
         get lost use the [PDF
-        map](http://www.open-bio.org/wiki/File:Brigham_Circle_-_Countway_Map.pdf)
+        map](http://www.open-bio.org/w/images/2/25/Brigham_Circle_-_Countway_Map.pdf)
         as a guide.
 
 <!-- -->
