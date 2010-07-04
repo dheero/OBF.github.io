@@ -108,12 +108,12 @@ Location
         Green line. Simches is located slightly off Cambridge Street --
         the closest landmark on Cambridge Street is a big yellow Au
         Bon Pain. Walk up the stairs next to the Au Bon Pain and you'll
-        be in a parking lot: the Simches building is located immediately
-        to the left of the Whole Foods and CVS. Walk in the lobby and
-        the security desk should have a badge for you. You can take the
-        elevators up to the 3rd floor. Room 3130 is down the only
-        non-secured corridor and is on the left side just past
-        the cafeteria.
+        be in a parking lot: the Simches building is located straight in
+        front of you across the parking lot, to the left of the Whole
+        Foods and CVS. Walk in the lobby and the security desk should
+        have a badge for you. You can take the elevators up to the
+        3rd floor. Room 3130 is down the only non-secured corridor and
+        is on the left side just past the cafeteria.
 
 Resources
 ---------
