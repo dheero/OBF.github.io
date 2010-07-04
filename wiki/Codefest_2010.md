@@ -215,6 +215,7 @@ Attendees
 -   Jin-Dong Kim
 -   [Heikki
     Lehvaslaiho](http://sa.linkedin.com/pub/heikki-lehvaslaiho/1/974/377)
+-   [Eric Talevich](http://etalog.blogspot.com/)
 
 Feel free to add yourself if you are interested. We are happy to have
 you.
