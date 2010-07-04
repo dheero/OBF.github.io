@@ -175,6 +175,11 @@ GitHub](http://github.com/chapmanb/bcbb/tree/master/ec2/biolinux/)):
 -   Building SPARQL endpoints of DDBJ RDF, PDBj RDF, MEDLINE, KEGG
     and UniProt.
 
+### Bioperl/BioSQL
+
+-   Include SQLite support in BioSQL
+-   DBIx::Class integration with BioSQL
+
 Attendees
 ---------
 
