@@ -216,7 +216,7 @@ Attendees
 -   [James Taylor](http://bx.mathcs.emory.edu)
 -   [Enis Afgan](http://bx.mathcs.emory.edu)
 -   [Dannon Baker](http://bx.mathcs.emory.edu)
--   Shuichi Kawashima
+-   [Shuichi Kawashima](http://jp.linkedin.com/in/shuichikawashima)
 -   Jin-Dong Kim
 -   [Heikki
     Lehvaslaiho](http://sa.linkedin.com/pub/heikki-lehvaslaiho/1/974/377)
