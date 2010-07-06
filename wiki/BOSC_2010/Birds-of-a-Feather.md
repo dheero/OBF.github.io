@@ -11,7 +11,13 @@ account](Special:Userlogin "wikilink"), login, and edit this page.
 Friday BOFs (Day 1)
 -------------------
 
-Dana Robinson - BioHDF, HDF5-based NGS data storage.
+-   Dana Robinson - BioHDF, HDF5-based NGS data storage.
+
+<!-- -->
+
+-   Biology in Python -- discussion on doing bioinformatics work with
+    the fabulous Python programming language, using libraries
+    like Biopython.
 
 Saturday BOFs (Day 2)
 ---------------------
