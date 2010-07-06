@@ -228,6 +228,7 @@ Attendees
     Lehvaslaiho](http://sa.linkedin.com/pub/heikki-lehvaslaiho/1/974/377)
 -   [Eric Talevich](http://etalog.blogspot.com/)
 -   [Marc-Alexandre Nolin (Bio2RDF)](http://bio2rdf.org/)
+-   [Scott Cain](http://scottcain.net/)
 
 Feel free to add yourself if you are interested. We are happy to have
 you.
