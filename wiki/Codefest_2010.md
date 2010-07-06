@@ -218,7 +218,7 @@ Attendees
 -   [Yasunori Yamamoto](http://purl.org/yayamamo/home)
 -   [Raoul J.P. Bonnal](http://it.linkedin.com/in/raoulbonnal)
 -   [Atsuko Yamaguchi](http://www.linkedin.com/in/atsukoyamaguchi)
--   Christopher Bottoms
+-   Christopher Bottoms (+ wife Marcie, and dau. Zebadee)
 -   [James Taylor](http://bx.mathcs.emory.edu)
 -   [Enis Afgan](http://bx.mathcs.emory.edu)
 -   [Dannon Baker](http://bx.mathcs.emory.edu)
