@@ -19,6 +19,18 @@ Here are the current working Sparql Endpoints for Bio2RDF has of July
     }
 
 -   <http://geneid-test.bio2rdf.org/sparql>
+
+<!-- -->
+
+    select distinct ?g ?o
+    where {
+    graph ?g 
+    {
+    ?s ?p ?o .
+    ?o bif:contains "HK1" .
+    }
+    }
+
 -   <http://pubmed.bio2rdf.org/sparql>
 -   <http://refseq.bio2rdf.org/sparql>
 -   <http://omim.bio2rdf.org/sparql>
