@@ -176,6 +176,7 @@ GitHub](http://github.com/chapmanb/bcbb/tree/master/ec2/biolinux/)):
     and UniProt.
 -   Complete supports for SPARQL endpoints in BioRuby and BioPython. If
     possible, BioPerl and BioJava as well.
+    -   <SemWeb:PDB2RDF>
 
 ### Bioperl/BioSQL
 
