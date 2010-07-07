@@ -233,6 +233,7 @@ Attendees
 -   [Scott Cain](http://scottcain.net/)
 -   [Aaron
     McKenna](http://www.broadinstitute.org/gsa/wiki/index.php/Main_Page)
+-   [Roger A Hall](http://search.cpan.org/~rogerhall/)
 
 Feel free to add yourself if you are interested. We are happy to have
 you.
