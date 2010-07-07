@@ -262,3 +262,6 @@ discussion to the OpenBio mailing list: <open-bio-l@lists.open-bio.org>.
 
 For short-lived coordination tasks during the hackaton, an IRC channel
 has been setup on FreeNode: \#codefest
+
+Please use the hash tag \#bosc2010 on twitter to help remote folks
+follow the discussion.
