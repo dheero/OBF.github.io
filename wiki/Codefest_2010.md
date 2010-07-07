@@ -179,6 +179,7 @@ GitHub](http://github.com/chapmanb/bcbb/tree/master/ec2/biolinux/)):
 
 -   Include SQLite support in BioSQL
 -   DBIx::Class integration with BioSQL
+-   A bit on Moose and Perl 6
 
 ### Key signing
 
