@@ -181,6 +181,10 @@ GitHub](http://github.com/chapmanb/bcbb/tree/master/ec2/biolinux/)):
     possible, BioPerl and BioJava as well.
     -   [Brief introduction to RDF/SPARQL in
         OpenBio](http://hackathon3.dbcls.jp/wiki/ImplementationBootcamp)
+    -   [Example queries against
+        Bio2RDF](http://sourceforge.net/apps/mediawiki/bio2rdf/index.php?title=Demo_queries)
+    -   [Example queries against
+        BioGateway](http://www.semantic-systems-biology.org/biogateway/querying)
     -   <SemWeb:PDB2RDF>
 
 ### Bioperl/BioSQL
