@@ -259,3 +259,6 @@ Discussion
 
 We welcome any thoughts from interested participants. Please direct
 discussion to the OpenBio mailing list: <open-bio-l@lists.open-bio.org>.
+
+For short-lived coordination tasks during the hackaton, an IRC channel
+has been setup on FreeNode: \#codefest
