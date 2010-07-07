@@ -38,10 +38,14 @@ Here are the current working Sparql Endpoints for Bio2RDF has of July
     select ?label ?o
     where
     {
-    ?s a <http://bio2rdf.org/pubmed:JournalArticle> .
+    graph ?g {
     ?s ?p ?o .
     ?o bif:contains "HK1" .
-    ?s rdfs:label ?label .
+    }
+    graph ?g {
+    ?s2 a <http://bio2rdf.org/pubmed:JournalArticle> .
+    ?s2 rdfs:label ?label .
+    }
     }
     limit 5
 
