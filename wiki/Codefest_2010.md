@@ -197,7 +197,7 @@ Attendees
 -   [Hilmar Lapp](http://www.bioperl.org/wiki/User:Lapp)
 -   [Michael Heuer](http://www.biojava.org/wiki/Michael_Heuer)
 -   [Chris Fields](http://www.bioperl.org/wiki/User:Cjfields) - Arriving
-    Wed around 1pm
+    Wed around 2pm
 -   [Ntino Krampis](http://www.linkedin.com/in/agbiotec)
 -   [Tim Booth](http://nebc.nox.ac.uk/nebc/about-us/people)
 -   <s>[Peter Cock](http://www.scri.ac.uk/staff/petercock)</s> (Unable
