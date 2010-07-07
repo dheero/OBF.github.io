@@ -4,6 +4,10 @@ title: SemWeb:PDB2RDF
 
 Write here.
 
+Akira will use the following Trac page:
+
+-   <http://hackathon3.dbcls.jp/wiki/PDB2RDF>
+
 mmCIF pdbx dictionary (PDB's ontology)
 
 -   <http://mmcif.pdb.org/dictionaries/mmcif_pdbx.dic/Index/index.html>
