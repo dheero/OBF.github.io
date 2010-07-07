@@ -16,4 +16,5 @@ Here are the current working Sparql Endpoints for Bio2RDF has of July
 -   <http://bind.bio2rdf.org/sparql>
 -   <http://biocarta.bio2rdf.org/sparql>
 -   <http://biocyc.bio2rdf.org/sparql>
+-   <http://biopax.bio2rdf.org/sparql>
 
