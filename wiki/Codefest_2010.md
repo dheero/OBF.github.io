@@ -169,6 +169,9 @@ GitHub](http://github.com/chapmanb/bcbb/tree/master/ec2/biolinux/)):
     bi-weekly/monthly basis based on latest code.
 -   Website with documentation, AMI history.
 -   Testing on [Eucalyptus clouds](http://ecc.eucalyptus.com/).
+-   Titus Brown's post on [using cloud computing to teach a next-gen
+    sequencing
+    course](http://ivory.idyll.org/blog/jun-10/ngs-course-postmortem.html).
 
 ### Semantic Web
 
