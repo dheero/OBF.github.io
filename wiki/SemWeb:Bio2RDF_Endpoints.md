@@ -3,7 +3,7 @@ title: SemWeb:Bio2RDF Endpoints
 ---
 
 Here are the current working Sparql Endpoints for Bio2RDF has of July
-7th 2010, 16:09 PM
+7th 2010, 16:37 PM
 
 -   <http://pdb.bio2rdf.org/sparql>
 -   <http://geneid-test.bio2rdf.org/sparql>
@@ -20,6 +20,10 @@ Here are the current working Sparql Endpoints for Bio2RDF has of July
 -   <http://chebi.bio2rdf.org/sparql>
 -   <http://cpath.bio2rdf.org/sparql>
 -   <http://ec.bio2rdf.org/sparql>
+-   <http://genbank.bio2rdf.org/sparql>
+-   <http://geneid.bio2rdf.org/sparql>
+-   <http://go.bio2rdf.org/sparql>
+-   <http://hgnc.bio2rdf.org/sparql>
 
 URI are build with this pattern
 
