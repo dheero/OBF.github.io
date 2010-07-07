@@ -32,6 +32,19 @@ Here are the current working Sparql Endpoints for Bio2RDF has of July
     }
 
 -   <http://pubmed.bio2rdf.org/sparql>
+
+<!-- -->
+
+    select ?label ?o
+    where
+    {
+    ?s a <http://bio2rdf.org/pubmed:JournalArticle> .
+    ?s ?p ?o .
+    ?o bif:contains "HK1" .
+    ?s rdfs:label ?label .
+    }
+    limit 5
+
 -   <http://refseq.bio2rdf.org/sparql>
 -   <http://omim.bio2rdf.org/sparql>
 -   <http://affymetrix.bio2rdf.org/sparql>
