@@ -50,6 +50,7 @@ WHERE { &lt;<http://bio2rdf.org/pdb:1GOF>&gt; ?p ?o . optional {?o ?p2
 -   <http://uniparc.bio2rdf.org/sparql>
 -   <http://uniprot.bio2rdf.org/sparql>
 -   <http://unists.bio2rdf.org/sparql>
+-   <http://uniref.bio2rdf.org/sparql>
 
 URI are build with this pattern
 
