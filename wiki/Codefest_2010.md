@@ -176,9 +176,8 @@ GitHub](http://github.com/chapmanb/bcbb/tree/master/ec2/biolinux/)):
     and UniProt.
 -   Complete supports for SPARQL endpoints in BioRuby and BioPython. If
     possible, BioPerl and BioJava as well.
-    -   [http://hackathon3.dbcls.jp/wiki/ImplementationBootcamp Brief
-        introduction to RDF/SPARQL in
-        OpenBio](http://hackathon3.dbcls.jp/wiki/ImplementationBootcamp_Brief_introduction_to_RDF/SPARQL_in_OpenBio "wikilink")
+    -   [Brief introduction to RDF/SPARQL in
+        OpenBio](http://hackathon3.dbcls.jp/wiki/ImplementationBootcamp)
     -   <SemWeb:PDB2RDF>
 
 ### Bioperl/BioSQL
