@@ -194,6 +194,19 @@ Here are the current working Sparql Endpoints for Bio2RDF has of July
 
 -   <http://genbank.bio2rdf.org/sparql>
 -   <http://geneid.bio2rdf.org/sparql>
+
+<!-- -->
+
+    select ?label ?from ?to
+    where {
+    ?s a <http://bio2rdf.org/ns/geneid#Gene> .
+    ?s rdfs:label ?label .
+    ?s <http://bio2rdf.org/ns/geneid#fromInterval> ?from .
+    ?s <http://bio2rdf.org/ns/geneid#toInterval> ?to .
+    filter(xsd:integer(?from) < 100) .
+    }
+    limit 100
+
 -   <http://go.bio2rdf.org/sparql>
 -   <http://hgnc.bio2rdf.org/sparql>
 -   <http://homologene.bio2rdf.org/sparql>
