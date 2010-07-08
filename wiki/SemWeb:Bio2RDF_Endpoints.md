@@ -208,6 +208,20 @@ Here are the current working Sparql Endpoints for Bio2RDF has of July
     limit 100
 
 -   <http://go.bio2rdf.org/sparql>
+
+<!-- -->
+
+    select ?golabel ?parentlabel ?greatparentlabel
+    where {
+    ?go a <http://bio2rdf.org/ns/go#Term> .
+    ?go rdfs:label ?golabel .
+    ?golabel bif:contains "liver" .
+    ?parent ?p ?go .
+    ?parent rdfs:label ?parentlabel .
+    ?greatparent ?p2 ?parent .
+    ?greatparent rdfs:label ?greatparentlabel .
+    }
+
 -   <http://hgnc.bio2rdf.org/sparql>
 -   <http://homologene.bio2rdf.org/sparql>
 -   <http://inoh.bio2rdf.org/sparql>
