@@ -172,6 +172,8 @@ GitHub](http://github.com/chapmanb/bcbb/tree/master/ec2/biolinux/)):
 -   Titus Brown's post on [using cloud computing to teach a next-gen
     sequencing
     course](http://ivory.idyll.org/blog/jun-10/ngs-course-postmortem.html).
+-   Richard Holland's post on [getting started with Amazon
+    EC2](http://blog.eaglegenomics.com/?p=17).
 
 ### Semantic Web
 
