@@ -236,6 +236,17 @@ Here are the current working Sparql Endpoints for Bio2RDF as of July 7th
     limit 200
 
 -   <http://homologene.bio2rdf.org/sparql>
+
+<!-- -->
+
+    select ?genelabel ?cluster
+    where {
+    ?cluster a <http://bio2rdf.org/homologene#Cluster> .
+    ?gene ?p ?cluster .
+    ?gene rdfs:label ?genelabel .
+    }
+    limit 100
+
 -   <http://inoh.bio2rdf.org/sparql>
 -   <http://iproclass.bio2rdf.org/sparql>
 -   <http://kegg.bio2rdf.org/sparql>
