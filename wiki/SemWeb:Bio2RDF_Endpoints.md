@@ -53,11 +53,12 @@ Here are the current working Sparql Endpoints for Bio2RDF has of July
 
 <!-- -->
 
-    select distinct ?refseq ?fs ?fe
+    select distinct ?rl ?fs ?fe
     where {
     ?o <http://bio2rdf.org/ncbi_resource:featureStart> ?fs .
     filter (xsd:integer(?fs) < 10000) 
     ?refseq <http://bio2rdf.org/ncbi_resource:feature> ?o .
+    ?refseq rdfs:label $rl .
     ?o <http://bio2rdf.org/ncbi_resource:featureEnd> ?fe .
     }
     limit 5
