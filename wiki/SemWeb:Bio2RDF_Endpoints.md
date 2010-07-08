@@ -157,6 +157,18 @@ Here are the current working Sparql Endpoints for Bio2RDF has of July
     limit 10
 
 -   <http://chebi.bio2rdf.org/sparql>
+
+<!-- -->
+
+    select ?comp_label ?mass
+    where {
+    ?comp a <http://bio2rdf.org/ns/chebi#Compound> .
+    ?comp rdfs:label ?comp_label .
+    ?comp <http://bio2rdf.org/ns/bio2rdf#mass> ?mass .
+    filter(xsd:double(?mass) > 1500) .
+    }
+    limit 100
+
 -   <http://cpath.bio2rdf.org/sparql>
 -   <http://ec.bio2rdf.org/sparql>
 -   <http://genbank.bio2rdf.org/sparql>
