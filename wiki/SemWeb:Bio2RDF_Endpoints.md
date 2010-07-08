@@ -50,6 +50,18 @@ Here are the current working Sparql Endpoints for Bio2RDF has of July
     limit 5
 
 -   <http://refseq.bio2rdf.org/sparql>
+
+<!-- -->
+
+    select distinct ?refseq ?fs ?fe
+    where {
+    ?o <http://bio2rdf.org/ncbi_resource:featureStart> ?fs .
+    filter (xsd:integer(?fs) < 10000) 
+    ?refseq <http://bio2rdf.org/ncbi_resource:feature> ?o .
+    ?o <http://bio2rdf.org/ncbi_resource:featureEnd> ?fe .
+    }
+    limit 5
+
 -   <http://omim.bio2rdf.org/sparql>
 -   <http://affymetrix.bio2rdf.org/sparql>
 -   <http://atlas.bio2rdf.org/sparql>
