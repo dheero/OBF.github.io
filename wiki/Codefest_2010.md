@@ -175,6 +175,22 @@ GitHub](http://github.com/chapmanb/bcbb/tree/master/ec2/biolinux/)):
 -   Richard Holland's post on [getting started with Amazon
     EC2](http://blog.eaglegenomics.com/?p=17).
 
+### Suggested Additions for Cloud computing image
+
+#### Perl
+
+#### Ruby
+
+#### Python
+
+#### Java
+
+#### Data
+
+-   [UniRef](ftp://ftp.ebi.ac.uk//pub/databases/uniprot/current_release/uniref)
+    -   UniRef50 and UniRef90, and if you've got the space,
+        UniRef100, too.
+
 ### Semantic Web
 
 -   Building SPARQL endpoints of DDBJ RDF, PDBj RDF, MEDLINE, KEGG
