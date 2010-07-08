@@ -204,6 +204,7 @@ GitHub](http://github.com/chapmanb/bcbb/tree/master/ec2/biolinux/)):
     -   [Example queries against
         BioGateway](http://www.semantic-systems-biology.org/biogateway/querying)
     -   <SemWeb:PDB2RDF>
+    -   <SemWeb:Bio2RDF_Endpoints>
 
 ### Bioperl/BioSQL
 
