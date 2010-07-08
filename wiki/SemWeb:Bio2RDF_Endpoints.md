@@ -103,6 +103,27 @@ Here are the current working Sparql Endpoints for Bio2RDF has of July
     ORDER BY DESC (count(*))
 
 -   <http://bind.bio2rdf.org/sparql>
+
+<!-- -->
+
+    select ?inter ?inter2 ?part1_title ?part2_title ?part3_title 
+    where {
+    ?inter a <http://bio2rdf.org/bind#Interaction> .
+    ?inter <http://bio2rdf.org/ns/ns/bind#interactionPart> ?part1 .
+    ?inter <http://bio2rdf.org/ns/ns/bind#interactionPart> ?part2 .
+    filter(?part1 != ?part2) .
+    ?part1 <http://purl.org/dc/elements/1.1/title> ?part1_title .
+    ?part2 <http://purl.org/dc/elements/1.1/title> ?part2_title .
+    ?inter2 a <http://bio2rdf.org/bind#Interaction> .
+    ?inter2 <http://bio2rdf.org/ns/ns/bind#interactionPart> ?part3 .
+    ?inter2 <http://bio2rdf.org/ns/ns/bind#interactionPart> ?part4 .
+    filter(?part3 != ?part4) .
+    ?part3 <http://purl.org/dc/elements/1.1/title> ?part2_title .
+    ?part4 <http://purl.org/dc/elements/1.1/title> ?part3_title .
+    filter (?inter != ?inter2) .
+    }
+    limit 100
+
 -   <http://biocarta.bio2rdf.org/sparql>
 -   <http://biocyc.bio2rdf.org/sparql>
 -   <http://biopax.bio2rdf.org/sparql>
