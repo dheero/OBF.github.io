@@ -223,6 +223,18 @@ Here are the current working Sparql Endpoints for Bio2RDF as of July 7th
     }
 
 -   <http://hgnc.bio2rdf.org/sparql>
+
+<!-- -->
+
+    select ?label ?url ?symbol
+    where {
+    ?symbol a <http://bio2rdf.org/ns/hgnc#Symbol> .
+    ?hugo ?p ?symbol .
+    ?hugo <http://bio2rdf.org/ns/bio2rdf#url> ?url .
+    ?hugo rdfs:label ?label .
+    }
+    limit 200
+
 -   <http://homologene.bio2rdf.org/sparql>
 -   <http://inoh.bio2rdf.org/sparql>
 -   <http://iproclass.bio2rdf.org/sparql>
