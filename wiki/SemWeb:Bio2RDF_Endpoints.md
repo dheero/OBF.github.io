@@ -89,8 +89,19 @@ Here are the current working Sparql Endpoints for Bio2RDF has of July
     }
     limit 100
 
--   <http://atlas.bio2rdf.org/sparql>
--   <http://quebec.bio2rdf.org/sparql>
+-   <http://atlas.bio2rdf.org/sparql> and \*
+    <http://quebec.bio2rdf.org/sparql> are the same
+
+<!-- -->
+
+    SELECT ?label1, count(*)
+    WHERE {
+    ?s1 ?p1 ?o1 .
+    ?s1 <http://www.w3.org/2000/01/rdf-schema#label> ?label1 .
+    ?o1 bif:contains "morissette" .
+    }
+    ORDER BY DESC (count(*))
+
 -   <http://bind.bio2rdf.org/sparql>
 -   <http://biocarta.bio2rdf.org/sparql>
 -   <http://biocyc.bio2rdf.org/sparql>
