@@ -249,6 +249,17 @@ Here are the current working Sparql Endpoints for Bio2RDF as of July 7th
 
 -   <http://inoh.bio2rdf.org/sparql>
 -   <http://iproclass.bio2rdf.org/sparql>
+
+<!-- -->
+
+    select ?ident ?go
+    where {
+    ?iclass a <http://bio2rdf.org/ns/iproclass#AnnotationClass> .
+    ?iclass <http://purl.org/dc/elements/1.1/identifier> ?ident .
+    ?iclass <http://bio2rdf.org/ns/iproclass#xGo> ?go .
+    }
+    limit 100
+
 -   <http://kegg.bio2rdf.org/sparql>
 -   <http://mesh.bio2rdf.org/sparql>
 -   <http://mgi.bio2rdf.org/sparql>
