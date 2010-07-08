@@ -77,6 +77,18 @@ Here are the current working Sparql Endpoints for Bio2RDF has of July
     limit 100
 
 -   <http://affymetrix.bio2rdf.org/sparql>
+
+<!-- -->
+
+    select ?al ?o
+    where {
+    ?s a <http://bio2rdf.org/ns/affymetrix#Probeset> .
+    ?s rdfs:label ?al .
+    ?s ?p ?o .
+    ?o bif:contains "calcium" .
+    }
+    limit 100
+
 -   <http://atlas.bio2rdf.org/sparql>
 -   <http://quebec.bio2rdf.org/sparql>
 -   <http://bind.bio2rdf.org/sparql>
