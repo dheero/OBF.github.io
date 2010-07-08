@@ -261,6 +261,20 @@ Here are the current working Sparql Endpoints for Bio2RDF as of July 7th
     limit 100
 
 -   <http://kegg.bio2rdf.org/sparql>
+
+<!-- -->
+
+    select ?label ?rel ?entrylabel
+    where {
+    ?path a <http://bio2rdf.org/ns/kegg#Pathway> .
+    ?path rdfs:label ?label .
+    ?path <http://bio2rdf.org/ns/kegg#xRelation> ?rel .
+    ?rel <http://bio2rdf.org/ns/kegg#xEntry1> ?entry .
+    ?entry <http://bio2rdf.org/ns/kegg#xRef> ?o .
+    ?o rdfs:label ?entrylabel .
+    }
+    limit 100
+
 -   <http://mesh.bio2rdf.org/sparql>
 -   <http://mgi.bio2rdf.org/sparql>
 -   <http://obo.bio2rdf.org/sparql>
