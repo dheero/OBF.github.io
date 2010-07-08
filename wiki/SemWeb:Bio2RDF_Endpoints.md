@@ -64,6 +64,18 @@ Here are the current working Sparql Endpoints for Bio2RDF has of July
     limit 5
 
 -   <http://omim.bio2rdf.org/sparql>
+
+<!-- -->
+
+    select ?ol ?desc
+    where {
+    ?omim a <http://bio2rdf.org/omim_resource:MendelianDisorders> .
+    ?omim rdfs:label ?ol .
+    ?omim <http://purl.org/dc/terms/description> ?desc .
+    ?desc bif:contains "HK1" .
+    }
+    limit 100
+
 -   <http://affymetrix.bio2rdf.org/sparql>
 -   <http://atlas.bio2rdf.org/sparql>
 -   <http://quebec.bio2rdf.org/sparql>
