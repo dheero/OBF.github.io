@@ -181,6 +181,17 @@ Here are the current working Sparql Endpoints for Bio2RDF has of July
     limit 10
 
 -   <http://ec.bio2rdf.org/sparql>
+
+<!-- -->
+
+    select ?enzlabel ?sub
+    where {
+    ?enz a <http://bio2rdf.org/ns/kegg#Enzyme> .
+    ?enz rdfs:label ?enzlabel .
+    ?enz <http://bio2rdf.org/ns/kegg#xSubstrate> ?sub .
+    }
+    limit 100
+
 -   <http://genbank.bio2rdf.org/sparql>
 -   <http://geneid.bio2rdf.org/sparql>
 -   <http://go.bio2rdf.org/sparql>
