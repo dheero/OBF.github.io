@@ -170,6 +170,16 @@ Here are the current working Sparql Endpoints for Bio2RDF has of July
     limit 100
 
 -   <http://cpath.bio2rdf.org/sparql>
+
+<!-- -->
+
+    select ?name
+    where {
+    ?prot a <http://bio2rdf.org/ns/biopax#protein> .
+    ?prot <http://bio2rdf.org/ns/biopax#NAME> ?name .
+    }
+    limit 10
+
 -   <http://ec.bio2rdf.org/sparql>
 -   <http://genbank.bio2rdf.org/sparql>
 -   <http://geneid.bio2rdf.org/sparql>
