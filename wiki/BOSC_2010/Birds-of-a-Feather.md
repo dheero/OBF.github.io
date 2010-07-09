@@ -21,3 +21,11 @@ Friday BOFs (Day 1)
 
 Saturday BOFs (Day 2)
 ---------------------
+
+-   Representing/Querying NGS Data in HBase/Hadoop -- a BOF to discuss
+    how to represent, process, and query NGS data in HBase
+    and/or HDFS/Hadoop. I'm interested in discussing ideas of how to
+    represent information of interest to NGS researchers (specifically
+    focused on variants, small indels, large indels, structural
+    variation etc) in HBase tables.
+
