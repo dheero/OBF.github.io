@@ -28,4 +28,5 @@ Saturday BOFs (Day 2)
     represent information of interest to NGS researchers (specifically
     focused on variants, small indels, large indels, structural
     variation etc) in HBase tables.
+-   Brainstorming for BOSC 2011 in Vienna; future of O|B|F
 
