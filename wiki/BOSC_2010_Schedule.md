@@ -14,9 +14,10 @@ title: BOSC 2010 Schedule
     Speakers](BOSC_2010#Information_for_Speakers "wikilink")**
 -   ***Slides*** for Friday's talks are up on
     [SlideShare](http://www.slideshare.net/bosc2010/presentations) under
-    the username "bosc2010". Individual links will be posted to the
-    schedule when there is more bandwidth available :) *—
-    [Kdahlquist](User:Kdahlquist "wikilink") 15:21, 10 July 2010 (UTC)*
+    the username "bosc2010". Individual links to each talk are posted on
+    the schedule below. Saturday's slides will be
+    posted tonight/tomorrow. *— [Kdahlquist](User:Kdahlquist "wikilink")
+    21:21, 10 July 2010 (UTC)*
 
 Schedule
 --------
