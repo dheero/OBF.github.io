@@ -12,12 +12,12 @@ title: BOSC 2010 Schedule
     to download all abstracts compiled into one PDF file (2 MB).
 -   Important **[ Information for
     Speakers](BOSC_2010#Information_for_Speakers "wikilink")**
--   ***Slides*** for Friday's talks are up on
+-   ***Slides*** for both days' talks are up on
     [SlideShare](http://www.slideshare.net/bosc2010/presentations) under
     the username "bosc2010". Individual links to each talk are posted on
-    the schedule below. Saturday's slides will be
-    posted tonight/tomorrow. *— [Kdahlquist](User:Kdahlquist "wikilink")
-    21:21, 10 July 2010 (UTC)*
+    the schedule below. Authors, if you haven't sent me your slides for
+    posting, please do so ASAP. *—
+    [Kdahlquist](User:Kdahlquist "wikilink") 20:43, 11 July 2010 (UTC)*
 
 Schedule
 --------
