@@ -27,6 +27,7 @@ Other related projects
 -   BioHaskell [home page](http://blog.malde.org/),
     [releases](http://hackage.haskell.org/packages/archive/pkg-list.html#cat:bioinformatics),
     [source code](http://malde.org/~ketil/)
+-   BioCaml [source code](http://github.com/agarwal/biocaml)
 -   [BioPHP](http://biophp.org)
 -   [BioWeka](http://bioweka.sourceforge.net/index.php/Main_Page)
 -   [BioClipse](http://www.bioclipse.net/) - visual platform based on
