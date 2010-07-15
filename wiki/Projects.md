@@ -5,18 +5,6 @@ title: Projects
 Main projects
 -------------
 
--   [BioJava](http://www.biojava.org)
--   [BioPerl](bp:BioPerl "wikilink")
--   [Biopython](biopython:Main_Page "wikilink")
--   [BioRuby](http://www.bioruby.org)
--   [BioSQL](biosql:Main_Page "wikilink")
--   [DAS](http://www.biodas.org) and their list of [Global Sequence
-    Identifiers](http://biodas.org/wiki/GlobalSeqIDs)
--   [MOBY](http://www.biomoby.org)
--   [EMBOSS](http://www.emboss.org)
--   [OBDA](http://obda.open-bio.org) (this website is out of date, a new
-    one is being developed)
-
 Affiliated projects
 -------------------
 
