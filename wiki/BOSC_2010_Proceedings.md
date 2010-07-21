@@ -36,7 +36,7 @@ How to submit
     and
     formatting](Media:Instructions_for_authors_-_BMC_-_Appendix_A.pdf "wikilink").
     -   Manuscripts may be submitted in .pdf, .doc (Microsoft Word 2003
-        or lower), or .rtf format.
+        or lower), or .rtf format (files can also be zipped, .zip).
         -   TeX/LaTeX - please use BioMed Central's TeX template:
             <http://www.biomedcentral.com/info/ifora/tex> and submit
             your file as a PDF file.
@@ -51,6 +51,9 @@ How to submit
     Proceedings
     site](http://events.open-bio.org/BOSC2010-Proceedings/openconf.php),
     ***NOT*** through the BMC Bioinformatics submissions site.
+    -   Paste the abstract for your manuscript in the Abstract form
+        field (not your abstract from the conference). Your abstract
+        should also be included in the main manuscript you upload.
 
 Review Process
 --------------
