@@ -76,7 +76,9 @@ Review Process
     Journal standard.
 -   Once the article has been typeset by BMC, the authors will be
     notified to check their articles for corrections.
--   Once all of the corrections are in, the articles will be published.
+-   Once all of the corrections are in and payment of the Open Access
+    page charges (see below) has been made, the articles will
+    be published.
 
 Open Access Page Charges
 ------------------------
