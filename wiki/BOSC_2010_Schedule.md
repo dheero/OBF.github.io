@@ -86,4 +86,5 @@ Click on the talk title to view the individual abstract as a PDF file.
 | 5:20-5:30       | Iddo Friedberg                                        | \[Visualization\] [ IPRStats: visualization and analysis of InterProScan Results](Media:32_BOSC2010.pdf "wikilink") [\*\*\*SLIDES\*\*\*](http://www.slideshare.net/bosc2010/friedberg-bosc2010-iprstats)                                                       |
 | 5:30-6:00       |                                                       | [ Birds of a Feather](BOSC_2010/Birds-of-a-Feather "wikilink")                                                                                                                                                                                                 |
 
-
+<Category:BOSC> <Category:Conferences> [Category:BOSC
+Conferences](Category:BOSC_Conferences "wikilink")
