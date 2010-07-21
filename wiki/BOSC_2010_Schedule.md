@@ -3,6 +3,8 @@ title: BOSC 2010 Schedule
 ---
 
 -   Return to **[ BOSC 2010](BOSC_2010 "wikilink")** main page.
+-   For information about the BOSC 2010 Proceedings, see the **[
+    Proceedings](BOSC_2010_Proceedings "wikilink")** page.
 -   Click **[
     here](Media:BOSC2010_program_20100615_frontmatter.pdf "wikilink")**
     to download the BOSC 2010 program and schedule as a PDF file (5
