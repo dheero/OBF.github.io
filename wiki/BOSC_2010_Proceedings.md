@@ -35,8 +35,8 @@ How to submit
 -   Manuscripts must conform to BMC Bioinformatics [ author guidelines
     and
     formatting](Media:Instructions_for_authors_-_BMC_-_Appendix_A.pdf "wikilink").
-    -   Manuscripts may be submitted in .pdf, .doc (Microsoft Word 2003
-        or lower), or .rtf format (files can also be zipped, .zip).
+    -   Manuscripts may be submitted in .pdf, .doc (Microsoft Word
+        97-2003), or .rtf format (files can also be zipped, .zip).
         -   TeX/LaTeX - please use BioMed Central's TeX template:
             <http://www.biomedcentral.com/info/ifora/tex> and submit
             your file as a PDF file.
