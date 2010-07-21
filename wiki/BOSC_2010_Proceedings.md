@@ -2,8 +2,8 @@
 title: BOSC 2010 Proceedings
 ---
 
--   **[ BOSC 2010](BOSC_2010 "wikilink")** main page.
--   '''[ BOSC 2010 Schedule](BOSC_2010_Schedule "wikilink") page.
+-   **[ BOSC 2010 main page](BOSC_2010 "wikilink")**
+-   **[ BOSC 2010 Schedule page](BOSC_2010_Schedule "wikilink")**
 
 First-ever Published BOSC Proceedings
 -------------------------------------
