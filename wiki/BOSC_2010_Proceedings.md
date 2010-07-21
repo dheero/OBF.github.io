@@ -35,6 +35,9 @@ How to submit
 -   Manuscripts must conform to BMC Bioinformatics [ author guidelines
     and
     formatting](Media:Instructions_for_authors_-_BMC_-_Appendix_A.pdf "wikilink").
+    -   Manuscripts are expected to take up 4-5 printed pages in the
+        journal, approximately 2500 words, not including the abstract
+        and references.
     -   Manuscripts may be submitted in .pdf, .doc (Microsoft Word
         97-2003), or .rtf format (files can also be zipped, .zip).
         -   TeX/LaTeX - please use BioMed Central's TeX template:
