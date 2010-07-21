@@ -46,7 +46,7 @@ How to submit
             make up an article manuscript, along with dummy fragments of
             body text. (Additional instructions are found in the [
             author guidelines and
-            formatting](Media:Instructions_for_authors_-_BMC_-_Appendix_A.pdf "wikilink") document.
+            formatting](Media:Instructions_for_authors_-_BMC_-_Appendix_A.pdf "wikilink") document.)
 -   Manuscripts must be submitted via our [Open Conferences System BOSC
     Proceedings
     site](http://events.open-bio.org/BOSC2010-Proceedings/openconf.php),
