@@ -32,9 +32,10 @@ How to submit
 -   Manuscripts must conform to BMC Bioinformatics [ author guidelines
     and
     formatting](Media:Instructions_for_authors_-_BMC_-_Appendix_A.pdf "wikilink").
--   Manuscripts must be submitted in PDF format via our Open Conference
-    Systems BOSC Proceedings site, ***NOT*** through the BMC
-    Bioinformatics submissions site.
+-   Manuscripts must be submitted in PDF format via our [Open
+    Conferences System BOSC Proceedings
+    site](http://events.open-bio.org/BOSC2010-Proceedings/openconf.php),
+    ***NOT*** through the BMC Bioinformatics submissions site.
 
 Review Process
 --------------
