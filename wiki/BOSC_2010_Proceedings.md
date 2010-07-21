@@ -53,3 +53,5 @@ Open Access Page Charges
     responsibility of the author to pay this sum to BioMed Central for
     inclusion in the Proceedings.
 
+<Category:BOSC> <Category:Conferences> [Category:BOSC
+Conferences](Category:BOSC_Conferences "wikilink")
