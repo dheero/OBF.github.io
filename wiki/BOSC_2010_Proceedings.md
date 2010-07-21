@@ -16,9 +16,11 @@ Who is eligible to submit?
 -   Presenters at BOSC 2010 whose abstracts were reviewed and accepted
     before the conference (not Lightning Talk presenters who signed up
     past the abstract deadline or at BOSC itself) are invited to submit
-    a 4-5 page manuscript for publication in the Open Access journal,
-    [BMC
-    Bioinformatics](http://www.biomedcentral.com/bmcbioinformatics/).
+    a 4-5 page manuscript (approximately 2,500 words, not
+
+including the abstract and references) for publication in the Open
+Access journal, [BMC
+Bioinformatics](http://www.biomedcentral.com/bmcbioinformatics/).
 
 Important Dates
 ---------------
