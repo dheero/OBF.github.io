@@ -7,8 +7,6 @@ OBF Newsletters
 
 Here are some newsletters sumamarizing project progress
 
--   [term
-    papers](http://www.research-service.com/custom-term-paper.html)
 -   [Newsletter:2006 Winter](Newsletter:2006_Winter "wikilink")
 -   [Newsletter:2002 Summer](Newsletter:2002_Summer "wikilink")
 -   [Newsletter:2001 Winter](Newsletter:2001_Winter "wikilink")
