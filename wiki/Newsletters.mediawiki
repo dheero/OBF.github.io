@@ -6,12 +6,6 @@ Here are some newsletters sumamarizing project progress
 * [[Newsletter:2001 Winter]]
 
 ==Project specific milestones==
-want to spend a vacation with your family? treat them like you've never done before, make then experience what is a real vacation place, then you might want to try this site. 
-
-Related Link:
-
-[http://www.bluemountaintours.com.au/sites/default.asp '''blue mountain day tours''']
-
 ===[[bp:BioPerl|BioPerl]]===
 * [http://bioperl.org/pipermail/bioperl-announce-l/2004-December/000220.html 2004 summary]
 * [http://news.open-bio.org/archives/2003_12.html 1.4 release (Dec 2003)]

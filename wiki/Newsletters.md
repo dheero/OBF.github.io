@@ -16,15 +16,6 @@ Here are some newsletters sumamarizing project progress
 Project specific milestones
 ---------------------------
 
-want to spend a vacation with your family? treat them like you've never
-done before, make then experience what is a real vacation place, then
-you might want to try this site.
-
-Related Link:
-
-[**blue mountain day
-tours**](http://www.bluemountaintours.com.au/sites/default.asp)
-
 ### [BioPerl](bp:BioPerl "wikilink")
 
 -   [2004
