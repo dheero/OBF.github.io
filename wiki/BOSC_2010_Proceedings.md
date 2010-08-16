@@ -6,9 +6,9 @@ title: BOSC 2010 Proceedings
 -   **[ BOSC 2010 Schedule page](BOSC_2010_Schedule "wikilink")**
 -   **ANNOUNCEMENT:** The [Open Conferences System BOSC Proceedings
     site](http://events.open-bio.org/BOSC2010-Proceedings/openconf.php)
-    is currently down. We are trying to fix it and will notify authors
-    when the site is back up. *—
-    [Kdahlquist](User:Kdahlquist "wikilink") 19:40, 16 August
+    is back up again. The deadline has been extended to Wednesday,
+    August 18, so please upload your manuscripts through the system. *—
+    [Kdahlquist](User:Kdahlquist "wikilink") 23:53, 16 August
     2010 (UTC)*
 
 First-ever Published BOSC Proceedings
