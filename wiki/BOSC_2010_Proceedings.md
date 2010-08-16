@@ -33,7 +33,7 @@ Who is eligible to submit?
 Important Dates
 ---------------
 
--   Manuscripts are due on August 15, 2010.
+-   The deadline has been extended to Wednesday, August 18.
 
 How to submit
 -------------
