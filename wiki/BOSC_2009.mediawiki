@@ -173,5 +173,5 @@ The organizing committee can be contacted by email at [mailto:bosc@openbio.org b
 
 ==Related Links==
 
-[http://www.cellulite.co.uk/advice/spa-treatment/mesotherapy '''mesotherapy''']
-[http://www.merchantos.com/ pos software]
+[http://www.cellulite.co.uk/advice/spa-treatment/mesotherapy '''mesotherapy''']<br>
+[http://www.merchantos.com/'''pos software''']
