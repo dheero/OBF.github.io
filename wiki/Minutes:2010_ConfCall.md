@@ -17,13 +17,15 @@ New business
 
 </li>
 1.  BOSC
-    -   BOSC 2010 (Kam) - held with ISMB2011 in Boston, MA, USA
+    -   BOSC 2010 (Kam) - held with
+        [ISMB2010](http://www.iscb.org/ismb2010) in Boston, MA, USA
 
     <!-- -->
 
     -   Money spent/made attendee number, any other feedback
 
-2.  BOSC 2011
+2.  BOSC 2011 - with [ISMB 2011 Vienna,
+    Austria](http://www.iscb.org/about-ismb#ismb2011)
 
 -   2011 Organizing Committee chairs
 -   Plans for the conference
