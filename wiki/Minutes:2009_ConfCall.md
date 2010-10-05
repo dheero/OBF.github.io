@@ -5,8 +5,8 @@ title: Minutes:2009 ConfCall
 Minutes from the meeting
 ========================
 
-Tentative Agenda
-================
+Agenda
+======
 
 1.  Old business
 
