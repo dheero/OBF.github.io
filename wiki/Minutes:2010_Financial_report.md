@@ -11,7 +11,7 @@ title: Minutes:2010 Financial report
 
 **Liabilities**
 
-` $263.92 reimbursement to Chris Dagdigian for 2-year domain renewals on biomoby.org, biosoap.org and bior.org domains`
+` $263.92 pending reimbursement to Chris Dagdigian for 2-year domain renewals on biomoby.org, biosoap.org and bior.org domains`
 
 **Financial Activity 2010**
 
