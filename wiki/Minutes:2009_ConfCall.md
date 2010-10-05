@@ -14,7 +14,7 @@ Minutes from the meeting
 -   Directors nominee: Nomi Harris
 -   Guests: Darin London, Scott Markel, Peter Cock (joined later)
 
-**Minutes:**'
+**Minutes:**
 
 Hilmar calls meeting to order at 4.04pm EST.
 
