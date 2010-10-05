@@ -8,3 +8,15 @@ title: Minutes:2010 Financial report
 ` Investor checking account: $16,259.23`  
 ` Outstanding liabilities:   ($263.92)`  
 ` `**`Total:` `$31,792.56`**
+
+**Liabilities**
+
+` $263.92 reimbursement to Chris Dagdigian for 2-year domain renewals on biomoby.org, biosoap.org and bior.org domains`
+
+**Financial Activity 2010**
+
+` 7/8/2010 -  $500 donation deposited`  
+` 7/29/2010 - ($250) BOSC award to Jens L`  
+` 7/30/2010 - $1000 wire transfer in from Eagle Genomics`  
+` 7/30/2010 - ($250) BOSC award to Eric 7`  
+` 7/30/2010 - ($16) international wire transfer fee for the Eagle transfer`
