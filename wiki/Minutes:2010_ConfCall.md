@@ -39,7 +39,8 @@ Treasurer's 2010 report (ChrisD)
 <li>
 BoD membership and succession.
 
--   Kam Dahlquist is resigning from the BoD.
+-   Kam Dahlquist is resigning from the BoD. Jason Stajich wants to
+    resign in the near future, too.
 -   Nominations
 -   Plan to elect new BoD members and rotate officers.
 
