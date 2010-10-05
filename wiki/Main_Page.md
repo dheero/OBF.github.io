@@ -40,6 +40,8 @@ Our main activities are:
 We are incorporated in the state of Delaware, USA as a not-for-profit
 company.
 
+-   [ Our bylaws are found on this page.](Bylaws "wikilink")
+
 ### BOSC
 
 [Bioinformatics Open Source Conference](BOSC "wikilink") (BOSC) is held
