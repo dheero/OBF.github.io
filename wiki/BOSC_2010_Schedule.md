@@ -3,8 +3,10 @@ title: BOSC 2010 Schedule
 ---
 
 -   Return to **[ BOSC 2010](BOSC_2010 "wikilink")** main page.
--   For information about the BOSC 2010 Proceedings, see the **[
-    Proceedings](BOSC_2010_Proceedings "wikilink")** page.
+-   **BOSC 2010 Proceedings: The
+    [Proceedings](http://www.biomedcentral.com/1471-2105/11?issue=S12)
+    have been published as of 21 December 2010 in *BMC
+    Bioinformatics*.**
 -   Click **[
     here](Media:BOSC2010_program_20100615_frontmatter.pdf "wikilink")**
     to download the BOSC 2010 program and schedule as a PDF file (5
@@ -17,9 +19,7 @@ title: BOSC 2010 Schedule
 -   ***Slides*** for both days' talks are up on
     [SlideShare](http://www.slideshare.net/bosc2010/presentations) under
     the username "bosc2010". Individual links to each talk are posted on
-    the schedule below. Authors, if you haven't sent me your slides for
-    posting, please do so ASAP. *—
-    [Kdahlquist](User:Kdahlquist "wikilink") 20:43, 11 July 2010 (UTC)*
+    the schedule below.
 
 Schedule
 --------
