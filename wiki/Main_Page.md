@@ -46,8 +46,8 @@ company.
 
 [Bioinformatics Open Source Conference](BOSC "wikilink") (BOSC) is held
 annually in conjunction with [ISCB's](http://www.iscb.org) meeting ISMB.
-[BOSC 2010](BOSC_2010 "wikilink") will be held in conjunction with [ISMB
-2010](http://www.iscb.org/ismb2010) in Boston, Massachusetts, USA.
+[BOSC 2011](BOSC_2011 "wikilink") will be held in conjunction with
+[ISMB/ECCB 2011](http://www.iscb.org/ismbeccb2011) in Vienna, Austria.
 
 See some of the [Past BOSC
 conferences](Past_BOSC_conferences "wikilink").
