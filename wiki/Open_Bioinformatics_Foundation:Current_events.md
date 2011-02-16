@@ -2,6 +2,13 @@
 title: Open Bioinformatics Foundation:Current events
 ---
 
+2011 Events
+===========
+
+-   [BOSC 2011](BOSC_2011 "wikilink") and [Codefest
+    2011](Codefest_2011 "wikilink") will be held in conjunction with
+    ISMB/ECCB 2011 in Vienna.
+
 2010 Events
 ===========
 

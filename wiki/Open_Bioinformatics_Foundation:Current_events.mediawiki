@@ -1,3 +1,7 @@
+= 2011 Events =
+
+* [[BOSC 2011]] and [[Codefest 2011]] will be held in conjunction with ISMB/ECCB 2011 in Vienna.
+
 = 2010 Events =
 * [[BOSC 2010]]
 * [[Codefest 2010]]
