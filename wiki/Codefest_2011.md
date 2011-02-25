@@ -49,6 +49,7 @@ Attendees
     [Biohaskell](http://biohaskell.org)...er, crowd.
 -   Thomas Down from
     [DAS](http://biodas.org/)/[Biodalliance](http://www.biodalliance.org/).
+-   Raoul J.P. Bonnal from [BioRuby](http://bioruby.org)
 
 You are very welcome to attend. Please add yourself if you are
 interested.
