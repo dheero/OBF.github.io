@@ -47,6 +47,8 @@ Attendees
 -   [Brad Chapman](http://bcbio.wordpress.com/)
 -   [Ketil Malde](http://blog.malde.org/) from the
     [Biohaskell](http://biohaskell.org)...er, crowd.
+-   Thomas Down from
+    [DAS](http://biodas.org/)/[Biodalliance](http://www.biodalliance.org/).
 
 You are very welcome to attend. Please add yourself if you are
 interested.
