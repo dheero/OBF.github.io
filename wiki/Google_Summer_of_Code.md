@@ -2,6 +2,8 @@
 title: Google Summer of Code
 ---
 
+![](Gsoc_2011_logo.png "Gsoc_2011_logo.png")
+
 About Google Summer of Code
 ---------------------------
 
