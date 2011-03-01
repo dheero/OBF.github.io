@@ -26,7 +26,7 @@ increasingly global software and IT industries.
 From the viewpoint of each open-source project, the program not only
 offers to pay students for contributing, but more importantly offers an
 opportunity to recruit new developers who will hopefully go on to become
-regular, sustained contributors.
+regular, sustaining contributors.
 
 See the [Main GSoC Site](http://code.google.com/soc) for more
 information and FAQs, and see below for [other facts such as eligibility
