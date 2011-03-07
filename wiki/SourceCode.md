@@ -60,24 +60,14 @@ Downloading and updating code via Anonymous CVS
     installed on your system.
 -   Pick the repository that you wish to use
 
-'''IMPORTANT NOTE (Starting in 2008): BioPerl and BioJava are switching
-from CVS to Subversion for source code version control management. At
-some point the CVS links below for BioPerl and BioJava will be removed.
-'''
-
-`   * `[`/home/repository/biopython`](http://code.open-bio.org/cgi/viewcvs.cgi/?cvsroot=biopython)` `**`obsolete`**`, now using git.`  
-`   * `[`/home/repository/biojava`](http://code.open-bio.org/cgi/viewcvs.cgi/?cvsroot=biojava)` `**`obsolete`**`, now using SVN, see `[`here`](http://www.biojava.org/wiki/CVS_to_SVN_Migration)  
-`   * `[`/home/repository/bioperl`](http://code.open-bio.org/cgi/viewcvs.cgi/?cvsroot=bioperl)` `**`obsolete`**`, now using git.`  
 `   * `[`/home/repository/biodas`](http://code.open-bio.org/cgi/viewcvs.cgi/?cvsroot=biodas)  
 `   * `[`/home/repository/moby`](http://code.open-bio.org/cgi/viewcvs.cgi/?cvsroot=biomoby)  
 `   * `[`/home/repository/biocorba`](http://code.open-bio.org/cgi/viewcvs.cgi/?cvsroot=biocorba)  
-`   * `[`/home/repository/biosql`](http://code.open-bio.org/cgi/viewcvs.cgi/?cvsroot=biosql)` `**`obsolete`**`, now using git.`  
-`   * `[`/home/repository/bioruby`](http://code.open-bio.org/cgi/viewcvs.cgi/?cvsroot=bioruby)` `**`obsolete`**`, now using git.`  
 `   * `[`/home/repository/emboss`](http://code.open-bio.org/cgi/viewcvs.cgi/?cvsroot=emboss)  
 `   * `[`/home/repository/obf-common`](http://code.open-bio.org/cgi/viewcvs.cgi/?cvsroot=obf-common)` `
 
 -   Use the following command (all on one line) to login to the server.
-    The example below shows how to login to the bioperl repository. To
+    The example below shows how to login to the emboss repository. To
     login to other repositories simply alter
     the /home/repository/(project) information.
 
