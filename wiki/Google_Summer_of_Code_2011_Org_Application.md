@@ -35,9 +35,8 @@ good developers, ones with biological domain knowledge, or enough
 intellectual curiosity to develop the necessary domain knowledge.
 
 A program like GSoC is a great opportunity to cultivate some of the next
-generation of bioinformatics developers. Based on our experience with a
-few GSoC students we've had work on our projects (through NESCent), they
-do good work.
+generation of bioinformatics developers. Based on our experience with
+GSoC students last year, they do good work.
 
 Did your organization participate in past GSoCs? If so, please summarize your involvement and the successes and challenges of your participation. (required):  
 
@@ -58,7 +57,7 @@ areas.
 
 If your organization participated in past GSoCs, please let us know the ratio of students passing to students allocated, e.g. 2006 3/6 for 3 out of 6 students passed in 2006. (required) :  
 
-OBF has not directly participated.
+2010: 5/6
 
 Add a Comment (optional):  
 
@@ -109,11 +108,8 @@ biolib-dev@lists.open-bio.org
 
 What is the main IRC channel for your organization? (required):  
 
-BioPerl has an IRC channel, \#bioperl on freenode. The other subprojects
-do not maintain IRC channels. Depending on the number of GSoC students
-we end up with and their working habits, we will most likely create an
-\#obf-soc or similar channel to coordinate student and mentor work, if
-OBF is accepted as a mentoring organization.
+1.  obf-soc for GSoC students, \#bioperl for BioPerl. Other subprojects
+    do not have IRC channels. All on freenode.
 
 Add a Comment (optional):  
 
