@@ -57,8 +57,6 @@ linked below, for more details about any project:
     development](http://biopython.org/wiki/Google_Summer_of_Code#Galaxy_phylogenetics_pipeline_development)
 -   [(Biopython) Accessing R phylogenetic tools from
     Python](http://biopython.org/wiki/Google_Summer_of_Code#Accessing_R_phylogenetic_tools_from_Python)
--   [(Biopython) PDB-Tidy: Command-line tools for manipulating PDB
-    files](http://biopython.org/wiki/Google_Summer_of_Code#PDB-Tidy:_command-line_tools_for_manipulating_PDB_files)
 -   [(BioJava) All-Java Multiple Sequence
     Alignment](http://biojava.org/wiki/Google_Summer_of_Code)
 -   [(BioRuby) Ruby 1.9.2 support of
