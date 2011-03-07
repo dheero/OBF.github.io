@@ -2,6 +2,9 @@
 title: SourceCode
 ---
 
+Anonymous access to the latest hosted source code repositories
+==============================================================
+
 The following OBF supported projects originally used CVS and/or SVN
 hosted by the OBF, but are now using git hosted on [http://hithub.com
 github.com](http://hithub.com_github.com "wikilink"):
@@ -10,9 +13,6 @@ github.com](http://hithub.com_github.com "wikilink"):
 `   * `[`Biopython`](http://www.biopython.org)` uses `[`http://github.com/biopython/biopython`](http://github.com/biopython/biopython)  
 `   * `[`BioPerl`](http://www.bioperl.org)` uses `[`http://github.com/bioperl`](http://github.com/bioperl)  
 `   * `[`BioSQL`](http://www.biosql.org)` uses `[`http://github.com/biosql/biosql`](http://github.com/biosql/biosql)
-
-Anonymous access to the latest hosted source code repositories
-==============================================================
 
 This page documents the process of obtaining anonymous [
 CVS](wp:Concurrent_Versions_System "wikilink"), [
