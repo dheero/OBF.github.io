@@ -2,6 +2,15 @@
 title: SourceCode
 ---
 
+The following OBF supported projects originally used CVS and/or SVN
+hosted by the OBF, but are now using git hosted on [http://hithub.com
+github.com](http://hithub.com_github.com "wikilink"):
+
+`   * `[`BioRuby`](http://www.bioruby.org)` uses `[`http://github.com/bioruby/bioruby`](http://github.com/bioruby/bioruby)  
+`   * `[`Biopython`](http://www.biopython.org)` uses `[`http://github.com/biopython/biopython`](http://github.com/biopython/biopython)  
+`   * `[`BioPerl`](http://www.bioperl.org)` uses `[`http://github.com/bioperl`](http://github.com/bioperl)  
+`   * `[`BioSQL`](http://www.biosql.org)` uses `[`http://github.com/biosql/biosql`](http://github.com/biosql/biosql)
+
 Anonymous access to the latest hosted source code repositories
 ==============================================================
 
@@ -10,7 +19,7 @@ CVS](wp:Concurrent_Versions_System "wikilink"), [
 SVN](wp:SVN "wikilink") or [ RSYNC](wp:Rsync "wikilink") based access to
 the source code repositories hosted by the Open Bioinformatics
 Foundation. These methods are useful for obtaining cutting edge
-sourcecode and developer snapshots.
+sourcecode and developer snapshots:
 
 Note to casual users
 --------------------
@@ -56,14 +65,14 @@ from CVS to Subversion for source code version control management. At
 some point the CVS links below for BioPerl and BioJava will be removed.
 '''
 
-`   * `[`/home/repository/biopython`](http://code.open-bio.org/cgi/viewcvs.cgi/?cvsroot=biopython)` `**`obsolete`**`, now using git, see `[`here`](http://www.biopython.org/wiki/SourceCode)  
+`   * `[`/home/repository/biopython`](http://code.open-bio.org/cgi/viewcvs.cgi/?cvsroot=biopython)` `**`obsolete`**`, now using git.`  
 `   * `[`/home/repository/biojava`](http://code.open-bio.org/cgi/viewcvs.cgi/?cvsroot=biojava)` `**`obsolete`**`, now using SVN, see `[`here`](http://www.biojava.org/wiki/CVS_to_SVN_Migration)  
-`   * `[`/home/repository/bioperl`](http://code.open-bio.org/cgi/viewcvs.cgi/?cvsroot=bioperl)` `**`obsolete`**`, now using SVN, see `[`here`](http://www.bioperl.org/wiki/Subversion)  
+`   * `[`/home/repository/bioperl`](http://code.open-bio.org/cgi/viewcvs.cgi/?cvsroot=bioperl)` `**`obsolete`**`, now using git.`  
 `   * `[`/home/repository/biodas`](http://code.open-bio.org/cgi/viewcvs.cgi/?cvsroot=biodas)  
 `   * `[`/home/repository/moby`](http://code.open-bio.org/cgi/viewcvs.cgi/?cvsroot=biomoby)  
 `   * `[`/home/repository/biocorba`](http://code.open-bio.org/cgi/viewcvs.cgi/?cvsroot=biocorba)  
-`   * `[`/home/repository/biosql`](http://code.open-bio.org/cgi/viewcvs.cgi/?cvsroot=biosql)` `**`obsolete`**`, now using SVN, see `[`here`](http://www.biosql.org)  
-`   * `[`/home/repository/bioruby`](http://code.open-bio.org/cgi/viewcvs.cgi/?cvsroot=bioruby)` `**`obsolete`**`, now using git, see `[`here`](http://www.bioruby.org/)  
+`   * `[`/home/repository/biosql`](http://code.open-bio.org/cgi/viewcvs.cgi/?cvsroot=biosql)` `**`obsolete`**`, now using git.`  
+`   * `[`/home/repository/bioruby`](http://code.open-bio.org/cgi/viewcvs.cgi/?cvsroot=bioruby)` `**`obsolete`**`, now using git.`  
 `   * `[`/home/repository/emboss`](http://code.open-bio.org/cgi/viewcvs.cgi/?cvsroot=emboss)  
 `   * `[`/home/repository/obf-common`](http://code.open-bio.org/cgi/viewcvs.cgi/?cvsroot=obf-common)` `
 
