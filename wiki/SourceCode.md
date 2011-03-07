@@ -6,8 +6,8 @@ Anonymous access to the latest hosted source code repositories
 ==============================================================
 
 The following OBF supported projects originally used CVS and/or SVN
-hosted by the OBF, but are now using git hosted on [http://hithub.com
-github.com](http://hithub.com_github.com "wikilink"):
+hosted by the OBF, but are now using git hosted on
+[github.com](http://hithub.com):
 
 `   * `[`BioRuby`](http://www.bioruby.org)` uses `[`http://github.com/bioruby/bioruby`](http://github.com/bioruby/bioruby)  
 `   * `[`Biopython`](http://www.biopython.org)` uses `[`http://github.com/biopython/biopython`](http://github.com/biopython/biopython)  
