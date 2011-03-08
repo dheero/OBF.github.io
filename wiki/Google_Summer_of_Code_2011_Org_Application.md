@@ -140,21 +140,24 @@ to fail them and move on.
 
 What is your plan for dealing with disappearing mentors? (required):  
 
-Our mentors are drawn from a relatively small and tightly knit academic
-community, so this very unlikely to happen, but in that event, a backup
-mentor would simply have to be found and substituted. If another active
-project developer can't take over, chances are very good that one of the
-inactive ones could be persuaded to serve in that kind of scenario.
-Failing that, the organization administrator (Rob Buels) or backup
-organization administrator (Hilmar Lapp) would have to take over the
-orphan student(s).
+Most projects have a primary mentor and one backup mentor. Our mentors
+are drawn from a relatively small and tightly knit academic community,
+so the chances of them disappearing is very unlikely to happen, but in
+that event the backup mentor would take over. In cases where a backup
+mentor isn't already available, the various Open-Bio communities are
+large enough that finding a substitute mentor should be relatively
+simple; if another active project developer can't take over, chances are
+very good that one of the inactive ones could be persuaded to serve in
+that kind of scenario. Failing that, the organization administrator (Rob
+Buels) or backup organization administrator (Hilmar Lapp) would have to
+take over the orphan student(s).
 
 What steps will you take to encourage students to interact with your project's community before, during and after the program? (required):  
 
 All students will be subscribed to the developer mailing list of the
 relevant project. Before the coding period, students and mentors will
 conduct the bulk of their development plans publicly on the mailing
-list. During the coding period, the students will post their progress
+list. During the coding period, the students will post regular progress
 reports on their project's wiki page on the relevant project wiki (pages
 which will be watched by the mentors and organization administrators),
 and will announce major milestones to the relevant mailing list. If a
