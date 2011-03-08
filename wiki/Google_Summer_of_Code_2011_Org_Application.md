@@ -106,8 +106,9 @@ biolib-dev@lists.open-bio.org
 
 What is the main IRC channel for your organization? (required):  
 
-1.  obf-soc for GSoC students, \#bioperl for BioPerl. Other subprojects
-    do not have IRC channels. All on freenode.
+1.  obf-soc for GSoC students, \#bioperl for BioPerl, \#bioruby
+    for BioRuby. Other subprojects do not currently have IRC channels.
+    All on freenode.
 
 Add a Comment (optional):  
 
