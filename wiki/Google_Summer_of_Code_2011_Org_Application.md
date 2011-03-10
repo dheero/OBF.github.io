@@ -174,6 +174,17 @@ administrator will follow up with each of them to make sure that they
 have read and absorbed the wisdom therein. A number of the OBF mentor
 volunteers have previous experience mentoring students for GSoC as well.
 
+If you are a small or new organization applying to GSoC, please list a larger, established GSoC organization or a Googler that can vouch for you here.:  
+
+If needed, the Perl Foundation and the Parrot Foundation can certainly
+vouch for us.
+
+If you are a large organization who is vouching for a small organization applying to GSoC for their first time this year, please list their name and why you think they'd be good candidates for GSoC here.:  
+
+I heard that the GMOD project is putting in an org application this
+year, I can certainly vouch for them as a real, important, and well-run
+organization.
+
 Is there anything else you would like to tell the Google Summer of Code program administration team? (required):  
 
 No, I think we've made our case.
