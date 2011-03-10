@@ -56,10 +56,10 @@ linked below, for more details about any project:
 -   [(Biopython) Accessing R phylogenetic tools from
     Python](http://biopython.org/wiki/Google_Summer_of_Code#Accessing_R_phylogenetic_tools_from_Python)
 -   [(BioJava) Amino acids physico-chemical properties
-    calculation](http://biojava.org/wiki/Google_Summer_of_Code)
+    calculation](http://biojava.org/wiki/Google_Summer_of_Code#Amino_acids_physico-chemical_properties_calculation)
 -   [(BioJava) Extend Sequence Viewer code to become a client for the
     Distributed Annotation
-    System](http://biojava.org/wiki/Google_Summer_of_Code)
+    System](http://biojava.org/wiki/Google_Summer_of_Code#Extend_Sequence_Viewer_code_to_become_a_client_for_the_Distributed_Annotation_System)
 -   [(BioRuby) Ruby 1.9.2 support of
     BioRuby](http://bioruby.open-bio.org/wiki/Google_Summer_of_Code#Ruby_1.9.2_support_of_BioRuby)
 -   [(BioRuby) Implementation of algorithm to infer gene duplications in
