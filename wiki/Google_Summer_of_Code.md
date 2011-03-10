@@ -44,9 +44,9 @@ linked below, for more details about any project:
 -   [(BioPerl) Major BioPerl
     reorganization](http://bioperl.org/wiki/Google_Summer_of_Code#Major_BioPerl_reorganization)
 -   [(BioPerl) Lightweight Sequence objects and Lazy
-    Parsing](http://bioperl.org/wiki/Google_Summer_of_Code#Lightweight_Sequence_objects_and_Lazy_Parsing)
--   [(BioPerl) Perl Run Wrappers for External Programs in a
-    Flash](http://bioperl.org/wiki/Google_Summer_of_Code#Perl_Run_Wrappers_for_External_Programs_in_a_Flash)
+    Parsing](http://bioperl.org/wiki/Google_Summer_of_Code#Lightweight.2FLazy_BioPerl_Classes)
+-   [(BioPerl) Perl Generic Wrappers for External
+    Programs](http://bioperl.org/wiki/Google_Summer_of_Code#Perl_Run_Wrappers_for_External_Programs_in_a_Flash)
 -   [(BioPerl) BioPerl 2.0: Modern::Perl, Perl6, and
     BioPerl](http://bioperl.org/wiki/Google_Summer_of_Code#BioPerl_2.0_.28and_beyond.29)
 -   [(Biopython) Biopython and PyCogent
