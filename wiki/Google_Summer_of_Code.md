@@ -45,8 +45,6 @@ linked below, for more details about any project:
     reorganization](http://bioperl.org/wiki/Google_Summer_of_Code#Major_BioPerl_reorganization)
 -   [(BioPerl) Lightweight Sequence objects and Lazy
     Parsing](http://bioperl.org/wiki/Google_Summer_of_Code#Lightweight_Sequence_objects_and_Lazy_Parsing)
--   [(BioPerl) Alignment Subsystem
-    Refactoring](http://bioperl.org/wiki/Google_Summer_of_Code#Alignment_Subsystem_Refactoring)
 -   [(BioPerl) Perl Run Wrappers for External Programs in a
     Flash](http://bioperl.org/wiki/Google_Summer_of_Code#Perl_Run_Wrappers_for_External_Programs_in_a_Flash)
 -   [(BioPerl) BioPerl 2.0: Modern::Perl, Perl6, and
