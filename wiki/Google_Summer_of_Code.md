@@ -55,8 +55,11 @@ linked below, for more details about any project:
     development](http://biopython.org/wiki/Google_Summer_of_Code#Galaxy_phylogenetics_pipeline_development)
 -   [(Biopython) Accessing R phylogenetic tools from
     Python](http://biopython.org/wiki/Google_Summer_of_Code#Accessing_R_phylogenetic_tools_from_Python)
--   [(BioJava) All-Java Multiple Sequence
-    Alignment](http://biojava.org/wiki/Google_Summer_of_Code)
+-   [(BioJava) Amino acids physico-chemical properties
+    calculation](http://biojava.org/wiki/Google_Summer_of_Code)
+-   [(BioJava) Extend Sequence Viewer code to become a client for the
+    Distributed Annotation
+    System](http://biojava.org/wiki/Google_Summer_of_Code)
 -   [(BioRuby) Ruby 1.9.2 support of
     BioRuby](http://bioruby.open-bio.org/wiki/Google_Summer_of_Code#Ruby_1.9.2_support_of_BioRuby)
 -   [(BioRuby) Implementation of algorithm to infer gene duplications in
