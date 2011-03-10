@@ -49,6 +49,10 @@ linked below, for more details about any project:
     Programs](http://bioperl.org/wiki/Google_Summer_of_Code#Perl_Run_Wrappers_for_External_Programs_in_a_Flash)
 -   [(BioPerl) BioPerl 2.0: Modern::Perl, Perl6, and
     BioPerl](http://bioperl.org/wiki/Google_Summer_of_Code#BioPerl_2.0_.28and_beyond.29)
+-   \[<http://bioperl.org/wiki/Google_Summer_of_Code#Bio>::Assembly (BioPerl)
+    Bio::Assembly updates\]
+-   [(BioPerl) Semantic web
+    support](http://bioperl.org/wiki/Google_Summer_of_Code#Semantic_Web_Support)
 -   [(Biopython) Biopython and PyCogent
     interoperability](http://biopython.org/wiki/Google_Summer_of_Code#Biopython_and_PyCogent_interoperability)
 -   [(Biopython) Galaxy phylogenetics pipeline
