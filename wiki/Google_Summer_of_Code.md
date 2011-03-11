@@ -57,6 +57,8 @@ linked below, for more details about any project:
     interoperability](http://biopython.org/wiki/Google_Summer_of_Code#Biopython_and_PyCogent_interoperability)
 -   [(Biopython) Galaxy phylogenetics pipeline
     development](http://biopython.org/wiki/Google_Summer_of_Code#Galaxy_phylogenetics_pipeline_development)
+-   [(Biopython) Mocapy++Biopython: from data to probabilistic models of
+    biomolecules](http://biopython.org/wiki/Google_Summer_of_Code#Mocapy.2B.2BBiopython:_from_data_to_probabilistic_models_of_biomolecules)
 -   [(Biopython) Accessing R phylogenetic tools from
     Python](http://biopython.org/wiki/Google_Summer_of_Code#Accessing_R_phylogenetic_tools_from_Python)
 -   [(BioJava) Amino acids physico-chemical properties
