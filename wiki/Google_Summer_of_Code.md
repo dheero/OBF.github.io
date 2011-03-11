@@ -77,9 +77,9 @@ linked below, for more details about any project:
 -   [(Biolib) Mapping EMBOSS to Perl, Ruby or Python using
     BioLib+SWIG+EMBOSS (2011)](http://biolib.open-bio.org/wiki/GSoC2011)
 -   [(BioDAS) Redesign of the DAS
-    Registry](http://www.biodas.org/wiki/GSoC2010)
+    Registry](http://www.biodas.org/wiki/GSoC2011)
 -   [(BioDAS) DAS Server for large files on local
-    filesystems](http://www.biodas.org/wiki/GSoC2010)
+    filesystems](http://www.biodas.org/wiki/GSoC2011)
 
 *Note to students: project ideas on the wikis of member projects are
 only selected projects, albeit well thought-out ones. You are encouraged
