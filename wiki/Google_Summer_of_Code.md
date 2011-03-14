@@ -61,6 +61,9 @@ linked below, for more details about any project:
     biomolecules](http://biopython.org/wiki/Google_Summer_of_Code#Mocapy.2B.2BBiopython:_from_data_to_probabilistic_models_of_biomolecules)
 -   [(Biopython) Accessing R phylogenetic tools from
     Python](http://biopython.org/wiki/Google_Summer_of_Code#Accessing_R_phylogenetic_tools_from_Python)
+-   [(Biopython) Variant representation, parser, generator, and
+    coordinate
+    converter](http://biopython.org/wiki/Google_Summer_of_Code#Variant_representation.2C_parser.2C_generator.2C_and_coordinate_converter)
 -   [(BioJava) Amino acids physico-chemical properties
     calculation](http://biojava.org/wiki/Google_Summer_of_Code#Amino_acids_physico-chemical_properties_calculation)
 -   [(BioJava) Extend Sequence Viewer code to become a client for the
