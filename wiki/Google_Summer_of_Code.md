@@ -234,7 +234,7 @@ list](http://lists.open-bio.org/mailman/listinfo/bioruby)
 
 :\* [source code](http://github.com/bioruby/bioruby/tree/master)
 
-:\* No IRC channel at present
+:\* IRC: `#bioruby` on [Freenode](http://freenode.net)
 
 ![](BioSQL_logo.png "BioSQL_logo.png")
 
