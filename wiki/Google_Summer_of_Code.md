@@ -63,17 +63,8 @@ support](http://bioperl.org/wiki/Google_Summer_of_Code#Semantic_Web_Support)
 
 BioPython:  
 
-:\* [Biopython and PyCogent
-interoperability](http://biopython.org/wiki/Google_Summer_of_Code#Biopython_and_PyCogent_interoperability)
-
-:\* [Galaxy phylogenetics pipeline
-development](http://biopython.org/wiki/Google_Summer_of_Code#Galaxy_phylogenetics_pipeline_development)
-
 :\* [Mocapy++Biopython: from data to probabilistic models of
 biomolecules](http://biopython.org/wiki/Google_Summer_of_Code#Mocapy.2B.2BBiopython:_from_data_to_probabilistic_models_of_biomolecules)
-
-:\* [Accessing R phylogenetic tools from
-Python](http://biopython.org/wiki/Google_Summer_of_Code#Accessing_R_phylogenetic_tools_from_Python)
 
 :\* [Variant representation, parser, generator, and coordinate
 converter](http://biopython.org/wiki/Google_Summer_of_Code#Variant_representation.2C_parser.2C_generator.2C_and_coordinate_converter)
