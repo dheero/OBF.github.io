@@ -128,6 +128,7 @@ participants. OBF IRC channels are maintained on
 
 Main OBF GSoC Channel: `#obf-soc`  
 BioPerl: `#bioperl`  
+BioRuby: `#bioruby`  
 
 ### Email
 
