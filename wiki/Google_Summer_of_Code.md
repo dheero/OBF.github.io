@@ -309,13 +309,15 @@ Guide for prospective GSoC students
 
 -   Proposals should extend one of affiliated toolkits, not start a
     new project.
--   If you want to apply with your own idea, try to [contact
-    us](#Contact "wikilink") early on so we can work with you to find a
-    mentor and solidify your project idea and application.
--   [Ask us questions](#Contact "wikilink") about the project idea you
-    have in mind.
+-   If you want to apply with your own idea, it's best to
+    [contact](#Contact "wikilink") the OBF subproject you're interested
+    in well before the application deadline, so we can work with you to
+    find a mentor and solidify your project idea and application.
+-   [Ask us questions](#Contact "wikilink") on the subproject mailing
+    lists about the project idea you have in mind.
 -   Write a project proposal draft, include a project plan (see below),
-    and [bounce those off of us](#Contact "wikilink").
+    and [send it to a project mailing list](#Contact "wikilink") for
+    comments before submitting it.
 
 Again, **students are strongly encouraged to [contact
 us](#Contact "wikilink") as early as possible**. Frequent and early
