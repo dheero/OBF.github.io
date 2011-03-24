@@ -143,8 +143,8 @@ BioSQL: [biosql-l@lists.open-bio.org](mailto:biosql-l%40lists%2eopen-bio%2eorg)
 BioLib: [biolib-dev@lists.open-bio.org](mailto:biolib-dev%40lists%2eopen-bio%2eorg)  
 BioDAS: <das@lists.open-bio.org>  
 
-Also, it would be a good idea to CC the organization adminstrator, so he
-can make sure that you are properly taken care of:
+Also, it would be a good idea to CC the organization administrator, so
+he can make sure that you are properly taken care of:
 
 Organization administrator: [Robert Buels](User:RobertBuels "wikilink") ([rmb32@cornell.edu](mailto:rmb32%40cornell%2eedu))  
 Backup administrator: [Hilmar Lapp](User:Lapp "wikilink") ([hlapp@gmx.net](mailto:hlapp%40gmx%2enet))  
