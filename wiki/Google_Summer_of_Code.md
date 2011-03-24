@@ -135,18 +135,18 @@ BioRuby: `#bioruby`
 For prospective students, the first point of contact should be the
 mailing list of the OBF project you are interested in working with:
 
-BioPerl: [bioperl-l@lists.open-bio.org](mailto:bioperl-l%40lists%2eopen-bio%2eorg)  
-BioPython: [biopython@lists.open-bio.org](mailto:biopython%40lists%2eopen-bio%2eorg)  
-BioJava: [biojava-l@lists.open-bio.org](mailto:biojava-l%40lists%2eopen-bio%2eorg)  
-BioRuby: [bioruby@lists.open-bio.org](mailto:bioruby%40lists%2eopen-bio%2eorg)  
-BioSQL: [biosql-l@lists.open-bio.org](mailto:biosql-l%40lists%2eopen-bio%2eorg)  
-BioLib: [biolib-dev@lists.open-bio.org](mailto:biolib-dev%40lists%2eopen-bio%2eorg)  
+BioPerl: <bioperl-l@lists.open-bio.org>  
+BioPython: <biopython@lists.open-bio.org>  
+BioJava: <biojava-l@lists.open-bio.org>  
+BioRuby: <bioruby@lists.open-bio.org>  
+BioSQL: <biosql-l@lists.open-bio.org>  
+BioLib: <biolib-dev@lists.open-bio.org>  
 BioDAS: <das@lists.open-bio.org>  
 
 Also, it would be a good idea to CC the organization administrator, so
 he can make sure that you are properly taken care of:
 
-Organization administrator: [Robert Buels](User:RobertBuels "wikilink") ([rmb32@cornell.edu](mailto:rmb32%40cornell%2eedu))  
+Organization administrator: [Robert Buels](User:RobertBuels "wikilink") (<rmb32@cornell.edu>)  
 Backup administrator: [Hilmar Lapp](User:Lapp "wikilink") ([hlapp@gmx.net](mailto:hlapp%40gmx%2enet))  
 
 If you are not quite sure which project you would like to contribute to,
