@@ -51,6 +51,7 @@ Attendees
 -   Thomas Down from
     [DAS](http://biodas.org/)/[Biodalliance](http://www.biodalliance.org/).
 -   Raoul J.P. Bonnal from [BioRuby](http://bioruby.org)
+-   Peter Cock from [Biopython](http://biopyton.org)
 
 You are very welcome to attend. Please add yourself if you are
 interested.
