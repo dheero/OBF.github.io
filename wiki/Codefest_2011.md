@@ -45,6 +45,7 @@ Attendees
 ---------
 
 -   [Brad Chapman](http://bcbio.wordpress.com/)
+-   [ Hilmar Lapp](User:Lapp "wikilink")
 -   [Ketil Malde](http://blog.malde.org/) from the
     [Biohaskell](http://biohaskell.org)...er, crowd.
 -   Thomas Down from
