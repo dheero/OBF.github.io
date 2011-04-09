@@ -36,7 +36,9 @@ Location
 
 We are being kindly hosted by the [Metalab Hacker
 space](http://metalab.at/wiki/English) in Vienna. Check out their [daily
-web log](http://log.metalab.at/) to get a feel for life in the lab.
+web log](http://log.metalab.at/) to get a feel for life in the lab, and
+the [Metalab Codefest
+page](http://metalab.at/wiki/OpenBio_Codefest_2011).
 
 Metalab has a nice [location map](http://metalab.at/wiki/Lage). We'll be
 counting on local residents to help with additional detailed directions.
