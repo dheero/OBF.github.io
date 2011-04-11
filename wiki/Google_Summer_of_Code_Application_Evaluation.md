@@ -93,9 +93,9 @@ possibly the top two applicants if the decision is close. This lets the
 mentor better assess the student's communication abilities and whether
 personalities (yours and theirs) match well enough. The interview should
 take place \*during the review period\*, the earlier the better, and you
-should comment on your conclusions from it in a private comment. The
-interview may be by email, chat, Skype, or phone, depending on what you
-feel lets you best make the assessment.
+should summarize your conclusions from it a private comment attached to
+the student's proposal. The interview may be by email, chat, Skype, or
+phone, depending on what you feel lets you best make the assessment.
 
 Things to keep in mind
 ----------------------
