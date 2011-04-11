@@ -110,13 +110,12 @@ Things to keep in mind
 2.  When ranking student applications against each other, weigh the
     complete picture, a significant part of which is the long-term
     prospect of the student continuing to enrich or advancing your open-
-    source project or phyloinformatics as a field through what you will
+    source project or bioinformatics as a field through what you will
     teach him or her over the summer. If an application seems more solid
     technically than another but the student's career and personal
     interests and past activities suggest that he/she would likely
     disappear immediately after Summer of Code ends, would you still
     prefer to invest your mentoring time in that student? Our goal in
     participating in GSoC is not just to get things done, but to train
-    and recruit future phyloinformatics open-source
-    software contributors.
+    and recruit future bioinformatics open-source software contributors.
 
