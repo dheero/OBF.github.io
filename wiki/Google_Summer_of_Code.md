@@ -17,13 +17,13 @@ experienced developers from the project to which the student
 contributes. The mentor guides the student to work productively within
 the community, and helps the student avoid obstacles and pitfalls. The
 program is global - students and mentors may be located anywhere where
-they have internet connection (except for countries affected by US trade
-restrictions), and no travel is required. Thus, aside from the stipend
-and mentorship aspects, the student's experience in the internship
-closely mirrors normal work on distributed development projects.
-Effective work habits for distributed development are typically not
-taught in computer science curricula, yet are highly desired in the
-increasingly global software and IT industries.
+they have an internet connection (except for countries affected by US
+trade restrictions), and no travel is required. Thus, aside from the
+stipend and mentorship aspects, the student's experience in the
+internship closely mirrors normal work on distributed development
+projects. Effective work habits for distributed development are
+typically not taught in computer science curricula, yet are highly
+desired in the increasingly global software and IT industries.
 
 From the viewpoint of each open-source project, the program not only
 offers to pay students for contributing, but more importantly offers an
