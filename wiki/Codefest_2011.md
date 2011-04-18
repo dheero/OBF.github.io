@@ -54,6 +54,10 @@ Attendees
     [DAS](http://biodas.org/)/[Biodalliance](http://www.biodalliance.org/).
 -   Raoul J.P. Bonnal from [BioRuby](http://bioruby.org)
 -   Peter Cock from [Biopython](http://biopyton.org)
+-   Hervé Ménager from the [Mobyle
+    project](https://projets.pasteur.fr/wiki/mobyle)
+-   Bertrand Néron from the [Mobyle
+    project](https://projets.pasteur.fr/wiki/mobyle)
 
 You are very welcome to attend. Please add yourself if you are
 interested.
