@@ -58,6 +58,9 @@ Attendees
     project](https://projets.pasteur.fr/wiki/mobyle)
 -   Bertrand Néron from the [Mobyle
     project](https://projets.pasteur.fr/wiki/mobyle)
+-   [Pablo Pareja](http://about.me/pablopareja) from [Oh no
+    sequences!](http://www.ohnosequences.com), main developer of [Bio4j
+    project](http://www.bio4j.com)
 
 You are very welcome to attend. Please add yourself if you are
 interested.
