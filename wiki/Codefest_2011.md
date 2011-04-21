@@ -53,7 +53,7 @@ Attendees
 -   Thomas Down from
     [DAS](http://biodas.org/)/[Biodalliance](http://www.biodalliance.org/).
 -   Raoul J.P. Bonnal from [BioRuby](http://bioruby.org)
--   Peter Cock from [Biopython](http://biopyton.org)
+-   Peter Cock from [Biopython](http://biopython.org)
 -   Hervé Ménager from the [Mobyle
     project](https://projets.pasteur.fr/wiki/mobyle)
 -   Bertrand Néron from the [Mobyle
@@ -61,6 +61,7 @@ Attendees
 -   [Pablo Pareja](http://about.me/pablopareja) from [Oh no
     sequences!](http://www.ohnosequences.com), main developer of [Bio4j
     project](http://www.bio4j.com)
+-   Peter Rice from [EMBOSS](http://emboss.sf.net)
 
 You are very welcome to attend. Please add yourself if you are
 interested.
