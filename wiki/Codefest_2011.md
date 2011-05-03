@@ -46,6 +46,12 @@ counting on local residents to help with additional detailed directions.
 Attendees
 ---------
 
+You are very welcome to attend. Please add yourself if you are
+interested to [this Google
+spreadsheet](https://spreadsheets.google.com/ccc?key=0Agxg-o4ZmoZ4dHQxWEV1aW1raFJKbWxrMk80RDZSOVE&hl=en&authkey=CK3mo_4B).
+New user registration on the Codefest Wiki is temporarily disabled due
+to spam.
+
 -   [Brad Chapman](http://bcbio.wordpress.com/)
 -   [ Hilmar Lapp](User:Lapp "wikilink")
 -   [Ketil Malde](http://blog.malde.org/) from the
@@ -63,5 +69,3 @@ Attendees
     project](http://www.bio4j.com)
 -   Peter Rice from [EMBOSS](http://emboss.sf.net)
 
-You are very welcome to attend. Please add yourself if you are
-interested.
