@@ -68,4 +68,11 @@ to spam.
     sequences!](http://www.ohnosequences.com), main developer of [Bio4j
     project](http://www.bio4j.com)
 -   Peter Rice from [EMBOSS](http://emboss.sf.net)
+-   Paul Horton ([CBRC](http://seq.cbrc.jp))
+-   Vipin T Sreedharan ([FML, Max Planck
+    Society](http://galaxy.tuebingen.mpg.de/))
+-   Ben Woodcroft (University of Melbourne)
+-   Johan Henriksson ([Karolinska Institute](http://www.endrov.net))
+-   Christian Hoener zu Siederdissen ([TBI Vienna (and
+    Biohaskell ;-)](http://www.tbi.univie.ac.at/~choener/))
 
