@@ -47,7 +47,8 @@ Day 2: Saturday, July 16 (Austria Center Vienna, Room TBA)
 
 **NOTE: Schedule is preliminary--subject to change.**
 
--   Return to **[ BOSC 2011](BOSC_2011 "wikilink")** main page
+Return to **[ BOSC 2011](BOSC_2011 "wikilink")** main page
+----------------------------------------------------------
 
 <Category:BOSC> <Category:Conferences> [Category:BOSC
 Conferences](Category:BOSC_Conferences "wikilink")
