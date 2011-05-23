@@ -7,12 +7,12 @@
 ! Session
 ! Speaker or Moderator
 |- 
-| 7:30-9:00AM
+| 7:30-9:00
 | Pick up badges for BOSC 2011, Austria Center Vienna
 (Early arrival is recommended as there are usually long lines)
 | '''Registration'''
 |- 
-| 9:00-9:15AM
+| 9:00-9:15
 | Introduction and welcome
 | Nomi Harris, Co-Chair, BOSC
 |-
@@ -71,7 +71,7 @@
 ! Speaker or Moderator
 |- 
 | 8:45-8:50
-| Announcements
+| Announcements &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 |
 |-
 | 8:50-9:50
@@ -99,7 +99,7 @@
 |
 |-
 | 2:00-3:30
-| Session: Project Updates, Various Open Source bioinformatics projects
+| Session: Project Updates, Various Open Source bioinformatics projects &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 |
 |-
 | '''3:30-4:00'''
@@ -129,6 +129,8 @@
 |}
 
 '''NOTE: Schedule is preliminary--subject to change.'''
+
+* Return to '''[[BOSC_2011 | BOSC 2011]]''' main page
 
 [[Category:BOSC]] [[Category:Conferences]]
 [[Category:BOSC Conferences]]
