@@ -1,3 +1,5 @@
+'''NOTE: Schedule is preliminary--subject to change.'''
+
 == Day 1: Friday,  July 15  (Austria Center Vienna,  Room TBA) ==
 
 {| border="1" cellspacing="0" cellpadding="10"
