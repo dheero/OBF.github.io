@@ -8,7 +8,7 @@ Day 1: Friday, July 15 (Austria Center Vienna, Room TBA)
 | Time            | Session                                                                                                            | Speaker or Moderator                             |
 |-----------------|--------------------------------------------------------------------------------------------------------------------|--------------------------------------------------|
 | 7:30-9:00AM     | Pick up badges for BOSC 2011, Austria Center Vienna (early arrival is recommended as there are usually long lines) | **Registration**                                 |
-| 9:00-9:15AM     | \[Welcome\] Introduction and welcome                                                                               | Nomi Harris, Co-Chair, BOSC                      |
+| 9:00-9:15AM     | Introduction and welcome                                                                                           | Nomi Harris, Co-Chair, BOSC                      |
 | 9:15-10:15      | \[Keynote\] The role of openness in knowledge-based systems for biomedicine                                        | Lawrence Hunter, University of Colorado, Boulder |
 | **10:15-10:45** | **Coffee Break**                                                                                                   |                                                  |
 | 10:45-12:30     | Session: Genome Content Management                                                                                 |                                                  |
