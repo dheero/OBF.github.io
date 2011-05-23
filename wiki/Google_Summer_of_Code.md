@@ -4,6 +4,27 @@ title: Google Summer of Code
 
 ![](Gsoc_2011_logo.png "Gsoc_2011_logo.png")
 
+Summer 2011 Projects
+--------------------
+
+Here are links to the progress report pages for OBF's 2011 Google Summer
+of Code students:
+
+BioPerl:  
+
+:\* Sheena Scroggins - [Major BioPerl
+reorganization](http://www.techomics.com/)
+
+BioJava:  
+
+:\* Chuan Hock Koh - [Amino Acid Physico-Chemical Properties
+Calculation](http://biojava.org/wiki/GSoC:AAPropertiesComputation)
+
+BioRuby:  
+
+:\* Michał Koziarski - [Represent bio-objects and related information
+with images](http://bioruby.open-bio.org/wiki/GSoC:Bio-images)
+
 About Google Summer of Code
 ---------------------------
 
