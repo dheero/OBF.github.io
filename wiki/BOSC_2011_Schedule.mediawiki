@@ -14,11 +14,11 @@
 |- 
 | 9:00-9:15
 | Introduction and welcome
-| Nomi Harris, Co-Chair, BOSC
+| Nomi Harris (Co-Chair, BOSC)
 |-
 | 9:15-10:15
 | [Keynote] The role of openness in knowledge-based systems for biomedicine
-| Lawrence Hunter, University of Colorado, Boulder
+| Lawrence Hunter (University of Colorado)
 |-
 | '''10:15-10:45'''
 | '''Coffee Break'''
@@ -76,11 +76,11 @@
 |-
 | 8:50-9:50
 | [Keynote] Into the Wonderful
-| Matt Wood, Amazon
+| Matt Wood (Amazon)
 |-
 | 9:50-10:15
 | [Cloud] Securing and sharing bioinformatics in the cloud
-| Richard Holland, Eagle Genomics &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+| Richard Holland (Eagle Genomics) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 |-
 | '''10:15-10:45'''
 | '''Coffee Break'''
