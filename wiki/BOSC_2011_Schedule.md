@@ -19,7 +19,7 @@ Day 1: Friday, July 15 (Austria Center Vienna, Room TBA)
 | 4:00-5:30       | Session: Visualization and Semantic Web                                                                            |                                                  |
 | 5:30-6:30       | Poster Session II                                                                                                  |                                                  |
 | 5:30-6:30       | BOFs                                                                                                               |                                                  |
-| 7:00            | Pay-your-own-way optional dinner at a nearby restaurant                                                            |
+| 7:00            | Pay-your-own-way optional dinner at a nearby restaurant                                                            |                                                  |
 ||
 
 Day 2: Saturday, July 16 (Austria Center Vienna, Room TBA)
@@ -40,7 +40,7 @@ Day 2: Saturday, July 16 (Austria Center Vienna, Room TBA)
 | 4:00-4:10       | Presentation of Awards                                                |                                 |
 | 4:10-4:30       | Session: Lightning Talks                                              |                                 |
 | 4:30-5:30       | Panel: Meeting the challenges of inter-institutional collaboration    |                                 |
-| 5:30-6:30       |                                                                       | BOFs                            |
+| 5:30-6:30       | BOFs                                                                  |                                 |
 ||
 
 <Category:BOSC> <Category:Conferences> [Category:BOSC
