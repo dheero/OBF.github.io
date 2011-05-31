@@ -10,8 +10,12 @@ Summer 2011 Projects
 Here are links to the progress report pages for OBF's 2011 Google Summer
 of Code students:
 
-BioPython: Justinas Vygintas Daugmaudis, Michele dos Santos da Silva (2 students!), mentored by Thomas Hamelryck and Eric Talevich  
+BioPython: Justinas Vygintas Daugmaudis, Michele dos Santos da Silva (2 students), mentored by Thomas Hamelryck and Eric Talevich  
 Mocapy++Biopython: from data to probabilistic models of biomolecules
+
+[BioPython Integration](http://biopython.org/wiki/GSOC2011_Mocapy)
+
+[Mocapy++ Plugin System](http://biopython.org/wiki/GSOC2011_MocapyExt)
 
 BioJava: Chuan Hock Koh, mentored by Peter Troshin, Andreas Prlic, and Jay Vyas  
 [Amino Acid Physico-Chemical Properties
@@ -25,7 +29,8 @@ BioPerl: Sheena Scroggins, mentored by Robert Buels and Chris Fields
 [Major BioPerl reorganization](http://www.techomics.com/)
 
 BioPython: Mikael Eric Trellet, mentored by João Rodrigues and Eric Talevich  
-Interface analysis module for BioPython
+[Interface analysis module for
+BioPython](http://www.biopython.org/wiki/GSoC2011_mtrellet)
 
 About Google Summer of Code
 ---------------------------
