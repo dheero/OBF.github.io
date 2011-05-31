@@ -38,10 +38,9 @@ Day 2: Saturday, July 16 (Austria Center Vienna, Room TBA)
 | 1:00-2:00       | Poster Session III                                                            |                                            |
 | 2:00-3:30       | Session: Project Updates, Various Open Source bioinformatics projects         |                                            |
 | **3:30-4:00**   | **Coffee Break**                                                              |                                            |
-| 4:00-5:30       | Session: Visualization and Semantic Web                                       |                                            |
-| 4:00-4:10       | Presentation of Awards                                                        |                                            |
-| 4:10-4:30       | Session: Lightning Talks                                                      |                                            |
-| 4:30-5:30       | Panel: Meeting the challenges of inter-institutional collaboration            |                                            |
+| 4:00-4:30       | Session: Project Updates, Various Open Source bioinformatics projects         |                                            |
+| 4:30-5:20       | Panel: Meeting the challenges of inter-institutional collaboration            |                                            |
+| 5:20-5:30       | Presentation of awards                                                        |                                            |
 | 5:30-6:30       | BOFs                                                                          |                                            |
 ||
 
