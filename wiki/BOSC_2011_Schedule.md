@@ -16,9 +16,9 @@ Day 1: Friday, July 15 (Austria Center Vienna, Room TBA)
 | 10:45-12:30     | Session: Genome Content Management                                                                                 |                                          |
 | **12:30-2:00**  | **Lunch**                                                                                                          |                                          |
 | 1:30-2:30       | Poster Session I                                                                                                   |                                          |
-| 2:30-3:30       | Session: Next Generation Sequencing                                                                                |                                          |
+| 2:30-3:30       | Session: Visualization                                                                                             |                                          |
 | **3:30-4:00**   | **Coffee Break**                                                                                                   |                                          |
-| 4:00-5:30       | Session: Visualization and Semantic Web                                                                            |                                          |
+| 4:00-5:30       | Session: Next Generation Sequencing                                                                                |                                          |
 | 5:30-6:30       | Poster Session II                                                                                                  |                                          |
 | 5:30-6:30       | BOFs                                                                                                               |                                          |
 | 7:00            | Pay-your-own-way optional dinner at a nearby restaurant                                                            |                                          |
