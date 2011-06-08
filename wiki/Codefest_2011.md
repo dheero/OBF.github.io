@@ -57,9 +57,9 @@ Attendees
 
 You are very welcome to attend. Please add yourself if you are
 interested to [this Google
-spreadsheet](https://spreadsheets.google.com/ccc?key=0Agxg-o4ZmoZ4dHQxWEV1aW1raFJKbWxrMk80RDZSOVE&hl=en&authkey=CK3mo_4B).
-New user registration on the Codefest Wiki is temporarily disabled due
-to spam.
+spreadsheet](https://spreadsheets.google.com/ccc?key=0Agxg-o4ZmoZ4dHQxWEV1aW1raFJKbWxrMk80RDZSOVE&hl=en&authkey=CK3mo_4B)
+and sign up on the [mailing
+list](http://groups.google.com/group/openbio-codefest2011).
 
 -   [Brad Chapman](http://bcbio.wordpress.com/)
 -   [ Hilmar Lapp](User:Lapp "wikilink")
