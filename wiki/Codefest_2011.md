@@ -84,4 +84,14 @@ to spam.
 -   Johan Henriksson ([Karolinska Institute](http://www.endrov.net))
 -   Christian Hoener zu Siederdissen ([TBI Vienna (and
     Biohaskell ;-)](http://www.tbi.univie.ac.at/~choener/))
+-   Matus Kalas ([BioXSD](http://bioxsd.org))
+-   Alex Kalderimis ([Intermine(University
+    of Cambridge)](http://www.intermine.org))
+-   FengYuen Hu ([Intermine(University
+    of Cambridge)](http://www.intermine.org))
+-   Peter Clarke (FourPartsWater Biocomputing)
+-   Mesude Bicak ([Bio-Linux](http://nebc.nerc.ac.uk))
+-   Tim Booth ([Bio-Linux](http://nebc.nerc.ac.uk))
+-   Dawn Field ([Bio-Linux](http://nebc.nerc.ac.uk))
+-   Konstantinos Krampis ([CloudBioLinx](http://cloudbiolinux.org))
 
