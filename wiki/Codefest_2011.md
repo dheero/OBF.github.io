@@ -35,6 +35,11 @@ document:
 -   [Codefest 2011
     Goals](https://docs.google.com/document/d/1EFe9YszL5Lp5FjZjJLFhWepsto1jhC6oASWcG4Wlnds/edit?hl=en)
 
+and discuss:
+
+-   [Codefest 2011 mailing
+    list](http://groups.google.com/group/openbio-codefest2011)
+
 Location
 --------
 
