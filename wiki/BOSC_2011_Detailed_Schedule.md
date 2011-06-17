@@ -7,21 +7,28 @@ title: BOSC 2011 Detailed Schedule
 Day 1: Friday, July 15 (Austria Center Vienna, Room TBA)
 --------------------------------------------------------
 
-| Time            | Session                                                                                                            | Speaker or Moderator                     |
-|-----------------|--------------------------------------------------------------------------------------------------------------------|------------------------------------------|
-| 7:30-9:00       | Pick up badges for BOSC 2011, Austria Center Vienna (Early arrival is recommended as there are usually long lines) | **Registration**                         |
-| 9:00-9:15       | Introduction and welcome                                                                                           | Nomi Harris (Co-Chair, BOSC)             |
-| 9:15-10:15      | \[Keynote\] The role of openness in knowledge-based systems for biomedicine                                        | Lawrence Hunter (University of Colorado) |
-| **10:15-10:45** | **Coffee Break**                                                                                                   |                                          |
-| 10:45-12:30     | Session: Genome Content Management                                                                                 |                                          |
-| **12:30-2:00**  | **Lunch**                                                                                                          |                                          |
-| 1:30-2:30       | Poster Session I                                                                                                   |                                          |
-| 2:30-3:30       | Session: Visualization                                                                                             |                                          |
-| **3:30-4:00**   | **Coffee Break**                                                                                                   |                                          |
-| 4:00-5:30       | Session: Next Generation Sequencing                                                                                |                                          |
-| 5:30-6:30       | Poster Session II                                                                                                  |                                          |
-| 5:30-6:30       | BOFs                                                                                                               |                                          |
-| 7:00            | Pay-your-own-way optional dinner at a nearby restaurant                                                            |                                          |
+| Time            | Session                                                                                                                   | Speaker or Moderator                     |
+|-----------------|---------------------------------------------------------------------------------------------------------------------------|------------------------------------------|
+| 7:30-9:00       | Pick up badges for BOSC 2011, Austria Center Vienna (Early arrival is recommended as there are usually long lines)        | **Registration**                         |
+| 9:00-9:15       | Introduction and welcome                                                                                                  | Nomi Harris (Co-Chair, BOSC)             |
+| 9:15-10:15      | \[Keynote\] The role of openness in knowledge-based systems for biomedicine                                               | Lawrence Hunter (University of Colorado) |
+| **10:15-10:45** | **Coffee Break**                                                                                                          |                                          |
+| 10:45-11:05     | \[Genome content management\] Unipro UGENE: an open source toolkit for complex genome analysis                            | Konstantin Okonechnikov                  |
+| 11:05-11:25     | \[Genome content management\] Exploring the genome with Dalliance                                                         | Thomas Down                              |
+| 11:25-11:45     | \[Genome content management\] InterMine - Using RESTful Webservices for Interoperability                                  | Alex Kalderimis                          |
+| 11:45-11:55     | \[Genome content management\] easyDAS: Automatic creation of DAS servers                                                  | Bernat Gel                               |
+| 11:55-12:05     | \[Genome content management\] Enacting Taverna Workflows through Galaxy                                                   | Marco Roos                               |
+| 12:05-12:15     | \[Genome content management\] "Mobyle 1.0: new features, new types of services"                                           | Herv\\216 M\\216nager                    |
+| 12:15-12:25     | \[Genome content management\] "BioMart 0.8 offers new tools, more interfaces, and increased flexibility through plug-ins" | Junjun Zhang                             |
+| 12:25-12:32     | \[Genome content management\] Running Workflows Through Taverna Server \[lightning\]                                      | Donal Fellows                            |
+| **12:30-2:00**  | **Lunch**                                                                                                                 |                                          |
+| 1:30-2:30       | Poster Session I                                                                                                          |                                          |
+| 2:30-3:30       | Session: Visualization                                                                                                    |                                          |
+| **3:30-4:00**   | **Coffee Break**                                                                                                          |                                          |
+| 4:00-5:30       | Session: Next Generation Sequencing                                                                                       |                                          |
+| 5:30-6:30       | Poster Session II                                                                                                         |                                          |
+| 5:30-6:30       | BOFs                                                                                                                      |                                          |
+| 7:00            | Pay-your-own-way optional dinner at a nearby restaurant                                                                   |                                          |
 ||
 
 Day 2: Saturday, July 16 (Austria Center Vienna, Room TBA)
