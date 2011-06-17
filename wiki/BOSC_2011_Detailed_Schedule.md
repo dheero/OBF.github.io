@@ -32,8 +32,8 @@ Day 1: Friday, July 15 (Austria Center Vienna, Room TBA)
 | 4:20-4:40       | \[Next-generation Sequencing\] Large scale NGS pipelines using the MOLGENIS platform: processing the Genome of the Netherlands | Morris Swertz                            |
 | 4:40-4:50       | \[Next-generation Sequencing\] Bio-NGS: BioRuby plugin to conduct programmable workflows for Next Generation Sequencing data   | Raoul Bonnal                             |
 | 4:50-5:00       | \[Next-generation Sequencing\] Goby framework: native support in GSNAP, BWA and IGV 2.0                                        | Fabien Campagne                          |
-| 5:00-5:10       | \[Parallel\] A Scalable Multicore Implementation of the TEIRESIAS Algorithm                                                    | Frank Drews                              |
-| 5:10-5:20       | \[Parallel\] Biomanycores, open-source parallel code for many-core bioinformatics                                              | Mathieu Giraud                           |
+| 5:00-5:10       | \[Parallel processing\] A Scalable Multicore Implementation of the TEIRESIAS Algorithm                                         | Frank Drews                              |
+| 5:10-5:20       | \[Parallel processing\] Biomanycores, open-source parallel code for many-core bioinformatics                                   | Mathieu Giraud                           |
 | 5:20-5:30       | \[Next-generation Sequencing\] GemSIM: General, Error-Model Based Simulator of next-generation sequencing                      | Kerensa McElroy                          |
 | 5:30-6:30       | Poster Session II                                                                                                              |                                          |
 | 5:30-6:30       | BOFs                                                                                                                           |                                          |
