@@ -7,7 +7,7 @@ title: BOSC 2011 Detailed Schedule
 Day 1: Friday, July 15 (Austria Center Vienna, Room TBA)
 --------------------------------------------------------
 
-| Time            | Session                                                                                                                                      | Speaker or Moderator                     |
+| Time            | Topic                                                                                                                                        | Speaker or Moderator                     |
 |-----------------|----------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------|
 | 7:30-9:00       | Pick up badges for BOSC 2011, Austria Center Vienna (Early arrival is recommended as there are usually long lines)                           | **Registration**                         |
 | 9:00-9:15       | Introduction and welcome                                                                                                                     | Nomi Harris (Co-Chair, BOSC)             |
