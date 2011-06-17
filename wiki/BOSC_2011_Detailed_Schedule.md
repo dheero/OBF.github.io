@@ -18,8 +18,8 @@ Day 1: Friday, July 15 (Austria Center Vienna, Room TBA)
 | 11:25-11:45     | \[Genome content management\] InterMine - Using RESTful Webservices for Interoperability                                                     | Alex Kalderimis                          |
 | 11:45-11:55     | \[Genome content management\] easyDAS: Automatic creation of DAS servers                                                                     | Bernat Gel                               |
 | 11:55-12:05     | \[Genome content management\] Enacting Taverna Workflows through Galaxy                                                                      | Marco Roos                               |
-| 12:05-12:15     | \[Genome content management\] "Mobyle 1.0: new features, new types of services"                                                              | Hervé Ménager                            |
-| 12:15-12:25     | \[Genome content management\] "BioMart 0.8 offers new tools, more interfaces, and increased flexibility through plug-ins"                    | Junjun Zhang                             |
+| 12:05-12:15     | \[Genome content management\] Mobyle 1.0: new features, new types of services                                                                | Hervé Ménager                            |
+| 12:15-12:25     | \[Genome content management\] BioMart 0.8 offers new tools, more interfaces, and increased flexibility through plug-ins                      | Junjun Zhang                             |
 | 12:25-12:32     | \[Genome content management\] Running Workflows Through Taverna Server \[lightning\]                                                         | Donal Fellows                            |
 | **12:30-2:00**  | **Lunch**                                                                                                                                    |                                          |
 | 1:30-2:30       | Poster Session I                                                                                                                             |                                          |
