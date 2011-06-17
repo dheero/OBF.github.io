@@ -68,7 +68,7 @@
 | '''Poster Session I'''
 |
 |-
-| 2:30-4:00
+| 2:30-3:30
 | Session: Visualization
 | 
 |-

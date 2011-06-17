@@ -24,7 +24,7 @@ Day 1: Friday, July 15 (Austria Center Vienna, Room TBA)
 | 12:25-12:32     | \[Genome content management\] Running Workflows Through Taverna Server \[lightning\]                                           | Donal Fellows                            |
 | **12:30-2:00**  | **Lunch**                                                                                                                      |                                          |
 | 1:30-2:30       | **Poster Session I**                                                                                                           |                                          |
-| 2:30-4:00       | Session: Visualization                                                                                                         |                                          |
+| 2:30-3:30       | Session: Visualization                                                                                                         |                                          |
 | 2:30-2:50       | \[Visualization\] Cytoscape 3.0: Architecture for Extension                                                                    | Michael Smoot                            |
 | 2:50-3:10       | \[Visualization\] Applying Visual Analytics to Extend the Genome Browser from Visualization Tool to Analysis Tool              | Jeremy Goecks                            |
 | 3:10-3:20       | \[Visualization\] WebApollo: A web-based sequence annotation editor for community annotation                                   | Nomi Harris                              |
