@@ -94,5 +94,5 @@ list](http://groups.google.com/group/openbio-codefest2011).
 -   Tim Booth ([Bio-Linux](http://nebc.nerc.ac.uk))
 -   Dawn Field ([Bio-Linux](http://nebc.nerc.ac.uk))
 -   Konstantinos Krampis ([CloudBioLinx](http://cloudbiolinux.org))
--   Scott Cain ([1](http://gmod.org))
+-   Scott Cain ([GMOD](http://gmod.org))
 
