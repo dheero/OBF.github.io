@@ -95,6 +95,6 @@ list](http://groups.google.com/group/openbio-codefest2011).
 -   Dawn Field ([Bio-Linux](http://nebc.nerc.ac.uk))
 -   Konstantinos Krampis ([CloudBioLinx](http://cloudbiolinux.org))
 -   Scott Cain ([GMOD](http://gmod.org))
--   Roman Valls Guimerà ([Science For Life Lab
-    Stockholm](http://scilifelab.se))
+-   [Roman Valls Guimerà](http://blogs.nopcode.org/brainstorm) from
+    [Science For Life Lab Stockholm](http://scilifelab.se)
 
