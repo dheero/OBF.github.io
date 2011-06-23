@@ -138,6 +138,7 @@
 |-
 |}
 
+
 == Day 2: Saturday, July 16 (Austria Center Vienna, Room TBA) ==
 
 {| border="1" cellspacing="0" cellpadding="10"
