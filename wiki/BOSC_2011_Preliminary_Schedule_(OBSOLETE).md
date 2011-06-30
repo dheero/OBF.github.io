@@ -2,8 +2,7 @@
 title: BOSC 2011 Preliminary Schedule (OBSOLETE)
 ---
 
+[ BOSC 2011 Schedule](BOSC_2011_Schedule "wikilink")
+
 Return to **[ BOSC 2011](BOSC_2011 "wikilink")** main page
 ----------------------------------------------------------
-
-<Category:BOSC> <Category:Conferences> [Category:BOSC
-Conferences](Category:BOSC_Conferences "wikilink")
