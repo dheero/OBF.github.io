@@ -1,6 +1,9 @@
 ---
 title: BOSC 2011 Preliminary Schedule
-redirect_to: /wiki/BOSC_2011_Preliminary_Schedule_(OBSOLETE)
 ---
 
-You should automatically be redirected to [BOSC 2011 Preliminary Schedule (OBSOLETE)](/wiki/BOSC_2011_Preliminary_Schedule_(OBSOLETE))
+Return to **[ BOSC 2011](BOSC_2011 "wikilink")** main page
+----------------------------------------------------------
+
+<Category:BOSC> <Category:Conferences> [Category:BOSC
+Conferences](Category:BOSC_Conferences "wikilink")
