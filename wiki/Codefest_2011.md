@@ -52,6 +52,8 @@ page](http://metalab.at/wiki/OpenBio_Codefest_2011).
 Metalab has a nice [location map](http://metalab.at/wiki/Lage). We'll be
 counting on local residents to help with additional detailed directions.
 
+We'll plan to get started coding at 10am on July 13th and 14th.
+
 Attendees
 ---------
 
