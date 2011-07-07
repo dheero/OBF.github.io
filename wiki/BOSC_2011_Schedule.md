@@ -30,7 +30,7 @@ Day 1: Friday, July 15 (Austria Center Vienna, Room TBA)
 | 3:10-3:20       | \[Visualization\] WebApollo: A web-based sequence annotation editor for community annotation                                   | Nomi Harris                              |
 | 3:20-3:30       | \[Visualization\] The isobar R package: Analysis of quantitative proteomics data                                               | Florian Breitwieser                      |
 | **3:30-4:00**   | **Coffee Break**                                                                                                               |                                          |
-| 4:00-5:30       | Session: Next-Generation Sequencing and Parallel Processing\]                                                                  |                                          |
+| 4:00-5:30       | Session: Next-Generation Sequencing and Parallel Processing                                                                    |                                          |
 | 4:00-4:20       | \[Next-Generation Sequencing\] Stacks: building and genotyping loci de novo from short-read sequences                          | Julian Catchen                           |
 | 4:20-4:40       | \[Next-Generation Sequencing\] Large scale NGS pipelines using the MOLGENIS platform: processing the Genome of the Netherlands | Morris Swertz                            |
 | 4:40-4:50       | \[Next-Generation Sequencing\] Bio-NGS: BioRuby plugin to conduct programmable workflows for Next Generation Sequencing data   | Raoul Bonnal                             |
