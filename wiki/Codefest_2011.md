@@ -79,6 +79,7 @@ list](http://groups.google.com/group/openbio-codefest2011).
     sequences!](http://www.ohnosequences.com), main developer of [Bio4j
     project](http://www.bio4j.com)
 -   Peter Rice from [EMBOSS](http://emboss.sf.net)
+-   [Pjotr Prins](http://thebird.nl/)
 -   Paul Horton ([CBRC](http://seq.cbrc.jp))
 -   Vipin T Sreedharan ([FML, Max Planck
     Society](http://galaxy.tuebingen.mpg.de/))
