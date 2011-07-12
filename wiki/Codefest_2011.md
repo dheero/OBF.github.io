@@ -39,6 +39,7 @@ and discuss:
 
 -   [Codefest 2011 mailing
     list](http://groups.google.com/group/openbio-codefest2011)
+-   During the Codefest, on IRC (freenode/\#codefest)
 
 Location
 --------
