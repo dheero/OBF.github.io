@@ -83,7 +83,7 @@ Day 2: Saturday, July 16 (Austria Center Vienna, Room TBA)
                                                                                                                                                                                                                                                                           
                                                                                                                                                                                                     Peter Rice (European Bioinformatics Institute)                        |
 | 5:20-5:30       | Presentation of awards                                                                                                                                                         | Nomi Harris                                                          |
-| 5:30-6:30       | BOFs                                                                                                                                                                           |                                                                      |
+| 5:30-6:30       | [BOFs](BOSC_2011/BOFs "wikilink")                                                                                                                                              |                                                                      |
 ||
 
 **NOTE: Schedule is preliminary--subject to change.**
