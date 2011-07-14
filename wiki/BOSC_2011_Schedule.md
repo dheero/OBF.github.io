@@ -72,6 +72,7 @@ Day 2: Saturday, July 16 (Austria Center Vienna, Room TBA)
 | 3:20-3:27       | \[Misc.\] What's new with GMOD \[lightning\]                                                                                                                                   | Scott Cain                                                           |
 | 3:27-3:34       | \[Misc.\] Exploring human variation data with Clojure \[lightning\]                                                                                                            | Brad Chapman                                                         |
 | **3:30-4:00**   | **Coffee Break**                                                                                                                                                               |                                                                      |
+| 4:00-4:30       | Session: Misc. Open Source Projects                                                                                                                                            | Chair: Jim Procter                                                   |
 | 4:00-4:10       | \[Misc.\] EMBOSS: New developments and extended data access                                                                                                                    | Peter Rice                                                           |
 | 4:10-4:20       | \[Misc.\] G-language Project: the last 10 years and beyond                                                                                                                     | Kazuharu Arakawa                                                     |
 | 4:20-4:30       | \[Misc.\] A Framework for Bioinformatics on the Microsoft Platform                                                                                                             | Simon Mercer                                                         |
@@ -85,8 +86,6 @@ Day 2: Saturday, July 16 (Austria Center Vienna, Room TBA)
 | 5:20-5:30       | Presentation of awards                                                                                                                                                         | Nomi Harris                                                          |
 | 5:30-6:30       | [BOFs](BOSC_2011/BOFs "wikilink")                                                                                                                                              |                                                                      |
 ||
-
-**NOTE: Schedule is preliminary--subject to change.**
 
 Return to **[ BOSC 2011](BOSC_2011 "wikilink")** main page
 ----------------------------------------------------------
