@@ -2,8 +2,6 @@
 title: BOSC 2011 Schedule
 ---
 
-**NOTE: Schedule is preliminary--subject to change.**
-
 Day 1: Friday, July 15 (Austria Center Vienna, Room TBA)
 --------------------------------------------------------
 
@@ -23,7 +21,7 @@ Day 1: Friday, July 15 (Austria Center Vienna, Room TBA)
 | 12:15-12:25     | \[Genome Content Management\] BioMart 0.8 offers new tools, more interfaces, and increased flexibility through plug-ins                                              | Junjun Zhang                             |
 | 12:25-12:32     | \[Genome Content Management\] Running Workflows Through Taverna Server \[lightning\]                                                                                 | Donal Fellows                            |
 | **12:30-2:00**  | **Lunch**                                                                                                                                                            |                                          |
-| 1:30-2:30       | **Poster Session I**                                                                                                                                                 |                                          |
+| 1:30-2:30       | **Poster Session I** (Foyer A)                                                                                                                                       |                                          |
 | 2:30-3:30       | Session: Visualization                                                                                                                                               | Chair: Jan Aerts                         |
 | 2:30-2:50       | \[Visualization\] Cytoscape 3.0: Architecture for Extension                                                                                                          | Michael Smoot                            |
 | 2:50-3:10       | \[Visualization\] Applying Visual Analytics to Extend the Genome Browser from Visualization Tool to Analysis Tool                                                    | Jeremy Goecks                            |
@@ -38,7 +36,7 @@ Day 1: Friday, July 15 (Austria Center Vienna, Room TBA)
 | 5:00-5:10       | \[Parallel Processing\] A Scalable Multicore Implementation of the TEIRESIAS Algorithm                                                                               | Frank Drews                              |
 | 5:10-5:20       | \[Parallel Processing\] Biomanycores, open-source parallel code for many-core bioinformatics                                                                         | Jean-Frédéric Berthelot                  |
 | 5:20-5:30       | \[Next-Generation Sequencing\] GemSIM: General, Error-Model Based Simulator of next-generation sequencing                                                            | Kerensa McElroy                          |
-| 5:30-6:30       | **Poster Session II**                                                                                                                                                |                                          |
+| 5:30-6:30       | **Poster Session II** (Foyer A)                                                                                                                                      |                                          |
 | 5:30-6:30       | [BOFs](BOSC_2011/BOFs "wikilink")                                                                                                                                    |                                          |
 | 7:00            | Pay-your-own-way optional dinner at [Ufertaverne](http://www.ufertaverne.at), A-1220 Wien, An der Oberen Alten Donau 186. [ (map)](Media:Ufertaverne.png "wikilink") |                                          |
 ||
@@ -61,7 +59,7 @@ Day 2: Saturday, July 16 (Austria Center Vienna, Room TBA)
 | 12:05-12:15     | \[Cloud Computing\] Enabling NGS Analysis with(out) the Infrastructure                                                                                                         | Enis Afgan                                                           |
 | 12:15-12:25     | \[Cloud Computing\] Hadoop-BAM: A Library for Genomic Data Processing                                                                                                          | Aleksi Kallio                                                        |
 | **12:30-2:00**  | **Lunch**                                                                                                                                                                      |                                                                      |
-| 1:00-2:00       | **Poster Session III**                                                                                                                                                         |                                                                      |
+| 1:00-2:00       | **Poster Session III** (Foyer A)                                                                                                                                               |                                                                      |
 | 2:00-3:30       | Session: Semantic Web and Misc. Open Source Projects                                                                                                                           | Chair: Peter Cock                                                    |
 | 2:00-2:10       | \[Semantic Web\] SADI for GMOD: Bringing Model Organism Data onto the Semantic Web                                                                                             | Ben Vandervalk                                                       |
 | 2:10-2:20       | \[Semantic Web\] Scufl2: because a workflow is more than its definition                                                                                                        | Stian Soiland-Reyes                                                  |
