@@ -39,7 +39,7 @@ Day 1: Friday, July 15 (Austria Center Vienna, Room TBA)
 | 5:10-5:20       | \[Parallel Processing\] Biomanycores, open-source parallel code for many-core bioinformatics                                                                         | Jean-Frédéric Berthelot                  |
 | 5:20-5:30       | \[Next-Generation Sequencing\] GemSIM: General, Error-Model Based Simulator of next-generation sequencing                                                            | Kerensa McElroy                          |
 | 5:30-6:30       | **Poster Session II**                                                                                                                                                |                                          |
-| 5:30-6:30       | BOFs                                                                                                                                                                 |                                          |
+| 5:30-6:30       | [BOFs](BOSC_2011/BOFs "wikilink")                                                                                                                                    |                                          |
 | 7:00            | Pay-your-own-way optional dinner at [Ufertaverne](http://www.ufertaverne.at), A-1220 Wien, An der Oberen Alten Donau 186. [ (map)](Media:Ufertaverne.png "wikilink") |                                          |
 ||
 
