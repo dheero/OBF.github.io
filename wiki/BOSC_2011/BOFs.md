@@ -6,6 +6,8 @@ If you would like to organize a Birds of a Feather (BOF) meeting, just
 sign up for a [ wiki account](Special:Userlogin "wikilink"), login, and
 edit this page. Please list the BOF topic and the name of the organizer.
 
+The BOFs are from 5:30-6:30 in the same room as the BOSC talks (F2).
+
 Friday BOFs (Day 1)
 -------------------
 
