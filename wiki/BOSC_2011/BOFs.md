@@ -9,7 +9,7 @@ edit this page. Please list the BOF topic and the name of the organizer.
 Friday BOFs (Day 1)
 -------------------
 
--   Galaxy and Taverna working together \[Organizer?\]
+-   Galaxy and Taverna working together (Marco Roos)
 
   
   
