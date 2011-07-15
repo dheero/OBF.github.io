@@ -31,8 +31,8 @@ interested (potential) users and developers.
 Saturday BOFs (Day 2)
 ---------------------
 
--   \[<http://campagnelab.org/software/goby/> | Goby Framework}
-    and APIs. Organizer: Fabien Campagne.
+-   [Goby Framework](http://campagnelab.org/software/goby/) and APIs.
+    Organizer: Fabien Campagne.
 
 Goby offers an efficient framework to store and work with large volumes
 of NGS data. Developers interested in implementing Goby support in NGS
