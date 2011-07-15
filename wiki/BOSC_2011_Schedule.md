@@ -2,8 +2,8 @@
 title: BOSC 2011 Schedule
 ---
 
-Day 1: Friday, July 15 (Austria Center Vienna, Room TBA)
---------------------------------------------------------
+Day 1: Friday, July 15 (Austria Center Vienna, Room F2)
+-------------------------------------------------------
 
 | Time            | Topic                                                                                                                                                                | Speaker or Moderator                     |
 |-----------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------|
@@ -41,8 +41,8 @@ Day 1: Friday, July 15 (Austria Center Vienna, Room TBA)
 | 7:00            | Pay-your-own-way optional dinner at [Ufertaverne](http://www.ufertaverne.at), A-1220 Wien, An der Oberen Alten Donau 186. [ (map)](Media:Ufertaverne.png "wikilink") |                                          |
 ||
 
-Day 2: Saturday, July 16 (Austria Center Vienna, Room TBA)
-----------------------------------------------------------
+Day 2: Saturday, July 16 (Austria Center Vienna, Room F2)
+---------------------------------------------------------
 
 | Time            | Topic                                                                                                                                                                          | Speaker or Moderator                                                 |
 |-----------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------|

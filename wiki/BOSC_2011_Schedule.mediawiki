@@ -1,5 +1,4 @@
-
-== Day 1: Friday,  July 15  (Austria Center Vienna,  Room TBA) ==
+== Day 1: Friday,  July 15  (Austria Center Vienna,  Room F2) ==
 
 {| border="1" cellspacing="0" cellpadding="10"
 ! Time
@@ -137,7 +136,7 @@
 |- 
 |}
 
-== Day 2: Saturday, July 16 (Austria Center Vienna, Room TBA) ==
+== Day 2: Saturday, July 16 (Austria Center Vienna, Room F2) ==
 
 {| border="1" cellspacing="0" cellpadding="10"
 ! Time
