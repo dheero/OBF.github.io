@@ -21,7 +21,8 @@ meeting we concluded that allowing Galaxy and Taverna Server to work
 from one (virtual) box could be the next step. In this BOF we discuss
 how we could make the tools benefit most from working together and what
 additional requirements that might set. Developers of both Galaxy and
-Taverna will participate in this BOF.
+Taverna will participate in this BOF, and we welcome
+interested (potential) users and developers.
 
 -   
 
