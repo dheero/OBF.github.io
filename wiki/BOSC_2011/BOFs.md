@@ -49,6 +49,13 @@ biological software, preparation of a package for your source code,
 identification of what is missing in Debian/Ubuntu to help your
 daily routine.
 
+-   Python in Bioinformatics. Organizer: Brad Chapman
+
+  
+  
+Discuss Biopython development or ask questions. Generally talk about use
+of Python in Bioinformatics and useful libraries.
+
 ------------------------------------------------------------------------
 
 -   Return to **[ BOSC 2011 Schedule](BOSC_2011_Schedule "wikilink")**
