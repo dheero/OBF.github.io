@@ -41,7 +41,15 @@ of NGS data. Developers interested in implementing Goby support in NGS
 tools, and/or end users interested in using the Goby toolbox are
 encouraged to attend to meet and chat with the developers.
 
--   
+-   Hands-on to prepare a Debian package for your software. Organizer:
+    Steffen Möller
+
+  
+  
+Walk through the Debian Med repository on build instructions for
+biological software, preparation of a package for your source code,
+identification of what is missing in Debian/Ubuntu to help your
+daily routine.
 
 ------------------------------------------------------------------------
 
