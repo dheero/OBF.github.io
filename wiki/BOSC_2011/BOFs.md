@@ -26,8 +26,6 @@ additional requirements that might set. Developers of both Galaxy and
 Taverna will participate in this BOF, and we welcome
 interested (potential) users and developers.
 
--   
-
 Saturday BOFs (Day 2)
 ---------------------
 
