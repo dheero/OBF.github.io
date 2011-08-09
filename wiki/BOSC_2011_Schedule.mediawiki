@@ -205,7 +205,7 @@
 | Chair: Peter Cock
 |-
 | 2:00-2:10
-|[Semantic Web] SADI for GMOD: Bringing Model Organism Data onto the Semantic Web
+|[Semantic Web] SADI for GMOD: Bringing Model Organism Data onto the Semantic Web [http://www.slideshare.net/bosc2011/talk1-ben-sadi-forgmodbosc2011 ***SLIDES***]
 | Ben Vandervalk
 |-
 | 2:10-2:20
@@ -253,7 +253,7 @@
 | Kazuharu Arakawa
 |-
 | 4:20-4:30
-|[Misc.] A Framework for Bioinformatics on the Microsoft Platform
+|[Misc.] A Framework for Bioinformatics on the Microsoft Platform [http://www.slideshare.net/bosc2011/bosc-mercer ***SLIDES***]
 | Simon Mercer
 |-
 | 4:30-5:20
