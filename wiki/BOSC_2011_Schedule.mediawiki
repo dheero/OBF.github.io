@@ -31,7 +31,7 @@
 | Konstantin Okonechnikov
 |-
 | 11:05-11:25
-|[Genome Content Management] Exploring the genome with Dalliance
+|[Genome Content Management] Exploring the genome with Dalliance [http://www.biodalliance.org/people/thomas/dalliance-talk-201107/dalliance.html ***SLIDES webpage***]
 | Thomas Down
 |-
 | 11:25-11:45
