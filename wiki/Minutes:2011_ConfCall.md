@@ -51,6 +51,7 @@ Additional topics proposed by community
 
 -   How to become an affiliate project? (Alan R Williams)
 -   BioSmalltalk as an OBF member project? (Hernán Morales)
+-   CloudBiolinux as an OBF member project? (Pjotr Prins, Brad Chapman)
 -   OBF Europe and Asia (Steffen Möller)
 -   OBF holding copyright as a community organization using the Apache
     model for licensing (Jean Peccoud)
