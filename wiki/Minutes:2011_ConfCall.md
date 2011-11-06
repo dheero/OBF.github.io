@@ -19,7 +19,7 @@ New business
 
     <!-- -->
 
-    -   Money spent/made attendee number, any other feedback
+    -   Money spent/made, attendee number, any other feedback
 
 2.  BOSC 2012 - with [ISMB 2012](http://www.iscb.org/ismb2012) in Long
     Beach, CA
