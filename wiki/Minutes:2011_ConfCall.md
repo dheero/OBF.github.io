@@ -46,7 +46,7 @@ Treasurer's 2011 report (ChrisD)
 <li>
 BoD membership and succession.
 
--   Nominations
+-   Nominations: Peter Cock
 -   Plan to elect new BoD members and rotate officers.
 
 </li>
