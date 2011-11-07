@@ -50,7 +50,9 @@ Google Summer of Code
 
 </li>
 <li>
-Treasurer's 2011 report (ChrisD)
+Treasurer's 2011 report:
+[2011-OBF-Treasurers-Report\_v1.pdf](2011-OBF-Treasurers-Report_v1.pdf "wikilink")
+(Chris Dagdigian)
 
 </li>
 <li>
