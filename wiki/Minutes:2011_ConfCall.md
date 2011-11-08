@@ -8,6 +8,12 @@ teleconference.
 -   Dial-in Number: 1-940-287-4000 (Texas)
 -   Participant Access Code 279610
 
+Alternative Conference Call (due to feedback)
+
+-   (800) 662-6992 (USA toll free)
+-   (917) 210-2631 (direct dial / international access)
+-   Participant access code: 111-9753
+
 Tentative Agenda
 ================
 
