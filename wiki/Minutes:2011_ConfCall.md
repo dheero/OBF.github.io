@@ -70,8 +70,8 @@ Additional topics proposed by community
 -   CloudBiolinux as an OBF member project? (Pjotr Prins, Brad Chapman)
 -   OBF Europe and Asia (Steffen Möller), branch organisations for tax
     free donations from the public or industry. Possibly in conjunction
-    with <a href=""http://www.spi-inc.org/>Debian's Software in the
-    Public Interest</a> setup.
+    with [Debian's Software in the Public
+    Interest](http://www.spi-inc.org/) setup.
 -   OBF holding copyright as a community organization using the Apache
     model for licensing (Jean Peccoud)
 
