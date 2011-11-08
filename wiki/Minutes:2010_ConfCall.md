@@ -67,7 +67,7 @@ Minutes from the meeting
     Lapp, Nomi Harris
 -   Guests: Ron Taylor, Peter Cock, Mauricio Herrera Cuadra
 
-**Minutes:**'
+**Minutes:**
 
 Hilmar calls meeting to order at 5.05pm EDT.
 
