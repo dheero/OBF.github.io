@@ -83,8 +83,9 @@ Minutes from the meeting
 -   Directors: Jason Stajich, Chris Dagdigian (until 12pm), Hilmar Lapp,
     Nomi Harris
 -   Guests: Neil Bahroos, Pjotr Prins, Brad Chapman, Alan Williams,
-    Peter Rice, Neil Bahroos, Steffen Möller (call report shows about 12
-    people who called in for significant amounts of time).
+    Peter Rice, Neil Bahroos, Steffen Möller, Peter Cock (call report
+    shows about 12 people who called in for significant amounts
+    of time).
 
 **Minutes:**
 
