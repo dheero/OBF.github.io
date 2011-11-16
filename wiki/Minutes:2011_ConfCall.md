@@ -331,6 +331,7 @@ Google Summer of Code 2011 Report for OBF
 Prepared by Rob Buels, who served as organization administrator for the
 OBF.
 
+<div style="margin-left: 2em; margin-right: 2em; border-style: solid; border-width: 0px 0px 0px 7px; border-color: #cccccc; padding: 4px;">
 We had 6 students this year, the same number as last year. I had hoped
 we might grow the program somewhat over last year's numbers, but the
 number and quality of applications turned out approximately the same.
@@ -398,3 +399,6 @@ students failing to complete projects, turning evaluations in late or
 failing to turn them in at all, and so forth. This makes me feel quite
 optimistic for the continued success of the GSoC students mentored by
 OBF organizations.
+
+</div>
+
