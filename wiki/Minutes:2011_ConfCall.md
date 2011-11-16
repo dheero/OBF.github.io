@@ -75,7 +75,8 @@ Additional topics proposed by community
 Minutes from the meeting
 ========================
 
-**Venue:** held by conference call, scheduled for 11am EST (16:00 UTC).
+**Venue:** held by conference call, scheduled for Nov 8, 2011, 11am EST
+(16:00 UTC).
 
 **Attending:**
 
