@@ -11,7 +11,7 @@ Tentative agenda
 
 <!-- -->
 
--   [ 2010 BoD meeting minutes](Minutes:2010_ConfCall "wikilink")
+-   [ 2011 BoD meeting minutes](Minutes:2011_ConfCall "wikilink")
 
 <li>
 New business
