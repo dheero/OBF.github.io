@@ -9,10 +9,10 @@ The board can be contacted via email at <board@open-bio.org>
 
 **President**
 
-:; [Jason Stajich](bp:Jason_Stajich "wikilink") :
-[BioPerl](bp:BioPerl "wikilink") core developer. [Assistant
-Professor](http://stajichlab.fungalgenomes.org) at [University of
-California, Riverside](http://www.ucr.edu/).
+:; [Hilmar Lapp](bp:Hilmar_Lapp "wikilink") : Representing
+[BioPerl](bp:BioPerl "wikilink"). Employed by the [National Evolutionary
+Synthesis Center](http://www.nescent.org/) (NESCent). Former OBF
+Parliamentarian, and currently acting Secretary.
 
 **Treasurer**
 
@@ -23,22 +23,27 @@ by [the BioTeam](http://www.bioteam.net).
 **Secretary**
 
   
-Currently Unfilled. Duties carried out by Parliamentarian in
-the interim.
+Currently Unfilled. Duties carried out by President in the interim.
 
 **Parliamentarian**
-
-:; [Hilmar Lapp](bp:Hilmar_Lapp "wikilink") : Representing
-[BioPerl](bp:BioPerl "wikilink"). Employed by the [National Evolutionary
-Synthesis Center](http://www.nescent.org/) (NESCent).
-
-**At-large members**
 
 :; <span class="plainlinks">[Nomi
 Harris](http://www.linkedin.com/in/nomiharris)</span> : Member of the
 [Berkeley Bioinformatics Open-Source
 Projects](http://www.berkeleybop.org/) group at the Lawrence Berkeley
 National Laboratory.
+
+**At-large members**
+
+:; [Jason Stajich](bp:Jason_Stajich "wikilink") :
+[BioPerl](bp:BioPerl "wikilink") core developer. [Assistant
+Professor](http://stajichlab.fungalgenomes.org) at [University of
+California, Riverside](http://www.ucr.edu/). Former OBF President.
+
+:; <span class="plainlinks">[Peter
+Cock](http://www.hutton.ac.uk/staff/peter-cock)</span> :
+[Biopython](bp:Biopython "wikilink") core developer, bioinformatician at
+the [James Hutton Institute](http://www.hutton.ac.uk/).
 
 ### Past Board Members
 
