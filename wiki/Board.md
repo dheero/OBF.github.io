@@ -57,11 +57,12 @@ Board of Directors Meetings
 
 **Upcoming Board Meeting:**
 
--   [ Conference call Dec 13,
-    2011](Minutes:2011_Dec_ConfCall "wikilink")
+-   TBC
 
 **Minutes of past Board Meetings:**
 
+-   [ Conference call Dec 13,
+    2011](Minutes:2011_Dec_ConfCall "wikilink")
 -   [ Conference call Nov 8, 2011](Minutes:2011_ConfCall "wikilink")
 -   [ Conference call Oct 5, 2010](Minutes:2010_ConfCall "wikilink")
 -   [Conference call Dec 14, 2009](Minutes:2009_ConfCall "wikilink")
