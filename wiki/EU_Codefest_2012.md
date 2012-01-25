@@ -25,3 +25,5 @@ attending. We need to get a feel for the number of people coming. But,
 hey, even if it is just us we will be perfectly happy hacking away :)
 
 Organising committee: Francesco Strozzi, Raoul Bonnal and Pjotr Prins
+
+*(keep a tab on this page, more information coming...)*
