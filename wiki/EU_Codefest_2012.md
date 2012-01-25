@@ -6,7 +6,8 @@ EU-codefest 2012 will be 19 and 20 July in Lodi Italy
 =====================================================
 
 Together with the BOSC committee we are organising the first
-EU-codefest, a low key counter event the week after BOSC in California.
+EU-codefest, a low-key event the week after
+[BOSC\_2012](BOSC_2012 "wikilink") in California.
 
 The EU-codefest is on 19 and 20 July 2012, in Lodi, Italy, near the
 Bergamo and Milano airports (Bergamo is a hub for Ryanair).
