@@ -28,4 +28,10 @@ hey, even if it is just us we will be perfectly happy hacking away :)
 
 Organising committee: Francesco Strozzi, Raoul Bonnal and Pjotr Prins
 
+Location
+--------
+
+[Parco Tecnologico Padano](http://www.tecnoparco.org/) vie Einstein -
+Loc. Cascina Codazza 26900, Lodi - ITALY
+
 *(watch this page, more information coming...)*
