@@ -32,6 +32,8 @@ Location
 --------
 
 [Parco Tecnologico Padano](http://www.tecnoparco.org/) vie Einstein -
-Loc. Cascina Codazza 26900, Lodi - ITALY
+Loc. Cascina Codazza 26900,
+[Lodi](http://www.openstreetmap.org/?lat=45.31&lon=9.508&zoom=10&layers=M)
+- ITALY
 
 *(watch this page, more information coming...)*
