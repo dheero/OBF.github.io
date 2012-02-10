@@ -34,8 +34,8 @@ See the [Main GSoC Site](http://code.google.com/soc) for more
 information and FAQs, and see below for [other facts such as eligibility
 and timelines ](#Other_Facts_.26_Links "wikilink").
 
-Mentors and Project Ideas
--------------------------
+2012 Mentors and Project Ideas
+------------------------------
 
 Mentor names and project ideas are hosted on each member project's wiki
 on a dedicated Google Summer of Code page. See each of the member
