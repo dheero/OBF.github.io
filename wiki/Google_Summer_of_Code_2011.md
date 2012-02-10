@@ -36,8 +36,8 @@ BioPython: Mikael Eric Trellet, mentored by João Rodrigues and Eric Talevich
 [Interface analysis module for
 BioPython](http://www.biopython.org/wiki/GSoC2011_mtrellet)
 
-Mentors and Project Ideas
--------------------------
+2011 Mentor Volunteers and Project Ideas
+----------------------------------------
 
 Mentors and project ideas are hosted on each member project's wiki on a
 dedicated Google Summer of Code page. See each of the member projects,
