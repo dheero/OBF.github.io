@@ -1,4 +1,4 @@
-[[Image:GSoC2012_300x200.png|right|link=http://code.google.com/soc]] 
+[[Image:GSoC2012_300x200.png|right|frame|link=http://code.google.com/soc]] 
 
 == About Google Summer of Code ==
 
