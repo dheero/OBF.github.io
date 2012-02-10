@@ -61,19 +61,19 @@ for examples)
 
 BioRuby:  
 
-:\* add links to BioJava project ideas here (see
+:\* add links to BioRuby project ideas here (see
 [Google\_Summer\_of\_Code\_2011](Google_Summer_of_Code_2011 "wikilink")
 for examples)
 
 BioLib:  
 
-:\* add links to BioJava project ideas here (see
+:\* add links to BioLib project ideas here (see
 [Google\_Summer\_of\_Code\_2011](Google_Summer_of_Code_2011 "wikilink")
 for examples)
 
 BioDAS:  
 
-:\* add links to BioJava project ideas here (see
+:\* add links to BioDAS project ideas here (see
 [Google\_Summer\_of\_Code\_2011](Google_Summer_of_Code_2011 "wikilink")
 for examples)
 
