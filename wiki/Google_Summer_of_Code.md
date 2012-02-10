@@ -146,8 +146,8 @@ Primer](http://irchelp.org/irchelp/ircprimer.html) at [IRC
 Help](http://irchelp.org/), which also has links to lots of other
 material.)*
 
-Open-Bio Projects Accepting Applicants
---------------------------------------
+OBF Projects Accepting Applicants
+---------------------------------
 
 ![](BioPerl_logo_tiny.jpg "BioPerl_logo_tiny.jpg")
 
