@@ -23,7 +23,8 @@ stipend and mentorship aspects, the student's experience in the
 internship closely mirrors normal work on distributed development
 projects. Effective work habits for distributed development are
 typically not taught in computer science curricula, yet are highly
-desired in the increasingly global software and IT industries.
+desired in the increasingly global and distributed software, IT, and
+biotechnology industries.
 
 From the viewpoint of each open-source project, the program not only
 offers to pay students for contributing, but more importantly offers an
