@@ -2,7 +2,7 @@
 title: Google Summer of Code
 ---
 
-![](Gsoc_2011_logo.png "Gsoc_2011_logo.png")
+![](GSoC2012_300x200.png "GSoC2012_300x200.png")
 
 About Google Summer of Code
 ---------------------------
