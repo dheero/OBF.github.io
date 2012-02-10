@@ -13,8 +13,8 @@ offers eligible student developers stipends to write code for open
 source projects over a period of 3 summer months ("flip bits, not
 burgers"). Aside from the stipend, one of the most important features of
 the program is that students are paired with mentors, who are typically
-experienced developers from the project to which the student
-contributes. The mentor guides the student to work productively within
+experienced developers from the project to which the student is
+contributing. The mentor guides the student to work productively within
 the community, and helps the student avoid obstacles and pitfalls. The
 program is global - students and mentors may be located anywhere where
 they have an internet connection (except for countries affected by US
