@@ -43,39 +43,66 @@ linked below, for more details about any project:
 
 BioPerl:  
 
-:\* add links to BioPerl project ideas here (see
-[Google\_Summer\_of\_Code\_2011](Google_Summer_of_Code_2011 "wikilink")
-for examples)
+:\* [Lightweight Sequence objects and Lazy
+Parsing](http://bioperl.org/wiki/Google_Summer_of_Code#Lightweight.2FLazy_BioPerl_Classes)
+
+:\* [Perl Generic Wrappers for External
+Programs](http://bioperl.org/wiki/Google_Summer_of_Code#Perl_Run_Wrappers_for_External_Programs_in_a_Flash)
+
+:\* [BioPerl 2.0: Modern::Perl, Perl6, and
+BioPerl](http://bioperl.org/wiki/Google_Summer_of_Code#BioPerl_2.0_.28and_beyond.29)
+
+:\* \[<http://bioperl.org/wiki/Google_Summer_of_Code#Bio>::Assembly
+Bio::Assembly updates\]
+
+:\* [Semantic web
+support](http://bioperl.org/wiki/Google_Summer_of_Code#Semantic_Web_Support)
 
 BioPython:  
 
-:\* add links to BioPython project ideas here (see
-[Google\_Summer\_of\_Code\_2011](Google_Summer_of_Code_2011 "wikilink")
-for examples)
+:\* [Mocapy++Biopython: from data to probabilistic models of
+biomolecules](http://biopython.org/wiki/Google_Summer_of_Code#Mocapy.2B.2BBiopython:_from_data_to_probabilistic_models_of_biomolecules)
+
+:\* [Variant representation, parser, generator, and coordinate
+converter](http://biopython.org/wiki/Google_Summer_of_Code#Variant_representation.2C_parser.2C_generator.2C_and_coordinate_converter)
 
 BioJava:  
 
-:\* add links to BioJava project ideas here (see
-[Google\_Summer\_of\_Code\_2011](Google_Summer_of_Code_2011 "wikilink")
-for examples)
+:\* [Amino acids physico-chemical properties
+calculation](http://biojava.org/wiki/Google_Summer_of_Code#Amino_acids_physico-chemical_properties_calculation)
+
+:\* [Extend Sequence Viewer code to become a client for the Distributed
+Annotation
+System](http://biojava.org/wiki/Google_Summer_of_Code#Extend_Sequence_Viewer_code_to_become_a_client_for_the_Distributed_Annotation_System)
 
 BioRuby:  
 
-:\* add links to BioRuby project ideas here (see
-[Google\_Summer\_of\_Code\_2011](Google_Summer_of_Code_2011 "wikilink")
-for examples)
+:\* [Support Next Generation Sequencing (NGS) in
+BioRuby](http://bioruby.open-bio.org/wiki/Google_Summer_of_Code#Support_Next_Generation_Sequencing_.28NGS.29_in_BioRuby)
+
+:\* [BioRuby Wrapper for Command line
+application](http://bioruby.open-bio.org/wiki/Google_Summer_of_Code#BioRuby_Wrapper_for_Command_line_application)
+
+:\* [Represent bio-objects and related information with
+images](http://bioruby.open-bio.org/wiki/Google_Summer_of_Code#Represent_bio-objects_and_related_information_with_images)
+
+:\* [Modular annotation knowledge base for
+BioRuby](http://bioruby.open-bio.org/wiki/Google_Summer_of_Code#Modular_annotation_knowledge_base_for_BioRuby)
 
 BioLib:  
 
-:\* add links to BioLib project ideas here (see
-[Google\_Summer\_of\_Code\_2011](Google_Summer_of_Code_2011 "wikilink")
-for examples)
+:\* [Mapping JAVA libraries to Perl/Ruby/Python using Biolib+SWIG+JNI
+(2011)](http://biolib.open-bio.org/wiki/GSoC2011)
+
+:\* [Mapping EMBOSS to Perl, Ruby or Python using BioLib+SWIG+EMBOSS
+(2011)](http://biolib.open-bio.org/wiki/GSoC2011)
 
 BioDAS:  
 
-:\* add links to BioDAS project ideas here (see
-[Google\_Summer\_of\_Code\_2011](Google_Summer_of_Code_2011 "wikilink")
-for examples)
+:\* [Redesign of the DAS Registry](http://www.biodas.org/wiki/GSoC2011)
+
+:\* [DAS Server for large files on local
+filesystems](http://www.biodas.org/wiki/GSoC2011)
 
 *Note to students: project ideas on the wikis of member projects are
 only selected projects, albeit well thought-out ones. You are encouraged
