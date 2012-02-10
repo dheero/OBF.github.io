@@ -37,9 +37,9 @@ and timelines ](#Other_Facts_.26_Links "wikilink").
 Mentors and Project Ideas
 -------------------------
 
-Mentors and project ideas are hosted on each member project's wiki on a
-dedicated Google Summer of Code page. See each of the member projects,
-linked below, for more details about any project:
+Mentor names and project ideas are hosted on each member project's wiki
+on a dedicated Google Summer of Code page. See each of the member
+projects, linked below, for more details about any project:
 
 BioPerl:  
 
