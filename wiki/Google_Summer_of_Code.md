@@ -94,11 +94,12 @@ API](http://bioruby.open-bio.org/wiki/Google_Summer_of_Code#Update_to_the_Ruby_E
 
 BioLib:  
 
-:\* [Mapping JAVA libraries to Perl/Ruby/Python using Biolib+SWIG+JNI
-(2011)](http://biolib.open-bio.org/wiki/GSoC2011)
-
 :\* [Mapping EMBOSS to Perl, Ruby or Python using BioLib+SWIG+EMBOSS
-(2011)](http://biolib.open-bio.org/wiki/GSoC2011)
+(2011)](http://biolib.open-bio.org/wiki/GSoC2012)
+
+:\* [Write the world's fastest parallelized GFF3/GTF parser in D, for
+Ruby
+FFI](http://bioruby.open-bio.org/wiki/Google_Summer_of_Code#Write_the_world.27s_fastest_parallelized_GFF3.2FGTF_parser_in_D.2C_for_Ruby_FFI)
 
 BioDAS:  
 
