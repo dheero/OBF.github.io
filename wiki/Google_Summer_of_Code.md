@@ -97,8 +97,8 @@ API](http://bioruby.open-bio.org/wiki/Google_Summer_of_Code#Update_to_the_Ruby_E
 
 BioLib:  
 
-:\* [Mapping EMBOSS to Perl, Ruby or Python using BioLib+SWIG+EMBOSS
-(2011)](http://biolib.open-bio.org/wiki/GSoC2012)
+:\* [Mapping EMBOSS to Perl, Ruby or Python using
+BioLib+SWIG+EMBOSS](http://biolib.open-bio.org/wiki/GSoC2012)
 
 :\* [Write the world's fastest parallelized GFF3/GTF parser in D, for
 Ruby
