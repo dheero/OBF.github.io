@@ -78,17 +78,19 @@ System](http://biojava.org/wiki/Google_Summer_of_Code#Extend_Sequence_Viewer_cod
 
 BioRuby:  
 
-:\* [Support Next Generation Sequencing (NGS) in
-BioRuby](http://bioruby.open-bio.org/wiki/Google_Summer_of_Code#Support_Next_Generation_Sequencing_.28NGS.29_in_BioRuby)
+:\* [Write the world's fastest parallelized GFF3/GTF parser in D, for
+Ruby
+FFI](http://bioruby.open-bio.org/wiki/Google_Summer_of_Code#Write_the_world.27s_fastest_parallelized_GFF3.2FGTF_parser_in_D.2C_for_Ruby_FFI)
 
-:\* [BioRuby Wrapper for Command line
-application](http://bioruby.open-bio.org/wiki/Google_Summer_of_Code#BioRuby_Wrapper_for_Command_line_application)
+:\* [Extend bio-alignment plug-in with Multiple Alignment Format -MAF-
+parser
+(FFI?)](http://bioruby.open-bio.org/wiki/Google_Summer_of_Code#Extend_bio-alignment_plug-in_with_Multiple_Alignment_Format_-MAF-_parser_.28FFI.3F.29)
 
-:\* [Represent bio-objects and related information with
-images](http://bioruby.open-bio.org/wiki/Google_Summer_of_Code#Represent_bio-objects_and_related_information_with_images)
+:\* [Update bio-images a plugin to represent bio-object with cool
+images](http://bioruby.open-bio.org/wiki/Google_Summer_of_Code#Update_bio-images_a_plugin_to_represent_bio-object_with_cool_images)
 
-:\* [Modular annotation knowledge base for
-BioRuby](http://bioruby.open-bio.org/wiki/Google_Summer_of_Code#Modular_annotation_knowledge_base_for_BioRuby)
+:\* [Update to the Ruby Ensembl
+API](http://bioruby.open-bio.org/wiki/Google_Summer_of_Code#Update_to_the_Ruby_Ensembl_API)
 
 BioLib:  
 
