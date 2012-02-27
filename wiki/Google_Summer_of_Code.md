@@ -86,6 +86,9 @@ FFI](http://bioruby.open-bio.org/wiki/Google_Summer_of_Code#Write_the_world.27s_
 parser
 (FFI?)](http://bioruby.open-bio.org/wiki/Google_Summer_of_Code#Extend_bio-alignment_plug-in_with_Multiple_Alignment_Format_-MAF-_parser_.28FFI.3F.29)
 
+:\* [Adding social networking functionality to
+BioRuby.org](http://bioruby.open-bio.org/wiki/Google_Summer_of_Code#Adding_social_networking_functionality_to_BioRuby.org)
+
 :\* [Update bio-images a plugin to represent bio-object with cool
 images](http://bioruby.open-bio.org/wiki/Google_Summer_of_Code#Update_bio-images_a_plugin_to_represent_bio-object_with_cool_images)
 
