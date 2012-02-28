@@ -1,6 +1,8 @@
-= 2011 Events =
+= 2012 Events =
+* [[BOSC 2012]] and Codefest 2012 will be held in conjunction with ISMB/ECCB 2012 in Long Beach, CA
 
-* [[BOSC 2011]] and [[Codefest 2011]] will be held in conjunction with ISMB/ECCB 2011 in Vienna.
+= 2011 Events =
+* [[BOSC 2011]] and [[Codefest 2011]] (held in conjunction with ISMB/ECCB 2011 in Vienna)
 
 = 2010 Events =
 * [[BOSC 2010]]

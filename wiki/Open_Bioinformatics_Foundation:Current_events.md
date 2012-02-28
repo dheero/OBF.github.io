@@ -2,12 +2,18 @@
 title: Open Bioinformatics Foundation:Current events
 ---
 
+2012 Events
+===========
+
+-   [BOSC 2012](BOSC_2012 "wikilink") and Codefest 2012 will be held in
+    conjunction with ISMB/ECCB 2012 in Long Beach, CA
+
 2011 Events
 ===========
 
 -   [BOSC 2011](BOSC_2011 "wikilink") and [Codefest
-    2011](Codefest_2011 "wikilink") will be held in conjunction with
-    ISMB/ECCB 2011 in Vienna.
+    2011](Codefest_2011 "wikilink") (held in conjunction with ISMB/ECCB
+    2011 in Vienna)
 
 2010 Events
 ===========
