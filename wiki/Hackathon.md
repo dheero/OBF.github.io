@@ -36,4 +36,6 @@ Hackathons involving O|B|F projects
     -   Feb 8-12, 2010, in Tokyo, Japan. Sponsored by the Database
         Center for Life Science (DBCLS) and the Computational Biology
         Research Center (CBRC).
+-   \[Codefest 2011\]
+    -   July 13-14, 2011, in Vienna, Austria.
 
