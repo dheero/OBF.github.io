@@ -81,6 +81,9 @@ BioRuby:
 Ruby
 FFI](http://bioruby.open-bio.org/wiki/Google_Summer_of_Code#Write_the_world.27s_fastest_parallelized_GFF3.2FGTF_parser_in_D.2C_for_Ruby_FFI)
 
+:\* [Testing framework for biogem
+plugins](http://bioruby.open-bio.org/wiki/Google_Summer_of_Code#Testing_framework_for_biogem_plugins)
+
 :\* [Extend bio-alignment plug-in with Multiple Alignment Format -MAF-
 parser
 (FFI?)](http://bioruby.open-bio.org/wiki/Google_Summer_of_Code#Extend_bio-alignment_plug-in_with_Multiple_Alignment_Format_-MAF-_parser_.28FFI.3F.29)
