@@ -61,11 +61,10 @@ support](http://bioperl.org/wiki/Google_Summer_of_Code#Semantic_Web_Support)
 
 BioPython:  
 
-:\* [Mocapy++Biopython: from data to probabilistic models of
-biomolecules](http://biopython.org/wiki/Google_Summer_of_Code#Mocapy.2B.2BBiopython:_from_data_to_probabilistic_models_of_biomolecules)
+:\* [SearchIO](http://biopython.org/wiki/Google_Summer_of_Code)
 
 :\* [Variant representation, parser, generator, and coordinate
-converter](http://biopython.org/wiki/Google_Summer_of_Code#Variant_representation.2C_parser.2C_generator.2C_and_coordinate_converter)
+converter](http://biopython.org/wiki/Google_Summer_of_Code)
 
 BioJava:  
 
