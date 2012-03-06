@@ -107,13 +107,6 @@ Ruby
 FFI](http://bioruby.open-bio.org/wiki/Google_Summer_of_Code#Write_the_world.27s_fastest_parallelized_GFF3.2FGTF_parser_in_D.2C_for_Ruby_FFI)
 (together with the BioRuby project)
 
-BioDAS:  
-
-:\* [Redesign of the DAS Registry](http://www.biodas.org/wiki/GSoC2011)
-
-:\* [DAS Server for large files on local
-filesystems](http://www.biodas.org/wiki/GSoC2011)
-
 *Note to students: project ideas on the wikis of member projects are
 only selected projects, albeit well thought-out ones. You are encouraged
 to propose your own project, just make sure it is still a contribution
