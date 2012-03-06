@@ -394,8 +394,8 @@ Previous Years
 This section contains links to content related to OBF's participation in
 GSoC in previous years.
 
--   [2011](Google_Summer_of_Code_2011 "wikilink")
--   [2010](Google_Summer_of_Code_2010 "wikilink")
+-   [2011](Google_Summer_of_Code_2011 "wikilink") - 6 students
+-   [2010](Google_Summer_of_Code_2010 "wikilink") - 6 students
 
 Other Facts & Links
 -------------------
