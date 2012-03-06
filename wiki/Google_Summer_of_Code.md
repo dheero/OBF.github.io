@@ -292,9 +292,6 @@ list](http://lists.open-bio.org/mailman/listinfo/biolib-dev)
 
 [BioDAS](http://www.biodas.org) :  
 
-:\* **[BioDAS GSoC Page](http://www.biodas.org/wiki/GSoC2010)** -
-project ideas and mentors
-
 :\* [Project website](http://www.biodas.org)
 
 :\* [mailing list](http://lists.open-bio.org/mailman/listinfo/das)
