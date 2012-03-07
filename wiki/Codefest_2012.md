@@ -1,0 +1,63 @@
+---
+title: Codefest 2012
+---
+
+OpenBio Codefest 2012 will take place July 11th and 12th, 2012 in Los
+Angeles, California at [Loyola Marymount
+University](http://www.lmu.edu/); the two days before [BOSC
+2012](BOSC_2012 "wikilink"). This is a great opportunity for open source
+bioinformatics developers to meet and work collaboratively. We hope to
+have developers from projects such as [BioPerl](http://bioperl.org),
+[BioJava](http://www.biojava.org), [Biopython](http://biopython.org),
+[BioRuby](http://www.bioruby.org), [Galaxy](http://wiki.g2.bx.psu.edu/)
+and [EMBOSS](http://www.emboss.org) in attendance.
+
+This is a follow-up to [Codefest 2010](Codefest_2010 "wikilink") in
+Boston and [Codefest 2011](Codefest_2011 "wikilink") in Vienna.
+
+Goals
+-----
+
+OpenBio projects are typically coordinated remotely, with users from all
+over the world contributing and organizing themselves through mailing
+lists and IRC chats. Additionally, contributors work on these projects
+in their spare time, coordinating improving the projects with their day
+jobs and life outside of the computer. The objective of the Codefest is
+to give these talented developers a chance to be fully focused on the
+projects for a few days, interacting in real time. Previous
+[Hackathons](http://www.open-bio.org/wiki/Hackathon) have been immensely
+successful at producing new high quality code and innovative project
+developments.
+
+The goals for the two days are determined entirely by developers. We
+welcome your input. Please add your thoughts to the shared Google
+document:
+
+-   [Codefest 2012
+    Goals](https://docs.google.com/document/d/1FhxN06Ub63dkC6wiHCemFBAiM4MGwW8yG47qVqysioc/edit)
+
+and discuss:
+
+-   [Codefest 2012 mailing
+    list](https://groups.google.com/forum/?fromgroups#!forum/openbio-codefest-2012)
+-   During the Codefest, on IRC (freenode/\#codefest)
+
+Location
+--------
+
+We are being hosted by the [math department at
+LMU](http://cse.lmu.edu/departments/math.htm).
+
+Many thanks to Kam Dahlquist for help in organizing.
+
+Attendees
+---------
+
+You are very welcome to attend. Please add yourself if you are
+interested to \[
+<https://spreadsheets.google.com/ccc?key=0Agxg-o4ZmoZ4dHQxWEV1aW1raFJKbWxrMk80RDZSOVE&hl=en&authkey=CK3mo_4B>
+this Google spreadsheet\] and sign up on the [mailing
+list](https://groups.google.com/forum/?fromgroups#!forum/openbio-codefest-2012).
+
+-   [Brad Chapman](http://bcbio.wordpress.com/)
+
