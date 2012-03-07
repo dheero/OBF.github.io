@@ -54,9 +54,9 @@ Attendees
 ---------
 
 You are very welcome to attend. Please add yourself if you are
-interested to \[
-<https://spreadsheets.google.com/ccc?key=0Agxg-o4ZmoZ4dHQxWEV1aW1raFJKbWxrMk80RDZSOVE&hl=en&authkey=CK3mo_4B>
-this Google spreadsheet\] and sign up on the [mailing
+interested to [this Google
+spreadsheet](https://spreadsheets.google.com/ccc?key=0Agxg-o4ZmoZ4dHQxWEV1aW1raFJKbWxrMk80RDZSOVE&hl=en&authkey=CK3mo_4B)
+and sign up on the [mailing
 list](https://groups.google.com/forum/?fromgroups#!forum/openbio-codefest-2012).
 
 -   [Brad Chapman](http://bcbio.wordpress.com/)
