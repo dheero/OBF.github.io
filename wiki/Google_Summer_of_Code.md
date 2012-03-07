@@ -68,12 +68,14 @@ converter](http://biopython.org/wiki/Google_Summer_of_Code)
 
 BioJava:  
 
-:\* [Amino acids physico-chemical properties
-calculation](http://biojava.org/wiki/Google_Summer_of_Code#Amino_acids_physico-chemical_properties_calculation)
+:\* [Take BioJava into the
+Cloud](http://biojava.org/wiki/Google_Summer_of_Code_2012#Take_BioJava_into_the_Cloud)
 
-:\* [Extend Sequence Viewer code to become a client for the Distributed
-Annotation
-System](http://biojava.org/wiki/Google_Summer_of_Code#Extend_Sequence_Viewer_code_to_become_a_client_for_the_Distributed_Annotation_System)
+:\* [New File
+Parsers](http://biojava.org/wiki/Google_Summer_of_Code_2012#New_File_Parsers_for_BioJava)
+
+:\* [Port an algorithm to
+BioJava](http://biojava.org/wiki/Google_Summer_of_Code_2012#Port_an_Algorithm_to_Java)
 
 BioRuby:  
 
