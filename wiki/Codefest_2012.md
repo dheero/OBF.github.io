@@ -50,6 +50,30 @@ LMU](http://cse.lmu.edu/departments/math.htm).
 
 Many thanks to Kam Dahlquist for help in organizing.
 
+Travel and Hotels
+-----------------
+
+LMU is located a short cab ride from [Los Angeles International Airport
+(LAX)](http://www.lawa.org/welcomeLAX.aspx). Logistically, we hope
+attendees will fly into LAX, spend the Codefest time at a hotel near
+LMU, and then travel down to Long Beach on the night of the 12th for
+BOSC and ISMB.
+
+We will work to arrange group transport from LMU to Long Beach on the
+night of the 12th.
+
+There are several hotels nearby:
+
+-   [Custom
+    Hotel](http://www.jdvhotels.com/hotels/losangeles/custom_hotel) --
+    [Register with Loyola Rate
+    code](http://reservations.ihotelier.com/crs/indexaccount.cfm?hotelid=75065&languageid=1&identifire=LOYOLA&taid=0&identifier=LOYOLA)
+
+<!-- -->
+
+-   [Alphabetical list of nearby
+    hotels](http://www.lmu.edu/about/services/bao/Auxiliary_Business_Services/localhotels.htm)
+
 Attendees
 ---------
 
