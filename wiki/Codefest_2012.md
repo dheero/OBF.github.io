@@ -66,7 +66,7 @@ There are several hotels nearby:
 
 -   [Custom
     Hotel](http://www.jdvhotels.com/hotels/losangeles/custom_hotel)
-    (within walking distance of the math department)-- [Register with
+    (within walking distance of the math department) -- [Register with
     Loyola Rate
     code](http://reservations.ihotelier.com/crs/indexaccount.cfm?hotelid=75065&languageid=1&identifire=LOYOLA&taid=0&identifier=LOYOLA)
 
