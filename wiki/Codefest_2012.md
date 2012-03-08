@@ -80,7 +80,7 @@ Attendees
 
 You are very welcome to attend. Please add yourself if you are
 interested to [this Google
-spreadsheet](https://spreadsheets.google.com/ccc?key=0Agxg-o4ZmoZ4dHQxWEV1aW1raFJKbWxrMk80RDZSOVE&hl=en&authkey=CK3mo_4B)
+spreadsheet](https://docs.google.com/spreadsheet/ccc?key=0Agxg-o4ZmoZ4dDRWSTdMaE1Qeng3Y1FGN0tvT0t3eGc)
 and sign up on the [mailing
 list](https://groups.google.com/forum/?fromgroups#!forum/openbio-codefest-2012).
 
