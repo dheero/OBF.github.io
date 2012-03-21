@@ -385,8 +385,7 @@ provide the following in your application material.
 Mentor Resources
 ----------------
 
--   [GSoC Mentoring
-    Guide](http://en.flossmanuals.net/GSoCMentoringGuide)
+-   [GSoC Mentoring Guide](http://en.flossmanuals.net/GSoCMentoring/)
 -   [OBF Application Evaluation
     Guidelines](Google_Summer_of_Code_Application_Evaluation "wikilink")
 
