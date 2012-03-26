@@ -31,9 +31,9 @@ offers to pay students for contributing, but more importantly offers an
 opportunity to recruit new developers who will hopefully go on to become
 regular, sustaining contributors.
 
-See the [Main GSoC Site](http://code.google.com/soc) for more
-information and FAQs, and see below for [other facts such as eligibility
-and timelines ](#Other_Facts_.26_Links "wikilink").
+See the [Main GSoC Site](http://code.google.com/soc) for general
+information about the Google Summer of Code program, how to apply,
+frequently asked general questions, and more.
 
 2012 Mentors and Project Ideas
 ------------------------------
