@@ -62,11 +62,10 @@ Round 1 Scoring Guidelines
     is already or would after requested improvements be worth accepting,
     and you spending your mentoring time. There may be fewer than 3 of
     those for your idea!
-6.  Score all others for your idea with a -1.
-7.  If you are a primary mentor, request mentorship by clicking 'I am
+6.  If you are a primary mentor, request mentorship by clicking 'I am
     willing to mentor' for those you have scored positively. This should
     be no more than 3.
-8.  Keep in mind for any of the above that total scores you assign
+7.  Keep in mind for any of the above that total scores you assign
     aren't final. By adding or subtracting you can shift an application
     from one category to another, and you can withdraw your mentorship
     request later.
