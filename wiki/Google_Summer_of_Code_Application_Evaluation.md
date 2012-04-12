@@ -36,9 +36,9 @@ Round 1 Scoring Guidelines
     missing information, lack of detail, and any aspects of a proposed
     plan that you disagree with in the comment text box, check the box
     next to 'Public review', which makes it visible to the student, and
-    click 'Submit'. The student should respond to the these and can
-    presumably edit his/her application to respond to your request for
-    information or criticism (at least they could last year).
+    click 'Submit'. The student should respond to the these once you
+    have toggled the 'Proposal Modifications' setting to enabled in the
+    left hand column's 'Proposal Actions' box.
 2.  For scoring, leave the 'Public review' box unchecked (i.e., the
     student will not see it, but other mentors will), change the *Score*
     drop-down to where you want it, add explanatory comment for your
