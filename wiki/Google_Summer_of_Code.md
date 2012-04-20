@@ -382,6 +382,30 @@ provide the following in your application material.
         is being overcommitted. Do not set yourself up for failure! GSoC
         summers should be fun and rewarding!
 
+Student Progress Reports
+------------------------
+
+To encourage community bonding and awareness of what the GSoC students
+are doing, from 2012 the OBF is being much clearer about our progress
+report expectations.
+
+We would like every student to setup a blog for the GSoC project (or a
+category/tag on your existing blog) which you will use to summarize your
+progress every week, as well as longer posts at the half way evaluation,
+and at the end of the summer.
+
+In addition, after publishing each blog post, we expect you to email the
+URL and the text of the blog (or if important images or formatting would
+be lost, at least a short summary) to the host project's mailing list(s)
+(check with your mentors if the project has more than one) AND the
+gsoc@open-bio.org mailing list.
+
+You will be writing under your own name, but with a clear association
+with your mentors, the OBF and its projects, so please take this
+seriously and be professional. Remember this will become part of your
+online presence, and potentially looked at by future employers and
+colleagues.
+
 Mentor Resources
 ----------------
 
