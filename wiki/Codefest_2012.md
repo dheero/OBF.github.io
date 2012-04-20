@@ -86,4 +86,5 @@ list](https://groups.google.com/forum/?fromgroups#!forum/openbio-codefest-2012).
 
 -   [Brad Chapman](http://bcbio.wordpress.com/)
 -   [Kam Dahlquist](http://myweb.lmu.edu/kdahlqui)
+-   [Michael Heuer](http://www.ohloh.net/accounts/heuermh)
 
