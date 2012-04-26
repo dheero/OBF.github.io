@@ -4,6 +4,49 @@ title: Google Summer of Code
 
 ![](GSoC2012_300x200.png "GSoC2012_300x200.png")
 
+The Open Bioinformatics Foundation has been accepted as a mentoring
+organization for Google Summer of Code 2012, with 5 student projects
+funded!
+
+2012 Student Projects
+---------------------
+
+Wibowo Arindrarto  
+mentored by Peter Cock
+
+[SearchIO Implementation in Biopython](http://bow.web.id/blog/tag/gsoc/)
+
+<!-- -->
+
+Lenna Peterson  
+mentored by Brad Chapman
+
+[Diff My DNA: Development of a Genomic Variant Toolkit for
+BioPython](http://arklenna.tumblr.com/tagged/gsoc2012)
+
+<!-- -->
+
+Marjan Povolni  
+mentored by Pjotr Prins, Francesco Strozzi, Raoul Bonnal
+
+[The world's fastest parallelized GFF3/GTF parser in D, and an
+interfacing biogem plugin for
+Ruby](http://blog.mpthecoder.com/tagged/gsoc)
+
+<!-- -->
+
+Artem Tarasov  
+mentored by Pjotr Prins, Francesco Strozzi, Raoul Bonnal
+
+Fast parallelized GFF3/GTF parser in C++, with Ruby FFI bindings
+
+<!-- -->
+
+Clayton Wheeler  
+mentored by Francesco Strozzi and Raoul Bonnal
+
+Multiple Alignment Format parser for BioRuby
+
 About Google Summer of Code
 ---------------------------
 
@@ -35,8 +78,8 @@ See the [Main GSoC Site](http://code.google.com/soc) for general
 information about the Google Summer of Code program, how to apply,
 frequently asked general questions, and more.
 
-2012 Mentors and Project Ideas
-------------------------------
+2012 Mentor Volunteers and Project Ideas
+----------------------------------------
 
 Mentor names and project ideas are hosted on each member project's wiki
 on a dedicated Google Summer of Code page. See each of the member
