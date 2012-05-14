@@ -91,4 +91,5 @@ list](https://groups.google.com/forum/?fromgroups#!forum/openbio-codefest-2012).
 -   [Torsten Seemann](http://www.bioinformatics.net.au/)
 -   [Hervé Ménager](https://projets.pasteur.fr/projects/mobyle/wiki)
 -   [Bertrand Néron](https://projets.pasteur.fr/projects/mobyle/wiki)
+-   [Tim Booth](http://nebc.nerc.ac.uk/tools/bio-linux)
 
