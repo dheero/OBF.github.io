@@ -46,7 +46,8 @@ languages](http://lomereiter.wordpress.com/tag/gsoc)
 Clayton Wheeler  
 mentored by Francesco Strozzi and Raoul Bonnal
 
-Multiple Alignment Format parser for BioRuby
+[Multiple Alignment Format parser for
+BioRuby](http://csw.github.com/bioruby-maf/)
 
 About Google Summer of Code
 ---------------------------
