@@ -38,7 +38,8 @@ Ruby](http://blog.mpthecoder.com/tagged/gsoc)
 Artem Tarasov  
 mentored by Pjotr Prins, Francesco Strozzi, Raoul Bonnal
 
-Fast parallelized GFF3/GTF parser in C++, with Ruby FFI bindings
+[Robust and fast parallel BAM parser in D for binding against dynamic
+languages](http://lomereiter.wordpress.com/tag/gsoc)
 
 <!-- -->
 
