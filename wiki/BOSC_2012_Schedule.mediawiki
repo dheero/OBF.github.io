@@ -200,7 +200,7 @@
 | Hiroyuki Mishima
 |-
 | 15
-| [Misc/Project Updates] scabio - a framework for bioinformatics algorithms in Scala
+| [Project Updates] scabio - a framework for bioinformatics algorithms in Scala
 | Markus Gumbel
 |-
 |25
@@ -218,8 +218,7 @@
 | 4:30-5:30
 | '''Panel''': Bioinformatics Paper Reviews: Openness of Standards and Standards of Openness
 | Moderator: Brad Chapman
-Panelists: 
-Hilmar Lapp (National Evolutionary Synthesis Center),
+Panelists: C. Titus Brown,  Hilmar Lapp, Scott Markel, Ben Temperton
 |-
 | 5:30-5:40
 | Presentation of awards
