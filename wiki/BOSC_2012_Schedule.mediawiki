@@ -169,7 +169,7 @@
 |-
 | 15
 | [Interoperability] Creating biology pipelines with BioUno
-| Bruno
+| Bruno Kinosh ita
 |-
 | 15
 | [Interoperability] A Framework for Interactive Visual Analysis of NGS Data using Galaxy
