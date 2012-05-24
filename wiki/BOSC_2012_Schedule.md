@@ -41,20 +41,27 @@ Day 1: Friday, July 13
 Day 2: Saturday, July 14 (Room TBA)
 -----------------------------------
 
-| Time            | Topic                               | Speaker or Moderator                                                                     |
-|-----------------|-------------------------------------|------------------------------------------------------------------------------------------|
-| 8:45-8:50       | Announcements                       | Nomi Harris                                                                              |
-| 8:50-9:50       | \[Keynote\] Title TBA               | Carole Goble (University of Manchester)                                                  |
-| **10:15-10:45** | **Coffee Break**                    |                                                                                          |
-| 10:45-12:30     | Session: Interoperability           | Chair:                                                                                   |
-| **12:30-1:30**  | **Lunch**                           |                                                                                          |
-| 12:30-1:45      | **Poster Session III** (Room TBA)   |                                                                                          |
-| 1:45-3:30       | Session:                            | Chair:                                                                                   |
-| **3:30-4:00**   | **Coffee Break**                    |                                                                                          |
-| 4:00-4:30       | Session: Misc. Open Source Projects | Chair:                                                                                   |
-| 4:30-5:20       | **Panel**:                          | Moderator: Brad Chapman Panelists: Hilmar Lapp (National Evolutionary Synthesis Center), |
-| 5:20-5:30       | Presentation of awards              | Nomi Harris                                                                              |
-| 5:30-6:30       | [BOFs](BOSC_2012/BOFs "wikilink")   |                                                                                          |
+| Time            | Topic                                                                                                                     | Speaker or Moderator                                                                     |
+|-----------------|---------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------|
+| 8:45-8:50       | Announcements                                                                                                             | Nomi Harris                                                                              |
+| 8:50-9:50       | \[Keynote\] Title TBA                                                                                                     | Carole Goble (University of Manchester)                                                  |
+| **10:15-10:45** | **Coffee Break**                                                                                                          |                                                                                          |
+| 10:45-12:30     | Session: Interoperability                                                                                                 | Chair:                                                                                   |
+| 15              | \[Interoperability\] Take-aways from the Interoperability SIG                                                             | Michael Reich                                                                            |
+| 15              | \[Interoperability\] Galaxy Project Update                                                                                | Dannon Baker                                                                             |
+| 15              | \[Interoperability\] Zero to a Bioinformatics Analysis Platform in 4 Minutes                                              | Enis Afgan                                                                               |
+| 25              | \[Interoperability\] PyPedia: A python crowdsourcing development environment for bioinformatics and computational biology | Alexandros Kanterakis                                                                    |
+| 15              | \[Interoperability\] InterMine - Embeddable Data-Mining Components                                                        | Alexis Kalderimis                                                                        |
+| 15              | \[Interoperability\] Creating biology pipelines with BioUno                                                               | Bruno                                                                                    |
+| 15              | \[Interoperability\] A Framework for Interactive Visual Analysis of NGS Data using Galaxy                                 | Jeremy Goecks                                                                            |
+| **12:30-1:30**  | **Lunch**                                                                                                                 |                                                                                          |
+| 12:30-1:45      | **Poster Session III** (Room TBA)                                                                                         |                                                                                          |
+| 1:45-3:30       | Session:                                                                                                                  | Chair:                                                                                   |
+| **3:30-4:00**   | **Coffee Break**                                                                                                          |                                                                                          |
+| 4:00-4:30       | Session: Misc. Open Source Projects                                                                                       | Chair:                                                                                   |
+| 4:30-5:20       | **Panel**:                                                                                                                | Moderator: Brad Chapman Panelists: Hilmar Lapp (National Evolutionary Synthesis Center), |
+| 5:20-5:30       | Presentation of awards                                                                                                    | Nomi Harris                                                                              |
+| 5:30-6:30       | [BOFs](BOSC_2012/BOFs "wikilink")                                                                                         |                                                                                          |
 ||
 
 Return to **[ BOSC 2012](BOSC_2012 "wikilink")** main page
