@@ -43,13 +43,13 @@ Day 2: Saturday, July 14 (Room TBA)
 
 | Time            | Topic                               | Speaker or Moderator                                                                     |
 |-----------------|-------------------------------------|------------------------------------------------------------------------------------------|
-| 8:45-8:50       | Announcements                       |                                                                                          |
+| 8:45-8:50       | Announcements                       | Nomi Harris                                                                              |
 | 8:50-9:50       | \[Keynote\] Title TBA               | Carole Goble (University of Manchester)                                                  |
 | **10:15-10:45** | **Coffee Break**                    |                                                                                          |
-| 10:45-12:30     | Session:                            | Chair:                                                                                   |
-| **12:30-2:00**  | **Lunch**                           |                                                                                          |
-| 1:00-2:00       | **Poster Session III** (Foyer A)    |                                                                                          |
-| 2:00-3:30       | Session:                            | Chair:                                                                                   |
+| 10:45-12:30     | Session: Interoperability           | Chair:                                                                                   |
+| **12:30-1:30**  | **Lunch**                           |                                                                                          |
+| 12:30-1:45      | **Poster Session III** (Room TBA)   |                                                                                          |
+| 1:45-3:30       | Session:                            | Chair:                                                                                   |
 | **3:30-4:00**   | **Coffee Break**                    |                                                                                          |
 | 4:00-4:30       | Session: Misc. Open Source Projects | Chair:                                                                                   |
 | 4:30-5:20       | **Panel**:                          | Moderator: Brad Chapman Panelists: Hilmar Lapp (National Evolutionary Synthesis Center), |
