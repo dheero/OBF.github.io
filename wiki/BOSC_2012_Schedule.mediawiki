@@ -1,4 +1,4 @@
-== Day 1: Friday,  July 13 ==
+= Day 1: Friday,  July 13 =
 
 {| border="1" cellspacing="0" cellpadding="7"
 ! Time
@@ -127,7 +127,7 @@
 |- 
 |}
 
-== Day 2: Saturday, July 14 (Room TBA) ==
+= Day 2: Saturday, July 14 (Room TBA) =
 
 {| border="1" cellspacing="0" cellpadding="7"
 ! Time
