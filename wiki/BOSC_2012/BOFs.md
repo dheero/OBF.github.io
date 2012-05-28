@@ -4,8 +4,8 @@ title: BOSC 2012/BOFs
 
 If you would like to organize a Birds of a Feather (BOF) meeting at BOSC
 2012, just sign up for a [ wiki account](Special:Userlogin "wikilink"),
-login, and edit this page. Please list the BOF topic and the name of the
-organizer.
+log in, and add your BOF description to this page. Please list the BOF
+topic and the name of the organizer.
 
 The BOFs are from ~5:30-6:30 in the same room as the BOSC talks.
 
