@@ -221,7 +221,7 @@
 |
 |-
 | 4:00-4:30
-| Session: Lightning Talks
+| Session: Lightning Talks ([http://www.open-bio.org/wiki/BOSC_2012#Submitting_Abstracts Instructions for submitting a lightning talk abstract])
 | Chair: Kam Dahlquist
 |-
 | 4:30-5:30
