@@ -39,7 +39,7 @@
 |-
 | 12:00
 | [Cloud] Workflows on the Cloud - Scaling for National Service
-| Shoaib Sufi
+| Katy Wolstencroft
 |-
 | 12:15
 | [Cloud] How to use BioJava to calculate one billion protein structure alignments at the RCSB PDB website
