@@ -18,10 +18,12 @@ though we would like it more free-flowing. There will be few invited
 speakers, and instead attendees will have a chance to give
 micro-presentations on their ongoing open source projects. In short, the
 focus of the EU-Codefest will be on coding, open source projects, and
-general fun. We also hope to show BOSC talks on video.
+general fun. We also hope to show BOSC talks on video. You are invited
+to bring in your own open source software project, and to see how others
+can collaborate and involve it into general Open-Bio.
 
-The weekend of 21 and 22 July we can continue (unofficially) to have a
-good time, and will try to organise some outings.
+The weekend after 21 and 22 July we can continue (unofficially) to have
+a good time, and will organise some outings.
 
 Please [register](http://tecnoparco.org/codefest) if you are interested
 in attending. Places are served on a first-come basis, and the number of
