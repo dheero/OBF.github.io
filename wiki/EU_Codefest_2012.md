@@ -31,6 +31,17 @@ places is limited.
 
 Organising committee: Francesco Strozzi, Raoul Bonnal and Pjotr Prins
 
+Topics
+------
+
+Three main topics will be worked on during the CodeFest:
+
+-   NGS and high performance parsers for OpenBio projects.
+-   RDF and semantic web for bioinformatics.
+-   Bioinformatics pipelines definition, execution and distribution.
+
+other tracks are welcome!
+
 Location
 --------
 
