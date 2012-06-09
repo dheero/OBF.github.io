@@ -23,9 +23,9 @@ general fun. We also hope to show BOSC talks on video.
 The weekend of 21 and 22 July we can continue (unofficially) to have a
 good time, and will try to organise some outings.
 
-Please mail **\* eucodefest2012@gmail.com \*** if you are interested in
-attending. We need to get a feel for the number of people coming. But,
-hey, even if it is just us we will be perfectly happy hacking away :)
+Please [register](http://tecnoparco.org/codefest) if you are interested
+in attending. Places are served on a first-come basis, and the number of
+places is limited.
 
 Organising committee: Francesco Strozzi, Raoul Bonnal and Pjotr Prins
 
@@ -37,4 +37,6 @@ Loc. Cascina Codazza 26900,
 [Lodi](http://www.openstreetmap.org/?lat=45.31&lon=9.508&zoom=10&layers=M)
 - ITALY
 
-*(watch this page, more information coming...)*
+### Further info
+
+See the [registration](http://tecnoparco.org/codefest) page.
