@@ -2,6 +2,8 @@
 title: BOSC 2012 Schedule
 ---
 
+![BOSC logo|link=BOSC\_2012](Pear.png "BOSC logo|link=BOSC_2012")
+
 Day 1: Friday, July 13 (Preliminary Schedule)
 =============================================
 
@@ -40,6 +42,7 @@ Day 1: Friday, July 13 (Preliminary Schedule)
 ||
 
   
+![BOSC logo|link=BOSC\_2012](Pear.png "fig:BOSC logo|link=BOSC_2012")
 
 Day 2: Saturday, July 14 (Preliminary Schedule)
 ===============================================
