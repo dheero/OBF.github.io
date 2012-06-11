@@ -35,8 +35,8 @@ Day 1: Friday, July 13 (Preliminary Schedule)
 | 5:20-5:30       | Report on [Codefest 2012](http://www.open-bio.org/wiki/Codefest_2012)                                                                                        | Brad Chapman                                            |
 | 5:30-5:40       | Introduction to the Open Bioinformatics Foundation                                                                                                           | Hilmar Lapp (President, Open Bioinformatics Foundation) |
 | 5:40-6:30       | **Poster Session II** (Room TBA)                                                                                                                             |                                                         |
-| 5:40-6:30       | [BOFs](BOSC_2012/BOFs "wikilink")                                                                                                                            |                                                         |
-| 7:00            | Pay-your-own-way optional dinner (place TBA)                                                                                                                 |                                                         |
+| 5:40-6:40       | [BOFs](BOSC_2012/BOFs "wikilink")                                                                                                                            |                                                         |
+| 7:00            | Pay-your-own-way BOSC dinner (place TBA)                                                                                                                     |                                                         |
 ||
 
   
