@@ -38,7 +38,7 @@ Day 1: Friday, July 13 (Preliminary Schedule)
 | 5:30-5:40       | Introduction to the Open Bioinformatics Foundation                                                                                                           | Hilmar Lapp (President, Open Bioinformatics Foundation) |
 | 5:40-6:30       | **Poster Session II** (Room TBA)                                                                                                                             |                                                         |
 | 5:40-6:40       | [BOFs](BOSC_2012/BOFs "wikilink")                                                                                                                            |                                                         |
-| 7:00            | Pay-your-own-way BOSC dinner (place TBA)                                                                                                                     |                                                         |
+| 7:00            | Pay-your-own-way BOSC dinner: George’s Greek Café, 135 Pine Avenue, Long Beach (near the Convention Center)                                                  |                                                         |
 ||
 
   
