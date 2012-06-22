@@ -215,7 +215,7 @@
 | [Project Updates] Why Scientists Should Contribute to Wikipedia
 | Spencer Bliven
 |-
-| 3:10-3:35
+| 3:10-3:25
 | [Project Updates] scabio - a framework for bioinformatics algorithms in Scala
 | Markus Gumbel
 |-
