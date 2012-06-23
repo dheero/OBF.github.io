@@ -87,7 +87,7 @@ minimum of 2 active members of the O|B|F.*"
 
 Currently serving:
 
-1.  **Hilmar Lapp**, BoD, Parliamentarian
+1.  **Nomi Harris**, BoD, Parliamentarian
 2.  **Scott Markel**, active member
 3.  **Aaron Mackey**, active member
 
