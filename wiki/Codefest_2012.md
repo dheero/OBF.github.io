@@ -93,4 +93,6 @@ list](https://groups.google.com/forum/?fromgroups#!forum/openbio-codefest-2012).
 -   [Bertrand Néron](https://projets.pasteur.fr/projects/mobyle/wiki)
 -   [Tim Booth](http://nebc.nerc.ac.uk/tools/bio-linux)
 -   [Ntino Krampis](http://www.jcvi.org/cms/about/bios/kkrampis/)
+-   [Dawei Lin](http://bioinformaticscore.blogspot.com/)
+-   [Dannon Baker](http://usegalaxy.org)
 
