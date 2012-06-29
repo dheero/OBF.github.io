@@ -52,6 +52,10 @@ LMU](http://cse.lmu.edu/departments/math.htm).
     have several rooms and a lounge area to spread out and work in.
 -   Kam will be there at 9:00 AM on Wednesday to make sure the rooms are
     open and to greet people.
+-   [Link to
+    campus map.](http://www.lmu.edu/Assets/WEBADMIN+ONLY+-+Special+Content/Campus+Map+Full+Color.pdf)
+-   [Link
+    to Mapquest.](http://www.mapquest.com/maps?address=1+Lmu+Dr&city=Los+Angeles&state=CA&zipcode=90045&redirect=true)
 
 ### Directions if you are driving
 
