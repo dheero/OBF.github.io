@@ -232,8 +232,8 @@
 | Jianwu Wang
 |-
 | 4:07-4:14
-| [Lightning] 
-| 
+| [Lightning] Dao: a novel programming language for bioinformatics
+| Limin Fu
 |-
 | 4:14-4:21
 | [Lightning] 
