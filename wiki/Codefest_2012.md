@@ -115,6 +115,9 @@ There are several hotels nearby:
 -   [Alphabetical list of nearby
     hotels](http://www.lmu.edu/about/services/bao/Auxiliary_Business_Services/localhotels.htm)
 
+Food
+----
+
 Attendees
 ---------
 
