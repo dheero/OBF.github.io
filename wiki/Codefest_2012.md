@@ -121,9 +121,10 @@ Food
 -   A light breakfast (bagels and coffee) and lunch (pizza,
     salad, water) will be provided on the first day, Wednesday.
 -   Wednesday night, we will be organizing a group dinner at a Mexican
-    restaurant on Lincoln called Hacienda del Rey for those who want to
-    come and pay their own way. The restaurant is reasonably priced and
-    has good margaritas!
+    restaurant on Lincoln called [Hacienda del
+    Rey](http://www.yelp.com/biz/hacienda-del-rey-los-angeles) for those
+    who want to come and pay their own way. The restaurant is reasonably
+    priced and has good margaritas!
 -   On Thursday, participants will be on their own for food. University
     Hall has a small coffee shop on the first floor (coffee, pastries,
     pre-packaged sandwiches and salads) or there are many restaurants on
