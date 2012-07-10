@@ -90,6 +90,14 @@ Day 2: Saturday, July 14 (Preliminary Schedule)
 | 5:40-6:40       | [BOFs](BOSC_2012/BOFs "wikilink")                                                                                                          |                                                                                                                  |
 ||
 
+**[ Click here to download this schedule as
+PDF](Media:BOSC2012_schedule.pdf "wikilink")**
+
+**[Click here to download the complete BOSC program as
+PDF](http://www.open-bio.org/bosc2012/BOSC2012-program.pdf)**
+
+------------------------------------------------------------------------
+
 Return to **[ BOSC 2012](BOSC_2012 "wikilink")** main page
 ----------------------------------------------------------
 
