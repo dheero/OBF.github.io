@@ -1,8 +1,8 @@
 [[Image:Pear.png|left|The Bosc Pear]]
 
-=== Notes for BOSC Attendees ===
+=== Notes and Links for BOSC Attendees ===
 
-- '''[[BOSC_2012_Schedule|Conference schedule]]'''
+- '''[[BOSC_2012_Schedule|Updated conference schedule]]'''
 
 - '''[http://www.open-bio.org/bosc2012/BOSC2012-program.pdf Complete program (PDF)], including talk abstracts
 
