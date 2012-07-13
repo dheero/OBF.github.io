@@ -142,7 +142,7 @@
 <br>
 [[File:Pear.png|100px|right|BOSC logo|link=BOSC_2012]]
 
-= Day 2: Saturday, July 14 (Preliminary Schedule) =
+= Day 2: Saturday, July 14 =
 
 {| border="1" cellspacing="0" cellpadding="7"
 ! Time
