@@ -26,6 +26,12 @@ practices, unsolved issues, ... in (biological) data visualization.
 Saturday BOFs (Day 2)
 ---------------------
 
+### Interactive Visualizations with D3
+
+Thought it might be interesting to go over some basics and examples of
+D3 - a javascript based data visualization library. And perhaps hear how
+other groups are using (or thinking about using) this tool.
+
 ### Bioinformatics Interoperability Environments
 
 Topics of interest to developers and users of bioinformatics
