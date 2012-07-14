@@ -37,6 +37,13 @@ other groups are using (or thinking about using) this tool.
 Topics of interest to developers and users of bioinformatics
 interoperability environments, e.g. GenomeSpace and others.
 
+The myGrid team would like to discuss the interoperability of Taverna
+(http://www.taverna.org.uk), myExperiment (http://www.myexperiment.org),
+BioCatalogue (http://www.biocatalogue.org) with GenomeSpace and Galaxy
+in particular. We would also like to add in RightField
+(http://www.rightfield.org.uk) and SEEK (http://www.seek4science.org)
+into the mix
+
 ------------------------------------------------------------------------
 
 -   Return to **[ BOSC 2012 Schedule](BOSC_2012_Schedule "wikilink")**
