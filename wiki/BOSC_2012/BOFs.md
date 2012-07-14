@@ -18,6 +18,11 @@ Anyone interested in HDF5 or who has questions that could not be
 answered during the talk is invited to talk to one of the HDF5
 developers during this BOF.
 
+### Data visualization
+
+For people interested in chatting about tools, approaches, best
+practices, unsolved issues, ... in (biological) data visualization.
+
 Saturday BOFs (Day 2)
 ---------------------
 
