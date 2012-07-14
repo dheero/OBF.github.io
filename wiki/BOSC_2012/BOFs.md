@@ -26,6 +26,11 @@ practices, unsolved issues, ... in (biological) data visualization.
 Saturday BOFs (Day 2)
 ---------------------
 
+**Bioinformatics Interoperability BoF**
+
+Topics of interest to developers and users of bioinformatics
+interoperability environments, e.g. GenomeSpace and others as available
+
 ------------------------------------------------------------------------
 
 -   Return to **[ BOSC 2012 Schedule](BOSC_2012_Schedule "wikilink")**
