@@ -35,9 +35,10 @@ other groups are using (or thinking about using) this tool.
 ### Bioinformatics Interoperability Environments
 
 Topics of interest to developers and users of bioinformatics
-interoperability environments, e.g. GenomeSpace
-(http://www.genomespace.org), Galaxy (http://galaxy.psu.edu/), Taverna
-(http://www.taverna.org.uk), and others.
+interoperability environments, e.g.
+[GenomeSpace](http://www.genomespace.org),
+[Galaxy](http://galaxy.psu.edu/), [Taverna](http://www.taverna.org.uk),
+and others.
 
 The myGrid team would like to discuss the interoperability of Taverna
 (http://www.taverna.org.uk), myExperiment (http://www.myexperiment.org),
