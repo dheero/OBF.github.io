@@ -47,6 +47,18 @@ in particular. We would also like to add in RightField
 (http://www.rightfield.org.uk) and SEEK (http://www.seek4science.org)
 into the mix.
 
+From the NBIC (Netherlands BioInformatics Centre) - myGrid
+collaboration, we can add the work on enabling the use of Taverna
+workflows as tools in Galaxy
+<https://trac.nbic.nl/elabfactory/wiki/eGalaxy>.
+
+Packaging of high quality (digital) 'materials and methods' may be a
+function of bioinformatics environments. This is the topic of the
+workflow forever project <http://wf4ever-project.org>, which itself uses
+a Semantic Web approach for interoperability. Requirements for
+non-invasive use of its tools and guidelines may be a topic for
+discussion.
+
 ------------------------------------------------------------------------
 
 -   Return to **[ BOSC 2012 Schedule](BOSC_2012_Schedule "wikilink")**
