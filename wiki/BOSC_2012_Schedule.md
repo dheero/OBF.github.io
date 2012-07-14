@@ -4,12 +4,6 @@ title: BOSC 2012 Schedule
 
 ![BOSC logo|link=BOSC\_2012](Pear.png "BOSC logo|link=BOSC_2012")
 
-**BOSC Attendees: Pay-your-own-way BOSC dinner** ($25/person) tonight at
-7pm: George’s Greek Café,
-\[<http://maps.google.com/maps?q=George%27s+Greek+Cafe,+135+Pine+Avenue,+Long+Beach,+CA&hl=en&ll=33.767892,-118.188&spn=0.005699,0.011362&sll=37.887965,-122.267949&sspn=0.016173,0.027766&hq=George%27s+Greek+Cafe>,&hnear=135+Pine+Ave,+Long+Beach,+California+90802&t=m&z=17
-135 Pine Avenue, Long Beach\]. (Registration for the dinner is now
-closed.)
-
 **[ Click here to download this schedule as
 PDF](Media:BOSC2012_schedule.pdf "wikilink")**
 
