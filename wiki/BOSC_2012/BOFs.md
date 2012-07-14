@@ -26,10 +26,10 @@ practices, unsolved issues, ... in (biological) data visualization.
 Saturday BOFs (Day 2)
 ---------------------
 
-**Bioinformatics Interoperability BoF**
+### Bioinformatics Interoperability Environments
 
 Topics of interest to developers and users of bioinformatics
-interoperability environments, e.g. GenomeSpace and others as available
+interoperability environments, e.g. GenomeSpace and others.
 
 ------------------------------------------------------------------------
 
