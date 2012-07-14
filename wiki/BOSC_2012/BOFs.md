@@ -59,6 +59,16 @@ a Semantic Web approach for interoperability. Requirements for
 non-invasive use of its tools and guidelines may be a topic for
 discussion.
 
+The [ISA team](http://www.isa-tools.org/) would like to enable ISA
+tools' output to be interoperable with GenomeSpace to benefit our [ISA
+user community](http://isacommons.org/). The ISA-based Harvard Stem Cell
+Discovery Engine ([live database
+here](http://discovery.hsci.harvard.edu/); [NAR paper
+here](http://nar.oxfordjournals.org/content/early/2011/11/24/nar.gkr1051.short?rss=1);
+Ben Chapman has also contributed to) is already using Galaxy, so we
+partly have that link, but interested in expanding for different data
+types.
+
 ------------------------------------------------------------------------
 
 -   Return to **[ BOSC 2012 Schedule](BOSC_2012_Schedule "wikilink")**
