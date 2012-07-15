@@ -38,7 +38,8 @@ Topics of interest to developers and users of bioinformatics
 interoperability environments, e.g.
 [GenomeSpace](http://www.genomespace.org),
 [Galaxy](http://galaxy.psu.edu/), [Taverna](http://www.taverna.org.uk),
-[Mobyle](https://projets.pasteur.fr/projects/mobyle/), and others.
+[Mobyle](https://projets.pasteur.fr/projects/mobyle/),
+[GenePattern](http://www.genepattern.org) and others.
 
 The myGrid team would like to discuss the interoperability of Taverna
 (http://www.taverna.org.uk), myExperiment (http://www.myexperiment.org),
