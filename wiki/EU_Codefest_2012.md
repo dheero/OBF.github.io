@@ -5,8 +5,8 @@ title: EU Codefest 2012
 EU-codefest 2012 was 19 and 20 July in Lodi Italy
 =================================================
 
-In coordination with the [BOSC](BOSC "wikilink") committee we are
-organised the first EU-Codefest, a low-key event the week after [BOSC
+In coordination with the [BOSC](BOSC "wikilink") committee we organised
+the first EU-Codefest, a low-key event the week after [BOSC
 2012](BOSC_2012 "wikilink") in California.
 
 The EU-Codefest took place on 19 and 20 July 2012, in [Lodi,
