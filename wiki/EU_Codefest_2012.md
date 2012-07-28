@@ -103,3 +103,10 @@ should be describable at a certain level. As the new registry is
 strongly inspired by the BioMOBY repository, one requisite was that RDF
 triples should be a superset of the ones used in BioMOBY to make it
 backward compatible.
+
+### GFF3/GTF tools
+
+During the codefest we collected info on what requirements are there for
+GFF3/GTF tools, and worked on Debian packages for the same tools
+
+### Debian packaging
