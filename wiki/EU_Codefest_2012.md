@@ -80,11 +80,9 @@ Reports
 
 ### Bio-ngs
 
-We worked on developing bio-ngs to better handle pipelines
-
-`and reproducible workflows, plus semantic databases to manage and query NGS sec`
-
-ondary analysis data.
+We worked on developing bio-ngs to better handle pipelines and
+reproducible workflows, plus semantic databases to manage and query NGS
+sec ondary analysis data.
 
 ### Adding a list of BioLinux Software packages to biogems.info
 
