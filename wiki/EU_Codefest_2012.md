@@ -148,6 +148,8 @@ GFF3/GTF tools, and worked on Debian packages for the same tools
 
 ### Debian packaging
 
+We introduced a few people to Debian packaging and key signing.
+
 ### RNA-seq visualisation
 
 We were working on NGS, more specifically looking to our RNA sequencing
