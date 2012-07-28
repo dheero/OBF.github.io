@@ -148,7 +148,11 @@ GFF3/GTF tools, and worked on Debian packages for the same tools
 
 ### Debian packaging
 
-We introduced a few people to Debian packaging and key signing.
+We introduced a few people to Debian packaging and key signing. For
+CloudBiolinux we encourage further Debian packaging of both BioLinux
+packages, and custom build scripts. It was noted, for example, that
+Debian has a more recent version of Jalview than the biolinux-jalview
+package.
 
 ### RNA-seq visualisation
 
