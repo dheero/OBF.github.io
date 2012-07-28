@@ -63,6 +63,8 @@ The following talks/introductons were given at the Codefest:
 -   *BioWSR Bioinformatic Web Services Registry project update* by José
     María Fernández González, Protein Design Group, CNB-CSIC
     Cantoblanco, Madrid, Spain
+-   *RNA-seq project introduction* by James Tojo, Karolinska University,
+    Stockholm, Sweden
 -   *Software resources for Bioinformatics, including
     <http://biogems.info/>* by Pjotr Prins, Wageningen University, The
     Netherlands
