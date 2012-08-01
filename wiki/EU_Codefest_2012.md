@@ -59,7 +59,8 @@ Talks
 The following talks/introductions/micro-presentations were given at the
 Codefest:
 
--   *Semantic Web for Bioinformatics* by Toshiaki Katayama, Tokyo, Japan
+-   *Semantic Web for Bioinformatics* by Toshiaki Katayama, Database
+    Center for Life Science, Tokyo, Japan
 -   *Writing the worlds fastest GFF3 parser* by Marjan Povolni, Faculty
     of Technical Sciences Novi Sad, Serbia
 -   *Debian packaging* by Steffen Möller, University of Lübeck, Germany
