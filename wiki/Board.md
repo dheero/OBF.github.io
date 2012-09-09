@@ -57,7 +57,8 @@ Board of Directors Meetings
 
 **Upcoming Board Meeting:**
 
--   TBC
+-   [ Conference call Sep 11,
+    2012](Minutes:2012_Sep_ConfCall "wikilink")
 
 **Minutes of past Board Meetings:**
 
