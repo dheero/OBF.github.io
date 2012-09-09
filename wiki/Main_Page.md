@@ -40,7 +40,14 @@ Our main activities are:
 We are incorporated in the state of Delaware, USA as a not-for-profit
 company.
 
--   [ Our bylaws are found on this page.](Bylaws "wikilink")
+-   [ Our bylaws](Bylaws "wikilink"), in the version enacted in 2004.
+-   We have recently applied to the [Software in the Public
+    Interest, Inc.](http://www.spi-inc.org) (SPI) fiscal sponsorship
+    organization to become associated project. If accepted, this would
+    end our own incorporation status. As a consequence we have recently
+    proposed a [series of changes to the
+    bylaws](https://github.com/OBF/obf-docs/pull/8), which are pending
+    approval from the [Board](Board "wikilink") on Sep 11, 2012.
 
 ### BOSC
 
