@@ -37,17 +37,15 @@ Our main activities are:
 -   Managing our servers, colocation facilities, bank account & other
     assets
 
-We are incorporated in the state of Delaware, USA as a not-for-profit
-company.
+We have recently applied to the [Software in the Public Interest,
+Inc.](http://www.spi-inc.org) (SPI) fiscal sponsorship organization to
+become associated project. If accepted, this would end our own
+incorporation status (in the state of Delaware, USA as a not-for-profit
+company).
 
--   [ Our bylaws](Bylaws "wikilink"), in the version enacted in 2004.
--   We have recently applied to the [Software in the Public
-    Interest, Inc.](http://www.spi-inc.org) (SPI) fiscal sponsorship
-    organization to become associated project. If accepted, this would
-    end our own incorporation status. As a consequence we have recently
-    proposed a [series of changes to the
-    bylaws](https://github.com/OBF/obf-docs/pull/8), which are pending
-    approval from the [Board](Board "wikilink") on Sep 11, 2012.
+-   [ Our bylaws](:File:OBF-Bylaws.pdf "wikilink"), with the
+    [changes](https://github.com/OBF/obf-docs/pull/8) approved on Sep
+    11, 2012.
 
 ### BOSC
 
