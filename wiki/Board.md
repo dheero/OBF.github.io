@@ -28,10 +28,9 @@ Currently Unfilled. Duties carried out by President in the interim.
 **Parliamentarian**
 
 :; <span class="plainlinks">[Nomi
-Harris](http://www.linkedin.com/in/nomiharris)</span> : Member of the
-[Berkeley Bioinformatics Open-Source
-Projects](http://www.berkeleybop.org/) group at the Lawrence Berkeley
-National Laboratory.
+Harris](http://www.linkedin.com/in/nomiharris)</span> : Employed by the
+Lawrence Berkeley National Laboratory. [BOSC 2013](BOSC_2013 "wikilink")
+chair.
 
 **At-large members**
 
