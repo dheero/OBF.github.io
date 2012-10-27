@@ -48,9 +48,9 @@ Interest, Inc.](http://www.spi-inc.org) (SPI) associated project.
 
 The [Bioinformatics Open Source Conference](BOSC_2012 "wikilink") (BOSC)
 is held annually in conjunction with [ISCB's](http://www.iscb.org)
-meeting, ISMB. [BOSC 2012](BOSC_2012 "wikilink") will take place July
-13-14, 2012, right before [ISMB 2012](http://www.iscb.org/ismb2012) in
-Long Beach, California.
+meeting, ISMB. [BOSC 2013](BOSC_2013 "wikilink") will take place July
+17-18, right before [ISMB/ECCB 2013](http://www.iscb.org/ismbeccb2013)
+in Berlin, Germany.
 
 See some of the [Past BOSC
 conferences](Past_BOSC_conferences "wikilink").
