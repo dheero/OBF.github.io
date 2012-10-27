@@ -37,11 +37,8 @@ Our main activities are:
 -   Managing our servers, colocation facilities, bank account & other
     assets
 
-We have recently applied to the [Software in the Public Interest,
-Inc.](http://www.spi-inc.org) (SPI) fiscal sponsorship organization to
-become associated project. If accepted, this would end our own
-incorporation status (in the state of Delaware, USA as a not-for-profit
-company).
+As of October 12, 2012, the O|B|F is now a [Software in the Public
+Interest, Inc.](http://www.spi-inc.org) (SPI) associated project.
 
 -   [ Our bylaws](:File:OBF-Bylaws.pdf "wikilink"), with the
     [changes](https://github.com/OBF/obf-docs/pull/8) approved on Sep
