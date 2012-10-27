@@ -4,6 +4,7 @@ title: Past BOSC conferences
 
 Previous BOSC conferences:
 
+-   [BOSC 2012](BOSC_2012 "wikilink") Long Beach, CA, USA
 -   [BOSC 2011](BOSC_2011 "wikilink") Vienna, Austria
 -   [BOSC 2010](BOSC_2010 "wikilink") Boston, MA USA
 -   [BOSC 2009](BOSC_2009 "wikilink") Stockholm, Sweden
