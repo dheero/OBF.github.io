@@ -4,7 +4,7 @@ title: Minutes:2012 Nov ConfCall
 
 The meeting will be held via conference call. To join the conference:
 
--   Dial +1-605-475-5950,
+-   Dial +1-605-475-5950
 -   Participant Access Code: 279610
 
 Agenda
