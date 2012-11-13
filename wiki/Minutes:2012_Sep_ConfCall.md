@@ -22,7 +22,7 @@ Minutes
 =======
 
 **Venue:** held by WebEx conference with audio bridge through phone
-(donated by BioTeam), scheduled for Sep 11, 2012, 11.30am EDT (16:30
+(donated by BioTeam), scheduled for Sep 11, 2012, 11.30am EDT (15:30
 UTC)
 
 **Attending:**
