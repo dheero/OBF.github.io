@@ -31,8 +31,7 @@ Agenda
 New business
 
 </li>
-1.  Election of new Board members. Nominated candidates are Chris Fields
-    and Richard Holland.
+1.  Election of new Board members. Nominated candidate is Chris Fields.
 2.  Review and possibly revamping of the procedure for joining and
     maintaining the OBF membership
 3.  Asset transfer to SPI
