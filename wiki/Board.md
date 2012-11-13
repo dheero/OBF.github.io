@@ -44,6 +44,11 @@ Cock](http://www.hutton.ac.uk/staff/peter-cock)</span> :
 [Biopython](bp:Biopython "wikilink") core developer, bioinformatician at
 the [James Hutton Institute](http://www.hutton.ac.uk/).
 
+:; [Chris Fields](bp:Christopher_Fields "wikilink") :
+[BioPerl](bp:BioPerl "wikilink") core developer, researcher fellow at
+the [Institute for Genomic Biology](http://www.igb.uiuc.edu/) at the
+[University of Illinois at Urbana-Champaign](http://www.uiuc.edu/).
+
 ### Past Board Members
 
 [Ewan Birney](bp:Ewan_Birney "wikilink") : *Past President and At-large Member*, [BioPerl](bp:BioPerl "wikilink") core developer. Coordinator of the [EBI](http://www.ebi.ac.uk) half of the [Ensembl](http://www.ensembl.org) genome annotation project.  
