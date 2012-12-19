@@ -1,0 +1,59 @@
+---
+title: Codefest 2013
+---
+
+OpenBio Codefest 2013 will take place July 17th and 18th, 2013 (the two
+days before [BOSC 2013](BOSC_2013 "wikilink")) in Berlin, Germany at
+[Humboldt-Universität zu
+Berlin](http://www.hu-berlin.de/?set_language=en&cl=en). This is a great
+opportunity for open source bioinformatics developers to meet and work
+collaboratively. We hope to have developers from projects such as
+[BioPerl](http://bioperl.org), [BioJava](http://www.biojava.org),
+[Biopython](http://biopython.org), [BioRuby](http://www.bioruby.org),
+[Galaxy](http://wiki.g2.bx.psu.edu/) and
+[GenomeSpace](http://www.genomespace.org) in attendance. Everyone is
+welcome to attend.
+
+This is a follow-up to [Codefest 2010](Codefest_2010 "wikilink") in
+Boston, [Codefest 2011](Codefest_2011 "wikilink") in Vienna and
+[Codefest 2012](Codefest_2012 "wikilink") in Los Angeles.
+
+Goals
+-----
+
+OpenBio projects are typically coordinated remotely, with users from all
+over the world contributing and organizing themselves through mailing
+lists and IRC chats. Additionally, contributors work on these projects
+in their spare time, coordinating improving the projects with their day
+jobs and life outside of the computer. The objective of the Codefest is
+to give these talented developers a chance to be fully focused on the
+projects for a few days, interacting in real time. Previous
+[Hackathons](http://www.open-bio.org/wiki/Hackathon) have been immensely
+successful at producing new high quality code and innovative project
+developments.
+
+The goals for the two days are determined entirely by developers.
+
+Location
+--------
+
+We'll be hosted in lab rooms at the [Department of Biology,
+Humboldt-Universität zu Berlin](http://www.biologie.hu-berlin.de/), near
+historic
+[Invalidenstrasse](https://en.wikipedia.org/wiki/Invalidenstra%C3%9Fe).
+Thanks to Steffen Möller and Ivo Maintz for help securing the room. More
+details on times and directions will be available. In the meantime,
+enjoy some [pictures of the
+room](http://jaguar.biologie.hu-berlin.de/~ivo/ISMB/30Plaetze_alt/).
+
+Attendees
+---------
+
+You are very welcome to attend. Please add yourself if you are
+interested to [this Google
+spreadsheet](https://docs.google.com/spreadsheet/ccc?key=0Agxg-o4ZmoZ4dEQyOFhrLUt4YVBXX0xxWjRyYTBRb2c)
+and sign up on the [mailing
+list](https://groups.google.com/forum/?fromgroups#!forum/openbio-codefest-2013).
+
+-   [Brad Chapman](http://bcbio.wordpress.com/)
+
