@@ -6,8 +6,9 @@ The BOSC/Broad interoperability hackathon will take place Sunday and
 Monday, April 7th and 8th at the [Broad
 Institute](http://www.broadinstitute.org/) in Cambridge, Massachusetts.
 It occurs just prior to [Bio-IT World](http://www.bio-itworldexpo.com/)
-in Boston. Everyone is welcome, and we'll have more details soon along
-with an official webpage.
+in Boston and is a warm up event for \[BOSC 2013\] occurring July
+17-20th in Berlin. Everyone is welcome, and we'll have more details soon
+along with an official webpage.
 
 Goals
 -----
