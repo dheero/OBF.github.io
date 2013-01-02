@@ -26,8 +26,8 @@ Other related projects
 
 -   BioHaskell [home page](http://biohaskell.org/),
     [releases](http://hackage.haskell.org/packages/archive/pkg-list.html#cat:bioinformatics)
--   [Biocaml](http://github.com/agarwal/biocaml) - bioinformatics
-    library in the functional programming language OCaml
+-   [Biocaml](http://biocaml.org) - bioinformatics library in the
+    functional programming language OCaml
 -   [BioPHP](http://biophp.org)
 -   [BioWeka](http://bioweka.sourceforge.net/index.php/Main_Page)
 -   [BioClipse](http://www.bioclipse.net/) - visual platform based on
