@@ -56,4 +56,5 @@ and sign up on the [mailing
 list](https://groups.google.com/forum/?fromgroups#!forum/openbio-codefest-2013).
 
 -   [Brad Chapman](http://bcbio.wordpress.com/)
+-   [Steffen Möller](http://www.derma.uni-luebeck.de/)
 
