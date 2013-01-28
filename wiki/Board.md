@@ -61,11 +61,10 @@ Board of Directors Meetings
 
 **Upcoming Board Meeting:**
 
--   [ Conference call Nov 13,
-    2012](Minutes:2012_Nov_ConfCall "wikilink")
-
 **Minutes of past Board Meetings:**
 
+-   [ Conference call Nov 13,
+    2012](Minutes:2012_Nov_ConfCall "wikilink")
 -   [ Conference call Sep 11,
     2012](Minutes:2012_Sep_ConfCall "wikilink")
 -   [ Conference call Dec 13,
