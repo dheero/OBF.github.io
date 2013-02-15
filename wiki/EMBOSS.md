@@ -9,4 +9,5 @@ Institute](http://www.ebi.ac.uk/) in Hinxton, near Cambridge in the
 United Kingdom. EMBOSS started in 1996 as package of applications for
 sequence analysis.
 
-See [www.emboss.org](http://www.emboss.org) for more information.
+See [emboss.open-bio.org](http://emboss.open-bio.org/) for more
+information.
