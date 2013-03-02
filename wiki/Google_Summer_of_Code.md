@@ -4,6 +4,17 @@ title: Google Summer of Code
 
 ![](GSoC2012_300x200.png "GSoC2012_300x200.png")
 
+Important dates for 2013:
+
+` * March 22nd: Finalise project ideas`  
+` * March 29th: Deadline OBF mentoring organisation submission to Google`
+
+Organization administrator: [Pjotr Prins](User:PjotrPrins "wikilink") (<pjotr.public11@thebird.nl>)  
+Backup administrator: [Hilmar Lapp](User:Lapp "wikilink") ([hlapp@gmx.net](mailto:hlapp%40gmx%2enet))  
+
+GSoC 2012
+---------
+
 The Open Bioinformatics Foundation has been accepted as a mentoring
 organization for Google Summer of Code 2012, with 5 student projects
 funded!
