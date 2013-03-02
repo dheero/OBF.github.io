@@ -4,6 +4,12 @@ title: Google Summer of Code
 
 ![](GSoC2012_300x200.png "GSoC2012_300x200.png")
 
+GSoC 2013
+---------
+
+The Google Summer of Code 2013 is ON! OBF is going to apply for
+mentoring this year.
+
 Important dates for 2013:
 
 ` * March 22nd: Finalise project ideas`  
