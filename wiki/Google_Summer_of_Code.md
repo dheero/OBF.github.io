@@ -14,11 +14,11 @@ list](http://lists.open-bio.org/mailman/listinfo/gsoc).
 
 Important dates for 2013:
 
-` * March 22nd: Finalise project ideas`  
-` * March 29th: Deadline OBF mentoring organisation submission to Google`
+-   March 22nd: Finalise project ideas
+-   March 29th: Deadline OBF mentoring organisation submission to Google
 
 Organization administrator: [Pjotr Prins](User:PjotrPrins "wikilink") (<pjotr.public11@thebird.nl>)  
-Backup administrators: [Hilmar Lapp](User:Lapp "wikilink") ([hlapp@gmx.net](mailto:hlapp%40gmx%2enet)), Robert Buels, Chris Fields  
+Backup administrators: [Hilmar Lapp](User:Lapp "wikilink"), Robert Buels, Chris Fields  
 
 GSoC 2012
 ---------
