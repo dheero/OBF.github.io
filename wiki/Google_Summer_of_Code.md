@@ -8,7 +8,9 @@ GSoC 2013
 ---------
 
 The Google Summer of Code 2013 is ON! OBF is going to apply for
-mentoring this year.
+mentoring this year. Interested mentors and students should subscribe to
+the OBF/GSoC [mailing
+list](http://lists.open-bio.org/mailman/listinfo/gsoc).
 
 Important dates for 2013:
 
