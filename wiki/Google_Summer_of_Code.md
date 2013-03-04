@@ -206,7 +206,6 @@ BioJava: <biojava-l@lists.open-bio.org>
 BioRuby: <bioruby@lists.open-bio.org>  
 BioSQL: <biosql-l@lists.open-bio.org>  
 BioLib: <biolib-dev@lists.open-bio.org>  
-BioDAS: <das@lists.open-bio.org>  
 
 Also, it would be a good idea to CC the organization administrator, so
 he can make sure that you are properly taken care of:
