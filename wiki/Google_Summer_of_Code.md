@@ -353,16 +353,6 @@ list](http://lists.open-bio.org/mailman/listinfo/biolib-dev)
 
 :\* No IRC channel at present
 
-![](DAS_logo_160px.png "DAS_logo_160px.png")
-
-[BioDAS](http://www.biodas.org) :  
-
-:\* [Project website](http://www.biodas.org)
-
-:\* [mailing list](http://lists.open-bio.org/mailman/listinfo/das)
-
-:\* No IRC channel at present
-
 Guide for prospective GSoC students
 -----------------------------------
 
