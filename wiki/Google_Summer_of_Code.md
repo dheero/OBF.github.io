@@ -17,7 +17,7 @@ Important dates for 2013:
 -   March 22nd: Finalise project ideas
 -   March 29th: Deadline OBF mentoring organisation submission to Google
 
-Organization administrator: [Pjotr Prins](User:PjotrPrins "wikilink") (<pjotr.public11@thebird.nl>)  
+Organization administrator: [Pjotr Prins](User:PjotrPrins "wikilink") (<pjotr.public15@thebird.nl>)  
 Backup administrators: [Hilmar Lapp](User:Lapp "wikilink"), Robert Buels, Chris Fields  
 
 GSoC 2012
