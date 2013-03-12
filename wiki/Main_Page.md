@@ -25,8 +25,9 @@ Our main activities are:
     program](Google_Summer_of_Code "wikilink") on behalf of our [ member
     projects](Projects "wikilink") as an umbrella
     mentoring organization.
--   Managing our servers, colocation facilities, bank account, domain
-    names, and other assets.
+-   Managing servers, colocation facilities, bank account, domain names,
+    and other assets for the benefit of our [ member
+    projects](Projects "wikilink").
 -   Public opinion and policy statements about matters related to Open
     Source and Open Science in bioinformatics.
 
