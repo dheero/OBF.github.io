@@ -30,8 +30,8 @@ Our main activities are:
 -   Public opinion and policy statements about matters related to Open
     Source and Open Science in bioinformatics.
 
-As of October 12, 2012, the O|B|F is now a [Software in the Public
-Interest, Inc.](http://www.spi-inc.org) (SPI) associated project.
+As of October 12, 2012, the O|B|F is a [Software in the Public Interest,
+Inc.](http://www.spi-inc.org) (SPI) associated project.
 
 -   [ Our bylaws](:File:OBF-Bylaws.pdf "wikilink"), with the
     [changes](https://github.com/OBF/obf-docs/pull/8) approved on Sep
