@@ -10,32 +10,25 @@ title: Main Page
 
 ### About Us
 
-The Open Bioinformatics Foundation or O|B|F is a non profit, volunteer
-run organization focused on supporting [open
-source](wp:open_source "wikilink") programming in
-[bioinformatics](wp:bioinformatics "wikilink").
-
-The foundation grew out of the volunteer projects
-[BioPerl](BioPerl "wikilink"), [BioJava](BioJava "wikilink") and
-[Biopython](Biopython "wikilink") and was formally incorporated in order
-to handle our modest requirements of hardware ownership, domain name
-management and funding for conferences and workshops.The Foundation does
-not participate directly in the development or structure of the open
-source work, but as the members of the foundation are drawn from the
-member projects, there is clear commonality of direction and purpose.
-Occasionally the O|B|F directors may make announcements about our
-direction or purpose (a recent one was on the licensing of academic
-software) when the board feels there is a need to clarify matters, but
-in general we prefer to remain simply the administrative support
-organization for our [member projects](Projects "wikilink").
+The Open Bioinformatics Foundation or O|B|F is a non-profit,
+volunteer-run group dedicated to promoting the practice and philosophy
+of [Open Source](wp:open_source "wikilink") software development and
+[Open Science](wp:Open_science "wikilink") within the biological
+research community.
 
 Our main activities are:
 
--   Underwriting and supporting the [BOSC](BOSC "wikilink") conferences
+-   Running and supporting the [BOSC](BOSC "wikilink") conferences.
 -   Organizing and supporting developer-centric
-    "[Hackathon](Hackathon "wikilink")" events
--   Managing our servers, colocation facilities, bank account & other
-    assets
+    "[Hackathon](Hackathon "wikilink")" events.
+-   [ Participating in the Google Summer of Code
+    program](Google_Summer_of_Code "wikilink") on behalf of our [ member
+    projects](Projects "wikilink") as an umbrella
+    mentoring organization.
+-   Managing our servers, colocation facilities, bank account, domain
+    names, and other assets.
+-   Public opinion and policy statements about matters related to Open
+    Source and Open Science in bioinformatics.
 
 As of October 12, 2012, the O|B|F is now a [Software in the Public
 Interest, Inc.](http://www.spi-inc.org) (SPI) associated project.
@@ -43,6 +36,17 @@ Interest, Inc.](http://www.spi-inc.org) (SPI) associated project.
 -   [ Our bylaws](:File:OBF-Bylaws.pdf "wikilink"), with the
     [changes](https://github.com/OBF/obf-docs/pull/8) approved on Sep
     11, 2012.
+
+### History
+
+O|B|F grew out of the volunteer projects [BioPerl](BioPerl "wikilink"),
+[BioJava](BioJava "wikilink") and [Biopython](Biopython "wikilink") and
+was formally incorporated in 2001 in order to handle our modest
+requirements of hardware ownership, domain name management and funding
+for conferences and workshops. The Foundation does not participate
+directly in the development or structure of the open source work, but as
+the members of the foundation are drawn from our projects' developer
+communities, there is clear commonality of direction and purpose.
 
 ### BOSC
 
