@@ -1,7 +1,6 @@
 ---
 title: Past BOSC conferences
+redirect_to: /wiki/BOSC
 ---
 
-We're going to redirect this page to [BOSC](BOSC "wikilink") instead.
-
-[Category:BOSC Conferences](Category:BOSC_Conferences "wikilink")
+You should automatically be redirected to [BOSC](/wiki/BOSC)
