@@ -23,7 +23,7 @@ by [the BioTeam](http://www.bioteam.net).
 **Secretary**
 
   
-Currently Unfilled. Duties carried out by President in the interim.
+Currently unfilled. Duties carried out by President in the interim.
 
 **Parliamentarian**
 
