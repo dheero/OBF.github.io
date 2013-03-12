@@ -13,15 +13,13 @@ conferences are to:
 2.  Provide a focused environment for developers and users to interact
     and share ideas about software development, and practical techniques
     in bioinformatics;
-3.  Pnform the Research Community of important developments occuring
+3.  Inform the Research Community of important developments occurring
     within the Open Source Bioinformatics Developer community.
 
-Find out about the [Upcoming BOSC
-conference](Upcoming_BOSC_conference "wikilink").
+BOSC meetings to date:
 
-Previous BOSC conferences
--------------------------
-
+-   [BOSC 2013](BOSC_2013 "wikilink") Berlin, Germany -- the upcoming
+    [Upcoming BOSC conference](Upcoming_BOSC_conference "wikilink").
 -   [BOSC 2012](BOSC_2012 "wikilink") Long Beach, CA, USA
 -   [BOSC 2011](BOSC_2011 "wikilink") Vienna, Austria
 -   [BOSC 2010](BOSC_2010 "wikilink") Boston, MA USA
