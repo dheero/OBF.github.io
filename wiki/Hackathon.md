@@ -39,20 +39,20 @@ O|B|F-run hackathons
 Other hackathons involving O|B|F projects
 -----------------------------------------
 
+-   [BioHackathon 2010](http://hackathon3.dbcls.jp/)
+    -   Feb 8-12, 2010, in Tokyo, Japan. Sponsored by the Database
+        Center for Life Science (DBCLS) and the Computational Biology
+        Research Center (CBRC).
+-   [BioHackathon 2009](http://hackathon2.dbcls.jp/)
+    -   Mar 16-20, 2009, in Tokyo and Okinawa, Japan. Sponsored by the
+        Database Center for Life Science (DBCLS) and the Okinawa
+        Institute of Science and Technology (OIST).
+-   [BioHackathon 2008](http://hackathon.dbcls.jp/)
+    -   Feb 11-15, 2008, in Tokyo, Japan. Sponsored by the Database
+        Center for Life Science (DBCLS) and the Computational Biology
+        Research Center (CBRC).
 -   2006 [NESCent Phyloinformatics
     Hackathon](http://hackathon.nescent.org/Phylohackathon_1)
     -   Dec 11-15, 2006, in Durham, North Carolina. Sponsored by the
         National Evolutionary Synthesis Center (NESCent).
--   [2008 BioHackathon](http://hackathon.dbcls.jp/)
-    -   Feb 11-15, 2008, in Tokyo, Japan. Sponsored by the Database
-        Center for Life Science (DBCLS) and the Computational Biology
-        Research Center (CBRC).
--   [2009 BioHackathon](http://hackathon2.dbcls.jp/)
-    -   Mar 16-20, 2009, in Tokyo and Okinawa, Japan. Sponsored by the
-        Database Center for Life Science (DBCLS) and the Okinawa
-        Institute of Science and Technology (OIST).
--   [2010 BioHackathon](http://hackathon3.dbcls.jp/)
-    -   Feb 8-12, 2010, in Tokyo, Japan. Sponsored by the Database
-        Center for Life Science (DBCLS) and the Computational Biology
-        Research Center (CBRC).
 
