@@ -51,11 +51,10 @@ communities, there is clear commonality of direction and purpose.
 
 ### BOSC
 
-The [Bioinformatics Open Source Conference](BOSC_2013 "wikilink") (BOSC)
-is held annually in conjunction with [ISCB's](http://www.iscb.org)
-meeting, ISMB. [BOSC 2013](BOSC_2013 "wikilink") will take place July
-17-18, right before [ISMB/ECCB 2013](http://www.iscb.org/ismbeccb2013)
-in Berlin, Germany.
+The [Bioinformatics Open Source Conference (BOSC)](BOSC "wikilink") is
+held annually in conjunction with [ISCB's](http://www.iscb.org) meeting,
+ISMB.
 
-See some of the [Past BOSC
-conferences](Past_BOSC_conferences "wikilink").
+[BOSC 2013](BOSC_2013 "wikilink") will take place July 17-18, right
+before [ISMB/ECCB 2013](http://www.iscb.org/ismbeccb2013) in Berlin,
+Germany.
