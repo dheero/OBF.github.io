@@ -17,8 +17,7 @@ conferences are to:
     within the Open Source Bioinformatics Developer community.
 
 Find out about the [Upcoming BOSC
-conference](Upcoming_BOSC_conference "wikilink"), or research [Past BOSC
-conferences](Past_BOSC_conferences "wikilink").
+conference](Upcoming_BOSC_conference "wikilink").
 
 Previous BOSC conferences
 -------------------------
