@@ -66,3 +66,6 @@ See the following websites for further information:
 -   [Definition of the Open Source
     Philosophy](http://www.opensource.org/docs/definition.php)
 
+------------------------------------------------------------------------
+
+[Back to BOSC 2013 home page](BOSC_2013 "wikilink")
