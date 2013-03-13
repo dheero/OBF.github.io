@@ -2,7 +2,7 @@
 title: BOSC Abstract Submission
 ---
 
-**[Submit your abstract
+![The Bosc Pear](Pear.png "fig:The Bosc Pear") **[Submit your abstract
 here!](http://events.open-bio.org/BOSC2013/openconf.php)**
 
 The deadline for abstract submissions is **Friday, April 12, 2013**.
