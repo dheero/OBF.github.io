@@ -90,3 +90,7 @@ into networks that make the most of the network infrastructure we have
 around us. Where are the pitfalls opportunities? And where are the
 opportunities? What will it take to configure our work so as to enable
 "network ready research"?
+
+------------------------------------------------------------------------
+
+[Back to BOSC 2013 home page](BOSC_2013 "wikilink")
