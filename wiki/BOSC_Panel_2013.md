@@ -47,3 +47,7 @@ and maintain critical software:
 The goals of the panel are to identify past approaches that have been
 successful for OS scientific software, and to discuss and build
 community support for long-term, sustainable development practices.
+
+------------------------------------------------------------------------
+
+[Back to BOSC 2013 home page](BOSC_2013 "wikilink")
