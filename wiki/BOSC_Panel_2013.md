@@ -2,8 +2,8 @@
 title: BOSC Panel 2013
 ---
 
-Panel: Strategies for funding and maintaining open source software
-==================================================================
+Strategies for funding and maintaining open source software
+-----------------------------------------------------------
 
 Funding the ongoing maintenance and development of open-source
 scientific software is a critical challenge as science becomes
