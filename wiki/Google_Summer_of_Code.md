@@ -10,9 +10,7 @@ GSoC 2013
 The Google Summer of Code 2013 is ON! OBF is going to apply for
 mentoring this year. Interested mentors and students should subscribe to
 the OBF/GSoC [mailing
-list](http://lists.open-bio.org/mailman/listinfo/gsoc). The main
-information page for GSoC 2013 can be found \[here
-<https://github.com/OBF/GSoC/wiki/Google-Summer-of-Code-2013>\]!
+list](http://lists.open-bio.org/mailman/listinfo/gsoc).
 
 Organization administrator: [Pjotr Prins](User:PjotrPrins "wikilink") (<pjotr.public15@thebird.nl>)  
 Backup administrators: Chis Fields, [Hilmar Lapp](User:Lapp "wikilink"), Robert Buels  
