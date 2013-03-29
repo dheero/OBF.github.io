@@ -46,6 +46,9 @@ See the [Main GSoC Site](http://code.google.com/soc) for general
 information about the Google Summer of Code program, how to apply,
 frequently asked general questions, and more.
 
+Project ideas
+-------------
+
 Contact
 -------
 
