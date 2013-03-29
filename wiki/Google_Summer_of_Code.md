@@ -58,10 +58,6 @@ Mentor names and project ideas are hosted on each member project's wiki
 on a dedicated Google Summer of Code page. See each of the member
 projects, linked below, for more details about any project:
 
-BioPerl:  
-
-See <http://bioperl.org/wiki/Google_Summer_of_Code>
-
 Biopython:  
 
 See <http://biopython.org/wiki/Google_Summer_of_Code>
@@ -74,6 +70,10 @@ Project ideas for BioRuby are listed
 BioJava:  
 
 <http://biojava.org/wiki/Google_Summer_of_Code>
+
+BioPerl:  
+
+See <http://bioperl.org/wiki/Google_Summer_of_Code>
 
 Contact
 -------
