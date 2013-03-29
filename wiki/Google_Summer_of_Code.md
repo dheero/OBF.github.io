@@ -12,7 +12,7 @@ mentoring this year. Interested mentors and students should subscribe to
 the OBF/GSoC [mailing
 list](http://lists.open-bio.org/mailman/listinfo/gsoc).
 
-Organization administrator: [Pjotr Prins](User:PjotrPrins "wikilink") (<pjotr.public15@thebird.nl>)  
+Organization administrator: [Pjotr Prins](User:PjotrPrins "wikilink") (<pjotr.gsoc2013@thebird.nl>)  
 Backup administrators: Chis Fields, [Hilmar Lapp](User:Lapp "wikilink"), Robert Buels  
 
 About Google Summer of Code
