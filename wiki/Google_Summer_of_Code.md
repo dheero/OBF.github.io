@@ -346,7 +346,7 @@ Other Facts & Links
 
 **[Google Summer of Code Main Site](http://code.google.com/soc)**
 
--   [GSoC 2012 time
+-   [GSoC 2013 time
     line](http://www.google-melange.com/gsoc/events/google/gsoc2013)
 -   Google expects to accept around 150 mentoring organizations.
 -   Development is done entirely remotely and on-line, there is no
@@ -355,7 +355,7 @@ Other Facts & Links
     -   [ 2010 ](Google_Summer_of_Code_2010_Org_Application "wikilink")
     -   [2009](http://docs.google.com/Doc?id=dhs98hzv_7zn8bxqjm)
 -   For questions of eligibility, see the [GSoC 2013
-    FAQ](http://www.google-melange.com/document/show/gsoc_program/google/gsoc2013/faqs).
+    FAQ](http://www.google-melange.com/gsoc/document/show/gsoc_program/google/gsoc2013/help_page).
 -   There is also a [Google group for posting GSoC
     questions](http://groups.google.com/group/google-summer-of-code-discuss)
     (and receiving answers; note that you will need to sign up for
@@ -363,7 +363,7 @@ Other Facts & Links
     to our organization).
 -   Students receive a stipend from Google if accepted. See the [GSoC
     2013
-    FAQ](http://www.google-melange.com/document/show/gsoc_program/google/gsoc2013/faqs)
+    FAQ](http://www.google-melange.com/gsoc/document/show/gsoc_program/google/gsoc2013/help_page)
     for full documentation.
 
 [Category:Google Summer of
