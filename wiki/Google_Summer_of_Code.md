@@ -2,7 +2,7 @@
 title: Google Summer of Code
 ---
 
-![](none "none")
+![](Soc-2013-300x200.png "Soc-2013-300x200.png")
 
 GSoC 2013
 ---------
