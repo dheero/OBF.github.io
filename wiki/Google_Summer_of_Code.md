@@ -65,27 +65,27 @@ See <http://biopython.org/wiki/Google_Summer_of_Code>
 
 BioRuby:  
 
-<!-- -->
-
-  
-[A parallelized framework for processing large numbers of VCF files
+:\* [A parallelized framework for processing large numbers of VCF files
 using Scala Actors and
 JRuby](http://bioruby.open-bio.org/wiki/Google_Summer_of_Code#A_parallelized_framework_for_processing_large_numbers_of_VCF_files_using_Scala_Actors_and_JRuby)
 
-[D3 based graphics package for
+:\* [D3 based graphics package for
 Bioinformatics](http://bioruby.open-bio.org/wiki/Google_Summer_of_Code#D3_based_graphics_package_for_Bioinformatics)
 
-[Semantic web/RDF support for
+:\* [Semantic web/RDF support for
 Bioinformatics](http://bioruby.open-bio.org/wiki/Google_Summer_of_Code#Semantic_web.2FRDF_support_for_Bioinformatics)
 
-[Machine Learning & Data Mining Algorithms for
+:\* [Machine Learning & Data Mining Algorithms for
 Ruby](http://bioruby.open-bio.org/wiki/Google_Summer_of_Code#Machine_Learning_.26_Data_Mining_Algorithms_for_Ruby)
 
-[Create a dynamic and social web portal for Bioinformatics
+:\* [Create a dynamic and social web portal for Bioinformatics
 packages](http://bioruby.open-bio.org/wiki/Google_Summer_of_Code#Create_a_dynamic_and_social_web_portal_for_Bioinformatics_packages)
 
+  
 See also the BioRuby [GSoC
 page](http://bioruby.open-bio.org/wiki/Google_Summer_of_Code)
+
+<!-- -->
 
 BioJava:  
 
