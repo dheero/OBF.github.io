@@ -133,10 +133,7 @@ BioSQL: <biosql-l@lists.open-bio.org>
 BioLib: <biolib-dev@lists.open-bio.org>  
 
 Also, it would be a good idea to CC the organization administrator, so
-he can make sure that you are properly taken care of:
-
-Organization administrator: [Robert Buels](User:RobertBuels "wikilink") (<rmb32@cornell.edu>)  
-Backup administrator: [Hilmar Lapp](User:Lapp "wikilink") ([hlapp@gmx.net](mailto:hlapp%40gmx%2enet))  
+he can make sure that you are properly taken care of!
 
 If you are not quite sure which project you would like to contribute to,
 you can email to the organization administrator for help. However, do
