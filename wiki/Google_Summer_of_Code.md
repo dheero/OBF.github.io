@@ -61,17 +61,14 @@ projects, linked below, for more details about any project:
 
 Biopython:  
 
-:\* [alignment and
-analysis](http://biopython.org/wiki/Google_Summer_of_Code#Codon_alignment_and_analysisCodon)
+:\* [Codon alignment and
+analysis](http://biopython.org/wiki/Google_Summer_of_Code#Codon_alignment_and_analysis)
 
 :\* [Bio.Phylo: filling in the
 gaps](http://biopython.org/wiki/Google_Summer_of_Code#Bio.Phylo:_filling_in_the_gaps)
 
 :\* [Indexing & Lazy-loading Sequence
 Parsers](http://biopython.org/wiki/Google_Summer_of_Code#Indexing_.26_Lazy-loading_Sequence_Parsers)
-
-See also the Biopython<F11> [GSoC
-page](http://biopython.org/wiki/Google_Summer_of_Code)
 
 BioRuby:  
 
