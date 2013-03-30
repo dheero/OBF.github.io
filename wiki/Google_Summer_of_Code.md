@@ -88,15 +88,10 @@ Ruby](http://bioruby.open-bio.org/wiki/Google_Summer_of_Code#Machine_Learning_.2
 :\* [Create a dynamic and social web portal for Bioinformatics
 packages](http://bioruby.open-bio.org/wiki/Google_Summer_of_Code#Create_a_dynamic_and_social_web_portal_for_Bioinformatics_packages)
 
-See also the BioRuby [GSoC
-page](http://bioruby.open-bio.org/wiki/Google_Summer_of_Code)
-
 BioJava:  
-
 <http://biojava.org/wiki/Google_Summer_of_Code>
 
 BioPerl:  
-
 See <http://bioperl.org/wiki/Google_Summer_of_Code>
 
 Contact
