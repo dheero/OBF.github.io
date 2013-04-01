@@ -105,11 +105,14 @@ Variation](http://biojava.org/wiki/Google_Summer_of_Code#Sequence_Variation)
 
 BioPerl (See <http://bioperl.org/wiki/Google_Summer_of_Code>):  
 
-:\* Major BioPerl Reorganization (Part II)
+:\* [Major BioPerl Reorganization (Part
+II)](http://bioperl.org/wiki/Google_Summer_of_Code#Major_BioPerl_Reorganization.2C_part_2)
 
-:\* Lightweight BioPerl modules
+:\* [Lightweight BioPerl
+modules](http://bioperl.org/wiki/Google_Summer_of_Code#Lightweight.2FLazy_BioPerl_Classes)
 
-:\* Modern BioPerl
+:\* [Modern
+BioPerl](http://bioperl.org/wiki/Google_Summer_of_Code#BioPerl_2.0_.28and_beyond.29)
 
 Contact
 -------
