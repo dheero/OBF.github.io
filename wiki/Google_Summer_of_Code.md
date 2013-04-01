@@ -103,7 +103,7 @@ Structures](http://biojava.org/wiki/Google_Summer_of_Code#Topology_Diagrams_of_P
 :\* [Sequence
 Variation](http://biojava.org/wiki/Google_Summer_of_Code#Sequence_Variation)
 
-BioPerl: See <http://bioperl.org/wiki/Google_Summer_of_Code> for more; examples are:  
+BioPerl: See [the BioPerl GSoC page](http://bioperl.org/wiki/Google_Summer_of_Code) for more ideas; examples are:  
 
 :\* [Major BioPerl Reorganization (Part
 II)](http://bioperl.org/wiki/Google_Summer_of_Code#Major_BioPerl_Reorganization.2C_part_2)
