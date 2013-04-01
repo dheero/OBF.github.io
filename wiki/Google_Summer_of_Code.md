@@ -103,8 +103,13 @@ Structures](http://biojava.org/wiki/Google_Summer_of_Code#Topology_Diagrams_of_P
 :\* [Sequence
 Variation](http://biojava.org/wiki/Google_Summer_of_Code#Sequence_Variation)
 
-BioPerl:  
-See <http://bioperl.org/wiki/Google_Summer_of_Code>
+BioPerl (See <http://bioperl.org/wiki/Google_Summer_of_Code>):  
+
+:\* Major BioPerl Reorganization (Part II)
+
+:\* Lightweight BioPerl modules
+
+:\* Modern BioPerl
 
 Contact
 -------
