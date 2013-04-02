@@ -105,6 +105,10 @@ Variation](http://biojava.org/wiki/Google_Summer_of_Code#Sequence_Variation)
 
 BioPerl:  
 
+:\*
+\[<http://bioperl.org/wiki/Google_Summer_of_Code#Convert_BioPerl-DB_to_DBIx>::Class
+Convert BioPerl-DB to use DBIx::Class\]
+
 :\* [Major BioPerl Reorganization (Part
 II)](http://bioperl.org/wiki/Google_Summer_of_Code#Major_BioPerl_Reorganization.2C_part_2)
 
