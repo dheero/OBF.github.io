@@ -121,6 +121,11 @@ See [the BioPerl GSoC
 page](http://bioperl.org/wiki/Google_Summer_of_Code) for more BioPerl
 ideas.
 
+BioHaskell:  
+
+:\* [Optimizing a novel, very sensitive alignment
+method](http://biohaskell.org/Google_Summer_of_Code#Optimizing_transalign)
+
 Contact
 -------
 
