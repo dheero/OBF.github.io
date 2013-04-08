@@ -40,13 +40,17 @@ and maintain critical software:
 
 <!-- -->
 
--   Commercial value added services: This model provides commercially
+-   Commercial value-added services: This model provides commercially
     available services on top of open-source software. Some examples in
     the larger software community are RedHat, JBoss and PostgreSQL.
 
 The goals of the panel are to identify past approaches that have been
 successful for OS scientific software, and to discuss and build
 community support for long-term, sustainable development practices.
+
+We are **seeking panelists who have familiarity with one or more of
+these funding approaches**--please [contact
+us](mailto:bosc@open-bio.org) if you are interested.
 
 ------------------------------------------------------------------------
 
