@@ -6,7 +6,9 @@ Agenda
 ======
 
 **Venue:** to be held by conference call on April 9, 2013, 1.30pm EDT
-(17:30 UTC)
+(17:30 UTC)  
+Dial-in Number: 1-605-475-5950 (Midwest)  
+Participant Access Code: 279610
 
 1.  Old business
 
