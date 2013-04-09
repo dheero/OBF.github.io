@@ -26,17 +26,17 @@ and maintain critical software:
 
 <!-- -->
 
--   Mixed commercial and open source: These are tools that are freely
-    available to the academic/non-profit community, but require
-    commercial users to pay for use. Some examples in the biology
-    community are GATK and KEGG.
-
-<!-- -->
-
 -   Community maintained: A collection of volunteers maintain these
     tools in their spare time or as part of other research or
     development work. Some familiar examples are BioPerl, Biopython,
     BioJava, and BioRuby.
+
+<!-- -->
+
+-   Mixed commercial and open source: These are tools that are freely
+    available to the academic/non-profit community, but require
+    commercial users to pay for use. Some examples in the biology
+    community are GATK and KEGG.
 
 <!-- -->
 
