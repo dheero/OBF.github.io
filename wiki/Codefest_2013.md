@@ -59,13 +59,13 @@ services are your friend. To increase chances for us to meet by chance,
 check for one the following hotels, which should pop up when sorting for
 distance from the center:
 
-`* Hotel Aquino (55 Euros)`  
-`* Mercure Hotel Berlin City (65 Euros)`  
-`* Hotel Motel One Berlin Bellevue (59 Euros)`  
-`* Gat Point Charlie (51 Euros incl. breakfast)`
+-   Hotel Aquino (55 Euros)
+-   Mercure Hotel Berlin City (65 Euros)
+-   Hotel Motel One Berlin Bellevue (59 Euros)
+-   Gat Point Charlie (51 Euros incl. breakfast)
 
 The Gat Point Charlie is a bit south, but it is a truly nice walk
-through Berlin of 2.5km to Codefest.
+through Berlin of 2.5km to the Codefest.
 
 Attendees
 ---------
