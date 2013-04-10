@@ -9,7 +9,7 @@ GSoC 2013
 
 The Google Summer of Code 2013 is ON! Sadly, OBF applied for mentoring
 this year, but did not get accepted as a mentoring organisation by
-Google - despite our good track record.
+Google - despite our good track record. We'll try again in 2014.
 
 Organization administrator: [Pjotr Prins](User:PjotrPrins "wikilink") (<pjotr.gsoc2013@thebird.nl>)  
 Backup administrators: Chis Fields, [Hilmar Lapp](User:Lapp "wikilink"), Robert Buels  
