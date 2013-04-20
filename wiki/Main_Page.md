@@ -30,7 +30,8 @@ See also our [news page](News "wikilink"), and
 
 </div>
 </div>
-### About Us
+About Us
+--------
 
 The Open Bioinformatics Foundation or O|B|F is a non-profit,
 volunteer-run group dedicated to promoting the practice and philosophy
@@ -53,25 +54,45 @@ Our main activities are:
 -   Public opinion and policy statements about matters related to Open
     Source and Open Science in bioinformatics.
 
-As of October 12, 2012, the O|B|F is a [Software in the Public Interest,
-Inc.](http://www.spi-inc.org) (SPI) associated project.
+The Foundation does not participate directly in the development or
+structure of the open source work, but as the members of the foundation
+are drawn from our projects' developer communities, there is clear
+commonality of direction and purpose.
 
--   [ Our bylaws](:File:OBF-Bylaws.pdf "wikilink"), with the
-    [changes](https://github.com/OBF/obf-docs/pull/8) approved on Sep
-    11, 2012.
+O|B|F is governed by a [Board of Directors](Board "wikilink"). [ Our
+bylaws](:File:OBF-Bylaws.pdf "wikilink") lay out how the Board is
+elected, holds public meetings, and conducts its business, as well as
+the scope and role of our [
+membership](Open_Bioinformatics_Foundation:Membership_application "wikilink").
+O|B|F is an associated project with [Software In The Public Interest,
+Inc.](http://spi-inc.org/), a fiscal sponsorship organization, and
+through SPI we can accept tax-exempt charitable donations.
 
-### History
+History
+-------
 
 O|B|F grew out of the volunteer projects [BioPerl](BioPerl "wikilink"),
 [BioJava](BioJava "wikilink") and [Biopython](Biopython "wikilink") and
 was formally incorporated in 2001 in order to handle modest requirements
 of hardware ownership, domain name management and funding for
-conferences and workshops. The Foundation does not participate directly
-in the development or structure of the open source work, but as the
-members of the foundation are drawn from our projects' developer
-communities, there is clear commonality of direction and purpose.
+conferences and workshops. In 2005, we enacted [
+bylaws](:File:OBF-Bylaws.pdf "wikilink") for the first time, and along
+with it created a formal membership.
 
-### BOSC
+In 2012, we decided to give up our own incorporation to associate
+ourselves with [Software In The Public Interest,
+Inc.](http://spi-inc.org/), a fiscal sponsorship organization that we
+felt aligned well with our own values and culture. The bylaws [underwent
+a series of changes](https://github.com/OBF/obf-docs/pull/8), in part to
+better reflect our current practices, and in part to pave the way for
+joining SPI. The changes [ were approved on Sep 11,
+2012](Minutes:2012_Sep_ConfCall "wikilink"), [our membership
+overwhelmingly approved of associating with
+SPI](http://vote.heliosvoting.org/helios/e/OBFjoiningSPI), and as of
+October 12, 2012, O|B|F is a SPI-associated project.
+
+BOSC
+----
 
 The [Bioinformatics Open Source Conference (BOSC)](BOSC "wikilink") is
 held annually in conjunction with [ISCB's](http://www.iscb.org) meeting,
