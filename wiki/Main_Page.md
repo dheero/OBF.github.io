@@ -64,11 +64,11 @@ Inc.](http://www.spi-inc.org) (SPI) associated project.
 
 O|B|F grew out of the volunteer projects [BioPerl](BioPerl "wikilink"),
 [BioJava](BioJava "wikilink") and [Biopython](Biopython "wikilink") and
-was formally incorporated in 2001 in order to handle our modest
-requirements of hardware ownership, domain name management and funding
-for conferences and workshops. The Foundation does not participate
-directly in the development or structure of the open source work, but as
-the members of the foundation are drawn from our projects' developer
+was formally incorporated in 2001 in order to handle modest requirements
+of hardware ownership, domain name management and funding for
+conferences and workshops. The Foundation does not participate directly
+in the development or structure of the open source work, but as the
+members of the foundation are drawn from our projects' developer
 communities, there is clear commonality of direction and purpose.
 
 ### BOSC
