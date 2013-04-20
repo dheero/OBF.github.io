@@ -2,12 +2,28 @@
 title: Main Page
 ---
 
-|                                                                                                 |
-|-------------------------------------------------------------------------------------------------|
-| <rss><http://news.open-bio.org/news/feed/%7Ccharset=utf-8%7Cshort%7Cdata%7Cmax=10%7Cdate></rss> |
-|                                                                                                 |
-| See also our [news page](News "wikilink"), and [twitter](http://twitter.com/obf_news).          |
+<div style="float:right;">
+<div style="width:26em; background-color: rgb(184,214,245); border: 1px solid grey; border-radius: 1em; margin: 0em 1em 0em 1em; padding: 0.6em;">
+<span class="plainlinks" style="font-size: larger">**[Please
+Donate](http://spi-inc.org/donations/)**</span>
 
+Through our fiscal sponsor, [Software in the Public Interest,
+Inc.](http://spi-inc.org/), we can accept charitable donations.
+Donations made through SPI are 501(c)3 tax-exempt in the US. (SPI also
+has a charitable partner organization in Europe.) Your contribution
+helps O|B|F to fund activities towards maintaining, nurturing, and
+growing a vibrant community of people committed to developing reusable
+open-source software for advancing biological research.
+
+</div>
+<div style="width:26em; background-color: white; border: 1px solid grey; border-radius: 1em; margin: 1em 1em 0em 1em; padding: 0.6em;">
+` `<rss>[`http://news.open-bio.org/news/feed/|charset=utf-8|short|data|max=10|date`](http://news.open-bio.org/news/feed/%7Ccharset=utf-8%7Cshort%7Cdata%7Cmax=10%7Cdate)</rss>
+
+See also our [news page](News "wikilink"), and
+[twitter](http://twitter.com/obf_news).
+
+</div>
+</div>
 ### About Us
 
 The Open Bioinformatics Foundation or O|B|F is a non-profit,
