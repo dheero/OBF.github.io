@@ -4,18 +4,22 @@ title: Main Page
 
 <div style="float:right;">
 <div style="width:26em; background-color: rgb(184,214,245); border: 1px solid grey; border-radius: 1em; margin: 0em 1em 0em 1em; padding: 0.6em;">
-<span class="plainlinks" style="font-size: larger">**[Please
-Donate](http://spi-inc.org/donations/)**</span>
+<span style="font-size: larger">
+
+<center>
+**Please Donate**
+
+</center>
+</span>
 
 Through our fiscal sponsor, [Software in the Public Interest,
-Inc.](http://spi-inc.org/), you can donate to the O|B|F, including
-[online by credit
+Inc.](http://spi-inc.org/donations), you can donate to the O|B|F,
+including [online by credit
 card](https://co.clickandpledge.com/advanced/default.aspx?wid=66788#).
 Donations made through SPI are 501(c)3 tax-exempt in the US. (SPI also
 has a charitable partner organization in Europe.) Your contribution
-helps O|B|F to fund activities towards maintaining, nurturing, and
-growing a vibrant community of people committed to developing reusable
-open-source software for advancing biological research.
+helps fund a growing community of people committed to developing
+reusable open-source software for advancing biological research.
 
 </div>
 <div style="width:26em; background-color: white; border: 1px solid grey; border-radius: 1em; margin: 1em 1em 0em 1em; padding: 0.6em;">
