@@ -8,7 +8,7 @@ title: Main Page
 Donate](http://spi-inc.org/donations/)**</span>
 
 Through our fiscal sponsor, [Software in the Public Interest,
-Inc.](http://spi-inc.org/), we accept charitable donations, including
+Inc.](http://spi-inc.org/), you can donate to the O|B|F, including
 [online by credit
 card](https://co.clickandpledge.com/advanced/default.aspx?wid=66788#).
 Donations made through SPI are 501(c)3 tax-exempt in the US. (SPI also
