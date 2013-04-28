@@ -61,10 +61,11 @@ Board of Directors Meetings
 
 **Upcoming Board Meeting:**
 
--   [ Conference call Apr 9, 2013](Minutes:2013_Apr_ConfCall "wikilink")
+-   none scheduled currently
 
 **Minutes of past Board Meetings:**
 
+-   [ Conference call Apr 9, 2013](Minutes:2013_Apr_ConfCall "wikilink")
 -   [ Conference call Nov 13,
     2012](Minutes:2012_Nov_ConfCall "wikilink")
 -   [ Conference call Sep 11,
