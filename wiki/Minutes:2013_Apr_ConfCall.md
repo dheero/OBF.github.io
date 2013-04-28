@@ -47,7 +47,8 @@ Old business:
 -   [ Minutes from previous Sep 2012
     meeting](Minutes:2012_Sep_ConfCall "wikilink") are approved by
     unanimous consent.
--   Treasurers report:
+-   [ Treasurer's 2012
+    report](Media:2012-OBF-Treasurers-Report.pdf "wikilink"):
     -   Chris D. summarizes and explains the 2012 expenses and income
         items, as well those in 2013 up to April 1st, which is when the
         account was closed in order to transfer our financial assets
