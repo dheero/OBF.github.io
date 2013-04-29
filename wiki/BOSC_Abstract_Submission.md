@@ -6,10 +6,7 @@ title: BOSC Abstract Submission
 abstract here!](http://events.open-bio.org/BOSC2013/openconf.php)**
 
 The deadline for abstract submissions for talks was **Friday, April 12,
-2013**.
-
-Accepted talks will be 5-20 minutes. You will be notified of the length
-of your talk upon abstract acceptance.
+2013**. Authors who submitted talk abstracts will be notified on May 6.
 
 BOSC also includes poster sessions. If you want to present a poster and
 would like your poster abstract to be included in the BOSC program,
