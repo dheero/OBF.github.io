@@ -8,11 +8,12 @@ abstract here!](http://events.open-bio.org/BOSC2013/openconf.php)**
 The deadline for abstract submissions for talks was **Friday, April 12,
 2013**. Authors who submitted talk abstracts will be notified on May 6.
 
-BOSC also includes poster sessions. If you want to present a poster and
-would like your poster abstract to be included in the BOSC program,
-please [submit it](http://events.open-bio.org/BOSC2013/openconf.php) by
-June 4. There may be also an opportunity to submit last-minute abstracts
-for lightning talks, time permitting.
+BOSC includes poster sessions. If you want to present a poster and would
+like your poster abstract to be included in the BOSC program, please
+[submit it](http://events.open-bio.org/BOSC2013/openconf.php) by June 4.
+We will have space for some last-minute walk-in posters as well. There
+may be also an opportunity to submit last-minute abstracts for lightning
+talks, time permitting.
 
 ### Abstract Formatting Requirements
 
