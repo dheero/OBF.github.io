@@ -2,10 +2,11 @@
 title: BOSC Abstract Submission
 ---
 
-![The Bosc Pear](Pear.png "fig:The Bosc Pear") **[Submit your abstract
-here!](http://events.open-bio.org/BOSC2013/openconf.php)**
+![The Bosc Pear](Pear.png "fig:The Bosc Pear") **[Submit your poster
+abstract here!](http://events.open-bio.org/BOSC2013/openconf.php)**
 
-The deadline for abstract submissions is **Friday, April 12, 2013**.
+The deadline for abstract submissions for talks was **Friday, April 12,
+2013**.
 
 Accepted talks will be 5-20 minutes. You will be notified of the length
 of your talk upon abstract acceptance.
