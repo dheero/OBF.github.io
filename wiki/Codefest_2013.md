@@ -46,6 +46,9 @@ details on times and directions will be available. In the meantime,
 enjoy some [pictures of the
 room](http://jaguar.biologie.hu-berlin.de/~ivo/ISMB/30Plaetze_alt/).
 
+-   [Google map](http://goo.gl/maps/ognVO) of Codefest and Conference
+    venues, hotels nearby and train stations
+
 Accomodation
 ------------
 
