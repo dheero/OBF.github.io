@@ -19,11 +19,11 @@ will not be listed in the BOSC program).
 ### Abstract Formatting Requirements
 
 Abstracts must be **one page** in length and submitted **as a PDF
-(preferred) or Microsoft Word file only**. Abstracts should be formatted
-to fit on A4 paper.
+(preferred) or Microsoft Word file only**.
 
 Please format your abstract as follows:
 
+-   Abstracts should be formatted to fit on A4 paper.
 -   Use 1 inch (2.5 cm) margins on the top, sides, and bottom of
     the page.
 -   Include the following pieces of information in order from the top of
