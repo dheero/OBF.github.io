@@ -76,7 +76,9 @@ spreadsheet](https://docs.google.com/spreadsheet/ccc?key=0Agxg-o4ZmoZ4dEQyOFhrLU
 and sign up on the [mailing
 list](https://groups.google.com/forum/?fromgroups#!forum/openbio-codefest-2013).
 
+Main Organisers
+---------------
+
 -   [Brad Chapman](http://bcbio.wordpress.com/)
 -   [Steffen Möller](http://www.derma.uni-luebeck.de/)
--   [Peter Cock](http://www.hutton.ac.uk/staff/peter-cock)
 
