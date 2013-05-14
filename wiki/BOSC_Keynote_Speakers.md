@@ -47,9 +47,9 @@ the context of our work at Janelia Farm on the HMMER and Infernal
 codebases, and our nascent work on the genomic specification of neural
 circuits in Drosophila.
 
-![Cameron Neylon](Neylon.jpg "Cameron Neylon")
-
 ### Cameron Neylon
+
+![Cameron Neylon](Neylon.jpg "Cameron Neylon")
 
 Cameron Neylon is Advocacy Director for the Public Library of Science, a
 research biophysicist and well known agitator for opening up the process
