@@ -38,22 +38,6 @@ document](https://docs.google.com/document/d/1xbS7ZkjipXct00eOfR7-IL_Ti6QzAsjFvc
 We'll use this brainstorming discussion document to prepare directions
 for the two days of work in Berlin.
 
-Brainstorming
--------------
-
-A preliminary outlook of the projects that each developer intends to
-work on, might help in engaging other developers into common interest
-areas. It is also good if those short projects require some
-preparation/reading/configuring before the hackathon. Here are some
-ideas:
-
--   Benchmarking and possibly integrating Heng Li's
-    [readfq](https://github.com/lh3/readfq) into BioPython.
--   Finding and implementing the best scheduling mechanism for
-    [ratatosk](https://github.com/scilifelab/ratatosk), a
-    [luigi](https://github.com/spotify/luigi)-based
-    bioinformatics pipeline.
-
 Location
 --------
 
