@@ -32,7 +32,11 @@ projects for a few days, interacting in real time. Previous
 successful at producing new high quality code and innovative project
 developments.
 
-The goals for the two days are determined entirely by developers.
+The goals for the two days are determined entirely by developers. Please
+add your project ideas to the [shared Google
+document](https://docs.google.com/document/d/1xbS7ZkjipXct00eOfR7-IL_Ti6QzAsjFvcJtopMeT2g/edit?usp=sharing).
+We'll use this brainstorming discussion document to prepare directions
+for the two days of work in Berlin.
 
 Brainstorming
 -------------
