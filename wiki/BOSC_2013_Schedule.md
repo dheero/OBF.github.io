@@ -33,11 +33,11 @@ Day 1: Friday, July 19
 | 3:25            | \[Visualization\] Visualizing bacterial sequencing data with GenomeView                                                                 |                                            |
 | **3:30-4:00**   | **Coffee Break**                                                                                                                        |                                            |
 | 4:00-5:15       | Session: Bioinformatics Open Source Project Updates                                                                                     | Chair: Hans-Rudolf Hotz                    |
-| 4:00            | \[Project Updates\] BioRuby project updates - power of modularity in the community-based open source development model                  |                                            |
-| 4:15            | \[Project Updates\] InterMine - Collaborative Data Mining                                                                               |                                            |
-| 4:30            | \[Project Updates\] The GenoCAD 2.2 Grammar Editor                                                                                      |                                            |
-| 4:45            | \[Project Updates\] Improvements and new features in the 7th major release of the Bio-Linux distro                                      |                                            |
-| 5:00            | \[Project Updates\] Biopython project update                                                                                            |                                            |
+| 4:00            | \[Project Updates\] BioRuby project updates - power of modularity in the community-based open source development model                  | Toshiaki Katayama                          |
+| 4:15            | \[Project Updates\] InterMine - Collaborative Data Mining                                                                               | Alex Kalderimis                            |
+| 4:30            | \[Project Updates\] The GenoCAD 2.2 Grammar Editor                                                                                      | Jean Peccoud                               |
+| 4:45            | \[Project Updates\] Improvements and new features in the 7th major release of the Bio-Linux distro                                      | Timothy Booth                              |
+| 5:00            | \[Project Updates\] Biopython project update                                                                                            | Peter Cock                                 |
 | 5:15            | Announcements                                                                                                                           | Nomi Harris (Chair, BOSC 2013)             |
 | 5:20-6:30       | **Poster Session II** (Location TBA)--there are still spots open for last-minute posters!                                               |                                            |
 | 5:20-6:30       | [BOFs](BOSC_2013/BOFs "wikilink")                                                                                                       |                                            |
