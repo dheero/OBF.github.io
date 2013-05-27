@@ -13,7 +13,7 @@ Day 1: Friday, July 19
 | 9:00-9:15       | Introduction and welcome                                                                                                                | Nomi Harris (Chair, BOSC 2013)             |
 | 9:15-10:15      | \[Keynote\] Network ready research: The role of open source and open thinking                                                           | Cameron Neylon (Public Library of Science) |
 | **10:15-10:45** | **Coffee Break**                                                                                                                        |                                            |
-| 10:45-12:30     | Session: Open Science                                                                                                                   | Chair: Hilmar Lapp?                        |
+| 10:45-12:30     | Session: Open Science                                                                                                                   | Chair: Hilmar Lapp                         |
 | 10:45           | \[Open Science\] Open Science Data Framework: A Cloud enabled system to store, access, and analyze scientific data                      |                                            |
 | 11:00           | \[Open Science\] myExperiment Research Objects: Beyond Workflows and Packs                                                              |                                            |
 | 11:15           | \[Open Science\] Empowering Cancer Research Through Open Development                                                                    |                                            |
@@ -24,7 +24,7 @@ Day 1: Friday, July 19
 | 12:00           | \[Open Science\] Ten Simple Rules for the Open Development of Scientific Software                                                       |                                            |
 | **12:30-1:30**  | **Lunch**                                                                                                                               |                                            |
 | 1:00-2:00       | **Poster Session I**                                                                                                                    |                                            |
-| 2:00-3:30       | Session: Visualization                                                                                                                  | Chair: Jan Aerts?                          |
+| 2:00-3:30       | Session: Visualization                                                                                                                  | Chair: Jan Aerts                           |
 | 2:00            | \[Visualization\] Refinery Platform - Integrating Visualization and Analysis of Large-Scale Biological Data                             |                                            |
 | 2:25            | \[Visualization\] MetaSee: An interactive visualization toolbox for metagenomic sample analysis and comparison                          |                                            |
 | 2:40            | \[Visualization\] DGE-Vis: Visualisation of RNA-seq data for Differential Gene Expression analysis                                      |                                            |
