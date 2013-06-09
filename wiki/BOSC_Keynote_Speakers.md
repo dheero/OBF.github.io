@@ -94,9 +94,9 @@ is a challenge. Our human networks are messy and contingent and our
 machine networks clogged with things we can't use, even if we could
 access them. What principles can we apply so as to build our research
 into networks that make the most of the network infrastructure we have
-around us. Where are the pitfalls opportunities? And where are the
-opportunities? What will it take to configure our work so as to enable
-"network ready research"?
+around us. Where are the pitfalls, and where are the opportunities? What
+will it take to configure our work so as to enable "network ready
+research"?
 
 ------------------------------------------------------------------------
 
