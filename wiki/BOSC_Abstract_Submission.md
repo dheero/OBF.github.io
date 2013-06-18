@@ -18,35 +18,18 @@ will not be listed in the BOSC program).
 
 ### Abstract Formatting Requirements
 
-Abstracts must be **one page** in length and submitted **as a PDF
-(preferred) or Microsoft Word file only**.
-
-Please format your abstract as follows:
-
--   Abstracts should be formatted to fit on A4 paper.
--   Use 1 inch (2.5 cm) margins on the top, sides, and bottom of
-    the page.
--   Include the following pieces of information in order from the top of
-    the page:
-    -   Title
-    -   Authors, with the presenting author's name underlined.
-    -   Author affiliations, including the e-mail address of the
-        presenting author.
-    -   URL for the overall project web site
-    -   URL for accessing the code
-    -   The particular Open Source License being used
--   The abstracts will be printed "as is" in the program booklet; please
-    help your all-volunteer Organizing Committee by following the
-    formatting guidelines above.
-
 To be considered for acceptance, software systems representing the
 central topic in a presentation submitted to BOSC must be licensed with
 a recognized Open Source License, and be freely available for download
 in source code form at the time they are reviewed. Please see the next
 section for more information.
 
-**[Submit your abstract
-here!](http://events.open-bio.org/BOSC2013/openconf.php)**
+### Posters
+
+We have reserved a few spaces for walk-in posters, which must meet the
+BOSC requirements of open source and recognized license. The ISMB staff
+specify that posters should not exceed the following dimensions: 0.95 m
+wide x 1.30 m high.
 
 BOSC Open Source License Requirement
 ------------------------------------
