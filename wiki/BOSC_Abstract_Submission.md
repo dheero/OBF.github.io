@@ -11,10 +11,12 @@ BOSC requirements of open source and recognized license. The ISMB staff
 specify that posters should not exceed the following dimensions: 0.95 m
 wide x 1.30 m high.
 
+### Open Source Requirement
+
 To be considered for acceptance, software systems representing the
-central topic in a presentation submitted to BOSC must be licensed with
-a recognized Open Source License, and be freely available for download
-in source code form at the time they are reviewed.
+central topic in a talk or poster submitted to BOSC must be licensed
+with a recognized Open Source License, and be freely available for
+download in source code form at the time they are reviewed.
 
 The [Open Bioinformatics Foundation](OBF "wikilink"), which sponsors
 BOSC, is dedicated to promoting the practice and philosophy of Open
