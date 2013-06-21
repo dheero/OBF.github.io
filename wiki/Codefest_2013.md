@@ -89,4 +89,3 @@ Main Organisers
 -   [Brad Chapman](http://bcbio.wordpress.com/)
 -   [Steffen Möller](http://www.derma.uni-luebeck.de/)
 
-{{\#language:en}}
