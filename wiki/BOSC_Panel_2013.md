@@ -50,8 +50,8 @@ community support for long-term, sustainable development practices.
 
 **Moderator**: Brad Chapman
 
-**Panelists**: Jean Peccoud, Sean Eddy, Peter Cock, Scott Markel,
-Richard Holland, Carole Goble
+**Panelists**: Jean Peccoud, Sean Eddy, Peter Cock, Scott Markel, Carole
+Goble
 
 ------------------------------------------------------------------------
 
