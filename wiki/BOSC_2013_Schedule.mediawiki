@@ -261,7 +261,7 @@
 | 4:40-5:30
 | '''Panel''': Strategies for Funding and Maintaining Open Source Software
 | Moderator: Brad Chapman
-Panelists: Peter Cock, Sean Eddy, Carole Goble, Richard Holland, Scott Markel, Jean Peccoud
+Panelists: Peter Cock, Sean Eddy, Carole Goble,  Scott Markel, Jean Peccoud
 |-
 | 5:30-5:40
 | Presentation of Student Travel Awards
