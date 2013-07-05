@@ -23,7 +23,7 @@ Day 1: Friday, July 19
 | 11:30           | \[Open Science\] DNAdigest - a not-for-profit organisation to promote and enable open-access sharing of genomics data                   | Fiona Nielsen                              |
 | 11:45           | \[Open Science\] Jug: Reproducible Research in Python                                                                                   | Luis Pedro Coelho                          |
 | 11:50           | \[Open Science\] OpenLabFramework: A Next-Generation Open-Source Laboratory Information Management System for Efficient Sample Tracking | Markus List                                |
-| 11:55           | \[Open Science\] Ten Simple Rules for the Open Development of Scientific Software                                                       | Andreas Prlic                              |
+| 11:55           | \[Open Science\] Ten Simple Rules for the Open Development of Scientific Software (followed by discussion)                              | Andreas Prlic                              |
 | **12:30-1:30**  | **Lunch**                                                                                                                               |                                            |
 | 1:00-2:00       | **Poster Session I**                                                                                                                    |                                            |
 | 2:00-3:30       | Session: Visualization                                                                                                                  | Chair: Jan Aerts                           |
