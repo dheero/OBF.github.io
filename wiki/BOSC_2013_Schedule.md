@@ -41,7 +41,7 @@ Day 1: Friday, July 19
 | 4:45            | \[Project Updates\] The GenoCAD 2.2 Grammar Editor                                                                                      | Jean Peccoud                               |
 | 5:00            | \[Project Updates\] Improvements and new features in the 7th major release of the Bio-Linux distro                                      | Timothy Booth                              |
 | 5:15            | Announcements                                                                                                                           | Nomi Harris (Chair, BOSC 2013)             |
-| 5:20-6:30       | **Poster Session II** (Location TBA)--there are still spots open for last-minute posters!                                               |                                            |
+| 5:20-6:30       | **Poster Session II**                                                                                                                   |                                            |
 | 5:20-6:30       | [BOFs](BOSC_2013/BOFs "wikilink")                                                                                                       |                                            |
 | 7:00            | Pay-your-own-way BOSC dinner                                                                                                            |                                            |
 ||
