@@ -11,15 +11,6 @@ Affiliated projects
 -   [Generic Genome Browser](http://www.gmod.org/ggb) - part of
     [GMOD](http://www.gmod.org)
 -   [Chado](http://www.gmod.org/schema/) - The GMOD DB schema
--   [Pise](http://www.pasteur.fr/recherche/unites/sis/Pise/) - a tool to
-    generate Web interfaces software for submitting jobs to these
-    interfaces
--   [OpenBQS](http://www.ebi.ac.uk/~senger/openbqs/) - Bibliographic
-    query system
--   [BlipKit](http://blipkit.org) - Chris Mungall's Prolog toolkit for
-    Bioinformatics and BioMedical Informatics
--   [BioMake & Skam](http://skam.sourceforge.net/) - Task management
-    tool, similar to makefiles
 
 Other related projects
 ----------------------
@@ -35,6 +26,15 @@ Other related projects
 -   [CGL](http://www.yandell-lab.org/cgl/) - Comparative Genomics
     Library
 -   [Wikiomics](http://wikiomics.org) - Bioinformatics wiki
+-   [Pise](http://www.pasteur.fr/recherche/unites/sis/Pise/) - a tool to
+    generate Web interfaces software for submitting jobs to these
+    interfaces
+-   [OpenBQS](http://www.ebi.ac.uk/~senger/openbqs/) - Bibliographic
+    query system
+-   [BlipKit](http://blipkit.org) - Chris Mungall's Prolog toolkit for
+    Bioinformatics and BioMedical Informatics
+-   [BioMake & Skam](http://skam.sourceforge.net/) - Task management
+    tool, similar to makefiles
 
 Ontologies and Definitions
 --------------------------
