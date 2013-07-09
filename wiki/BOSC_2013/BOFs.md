@@ -15,7 +15,9 @@ Friday BOFs (Day 1)
 
 OBF project affiliation discussion, see this
 [proposal](https://github.com/OBF/project_policy/blob/master/doc/proposal.md%7Cpolicy)
-on GitHub.
+on GitHub. Contact Peter Cock for scheduling details.
+
+(Enter your BOF description here)
 
 Saturday BOFs (Day 2)
 ---------------------
