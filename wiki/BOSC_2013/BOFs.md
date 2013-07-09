@@ -13,7 +13,9 @@ until 6:30 or until you're kicked out of the room.
 Friday BOFs (Day 1)
 -------------------
 
-(Enter your BOF description here)
+OBF project affiliation discussion, see this
+[proposal](https://github.com/OBF/project_policy/blob/master/doc/proposal.md%7Cpolicy)
+on GitHub.
 
 Saturday BOFs (Day 2)
 ---------------------
