@@ -83,7 +83,7 @@ Day 2: Saturday, July 20
 | 4:25            | \[Translational\] Understanding Cancer Genomes Using Galaxy                                                              | Jeremy Goecks                                                                                      |
 | 4:40-5:30       | **Panel**: Strategies for Funding and Maintaining Open Source Software                                                   | Moderator: Brad Chapman Panelists: Peter Cock, Sean Eddy, Carole Goble, Scott Markel, Jean Peccoud |
 | 5:30-5:40       | Presentation of Student Travel Awards                                                                                    | Nomi Harris                                                                                        |
-| 5:40-6:40       | [BOFs](BOSC_2013/BOFs "wikilink")                                                                                        |                                                                                                    |
+| 5:40-6:40       | [BOFs](BOSC_2013/BOFs "wikilink") -- suggest a BOF topic [here!](BOSC_2013/BOFs "wikilink")                              |                                                                                                    |
 ||
 
 ------------------------------------------------------------------------
