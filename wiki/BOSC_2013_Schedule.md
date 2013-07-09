@@ -42,7 +42,7 @@ Day 1: Friday, July 19
 | 5:00            | \[Project Updates\] Improvements and new features in the 7th major release of the Bio-Linux distro                                      | Timothy Booth                              |
 | 5:15            | Announcements                                                                                                                           | Nomi Harris (Chair, BOSC 2013)             |
 | 5:20-6:30       | **Poster Session II**                                                                                                                   |                                            |
-| 5:20-6:30       | [BOFs](BOSC_2013/BOFs "wikilink")                                                                                                       |                                            |
+| 5:20-6:30       | [BOFs](BOSC_2013/BOFs "wikilink") -- suggest a BOF topic [here!](BOSC_2013/BOFs "wikilink")                                             |                                            |
 | 7:00            | Pay-your-own-way BOSC dinner                                                                                                            |                                            |
 ||
 
