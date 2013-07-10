@@ -42,13 +42,14 @@ Location
 --------
 
 We'll be hosted in lab rooms at the [Department of Biology,
-Humboldt-Universität zu Berlin](http://www.biologie.hu-berlin.de/), near
-historic
-[Invalidenstrasse](https://en.wikipedia.org/wiki/Invalidenstra%C3%9Fe).
-Thanks to Steffen Möller and Ivo Maintz for help securing the room. More
-details on times and directions will be available. In the meantime,
-enjoy some [pictures of the
-room](http://jaguar.biologie.hu-berlin.de/~ivo/ISMB/30Plaetze_alt/).
+Humboldt-Universität zu Berlin](http://www.biologie.hu-berlin.de/), in
+the historic
+[Invalidenstraße](https://en.wikipedia.org/wiki/Invalidenstra%C3%9Fe)
+number 42. Here some [pictures of the
+room](http://jaguar.biologie.hu-berlin.de/~ivo/ISMB/30Plaetze_alt/) to
+find, here a [map of the
+buildings](http://www3.hu-berlin.de/frame/?url=gis.hu-berlin.de/rc13/layout-new.php%3Fq=2220)
+- enter directly from the Invalidenstraße.
 
 -   [Google map](http://goo.gl/maps/ognVO) of Codefest and Conference
     venues, hotels nearby and train stations
