@@ -49,7 +49,14 @@ number 42. Here some [pictures of the
 room](http://jaguar.biologie.hu-berlin.de/~ivo/ISMB/30Plaetze_alt/) to
 find, here a [map of the
 buildings](http://www3.hu-berlin.de/frame/?url=gis.hu-berlin.de/rc13/layout-new.php%3Fq=2220)
-- enter directly from the Invalidenstraße.
+- enter directly from the Invalidenstraße. There will be signs in the
+entry hall to help direct you to the Codefest venue. In case of
+questions, ask for Steffen Möller or Ivo Maintz. See the [mailing
+list](https://groups.google.com/forum/?fromgroups#!forum/openbio-codefest-2013)
+for phone contact details.
+
+We'll plan to start at roughly 9am for the two days. Some folks will be
+later on the first day with incoming morning flights.
 
 -   [Google map](http://goo.gl/maps/ognVO) of Codefest and Conference
     venues, hotels nearby and train stations
