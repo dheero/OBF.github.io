@@ -91,6 +91,14 @@ Day 2: Saturday, July 20
 | 5:40-6:40       | [BOFs](BOSC_2013/BOFs "wikilink") -- suggest a BOF topic [here!](BOSC_2013/BOFs "wikilink")                              |                                                                                                    |
 ||
 
+You can also:
+
+- **[ Download schedule as
+PDF](Media:BOSC2013_schedule.pdf "wikilink")** (A4 format).
+
+- **[Download the complete
+program](http://www.open-bio.org/bosc2013/BOSC2013-program.pdf)**
+
 ------------------------------------------------------------------------
 
 Return to **[ BOSC 2013](BOSC_2013 "wikilink")** main page
