@@ -4,9 +4,6 @@ title: BOSC 2013 Schedule
 
 ![BOSC logo|link=BOSC\_2013](Pear.png "BOSC logo|link=BOSC_2013")
 
-**Preliminary Schedule--subject to change**
--------------------------------------------
-
 Day 1: Friday, July 19
 ======================
 
