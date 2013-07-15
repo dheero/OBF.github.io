@@ -57,9 +57,10 @@ of research. He speaks regularly on issues of Open Science including
 Open Access publication, Open Data, and Open Source as well as the wider
 technical and social issues of applying the opportunities the internet
 brings to the practice of science. He was named as a SPARC Innovator in
-July 2010 for work on the Panton Principles and is a recipient of the
-Blue Obelisk for contributions to open data. He writes regularly at his
-blog, [Science in the Open](http://cameronneylon.net/).
+July 2010 for work on the [Panton
+Principles](http://pantonprinciples.org/) and is a recipient of the Blue
+Obelisk for contributions to open data. He writes regularly at his blog,
+[Science in the Open](http://cameronneylon.net/).
 
 Cameron will speak about *Network ready research: The role of open
 source and open thinking*:
