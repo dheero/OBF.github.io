@@ -16,7 +16,9 @@ suites, as well as a coauthor of the Pfam database of protein domains.
 He serves as an advisor to several foundations and US science agencies,
 including the National Institutes of Health and the National Academy of
 Sciences, often on matters of large-scale computation and data analysis
-in biology.
+in biology. In 2007, Sean was awarded the [Benjamin Franklin Award in
+Bioinformatics](Benjamin_Franklin_Award_(Bioinformatics) "wikilink") for
+contributions to Open Access in the Life Sciences.
 
 Sean's talk is entitled *Biological sequence analysis in the post-data
 era*. ![Sean Eddy](SeanEddy.jpg "fig:Sean Eddy")
