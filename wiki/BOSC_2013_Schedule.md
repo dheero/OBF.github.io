@@ -4,6 +4,14 @@ title: BOSC 2013 Schedule
 
 ![BOSC logo|link=BOSC\_2013](Pear.png "BOSC logo|link=BOSC_2013")
 
+You can also:
+
+- **[ Download schedule as
+PDF](Media:BOSC2013_schedule.pdf "wikilink")** (A4 format).
+
+- **[Download the complete
+program](http://www.open-bio.org/bosc2013/BOSC2013-program.pdf)**
+
 Day 1: Friday, July 19
 ======================
 
