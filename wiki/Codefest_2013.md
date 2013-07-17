@@ -45,7 +45,10 @@ We'll be hosted in lab rooms at the [Department of Biology,
 Humboldt-Universität zu Berlin](http://www.biologie.hu-berlin.de/), in
 the historic
 [Invalidenstraße](https://en.wikipedia.org/wiki/Invalidenstra%C3%9Fe)
-number ~~42~~ **43** (west entrance). Here some [pictures of the
+number ~~42~~ **43** (west entrance), in a wing of the Natural History
+Museum. The nearest metro station is the Naturkundemuseum.
+
+Here some [pictures of the
 room](http://jaguar.biologie.hu-berlin.de/~ivo/ISMB/30Plaetze_alt/) to
 find, here a [map of the
 buildings](http://www3.hu-berlin.de/gis/rc13/layout-new.php?q=Z006) -
