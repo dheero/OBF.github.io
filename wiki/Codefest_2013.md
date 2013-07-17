@@ -45,14 +45,14 @@ We'll be hosted in lab rooms at the [Department of Biology,
 Humboldt-Universität zu Berlin](http://www.biologie.hu-berlin.de/), in
 the historic
 [Invalidenstraße](https://en.wikipedia.org/wiki/Invalidenstra%C3%9Fe)
-number 42. Here some [pictures of the
+number ~~42~~ **43** (west entrance). Here some [pictures of the
 room](http://jaguar.biologie.hu-berlin.de/~ivo/ISMB/30Plaetze_alt/) to
 find, here a [map of the
-buildings](http://www3.hu-berlin.de/frame/?url=gis.hu-berlin.de/rc13/layout-new.php%3Fq=2220)
-- enter directly from the Invalidenstraße. There will be signs in the
-entry hall to help direct you to the Codefest venue: Mikroskopiersaal,
-room number 1302. In case of questions, ask for Steffen Möller or Ivo
-Maintz. See the [mailing
+buildings](http://www3.hu-berlin.de/gis/rc13/layout-new.php?q=Z006) -
+follow the signs left from the small park through the maze of
+construction. There will be signs in the entry hall to help direct you
+to the Codefest venue: Mikroskopiersaal, room number 1302. In case of
+questions, ask for Steffen Möller or Ivo Maintz. See the [mailing
 list](https://groups.google.com/forum/?fromgroups#!forum/openbio-codefest-2013)
 for phone contact details.
 
