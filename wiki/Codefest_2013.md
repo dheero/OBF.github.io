@@ -41,6 +41,10 @@ for the two days of work in Berlin.
 Location
 --------
 
+Attention, we have two different rooms for the two days.
+
+*The 17th:*
+
 We'll be hosted in lab rooms at the [Department of Biology,
 Humboldt-Universität zu Berlin](http://www.biologie.hu-berlin.de/), in
 the historic
@@ -49,22 +53,16 @@ number ~~42~~ **43** (west entrance), in a wing of the Natural History
 Museum. The nearest metro station is the [Naturkundemuseum on
 U6](http://de.wikipedia.org/wiki/U-Bahnhof_Naturkundemuseum).
 
-Here some [pictures of the
-room](http://jaguar.biologie.hu-berlin.de/~ivo/ISMB/30Plaetze_alt/) to
-find, here a [map of the
-buildings](http://www3.hu-berlin.de/gis/rc13/layout-new.php?q=Z006) -
-follow the signs left from the small park through the maze of
-construction. There will be signs in the entry hall to help direct you
-to the Codefest venue: Mikroskopiersaal, room number 1302. In case of
-questions, ask for Steffen Möller or Ivo Maintz. See the [mailing
-list](https://groups.google.com/forum/?fromgroups#!forum/openbio-codefest-2013)
-for phone contact details.
+Dinner ist at 20:30 at the Speisekombinat in Chausseestr, south corner
+to Invalidenstr.
+
+*The 18th:*
+
+Chausseestr. 117, room \#551, which is the topmost (5th, starting
+counting from 0) floor.
 
 We'll plan to start at roughly 9am for the two days. Some folks will be
 later on the first day with incoming morning flights.
-
--   [Google map](http://goo.gl/maps/ognVO) of Codefest and Conference
-    venues, hotels nearby and train stations
 
 Attendees
 ---------
