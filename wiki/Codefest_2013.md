@@ -46,7 +46,8 @@ Humboldt-Universität zu Berlin](http://www.biologie.hu-berlin.de/), in
 the historic
 [Invalidenstraße](https://en.wikipedia.org/wiki/Invalidenstra%C3%9Fe)
 number ~~42~~ **43** (west entrance), in a wing of the Natural History
-Museum. The nearest metro station is the Naturkundemuseum.
+Museum. The nearest metro station is the [Naturkundemuseum on
+U6](http://de.wikipedia.org/wiki/U-Bahnhof_Naturkundemuseum).
 
 Here some [pictures of the
 room](http://jaguar.biologie.hu-berlin.de/~ivo/ISMB/30Plaetze_alt/) to
