@@ -2,8 +2,7 @@
 title: BOSC 2013 Schedule
 ---
 
-![BOSC logo|link=BOSC\_2013](Pear.png "BOSC logo|link=BOSC_2013")
-
+![BOSC logo|link=BOSC\_2013](Pear.png "fig:BOSC logo|link=BOSC_2013")
 You can also:
 
 - **[ Download schedule as
