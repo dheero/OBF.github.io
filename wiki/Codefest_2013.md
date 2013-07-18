@@ -53,8 +53,8 @@ number ~~42~~ **43** (west entrance), in a wing of the Natural History
 Museum. The nearest metro station is the [Naturkundemuseum on
 U6](http://de.wikipedia.org/wiki/U-Bahnhof_Naturkundemuseum).
 
-Dinner ist at 20:30 at the Speisekombinat in Chausseestr, south corner
-to Invalidenstr.
+Dinner is at 20:30 at the Speisekombinat in Chausseestr, south corner to
+Invalidenstr.
 
 *The 18th:*
 
