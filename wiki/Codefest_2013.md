@@ -59,7 +59,9 @@ to Invalidenstr.
 *The 18th:*
 
 Chausseestr. 117, room \#551, which is the topmost (5th, starting
-counting from 0) floor.
+counting from 0) floor. This time we are even closer to the [U6
+Naturkundemuseum](http://de.wikipedia.org/wiki/U-Bahnhof_Naturkundemuseum)
+metro station.
 
 We'll plan to start at roughly 9am for the two days. Some folks will be
 later on the first day with incoming morning flights.
