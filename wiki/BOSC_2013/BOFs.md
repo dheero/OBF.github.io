@@ -25,6 +25,12 @@ Friday BOFs (Day 1)
 
 <!-- -->
 
+-   Visualization: how can the open source community help develop
+    biological data visualizations? Framework development, data
+    modeling, ...
+
+<!-- -->
+
 -   (Enter your BOF description here)
 
 Saturday BOFs (Day 2)
