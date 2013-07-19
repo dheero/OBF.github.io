@@ -20,7 +20,11 @@ Friday BOFs (Day 1)
 <!-- -->
 
 -   Bioinformatics in the Cloud: services and tools for reproducible
-    open bioinformatics
+    open bioinformatics. Contact Andrey Kislyuk for scheduling details.
+
+<!-- -->
+
+-   (Enter your BOF description here)
 
 Saturday BOFs (Day 2)
 ---------------------
