@@ -13,16 +13,18 @@ until 6:30 or until you're kicked out of the room.
 Friday BOFs (Day 1)
 -------------------
 
-OBF project affiliation discussion, see this [policy
-proposal](https://github.com/OBF/obf-docs/blob/unratified-drafts/Affiliated-Project-Policy.md)
-on GitHub. Contact Peter Cock for scheduling details.
+-   OBF project affiliation discussion, see this [policy
+    proposal](https://github.com/OBF/obf-docs/blob/unratified-drafts/Affiliated-Project-Policy.md)
+    on GitHub. Contact Peter Cock for scheduling details.
 
-(Enter your BOF description here)
+<!-- -->
+
+-   (Enter your BOF description here)
 
 Saturday BOFs (Day 2)
 ---------------------
 
-(Enter your BOF description here)
+-   (Enter your BOF description here)
 
 ------------------------------------------------------------------------
 
