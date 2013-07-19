@@ -19,7 +19,8 @@ Friday BOFs (Day 1)
 
 <!-- -->
 
--   (Enter your BOF description here)
+-   Bioinformatics in the Cloud: services and tools for reproducible
+    open bioinformatics
 
 Saturday BOFs (Day 2)
 ---------------------
