@@ -38,6 +38,14 @@ document](https://docs.google.com/document/d/1xbS7ZkjipXct00eOfR7-IL_Ti6QzAsjFvc
 We'll use this brainstorming discussion document to prepare directions
 for the two days of work in Berlin.
 
+Codefest Report
+---------------
+
+-   [Project summary
+    writeup](https://bcbio.wordpress.com/2013/07/18/summary-from-bioinformatics-open-science-codefest-2013-tools-infrastructure-standards-and-visualization/)
+-   [Detailed writeups on work
+    accomplished](https://docs.google.com/document/d/1xbS7ZkjipXct00eOfR7-IL_Ti6QzAsjFvcJtopMeT2g/edit?usp=sharing)
+
 Location
 --------
 
