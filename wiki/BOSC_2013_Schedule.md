@@ -92,6 +92,20 @@ Day 2: Saturday, July 20
 | 5:40-6:40       | [BOFs](BOSC_2013/BOFs "wikilink") -- suggest a BOF topic [here!](BOSC_2013/BOFs "wikilink")                                                                                                                            |                                                                                                    |
 ||
 
+------------------------------------------------------------------------
+
+Posters
+=======
+
+This table currently only lists presented posters where the authors have
+shared the file online.
+
+| Title                                                                                                                                             | Presenter   |
+|---------------------------------------------------------------------------------------------------------------------------------------------------|-------------|
+| BIOINFO-C: C-based Bioinformatics Library and Web Application Framework ([PDF](http://bioinfoc.ch/doc/BioinfoC_lib_webfile_poster_BOSC_2013.pdf)) | Detlef Wolf |
+
+------------------------------------------------------------------------
+
 You can also:
 
 - **[ Download schedule as
