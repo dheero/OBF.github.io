@@ -97,8 +97,8 @@ Day 2: Saturday, July 20
 Posters
 =======
 
-This table currently only lists presented posters where the authors have
-shared the file online.
+This table currently only lists presented posters for which the authors
+have shared the PDF.
 
 | Title                                                                                                                                             | Presenter           |
 |---------------------------------------------------------------------------------------------------------------------------------------------------|---------------------|
