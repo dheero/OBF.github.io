@@ -34,6 +34,9 @@ BOSC meetings to date:
 -   [BOSC 2001](BOSC_2001 "wikilink") Copenhagen, Denmark
 -   [BOSC 2000](BOSC_2000 "wikilink") San Diego, CA USA
 
+In recent years the BOSC meetings have been preceded by a two day
+[Codefest](Codefest "wikilink"), an informal developer meeting.
+
 Other conferences
 
 -   A [BioPerl](bp:BioPerl "wikilink")
