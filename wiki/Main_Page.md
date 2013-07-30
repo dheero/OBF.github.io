@@ -97,7 +97,7 @@ BOSC
 The [Bioinformatics Open Source Conference (BOSC)](BOSC "wikilink") is
 held annually in conjunction with [ISCB's](http://www.iscb.org) meeting,
 ISMB. We typically run an informal [Codefest](Codefest "wikilink")
-programers meeting before each BOSC.
+programers' meeting before each BOSC.
 
 [BOSC 2014](BOSC_2014 "wikilink") will take place July 2014, right
 before [ISMB 2014](http://www.iscb.org/ismb2014) in Boston, MA USA.
