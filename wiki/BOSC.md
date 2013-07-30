@@ -18,8 +18,9 @@ conferences are to:
 
 BOSC meetings to date:
 
--   [BOSC 2013](BOSC_2013 "wikilink") Berlin, Germany -- the upcoming
+-   [BOSC 2014](BOSC_2014 "wikilink") Boston, MA USA -- the upcoming
     [Upcoming BOSC conference](Upcoming_BOSC_conference "wikilink").
+-   [BOSC 2013](BOSC_2013 "wikilink") Berlin, Germany
 -   [BOSC 2012](BOSC_2012 "wikilink") Long Beach, CA, USA
 -   [BOSC 2011](BOSC_2011 "wikilink") Vienna, Austria
 -   [BOSC 2010](BOSC_2010 "wikilink") Boston, MA USA
