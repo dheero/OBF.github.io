@@ -777,7 +777,7 @@ Arial'>Schedule (Day 2)</span></b>
   mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt'>
 <span style='font-size:11.0pt'>\[bio\*update\] Biopython
 
-` Project Update `[`Abstract`](http://www.open-bio.org/w/images/e/e3/Antao_Biopython_abstract.pdf)` `[`**SLIDES**`](http://www.slideshare.net/bosc_2008/antao-biopython-bosc2008/)
+` Project Update 2008 `[`Abstract`](http://www.open-bio.org/w/images/e/e3/Antao_Biopython_abstract.pdf)` `[`**SLIDES**`](http://www.slideshare.net/bosc_2008/antao-biopython-bosc2008/)
 
 </span>
 
