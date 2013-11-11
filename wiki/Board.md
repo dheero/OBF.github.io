@@ -53,7 +53,7 @@ the [Institute for Genomic Biology](http://www.igb.uiuc.edu/) at the
 
 [Ewan Birney](bp:Ewan_Birney "wikilink") : *Past President and At-large Member*, [BioPerl](bp:BioPerl "wikilink") core developer. Coordinator of the [EBI](http://www.ebi.ac.uk) half of the [Ensembl](http://www.ensembl.org) genome annotation project.  
 Andrew Dalke : *Past Secretary*, Representing [BioPython](http://www.biopython.org) & [Dalke Scientific](http://www.dalkescientific.com).  
-[Steven E. Brenner](bp:Steven_Brenner "wikilink") : *Past At-large member*, [Associate Professor](http://compbio.berkeley.edu) at University of California, Berkeley.  
+[Steven E. Brenner](bp:Steven_Brenner "wikilink") : *Past At-large member*, [Professor](http://compbio.berkeley.edu) at University of California, Berkeley.  
 [Kam Dahlquist](User:Kdahlquist "wikilink") : *Past At-large Member*, [Associate Professor](http://myweb.lmu.edu/kdahlqui/) at Loyola Marymount University, Los Angeles.  
 
 Board of Directors Meetings
