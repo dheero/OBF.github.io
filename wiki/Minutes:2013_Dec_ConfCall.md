@@ -22,13 +22,13 @@ New business
 1.  Board elections:
     -   Hilmar Lapp, running for a 2nd term as President
     -   Peter Cock, running for office of Secretary
+    -   Nomi Harris, running for a 2nd term on the Board, as at-large
+        member
 
-2.  Nomi Harris stepping down from the Parliamentarian office (but
-    intends to remain on the Board)
-3.  To the extent available, review of 2013 financials (Hilmar)
-4.  BOSC 2014: update from and vote of confidence for the 2014 chairs
+2.  To the extent available, review of 2013 financials (Hilmar)
+3.  BOSC 2014: update from and vote of confidence for the 2014 chairs
     (Nomi, Peter)
-5.  Does OBF and/or BOSC want to be listed as an [ISCB "Community of
+4.  Does OBF and/or BOSC want to be listed as an [ISCB "Community of
     Special Interest"](http://www.iscb.org/iscb-affiliates-cosis) (COSI)
     along side other SIGs and communities? See
     [NetBio](http://www.iscb.org/iscb-netbio-cosi) and [RegSys
