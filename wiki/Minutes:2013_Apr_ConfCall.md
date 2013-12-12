@@ -22,7 +22,7 @@ Participant Access Code: 279610
 New business
 
 </li>
-1.  Administration of O|B|F'S 2013 Google Summer of Code participation
+1.  Administration of O|B|F's 2013 Google Summer of Code participation
     (Pjotr Prins)
 
 </ol>
