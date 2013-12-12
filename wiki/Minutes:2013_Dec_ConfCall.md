@@ -41,7 +41,8 @@ Minutes
 
 **Attending:**
 
--   Directors:
--   Guests:
+-   Directors: Hilmar Lapp, Peter Cock, Chris Dagdigian, Chris Fields,
+    Nomi Harris, Jason Stajich
+-   Guests: Michael Heuer
 
 **Minutes:**
