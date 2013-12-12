@@ -61,7 +61,8 @@ Board of Directors Meetings
 
 **Upcoming Board Meeting:**
 
--   none scheduled currently
+-   [ Conference call Dec 12,
+    2013](Minutes:2013_Dec_ConfCall "wikilink")
 
 **Minutes of past Board Meetings:**
 
