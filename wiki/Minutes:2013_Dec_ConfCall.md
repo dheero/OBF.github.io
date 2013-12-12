@@ -19,7 +19,8 @@ Participant Access Code: 279610
 New business
 
 </li>
-1.  Board elections:
+1.  Board elections (by [secret electronic
+    ballot](https://vote.heliosvoting.org/helios/e/obf-board-dec2013)):
     -   Hilmar Lapp, running for a 2nd term as President
     -   Peter Cock, running for office of Secretary
     -   Nomi Harris, running for a 2nd term on the Board, as at-large
