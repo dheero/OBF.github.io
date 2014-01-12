@@ -43,14 +43,14 @@ Convergence Award (2002) and the CONNECT Award for new inventions (1996
 Dr. Bourne will speak about "Biomedical Research as an Open Digital
 Enterprise":
 
-The biomedical research lifecycle is fast becoming completely digital
+*The biomedical research lifecycle is fast becoming completely digital
 and increasingly open to the point that publishing could simply become
 changing the access control on given research objects comprising ideas,
 hypotheses, data, software, results, conclusions, reviews, grants and so
 on. This offers immense opportunities for software developers to enable
 the enterprise. I will describe a vision for the digital enterprise and
 what the NIH and others are doing to support the notion with the intent
-to accelerate scientific discovery.
+to accelerate scientific discovery.*
 
 ------------------------------------------------------------------------
 
