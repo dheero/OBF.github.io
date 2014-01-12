@@ -39,8 +39,8 @@ Medal for Outstanding Achievement (2004), the Sun Microsystems
 Convergence Award (2002) and the CONNECT Award for new inventions (1996
 & 97).
 
-Dr. Bourne will speak about "Biomedical Research as an Open Digital
-Enterprise":
+![Philip Bourne](PhilipBourne.jpg "fig:Philip Bourne") Dr. Bourne will
+speak about "Biomedical Research as an Open Digital Enterprise":
 
 The biomedical research lifecycle is fast becoming completely digital
 and increasingly open to the point that publishing could simply become
@@ -53,15 +53,16 @@ to accelerate scientific discovery.
 
 ### C. Titus Brown
 
-C. Titus Brown is an assistant professor in the Department of Computer
-Science and Engineering and the Department of Microbiology and Molecular
-Genetics. He earned his PhD ('06) in developmental molecular biology
-from the California Institute of Technology. Brown is director of the
-laboratory for Genomics, Evolution, and Development (GED) at Michigan
-State University. He is a member of the Python Software Foundation and
-an active contributor to the open source software community. His
-research interests include computational biology, bioinformatics, open
-source software development, and software engineering.
+![C. Titus Brown](TitusBrown.jpg "fig:C. Titus Brown") C. Titus Brown is
+an assistant professor in the Department of Computer Science and
+Engineering and the Department of Microbiology and Molecular Genetics.
+He earned his PhD ('06) in developmental molecular biology from the
+California Institute of Technology. Brown is director of the laboratory
+for Genomics, Evolution, and Development (GED) at Michigan State
+University. He is a member of the Python Software Foundation and an
+active contributor to the open source software community. His research
+interests include computational biology, bioinformatics, open source
+software development, and software engineering.
 
 Dr. Brown's topic is "A History of Bioinformatics (in the year 2039)".
 
