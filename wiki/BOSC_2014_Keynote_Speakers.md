@@ -6,12 +6,13 @@ BOSC 2014 is pleased to announce the following keynote speakers:
 
 ### Philip Bourne
 
-Philip E. Bourne PhD is the Associate Director for Data Science at the
-NIH and formerly Associate Vice Chancellor for Innovation and Industry
-Alliances, and Professor of Pharmacology at the University of California
-San Diego. Bourne's work at the NIH focuses on accelerating the rate of
-knowledge discovery from the ever increasing amounts of biomedical data
-at all scales – from genomes to populations.
+![Philip Bourne](PhilipBourne.jpg "fig:Philip Bourne") Philip E. Bourne
+PhD is the Associate Director for Data Science at the NIH and formerly
+Associate Vice Chancellor for Innovation and Industry Alliances, and
+Professor of Pharmacology at the University of California San Diego.
+Bourne's work at the NIH focuses on accelerating the rate of knowledge
+discovery from the ever increasing amounts of biomedical data at all
+scales – from genomes to populations.
 
 Bourne's laboratory focuses on relevant biological and educational
 outcomes derived from computation and scholarly communication. This
@@ -39,8 +40,8 @@ Medal for Outstanding Achievement (2004), the Sun Microsystems
 Convergence Award (2002) and the CONNECT Award for new inventions (1996
 & 97).
 
-![Philip Bourne](PhilipBourne.jpg "fig:Philip Bourne") Dr. Bourne will
-speak about "Biomedical Research as an Open Digital Enterprise":
+Dr. Bourne will speak about "Biomedical Research as an Open Digital
+Enterprise":
 
 The biomedical research lifecycle is fast becoming completely digital
 and increasingly open to the point that publishing could simply become
