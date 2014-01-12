@@ -52,6 +52,8 @@ the enterprise. I will describe a vision for the digital enterprise and
 what the NIH and others are doing to support the notion with the intent
 to accelerate scientific discovery.
 
+------------------------------------------------------------------------
+
 ### C. Titus Brown
 
 ![C. Titus Brown](TitusBrown.jpg "fig:C. Titus Brown") C. Titus Brown is
