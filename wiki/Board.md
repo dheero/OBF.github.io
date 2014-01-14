@@ -22,15 +22,16 @@ by [the BioTeam](http://www.bioteam.net).
 
 **Secretary**
 
-  
-Currently unfilled. Duties carried out by President in the interim.
+:; <span class="plainlinks">[Peter
+Cock](http://www.hutton.ac.uk/staff/peter-cock)</span> :
+[Biopython](bp:Biopython "wikilink") core developer, bioinformatician at
+the [James Hutton Institute](http://www.hutton.ac.uk/). [BOSC
+2014](BOSC_2014 "wikilink") co-chair
 
 **Parliamentarian**
 
-:; <span class="plainlinks">[Nomi
-Harris](http://www.linkedin.com/in/nomiharris)</span> : Employed by the
-Lawrence Berkeley National Laboratory. [BOSC 2014](BOSC_2014 "wikilink")
-co-chair.
+  
+Currently unfilled.
 
 **At-large members**
 
@@ -39,11 +40,10 @@ co-chair.
 Professor](http://stajichlab.fungalgenomes.org) at [University of
 California, Riverside](http://www.ucr.edu/). Former OBF President.
 
-:; <span class="plainlinks">[Peter
-Cock](http://www.hutton.ac.uk/staff/peter-cock)</span> :
-[Biopython](bp:Biopython "wikilink") core developer, bioinformatician at
-the [James Hutton Institute](http://www.hutton.ac.uk/). [BOSC
-2014](BOSC_2014 "wikilink") co-chair
+:; <span class="plainlinks">[Nomi
+Harris](http://www.linkedin.com/in/nomiharris)</span> : Employed by the
+Lawrence Berkeley National Laboratory. [BOSC 2014](BOSC_2014 "wikilink")
+co-chair.
 
 :; [Chris Fields](bp:Christopher_Fields "wikilink") :
 [BioPerl](bp:BioPerl "wikilink") core developer, researcher fellow at
