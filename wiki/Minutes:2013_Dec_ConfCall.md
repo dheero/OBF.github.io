@@ -95,7 +95,7 @@ planned. The committee has been active active with some new members.
 
 Discussed BOSC finances and the fact that due to high SIG registration
 fees, which are set by ISCB and are outside of our control, we have been
-running a sizable surplus. The BOSC committee is considering ideas for
+running a sizeable surplus. The BOSC committee is considering ideas for
 how to use the surplus to give back to the community. One idea is to
 offer all non-commercial speakers (or at least student speakers) a 50%
 reduction in the registration fees.
