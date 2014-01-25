@@ -43,8 +43,7 @@ central topic in a presentation submitted to BOSC must be licensed with
 a recognized Open Source License, and be freely available for download
 in source code form. Please see the next section for more information.
 
-**[Submit your abstract
-here!](http://events.open-bio.org/BOSC2014/openconf.php)**
+### **[Submit your abstract here!](http://events.open-bio.org/BOSC2014/openconf.php)**
 
 BOSC Open Source License Requirement
 ------------------------------------
