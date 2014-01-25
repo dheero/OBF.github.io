@@ -2,21 +2,52 @@
 title: BOSC Abstract Submission
 ---
 
-![The Bosc Pear](Pear.png "The Bosc Pear")
+![The Bosc Pear](Pear.png "fig:The Bosc Pear") **[Submit your abstract
+here!](http://events.open-bio.org/BOSC2014/openconf.php)**
 
-### Posters
+The deadline for abstract submissions is **Friday, April 4, 2014**'.
 
-We have reserved a few spaces for walk-in posters, which must meet the
-BOSC requirements of open source and recognized license. The ISMB staff
-specify that posters should not exceed the following dimensions: 0.95 m
-wide x 1.30 m high.
+Accepted talks will be 5-20 minutes. You will be notified of the length
+of your talk upon abstract acceptance.
 
-### Open Source Requirement
+BOSC also includes poster sessions. If you want to present a poster and
+would like your poster abstract to be included in the BOSC program,
+please [submit it](http://events.open-bio.org/BOSC2014/openconf.php) by
+June 4. There may be also an opportunity to submit last-minute abstracts
+for lightning talks, time permitting.
+
+### Abstract Formatting Requirements
+
+Abstracts must be **one page** (8.5 inches by 11 inches) in length and
+submitted **as a PDF (preferred) or Microsoft Word file only**.
+
+Please format your abstract as follows:
+
+-   Use 1 inch (2.5 cm) margins on the top, sides, and bottom of
+    the page.
+-   Include the following pieces of information in order from the top of
+    the page:
+    -   Title
+    -   Authors, with the presenting author's name underlined.
+    -   Author affiliations, including the e-mail address of the
+        presenting author.
+    -   URL for the overall project web site
+    -   URL for accessing the code
+    -   The particular Open Source License being used
+-   The abstracts will be printed "as is" in the program booklet; please
+    help your all-volunteer Organizing Committee by following the
+    formatting guidelines above.
 
 To be considered for acceptance, software systems representing the
-central topic in a talk or poster submitted to BOSC must be licensed
-with a recognized Open Source License, and be freely available for
-download in source code form at the time they are reviewed.
+central topic in a presentation submitted to BOSC must be licensed with
+a recognized Open Source License, and be freely available for download
+in source code form. Please see the next section for more information.
+
+**[Submit your abstract
+here!](http://events.open-bio.org/BOSC2014/openconf.php)**
+
+BOSC Open Source License Requirement
+------------------------------------
 
 The [Open Bioinformatics Foundation](OBF "wikilink"), which sponsors
 BOSC, is dedicated to promoting the practice and philosophy of Open
@@ -37,4 +68,4 @@ See the following websites for further information:
 
 ------------------------------------------------------------------------
 
-[Back to BOSC 2013 home page](BOSC_2013 "wikilink")
+[|Back to BOSC 2014 home page](BOSC_2014 "wikilink")
