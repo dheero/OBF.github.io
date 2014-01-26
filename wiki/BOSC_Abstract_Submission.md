@@ -67,4 +67,5 @@ See the following websites for further information:
 
 ------------------------------------------------------------------------
 
-[|Back to BOSC 2014 home page](BOSC_2014 "wikilink")
+[BOSC\_2014 Back to BOSC 2014 home
+page](BOSC_2014_Back_to_BOSC_2014_home_page "wikilink")
