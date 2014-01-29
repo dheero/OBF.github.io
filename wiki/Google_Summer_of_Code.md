@@ -4,21 +4,32 @@ title: Google Summer of Code
 
 ![](Soc-2013-300x200.png "Soc-2013-300x200.png")
 
+GSoC 2014
+---------
+
+The Google Summer of Code 2014 is ON! OBF is once again applying as a
+mentoring organization this year. Interested mentors and students should
+subscribe to the OBF/GSoC [mailing
+list](http://lists.open-bio.org/mailman/listinfo/gsoc). Please announce
+yourself, so we know who you are!
+
+Organization administrator: [Eric Talevich](User:EricTalevich "wikilink")  
+Backup administrator: Raoul Bonnal  
+
 GSoC 2013
 ---------
 
-The Google Summer of Code 2013 is ON! Sadly, OBF applied for mentoring
-this year, but did **not** get accepted as a mentoring organisation by
-Google - despite our good track record. We'll try again in 2014.
+OBF applied for mentoring in 2013 but, sadly, did **not** get accepted
+as a mentoring organisation by Google - despite our good track record.
 
 Other organisations relevant for bioinformatics students are:
 [Nescent](http://informatics.nescent.org/wiki/Phyloinformatics_Summer_of_Code_2013),
 [SciRuby](https://github.com/SciRuby/sciruby/wiki/Google-Summer-of-Code-2013-Ideas),
-[GMOD](http://gmod.org/wiki/GSoC), who have taken on some of our
-projects and mentors.
+[GMOD](http://gmod.org/wiki/GSoC), who took on some of our projects and
+mentors.
 
 Organization administrator: [Pjotr Prins](User:PjotrPrins "wikilink") (<pjotr.gsoc2013@thebird.nl>)  
-Backup administrators: Chis Fields, [Hilmar Lapp](User:Lapp "wikilink"), Robert Buels  
+Backup administrators: Chris Fields, [Hilmar Lapp](User:Lapp "wikilink"), Robert Buels  
 
 About Google Summer of Code
 ---------------------------
