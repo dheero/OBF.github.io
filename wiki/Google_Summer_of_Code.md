@@ -139,6 +139,33 @@ Mentor names and project ideas are hosted on each member project's wiki
 on a dedicated Google Summer of Code page. See each of the member
 projects, linked below, for more details about any project:
 
+[BioPerl](http://bioperl.org/wiki/Google_Summer_of_Code):  
+
+:\* [NGS-friendly BioPerl
+code](http://bioperl.org/wiki/Google_Summer_of_Code#NGS-friendly_BioPerl_code)
+
+:\*
+\[<http://bioperl.org/wiki/Google_Summer_of_Code#Convert_BioPerl-DB_to_DBIx>::Class
+Convert BioPerl-DB to use DBIx::Class\]
+
+:\* [Major BioPerl Reorganization (Part
+II)](http://bioperl.org/wiki/Google_Summer_of_Code#Major_BioPerl_Reorganization.2C_part_2)
+
+:\* [Perl Run Wrappers for External Programs in a
+Flash](http://bioperl.org/wiki/Google_Summer_of_Code#Perl_Run_Wrappers_for_External_Programs_in_a_Flash)
+
+:\* [Lightweight BioPerl
+modules](http://bioperl.org/wiki/Google_Summer_of_Code#Lightweight.2FLazy_BioPerl_Classes)
+
+:\* [Modern BioPerl: BioPerl 2.0 and
+beyond](http://bioperl.org/wiki/Google_Summer_of_Code#BioPerl_2.0_.28and_beyond.29)
+
+:\* \[<http://bioperl.org/wiki/Google_Summer_of_Code#Bio>::Assembly
+Bio::Assembly\]
+
+:\* [Semantic Web
+Support](http://bioperl.org/wiki/Google_Summer_of_Code#Semantic_Web_Support)
+
 [Biopython](http://biopython.org/wiki/Google_Summer_of_Code):  
 
 :\* [Indexing & Lazy-loading Sequence
@@ -176,21 +203,6 @@ Structures](http://biojava.org/wiki/Google_Summer_of_Code#Topology_Diagrams_of_P
 
 :\* [Sequence
 Variation](http://biojava.org/wiki/Google_Summer_of_Code#Sequence_Variation)
-
-[BioPerl](http://bioperl.org/wiki/Google_Summer_of_Code):  
-
-:\*
-\[<http://bioperl.org/wiki/Google_Summer_of_Code#Convert_BioPerl-DB_to_DBIx>::Class
-Convert BioPerl-DB to use DBIx::Class\]
-
-:\* [Major BioPerl Reorganization (Part
-II)](http://bioperl.org/wiki/Google_Summer_of_Code#Major_BioPerl_Reorganization.2C_part_2)
-
-:\* [Lightweight BioPerl
-modules](http://bioperl.org/wiki/Google_Summer_of_Code#Lightweight.2FLazy_BioPerl_Classes)
-
-:\* [Modern
-BioPerl](http://bioperl.org/wiki/Google_Summer_of_Code#BioPerl_2.0_.28and_beyond.29)
 
 [BioHaskell](http://biohaskell.org/Google_Summer_of_Code):  
 
