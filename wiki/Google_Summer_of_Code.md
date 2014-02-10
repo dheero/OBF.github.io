@@ -66,13 +66,6 @@ Backup administrator: Raoul Bonnal
 Contact
 -------
 
-If you are not quite sure which project you would like to contribute to,
-you can email to the organization administrator for help. However, do
-not worry overly much about picking the right OBF project at the outset.
-If you are unsure, simply make your best guess, and other members of the
-email list will help you to find the best organization to suit your
-idea.
-
 Before applying, please read our [documentation on information that
 students should know and guidelines we expect you to
 follow](#What_should_prospective_students_know.3F "wikilink"). We also
@@ -83,6 +76,30 @@ you apply](#When_you_apply "wikilink")."
 
 [OBF Summer of
 Code](https://plus.google.com/communities/103096212020630764091) on G+
+
+### Email
+
+For prospective students, the first point of contact should be the
+mailing list of the OBF project you are interested in working with:
+
+BioPerl: <bioperl-l@lists.open-bio.org>  
+BioPython: <biopython@lists.open-bio.org>  
+BioJava: <biojava-l@lists.open-bio.org>  
+BioRuby: <bioruby@lists.open-bio.org>  
+BioSQL: <biosql-l@lists.open-bio.org>  
+BioLib: <biolib-dev@lists.open-bio.org>  
+
+Also, it would be a good idea to CC the organization administrator
+([Eric Talevich](User:EricTalevich "wikilink"),
+<eric.talevich@gmail.com>), so he can make sure that you are properly
+taken care of!
+
+If you are not quite sure which project you would like to contribute to,
+you can email to the organization administrator for help. However, do
+not worry overly much about picking the right OBF project at the outset.
+If you are unsure, simply make your best guess, and other members of the
+email list will help you to find the best organization to suit your
+idea.
 
 ### IRC - Internet Relay Chat
 
@@ -109,21 +126,6 @@ well. If you have never used IRC, try the [IRC
 Primer](http://irchelp.org/irchelp/ircprimer.html) at [IRC
 Help](http://irchelp.org/), which also has links to lots of other
 material.)*
-
-### Email
-
-For prospective students, the first point of contact should be the
-mailing list of the OBF project you are interested in working with:
-
-BioPerl: <bioperl-l@lists.open-bio.org>  
-BioPython: <biopython@lists.open-bio.org>  
-BioJava: <biojava-l@lists.open-bio.org>  
-BioRuby: <bioruby@lists.open-bio.org>  
-BioSQL: <biosql-l@lists.open-bio.org>  
-BioLib: <biolib-dev@lists.open-bio.org>  
-
-Also, it would be a good idea to CC the organization administrator, so
-he can make sure that you are properly taken care of!
 
 Project ideas
 -------------
