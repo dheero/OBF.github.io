@@ -4,52 +4,24 @@ title: Google Summer of Code
 
 ![](Soc-2013-300x200.png "Soc-2013-300x200.png")
 
-GSoC 2014
----------
-
-The Google Summer of Code 2014 is ON! OBF is once again applying as a
-mentoring organization this year. Interested mentors and students should
-subscribe to the OBF/GSoC [mailing
-list](http://lists.open-bio.org/mailman/listinfo/gsoc). Please announce
-yourself, so we know who you are!
-
-Organization administrator: [Eric Talevich](User:EricTalevich "wikilink")  
-Backup administrator: Raoul Bonnal  
-
-GSoC 2013
----------
-
-OBF applied for mentoring in 2013 but, sadly, did **not** get accepted
-as a mentoring organisation by Google - despite our good track record.
-
-Other organisations relevant for bioinformatics students are:
-[Nescent](http://informatics.nescent.org/wiki/Phyloinformatics_Summer_of_Code_2013),
-[SciRuby](https://github.com/SciRuby/sciruby/wiki/Google-Summer-of-Code-2013-Ideas),
-[GMOD](http://gmod.org/wiki/GSoC), who took on some of our projects and
-mentors.
-
-Organization administrator: [Pjotr Prins](User:PjotrPrins "wikilink") (<pjotr.gsoc2013@thebird.nl>)  
-Backup administrators: Chris Fields, [Hilmar Lapp](User:Lapp "wikilink"), Robert Buels  
-
 About Google Summer of Code
 ---------------------------
 
-For those not familiar with the program, Google Summer of Code (GSoC) is
-a student internship program for open-source projects. The program
-offers eligible student developers stipends to write code for open
-source projects over a period of 3 summer months ("flip bits, not
-burgers"). Aside from the stipend, one of the most important features of
-the program is that students are paired with mentors, who are typically
-experienced developers from the project to which the student is
-contributing. The mentor guides the student to work productively within
-the community, and helps the student avoid obstacles and pitfalls. The
-program is global - students and mentors may be located anywhere where
-they have an internet connection (except for countries affected by US
-trade restrictions), and no travel is required. Thus, aside from the
-stipend and mentorship aspects, the student's experience in the
-internship closely mirrors normal work on distributed development
-projects. Effective work habits for distributed development are
-typically not taught as part of computer science curricula, yet are
+Google Summer of Code (GSoC) is a student internship program for
+open-source projects. The program offers eligible student developers
+stipends to write code for open source projects over a period of 3
+summer months ("flip bits, not burgers"). Aside from the stipend, one of
+the most important features of the program is that students are paired
+with mentors, who are typically experienced developers from the project
+to which the student is contributing. The mentor guides the student to
+work productively within the community, and helps the student avoid
+obstacles and pitfalls. The program is global - students and mentors may
+be located anywhere where they have an internet connection (except for
+countries affected by US trade restrictions), and no travel is required.
+Thus, aside from the stipend and mentorship aspects, the student's
+experience in the internship closely mirrors normal work on distributed
+development projects. Effective work habits for distributed development
+are typically not taught as part of computer science curricula, yet are
 highly desired in the increasingly global and distributed software, IT,
 and biotechnology industries.
 
@@ -61,6 +33,18 @@ regular, sustaining contributors.
 See the [Main GSoC Site](http://code.google.com/soc) for general
 information about the Google Summer of Code program, how to apply,
 frequently asked general questions, and more.
+
+GSoC 2014
+---------
+
+The Google Summer of Code 2014 is ON! OBF is once again applying as a
+mentoring organization this year. Interested mentors and students should
+subscribe to the OBF/GSoC [mailing
+list](http://lists.open-bio.org/mailman/listinfo/gsoc). Please announce
+yourself, so we know who you are!
+
+Organization administrator: [Eric Talevich](User:EricTalevich "wikilink")  
+Backup administrator: Raoul Bonnal  
 
 Project ideas
 -------------
