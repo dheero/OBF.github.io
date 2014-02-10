@@ -4,35 +4,52 @@ title: Google Summer of Code
 
 ![](Soc-2013-300x200.png "Soc-2013-300x200.png")
 
-About Google Summer of Code
----------------------------
-
 Google Summer of Code (GSoC) is a student internship program for
 open-source projects. The program offers eligible student developers
 stipends to write code for open source projects over a period of 3
-summer months ("flip bits, not burgers"). Aside from the stipend, one of
-the most important features of the program is that students are paired
-with mentors, who are typically experienced developers from the project
-to which the student is contributing. The mentor guides the student to
-work productively within the community, and helps the student avoid
-obstacles and pitfalls. The program is global - students and mentors may
-be located anywhere where they have an internet connection (except for
-countries affected by US trade restrictions), and no travel is required.
-Thus, aside from the stipend and mentorship aspects, the student's
-experience in the internship closely mirrors normal work on distributed
-development projects. Effective work habits for distributed development
-are typically not taught as part of computer science curricula, yet are
-highly desired in the increasingly global and distributed software, IT,
-and biotechnology industries.
+summer months ("flip bits, not burgers"). See the **[Google Summer of
+Code Main Site](http://code.google.com/soc)** for general information
+about the Google Summer of Code program, how to apply, frequently asked
+general questions, and more.
+
+One of the most important features of the program is that students are
+paired with mentors, who are typically experienced developers from the
+project to which the student is contributing. The mentor guides the
+student to work productively within the community, and helps the student
+avoid obstacles and pitfalls. The program is global - students and
+mentors may be located anywhere where they have an internet connection
+(except for countries affected by US trade restrictions), and no travel
+is required. Thus, aside from the stipend and mentorship aspects, the
+student's experience in the internship closely mirrors normal work on
+distributed development projects. Effective work habits for distributed
+development are typically not taught as part of computer science
+curricula, yet are highly desired in the increasingly global and
+distributed software, IT, and biotechnology industries.
 
 From the viewpoint of each open-source project, the program not only
-offers to pay students for contributing, but more importantly offers an
+offers to pay students for contributing, but more importantly, offers an
 opportunity to recruit new developers who will hopefully go on to become
 regular, sustaining contributors.
 
-See the [Main GSoC Site](http://code.google.com/soc) for general
-information about the Google Summer of Code program, how to apply,
-frequently asked general questions, and more.
+Facts & Links:
+
+-   [GSoC 2014 time
+    line](http://www.google-melange.com/gsoc/events/google/gsoc2014)
+-   For questions of eligibility, see the [GSoC 2014
+    FAQ](http://www.google-melange.com/gsoc/document/show/gsoc_program/google/gsoc2014/help_page).
+-   There is also a [Google group for posting GSoC
+    questions](http://groups.google.com/group/google-summer-of-code-discuss)
+    (and receiving answers; note that you will need to sign up for
+    the group) that relate to the program itself (and are not specific
+    to our organization).
+-   Students receive a stipend from Google if accepted. See the [GSoC
+    2014
+    FAQ](http://www.google-melange.com/gsoc/document/show/gsoc_program/google/gsoc2014/help_page)
+    for full documentation.
+-   Google expects to accept around 180 mentoring organizations
+    this year.
+-   Development is done entirely remotely and on-line, there is no
+    requirement or expectation for either students or mentors to travel.
 
 GSoC 2014
 ---------
@@ -43,8 +60,70 @@ subscribe to the OBF/GSoC [mailing
 list](http://lists.open-bio.org/mailman/listinfo/gsoc). Please announce
 yourself, so we know who you are!
 
-Organization administrator: [Eric Talevich](User:EricTalevich "wikilink")  
+Organization administrator: [Eric Talevich](User:EricTalevich "wikilink") (<etal@uga.edu>)  
 Backup administrator: Raoul Bonnal  
+
+Contact
+-------
+
+If you are not quite sure which project you would like to contribute to,
+you can email to the organization administrator for help. However, do
+not worry overly much about picking the right OBF project at the outset.
+If you are unsure, simply make your best guess, and other members of the
+email list will help you to find the best organization to suit your
+idea.
+
+Before applying, please read our [documentation on information that
+students should know and guidelines we expect you to
+follow](#What_should_prospective_students_know.3F "wikilink"). We also
+require that you include certain information, listed below, under "[When
+you apply](#When_you_apply "wikilink")."
+
+### Google Plus
+
+[OBF Summer of
+Code](https://plus.google.com/communities/103096212020630764091) on G+
+
+### IRC - Internet Relay Chat
+
+IRC is the preferred method of real-time communication between GSoC
+participants. OBF IRC channels are maintained on
+[freenode](http://freenode.net), connect your IRC client to
+`chat.freenode.net`.
+
+Main OBF GSoC Channel: `#obf-soc`  
+BioPerl: `#bioperl`  
+BioRuby: `#bioruby`  
+
+Some mentors and developers can regularly be found on IRC, see the list
+of OBF projects below for information on which projects have a channel
+and the name of the channel. And/or join `#obf-soc` on
+[Freenode.](http://freenode.net) *(If you do not have an IRC client
+installed, you might find the [comparison on
+Wikipedia](http://en.wikipedia.org/wiki/List_of_IRC_clients), the
+[Google
+directory](http://directory.google.com/Top/Computers/Software/Internet/Clients/Chat/IRC/),
+or the [IRC Reviews](http://www.ircreviews.org/clients/) helpful. For
+Macs, [X-Chat Aqua](http://en.wikipedia.org/wiki/X-Chat) works pretty
+well. If you have never used IRC, try the [IRC
+Primer](http://irchelp.org/irchelp/ircprimer.html) at [IRC
+Help](http://irchelp.org/), which also has links to lots of other
+material.)*
+
+### Email
+
+For prospective students, the first point of contact should be the
+mailing list of the OBF project you are interested in working with:
+
+BioPerl: <bioperl-l@lists.open-bio.org>  
+BioPython: <biopython@lists.open-bio.org>  
+BioJava: <biojava-l@lists.open-bio.org>  
+BioRuby: <bioruby@lists.open-bio.org>  
+BioSQL: <biosql-l@lists.open-bio.org>  
+BioLib: <biolib-dev@lists.open-bio.org>  
+
+Also, it would be a good idea to CC the organization administrator, so
+he can make sure that you are properly taken care of!
 
 Project ideas
 -------------
@@ -115,63 +194,6 @@ BioPerl](http://bioperl.org/wiki/Google_Summer_of_Code#BioPerl_2.0_.28and_beyond
 
 :\* [Optimizing a novel, very sensitive alignment
 method](http://biohaskell.org/Google_Summer_of_Code#Optimizing_transalign)
-
-Contact
--------
-
-### IRC - Internet Relay Chat
-
-IRC is the preferred method of real-time communication between GSoC
-participants. OBF IRC channels are maintained on
-[freenode](http://freenode.net), connect your IRC client to
-`chat.freenode.net`.
-
-Main OBF GSoC Channel: `#obf-soc`  
-BioPerl: `#bioperl`  
-BioRuby: `#bioruby`  
-
-### Email
-
-For prospective students, the first point of contact should be the
-mailing list of the OBF project you are interested in working with:
-
-BioPerl: <bioperl-l@lists.open-bio.org>  
-BioPython: <biopython@lists.open-bio.org>  
-BioJava: <biojava-l@lists.open-bio.org>  
-BioRuby: <bioruby@lists.open-bio.org>  
-BioSQL: <biosql-l@lists.open-bio.org>  
-BioLib: <biolib-dev@lists.open-bio.org>  
-
-Also, it would be a good idea to CC the organization administrator, so
-he can make sure that you are properly taken care of!
-
-If you are not quite sure which project you would like to contribute to,
-you can email to the organization administrator for help. However, do
-not worry overly much about picking the right OBF project at the outset.
-If you are unsure, simply make your best guess, and other members of the
-email list will help you to find the best organization to suit your
-idea.
-
-Before applying, please read our [documentation on information that
-students should know and guidelines we expect you to
-follow](#What_should_prospective_students_know.3F "wikilink"). We also
-require that you include certain information, listed below, under "[When
-you apply](#When_you_apply "wikilink")."
-
-Some mentors and developers can regularly be found on IRC, see the list
-of OBF projects below for information on which projects have a channel
-and the name of the channel. And/or join `#obf-soc` on
-[Freenode.](http://freenode.net) *(If you do not have an IRC client
-installed, you might find the [comparison on
-Wikipedia](http://en.wikipedia.org/wiki/List_of_IRC_clients), the
-[Google
-directory](http://directory.google.com/Top/Computers/Software/Internet/Clients/Chat/IRC/),
-or the [IRC Reviews](http://www.ircreviews.org/clients/) helpful. For
-Macs, [X-Chat Aqua](http://en.wikipedia.org/wiki/X-Chat) works pretty
-well. If you have never used IRC, try the [IRC
-Primer](http://irchelp.org/irchelp/ircprimer.html) at [IRC
-Help](http://irchelp.org/), which also has links to lots of other
-material.)*
 
 OBF Projects Accepting Applicants
 ---------------------------------
@@ -394,28 +416,6 @@ GSoC in previous years.
 -   [2012](Google_Summer_of_Code_2012 "wikilink") - 5 student projects
 -   [2011](Google_Summer_of_Code_2011 "wikilink") - 6 student projects
 -   [2010](Google_Summer_of_Code_2010 "wikilink") - 6 student projects
-
-Other Facts & Links
--------------------
-
-**[Google Summer of Code Main Site](http://code.google.com/soc)**
-
--   [GSoC 2013 time
-    line](http://www.google-melange.com/gsoc/events/google/gsoc2014)
--   Google expects to accept around 180 mentoring organizations.
--   Development is done entirely remotely and on-line, there is no
-    requirement or expectation for either students or mentors to travel.
--   For questions of eligibility, see the [GSoC 2014
-    FAQ](http://www.google-melange.com/gsoc/document/show/gsoc_program/google/gsoc2014/help_page).
--   There is also a [Google group for posting GSoC
-    questions](http://groups.google.com/group/google-summer-of-code-discuss)
-    (and receiving answers; note that you will need to sign up for
-    the group) that relate to the program itself (and are not specific
-    to our organization).
--   Students receive a stipend from Google if accepted. See the [GSoC
-    2014
-    FAQ](http://www.google-melange.com/gsoc/document/show/gsoc_program/google/gsoc2014/help_page)
-    for full documentation.
 
 [Category:Google Summer of
 Code](Category:Google_Summer_of_Code "wikilink")
