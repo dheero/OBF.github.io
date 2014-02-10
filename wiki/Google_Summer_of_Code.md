@@ -74,18 +74,12 @@ Mentor names and project ideas are hosted on each member project's wiki
 on a dedicated Google Summer of Code page. See each of the member
 projects, linked below, for more details about any project:
 
-Biopython:  
-
-:\* [Codon alignment and
-analysis](http://biopython.org/wiki/Google_Summer_of_Code#Codon_alignment_and_analysis)
-
-:\* [Bio.Phylo: filling in the
-gaps](http://biopython.org/wiki/Google_Summer_of_Code#Bio.Phylo:_filling_in_the_gaps)
+[Biopython](http://biopython.org/wiki/Google_Summer_of_Code):  
 
 :\* [Indexing & Lazy-loading Sequence
 Parsers](http://biopython.org/wiki/Google_Summer_of_Code#Indexing_.26_Lazy-loading_Sequence_Parsers)
 
-BioRuby:  
+[BioRuby](http://bioruby.open-bio.org/wiki/Google_Summer_of_Code):  
 
 :\* [A parallelized framework for processing large numbers of VCF files
 using Scala Actors and
@@ -103,7 +97,7 @@ Ruby](http://bioruby.open-bio.org/wiki/Google_Summer_of_Code#Machine_Learning_.2
 :\* [Create a dynamic and social web portal for Bioinformatics
 packages](http://bioruby.open-bio.org/wiki/Google_Summer_of_Code#Create_a_dynamic_and_social_web_portal_for_Bioinformatics_packages)
 
-BioJava:  
+[BioJava](http://biojava.org/wiki/Google_Summer_of_Code):  
 
 :\* [Port the BioJava 1 or 2 functionality to BioJava
 3](http://biojava.org/wiki/Google_Summer_of_Code#Port_the_BioJava_1_or_2_functionality_to_BioJava_3)
@@ -118,7 +112,7 @@ Structures](http://biojava.org/wiki/Google_Summer_of_Code#Topology_Diagrams_of_P
 :\* [Sequence
 Variation](http://biojava.org/wiki/Google_Summer_of_Code#Sequence_Variation)
 
-BioPerl:  
+[BioPerl](http://bioperl.org/wiki/Google_Summer_of_Code):  
 
 :\*
 \[<http://bioperl.org/wiki/Google_Summer_of_Code#Convert_BioPerl-DB_to_DBIx>::Class
@@ -132,11 +126,8 @@ modules](http://bioperl.org/wiki/Google_Summer_of_Code#Lightweight.2FLazy_BioPer
 
 :\* [Modern
 BioPerl](http://bioperl.org/wiki/Google_Summer_of_Code#BioPerl_2.0_.28and_beyond.29)
-See [the BioPerl GSoC
-page](http://bioperl.org/wiki/Google_Summer_of_Code) for more BioPerl
-ideas.
 
-BioHaskell:  
+[BioHaskell](http://biohaskell.org/Google_Summer_of_Code):  
 
 :\* [Optimizing a novel, very sensitive alignment
 method](http://biohaskell.org/Google_Summer_of_Code#Optimizing_transalign)
