@@ -311,7 +311,7 @@ code](http://code.open-bio.org/svnweb/index.cgi/biosql/browse/biosql-schema/trun
 :\* [Project website](http://biohaskell.org/)\]
 
 :\* [Bioinformatics section on
-HackageDB](http://hackage.haskell.org/packages/#cat:bioinformatics)
+HackageDB](http://hackage.haskell.org/packages/#cat:Bioinformatics)
 
 Guide for prospective GSoC students
 -----------------------------------
