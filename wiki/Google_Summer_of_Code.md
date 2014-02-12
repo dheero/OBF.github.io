@@ -306,6 +306,13 @@ code](http://code.open-bio.org/svnweb/index.cgi/biosql/browse/biosql-schema/trun
 
 :\* No IRC channel at present
 
+[BioHaskell](http://biohaskell.org/) :  
+
+:\* [Project website](http://biohaskell.org/)\]
+
+:\* [Bioinformatics section on
+HackageDB](http://hackage.haskell.org/packages/#cat:bioinformatics)
+
 Guide for prospective GSoC students
 -----------------------------------
 
