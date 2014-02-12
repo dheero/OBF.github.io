@@ -187,25 +187,15 @@ Ruby](http://bioruby.open-bio.org/wiki/Google_Summer_of_Code#Machine_Learning_.2
 :\* [Create a dynamic and social web portal for Bioinformatics
 packages](http://bioruby.open-bio.org/wiki/Google_Summer_of_Code#Create_a_dynamic_and_social_web_portal_for_Bioinformatics_packages)
 
-[BioJava](http://biojava.org/wiki/Google_Summer_of_Code):  
-
-:\* [Port the BioJava 1 or 2 functionality to BioJava
-3](http://biojava.org/wiki/Google_Summer_of_Code#Port_the_BioJava_1_or_2_functionality_to_BioJava_3)
-
-:\* [Improve structural alignment datastructures to support
-topology-independent
-alignments](http://biojava.org/wiki/Google_Summer_of_Code#Improve_structural_alignment_datastructures_to_support_topology-independent_alignments)
-
-:\* [Topology Diagrams of Protein
-Structures](http://biojava.org/wiki/Google_Summer_of_Code#Topology_Diagrams_of_Protein_Structures)
-
-:\* [Sequence
-Variation](http://biojava.org/wiki/Google_Summer_of_Code#Sequence_Variation)
-
 [BioHaskell](http://biohaskell.org/Google_Summer_of_Code):  
 
 :\* [Optimizing a novel, very sensitive alignment
 method](http://biohaskell.org/Google_Summer_of_Code#Optimizing_transalign)
+
+Cross-project ideas:  
+
+:\* [Native and JVM-based support for the Systems Biology Markup
+Language (SMBL)](http://sbml.org/GSoC2014)
 
 OBF Projects Accepting Applicants
 ---------------------------------
