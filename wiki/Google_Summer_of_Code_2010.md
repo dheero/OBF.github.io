@@ -12,43 +12,56 @@ Timeline](http://socghop.appspot.com/document/show/gsoc_program/google/gsoc2010/
 2010 Funded Students and Projects (6 students)
 ----------------------------------------------
 
-### BioJava: Improvements including Implementation of Multiple Sequence Alignment Algorithms
+### Mark Chapman (BioJava)
 
-student [Mark Chapman](http://biojava.org/wiki/Mark_Chapman), primary
-mentor [Andreas Prlic](http://biojava.org/wiki/Andreas_Prlic), [overview
-and updates](http://biojava.org/wiki/GSoC:MSA)
+-   [Improvements including Implementation of Multiple Sequence
+    Alignment Algorithms](http://biojava.org/wiki/GSoC:MSA)
+-   Mentor: [Andreas Prlic](http://biojava.org/wiki/Andreas_Prlic)
+-   [Mark Chapman on BioJava](http://biojava.org/wiki/Mark_Chapman)
 
-### BioJava: Packages for Identification, Classification, and Visualization of Posttranslational Modification of Proteins
+### Jianjiong Gao (BioJava)
 
-student [Jianjiong Gao](http://www.biojava.org/wiki/Jianjiong_Gao),
-primary mentor [Peter Rose](http://www.linkedin.com/in/peterrose), [more
-information on this project](http://www.biojava.org/wiki/GSoC:PTM)
+-   [Packages for Identification, Classification, and Visualization of
+    Posttranslational Modification of
+    Proteins](http://www.biojava.org/wiki/GSoC:PTM)
+-   Mentor: [Peter Rose](http://www.linkedin.com/in/peterrose)
+-   [Jianjiong Gao on
+    BioJava](http://www.biojava.org/wiki/Jianjiong_Gao)
 
-### BioPerl: BioPerl Alignment Subsystem Refactoring
+### Jun Yin (BioPerl)
 
-student Jun Yin, primary mentor [Chris
-Fields](http://bioperl.org/wiki/User:Cjfields), secondary mentor [Mark
-Jensen](http://bioperl.org/wiki/User:Majensen), [more information on
-this
-project](http://bioperl.org/wiki/Google_Summer_of_Code#Alignment_Subsystem_Refactoring),
-[overview and updates](http://gsoc2010-junyin.blogspot.com/)
+-   [BioPerl Alignment Subsystem
+    Refactoring](http://bioperl.org/wiki/Google_Summer_of_Code#Alignment_Subsystem_Refactoring)
+-   Primary mentor [Chris
+    Fields](http://bioperl.org/wiki/User:Cjfields), secondary mentor
+    [Mark Jensen](http://bioperl.org/wiki/User:Majensen)
+-   [Project overview and updates](http://gsoc2010-junyin.blogspot.com/)
 
-### BioPython: Extending Bio.PDB: broadening the usefulness of BioPython’s Structural Biology module
+### João Rodrigues (BioPython)
 
-student [João Rodrigues](http://www.biopython.org/wiki/User:Joaor),
-primary mentor [Eric Talevich](http://eric.talevich.com/), [Weekly
-Schedule & Progress
-Overview](http://www.biopython.org/wiki/GSOC2010_Joao), [Project's Code
-on GitHub](http://github.com/JoaoRodrigues/biopython/tree/GSOC2010)
+-   [Extending Bio.PDB: broadening the usefulness of BioPython’s
+    Structural Biology
+    module](http://www.biopython.org/wiki/GSOC2010_Joao)
+-   Mentor: [Eric Talevich](http://eric.talevich.com/)
+-   [João Rodrigues on
+    Biopython](http://www.biopython.org/wiki/User:Joaor)
+-   [Project's Code on
+    GitHub](http://github.com/JoaoRodrigues/biopython/tree/GSOC2010)
 
-### BioRuby: Ruby 1.9.2 support of BioRuby
+João continues to be an active contributor to Biopython and maintains
+the Bio.PDB module.
 
-student Kazuhiro Hayashi, primary mentor Naohisa Goto, [overview and
-updates](http://gsoc2010kh.blogspot.com/)
+### Kazuhiro Hayashi (BioRuby)
 
-### BioRuby: Implementing Speciation & Duplication Inference Algorithm for Binary and Non-binary Species Tree
+-   [Ruby 1.9.2 support of BioRuby](http://gsoc2010kh.blogspot.com/)
+-   Mentor: Naohisa Goto
 
-student Sara Rayburn, primary mentor [Christian
-Zmasek](http://www.linkedin.com/in/cmzmasek), secondary mentor Diana
-Jaunzeikare, [overview and
-updates](http://wiki.github.com/srayburn/bioruby/gsoc-2010-implementing-sdi-project-updates)
+### Sara Rayburn (BioRuby)
+
+-   [Implementing Speciation & Duplication Inference Algorithm for
+    Binary and Non-binary Species
+    Tree](http://wiki.github.com/srayburn/bioruby/gsoc-2010-implementing-sdi-project-updates)
+-   Primary mentor [Christian
+    Zmasek](http://www.linkedin.com/in/cmzmasek), secondary mentor Diana
+    Jaunzeikare
+
