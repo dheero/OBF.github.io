@@ -103,10 +103,8 @@ idea.
 
 ### IRC - Internet Relay Chat
 
-IRC is the preferred method of real-time communication between GSoC
-participants. OBF IRC channels are maintained on
-[freenode](http://freenode.net), connect your IRC client to
-`chat.freenode.net`.
+OBF IRC channels are maintained on [freenode](http://freenode.net),
+connect your IRC client to `chat.freenode.net`.
 
 Main OBF GSoC Channel: `#obf-soc`  
 BioPerl: `#bioperl`  
