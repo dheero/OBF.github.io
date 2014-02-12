@@ -14,27 +14,51 @@ Summer 2011 Projects
 Here are links to the progress report pages for OBF's 2011 Google Summer
 of Code students:
 
-BioPython: Justinas Vygintas Daugmaudis, Michele dos Santos da Silva (2 students), mentored by Thomas Hamelryck and Eric Talevich  
-Mocapy++Biopython: from data to probabilistic models of biomolecules
+### Sheena Scroggins (BioPerl)
 
-[BioPython Integration](http://biopython.org/wiki/GSOC2011_Mocapy)
+  
+[Major BioPerl reorganization](http://www.techomics.com/)
 
-[Mocapy++ Plugin System](http://biopython.org/wiki/GSOC2011_MocapyExt)
+mentored by Robert Buels and Chris Fields
 
-BioJava: Chuan Hock Koh, mentored by Peter Troshin, Andreas Prlic, and Jay Vyas  
+### Chuan Hock Koh (BioJava)
+
+  
 [Amino Acid Physico-Chemical Properties
 Calculation](http://biojava.org/wiki/GSoC:AAPropertiesComputation)
 
-BioRuby: Michał Koziarski, mentored by Raoul J.P. Bonnal and Francesco Strozzi  
+mentored by Peter Troshin, Andreas Prlic, and Jay Vyas
+
+### Michał Koziarski (BioRuby)
+
+  
 [Represent bio-objects and related information with
 images](http://bioruby.open-bio.org/wiki/GSoC:Bio-images)
 
-BioPerl: Sheena Scroggins, mentored by Robert Buels and Chris Fields  
-[Major BioPerl reorganization](http://www.techomics.com/)
+mentored by Raoul J.P. Bonnal and Francesco Strozzi
 
-BioPython: Mikael Eric Trellet, mentored by João Rodrigues and Eric Talevich  
+### Justinas Vygintas Daugmaudis (Biopython)
+
+  
+[Mocapy++ Plugin System](http://biopython.org/wiki/GSOC2011_MocapyExt)
+
+mentored by Thomas Hamelryck and Eric Talevich
+
+### Michele dos Santos da Silva (Biopython)
+
+  
+[Mocapy++ BioPython
+Integration](http://biopython.org/wiki/GSOC2011_Mocapy)
+
+mentored by Thomas Hamelryck and Eric Talevich
+
+### Mikael Eric Trellet (Biopython)
+
+  
 [Interface analysis module for
 BioPython](http://www.biopython.org/wiki/GSoC2011_mtrellet)
+
+mentored by João Rodrigues and Eric Talevich
 
 2011 Mentor Volunteers and Project Ideas
 ----------------------------------------
