@@ -68,6 +68,9 @@ O|B|F is an associated project with [Software In The Public Interest,
 Inc.](http://spi-inc.org/), a fiscal sponsorship organization, and
 through SPI we can accept tax-exempt charitable donations.
 
+See also our [OBF
+Google+](https://plus.google.com/115564754756543103019) page.
+
 History
 -------
 
