@@ -60,7 +60,7 @@ subscribe to the OBF/GSoC [mailing
 list](http://lists.open-bio.org/mailman/listinfo/gsoc). Please announce
 yourself, so we know who you are!
 
-Organization administrator: [Eric Talevich](User:EricTalevich "wikilink") (<etal@uga.edu>)  
+Organization administrator: Eric Talevich (<eric.talevich@gmail.com>)  
 Backup administrator: Raoul Bonnal  
 
 Contact
