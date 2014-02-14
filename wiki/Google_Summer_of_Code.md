@@ -176,9 +176,9 @@ Parsers](http://biopython.org/wiki/Google_Summer_of_Code#Indexing_.26_Lazy-loadi
 
 [BioRuby](http://bioruby.open-bio.org/wiki/Google_Summer_of_Code):  
 
-:\* [A parallelized framework for processing large numbers of VCF files
-using Scala Actors and
-JRuby](http://bioruby.open-bio.org/wiki/Google_Summer_of_Code#A_parallelized_framework_for_processing_large_numbers_of_VCF_files_using_Scala_Actors_and_JRuby)
+:\* [An ultra-fast scalable RESTful API to query large numbers of
+genomic
+variations](http://bioruby.open-bio.org/wiki/Google_Summer_of_Code#An_ultra-fast_scalable_RESTful_API_to_query_large_numbers_of_genomic_variations)
 
 [BioHaskell](http://biohaskell.org/Google_Summer_of_Code):  
 
