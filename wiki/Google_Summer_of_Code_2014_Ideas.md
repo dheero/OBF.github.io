@@ -243,7 +243,7 @@ Prior art : Jason Stajich has started a SQLite-based lightweight `Bio::Tree::Tre
 
 <!-- -->
 
-Mentors : Chris Fields, Jason Stajich  
+Mentors : Chris Fields  
 
 ### [BioPerl 2.0 and beyond](http://bioperl.org/wiki/Google_Summer_of_Code#BioPerl_2.0_.28and_beyond.29)
 
