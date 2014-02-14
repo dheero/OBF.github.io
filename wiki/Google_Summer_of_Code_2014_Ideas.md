@@ -498,13 +498,9 @@ Cock](https://github.com/peterjc/), others welcome
 
 ![](BioRuby_logo_tiny.png "BioRuby_logo_tiny.png")
 
--   **[BioRuby GSoC
-    Page](http://bioruby.open-bio.org/wiki/Google_Summer_of_Code)** -
-    project ideas and mentors
--   [Project website](http://bioruby.org)
--   [developers mailing
+-   [Developers mailing
     list](http://lists.open-bio.org/mailman/listinfo/bioruby)
--   [source code](http://github.com/bioruby/bioruby/tree/master)
+-   [Source code](http://github.com/bioruby/bioruby/tree/master)
 -   IRC: `#bioruby` on [Freenode](http://freenode.net)
 
 ### [An ultra-fast scalable RESTful API to query large numbers of genomic variations](http://bioruby.open-bio.org/wiki/Google_Summer_of_Code#An_ultra-fast_scalable_RESTful_API_to_query_large_numbers_of_genomic_variations)
