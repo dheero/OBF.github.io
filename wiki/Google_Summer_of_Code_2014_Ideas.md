@@ -274,8 +274,8 @@ Mentors : Chris Fields, Rob Buels
 ### \[<http://bioperl.org/wiki/Google_Summer_of_Code#Bio>::Assembly Bio::Assembly\]
 
 Rationale  
-A followup to the 2010 project "Alignment Subsystem Refactoring":
-Continued refinement of AssemblyIO.
+Although progress was made in the 2010 project "Alignment Subsystem
+Refactoring", continued refinement of AssemblyIO is still needed.
 
 <!-- -->
 
@@ -286,8 +286,7 @@ and/or methods.
 <!-- -->
 
 Difficulty and needed skills  
-Medium to hard. Excellent command of Perl, familiarity with sequence
-alignment and alignment tools.
+Medium. Proficiency in Perl, familiarity with assembly tools.
 
 <!-- -->
 
