@@ -65,8 +65,6 @@ some concept in parallelizing and web services design.
 Mentors  
 Raoul J.P. Bonnal, Francesco Strozzi, Toshiaki Katayama, Joachim Baran
 
-### [Native and JVM-based support for the Systems Biology Markup Language (SMBL)](http://sbml.org/GSoC2014)
-
 [BioPerl](http://bioperl.org/wiki/Google_Summer_of_Code)
 --------------------------------------------------------
 
@@ -120,6 +118,9 @@ Raoul J.P. Bonnal, Francesco Strozzi, Toshiaki Katayama, Joachim Baran
 
 ### JVM support and improvements for the Systems Biology Markup Language
 
+See [Native and JVM-based support for the Systems Biology Markup
+Language (SMBL)](http://sbml.org/GSoC2014)
+
 [BioPython](biopython:Google_Summer_of_Code "wikilink")
 -------------------------------------------------------
 
@@ -155,7 +156,7 @@ Raoul J.P. Bonnal, Francesco Strozzi, Toshiaki Katayama, Joachim Baran
 [BioHaskell](http://biohaskell.org/Google_Summer_of_Code)
 ---------------------------------------------------------
 
-:\* [Project website](http://biohaskell.org/)\]
+:\* [Project website](http://biohaskell.org/)
 
 :\* [Bioinformatics section on
 HackageDB](http://hackage.haskell.org/packages/#cat:Bioinformatics)
