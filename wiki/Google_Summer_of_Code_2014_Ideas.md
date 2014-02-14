@@ -98,18 +98,15 @@ Andreas Dräger, Alex Thomas
 
 ![](BioPerl_logo_tiny.jpg "BioPerl_logo_tiny.jpg")
 
--   **[ BioPerl GSoC Page](bp:Google_Summer_of_Code "wikilink")** -
-    project ideas and mentors
--   [Project website](bp:Main_Page "wikilink")
+-   [Mailing lists](bp:Mailing_lists "wikilink")
+-   IRC: `#bioperl` on [Freenode](http://freenode.net)
 -   [Information for new developers](bp:Becoming_a_developer "wikilink")
--   source code browser for
+-   Source code browser for
     [bioperl-live](http://code.open-bio.org/svnweb/index.cgi/bioperl/browse/bioperl-live/trunk)
     (the main BioPerl code base), and [all BioPerl
     sub-projects](http://code.open-bio.org/svnweb/index.cgi/bioperl/)
 -   [Priority list](bp:Project_priority_list "wikilink") of things that
     need work, as another source for student-conceived project ideas
--   [Mailing lists](bp:Mailing_lists "wikilink")
--   IRC: `#bioperl` on [Freenode](http://freenode.net)
 
 ### [NGS-friendly BioPerl code](http://bioperl.org/wiki/Google_Summer_of_Code#NGS-friendly_BioPerl_code)
 
