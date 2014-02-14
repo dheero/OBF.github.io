@@ -111,18 +111,18 @@ Bio::Assembly\]
 :\* [Semantic Web
 Support](http://bioperl.org/wiki/Google_Summer_of_Code#Semantic_Web_Support)
 
-[Biopython](http://biopython.org/wiki/Google_Summer_of_Code):  
+### [Biopython](http://biopython.org/wiki/Google_Summer_of_Code)
 
 :\* [Indexing & Lazy-loading Sequence
 Parsers](http://biopython.org/wiki/Google_Summer_of_Code#Indexing_.26_Lazy-loading_Sequence_Parsers)
 
-[BioRuby](http://bioruby.open-bio.org/wiki/Google_Summer_of_Code):  
+### [BioRuby](http://bioruby.open-bio.org/wiki/Google_Summer_of_Code)
 
 :\* [An ultra-fast scalable RESTful API to query large numbers of
 genomic
 variations](http://bioruby.open-bio.org/wiki/Google_Summer_of_Code#An_ultra-fast_scalable_RESTful_API_to_query_large_numbers_of_genomic_variations)
 
-[BioHaskell](http://biohaskell.org/Google_Summer_of_Code):  
+### [BioHaskell](http://biohaskell.org/Google_Summer_of_Code)
 
 :\* [Optimizing a novel, very sensitive alignment
 method](http://biohaskell.org/Google_Summer_of_Code#Optimizing_transalign)
