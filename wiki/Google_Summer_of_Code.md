@@ -75,7 +75,7 @@ Mentor names and project ideas are hosted on each member project's wiki
 on a dedicated Google Summer of Code page. See each of the member
 projects, linked below, for more details about any project:
 
-Cross-project ideas:  
+### Cross-project ideas
 
 :\* [Native and JVM-based support for the Systems Biology Markup
 Language (SMBL)](http://sbml.org/GSoC2014)
@@ -84,7 +84,7 @@ Language (SMBL)](http://sbml.org/GSoC2014)
 RESTful web
 service](http://www.open-bio.org/wiki/Cross_Projects#Cross_BioInterchange)
 
-[BioPerl](http://bioperl.org/wiki/Google_Summer_of_Code):  
+### [BioPerl](http://bioperl.org/wiki/Google_Summer_of_Code)
 
 :\* [NGS-friendly BioPerl
 code](http://bioperl.org/wiki/Google_Summer_of_Code#NGS-friendly_BioPerl_code)
