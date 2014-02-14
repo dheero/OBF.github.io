@@ -223,7 +223,7 @@ Difficulty and needed skills : Medium. The student should understand or be willi
 
 <!-- -->
 
-Mentors : Mark Jensen, [ Chris Fields](User:Cjfields "wikilink")  
+Mentors : [ Chris Fields](User:Cjfields "wikilink")  
 
 ### [Lightweight BioPerl modules](http://bioperl.org/wiki/Google_Summer_of_Code#Lightweight.2FLazy_BioPerl_Classes)
 
