@@ -69,12 +69,13 @@ Raoul J.P. Bonnal, Francesco Strozzi, Toshiaki Katayama, Joachim Baran
 
 Rationale  
 The standard Java implementation of SBML, JSBML, is used as a parser for
-various Java-based systems biology applications.
+various Java-based systems biology applications. This fulfills one
+niche, but the versatility of the JVM can be utilized to employ JSBML as
+a parser for systems biology applications that are written in
+other languages. Also, JSBML undergoes an active community effort to be
+up-to-date with current SBML standards.
 
-This fulfills one niche, but the versatility of the JVM can be utilized
-to employ JSBML as a parser for systems biology applications that are
-written in other languages. Also, JSBML undergoes an active community
-effort to be up-to-date with current SBML standards.
+<!-- -->
 
 Approach  
 This project will aim to present language APIs for languages that may
