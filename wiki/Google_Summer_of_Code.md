@@ -66,6 +66,9 @@ Backup administrator: Raoul Bonnal
 Project ideas
 -------------
 
+**[See the OBF Project Ideas page for GSoC
+2014](Google_Summer_of_Code_2014_Ideas "wikilink")**
+
 Interested mentors and students should subscribe to the OBF/GSoC
 [mailing list](http://lists.open-bio.org/mailman/listinfo/gsoc) and
 announce their interest - that is the way we can track what is
