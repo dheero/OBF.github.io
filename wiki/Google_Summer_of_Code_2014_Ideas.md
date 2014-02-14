@@ -449,14 +449,9 @@ Andreas Dräger
 
 ![](Biopython_logo_tiny.png "Biopython_logo_tiny.png")
 
--   **[ BioPython GSoC
-    Page](biopython:Google_Summer_of_Code "wikilink")** - project ideas
-    and mentors
--   [Project website](biopython:Main_Page "wikilink")
--   [Information for contributors](biopython:Contributing "wikilink")
 -   [Mailing lists](biopython:Mailing_lists "wikilink")
+-   [Information for contributors](biopython:Contributing "wikilink")
 -   [ Source Code](biopython:SourceCode "wikilink")
--   No IRC channel at present
 
 ### [Indexing & Lazy-loading Sequence Parsers](http://biopython.org/wiki/Google_Summer_of_Code#Indexing_.26_Lazy-loading_Sequence_Parsers)
 
