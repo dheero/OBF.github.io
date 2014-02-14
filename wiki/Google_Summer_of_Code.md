@@ -142,6 +142,10 @@ Cross-project ideas:
 :\* [Native and JVM-based support for the Systems Biology Markup
 Language (SMBL)](http://sbml.org/GSoC2014)
 
+:\* [BioInterchange: Convert and Exchange Biological File Formants using
+RESTful web
+service](http://www.open-bio.org/wiki/Cross_Projects#CrossBioInterchange)
+
 [BioPerl](http://bioperl.org/wiki/Google_Summer_of_Code):  
 
 :\* [NGS-friendly BioPerl
