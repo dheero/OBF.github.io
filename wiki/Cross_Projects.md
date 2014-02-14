@@ -3,9 +3,9 @@ title: Cross Projects
 ---
 
 Project Ideas
--------------
+=============
 
-#### Cross BioInterchance
+### Cross BioInterchance
 
 Rationale  
 [BioInterchange](http://www.biointerchange.org/index.html) Interchange
