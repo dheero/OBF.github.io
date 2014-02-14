@@ -320,52 +320,21 @@ Mentors : To be determined. [Kjetil Kjernsmo](http://bioperl.org/wiki/User:Kjeti
 
 ![](Biojava_logo_tiny.jpg "Biojava_logo_tiny.jpg")
 
--   **[BioJava GSoC
-    Page](http://biojava.org/wiki/Google_Summer_of_Code)** - project
-    ideas and mentors
+-   [Mailing lists](http://biojava.org/wiki/BioJava:MailingLists)
 -   [BioJava modules](http://biojava.org/wiki/BioJava:Modules) as
     another source for student-conceived project ideas
--   source code for
+-   Source code for
     [biojava-live](http://code.open-bio.org/svnweb/index.cgi/biojava/browse/biojava-live/trunk)
     (the main BioJava code base) and [all BioJava
     sub-projects](http://code.open-bio.org/svnweb/index.cgi/biojava/)
--   [Mailing lists](http://biojava.org/wiki/BioJava:MailingLists)
--   No IRC channel at present
 
-### Java support and improvements for the Systems Biology Markup Language (SMBL)
+For GSoC 2014, BioJava is partnering with the Systems Biology Markup
+Language (SMBL) team to bring enhancements to JSBML, the standard Java
+implementation of SBML, and bring SBML features to other Java-based
+systems biology software. See [the SMBL
+website](http://sbml.org/GSoC2014) for more ideas from the SBML team.
 
-See [Native and JVM-based support for the Systems Biology Markup
-Language (SMBL)](http://sbml.org/GSoC2014) for more ideas from the SBML
-team.
-
-#### Implement support for the SBML Multistate/Multicomponent Species package
-
-Rationale  
-One of the many packages for SBML Level 3 is Multistate and
-multicomponent species. This packages define constructs for models and
-modelers to represent biochemical species that have internal structure
-or state properties. These may involve molecules that have multiple
-potential states, such as a protein that may be covalently modified, and
-molecules that combine to form heterogeneous complexes located among
-multiple compartments.
-
-<!-- -->
-
-Approach  
-The JSBML team has already started implementation of the `multi`
-package, but more needs to be done.
-
-<!-- -->
-
-Languages and skills  
-Java, some exposure to biochemistry
-
-<!-- -->
-
-Mentors  
-Nicolas Rodriguez, Nicolas Le Novère
-
-#### Add support for Schema-based validation of SBML
+### Add support for Schema-based validation of SBML
 
 Rationale  
 SBML files need to be validated carefully to ensure that they conform to
@@ -399,7 +368,7 @@ Java, XML, RELAX NG, Schematron, SBML
 Mentors  
 Sarah Keating, Andreas Dräger
 
-#### Redesign the implementation of mathematical formulas in JSBML
+### Redesign the implementation of mathematical formulas in JSBML
 
 Rationale  
 JSBML uses the concept of abstract syntax trees to work with
@@ -425,7 +394,34 @@ Medium; proficient in Java
 Mentors  
 Andreas Dräger, Alex Thomas, Sarah Keating
 
-#### Improving the plugin interface for CellDesigner
+### Implement support for the SBML Multistate/Multicomponent Species package
+
+Rationale  
+One of the many packages for SBML Level 3 is Multistate and
+multicomponent species. This packages define constructs for models and
+modelers to represent biochemical species that have internal structure
+or state properties. These may involve molecules that have multiple
+potential states, such as a protein that may be covalently modified, and
+molecules that combine to form heterogeneous complexes located among
+multiple compartments.
+
+<!-- -->
+
+Approach  
+The JSBML team has already started implementation of the `multi`
+package, but more needs to be done.
+
+<!-- -->
+
+Languages and skills  
+Java, some exposure to biochemistry
+
+<!-- -->
+
+Mentors  
+Nicolas Rodriguez, Nicolas Le Novère
+
+### Improve the plugin interface for CellDesigner
 
 Rationale  
 One of the most frequently used programs in computational systems
