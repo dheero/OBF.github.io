@@ -100,6 +100,25 @@ Raoul J.P. Bonnal, Francesco Strozzi, Toshiaki Katayama, Joachim Baran
 
 ### [Semantic Web Support](http://bioperl.org/wiki/Google_Summer_of_Code#Semantic_Web_Support)
 
+[BioJava](http://biojava.org/wiki/Google_Summer_of_Code)
+--------------------------------------------------------
+
+![](Biojava_logo_tiny.jpg "Biojava_logo_tiny.jpg")
+
+-   **[BioJava GSoC
+    Page](http://biojava.org/wiki/Google_Summer_of_Code)** - project
+    ideas and mentors
+-   [BioJava modules](http://biojava.org/wiki/BioJava:Modules) as
+    another source for student-conceived project ideas
+-   source code for
+    [biojava-live](http://code.open-bio.org/svnweb/index.cgi/biojava/browse/biojava-live/trunk)
+    (the main BioJava code base) and [all BioJava
+    sub-projects](http://code.open-bio.org/svnweb/index.cgi/biojava/)
+-   [Mailing lists](http://biojava.org/wiki/BioJava:MailingLists)
+-   No IRC channel at present
+
+### JVM support and improvements for the Systems Biology Markup Language
+
 [BioPython](biopython:Google_Summer_of_Code "wikilink")
 -------------------------------------------------------
 
