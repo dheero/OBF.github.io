@@ -5,7 +5,7 @@ title: Cross Projects
 Project Ideas
 -------------
 
-#### An ultra-fast scalable RESTful API to query large numbers of genomic variations
+#### CrossBioInterchance
 
 Rationale  
 
