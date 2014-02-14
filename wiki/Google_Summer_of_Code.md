@@ -12,6 +12,27 @@ Code Main Site](http://code.google.com/soc)** for general information
 about the Google Summer of Code program, how to apply, frequently asked
 general questions, and more.
 
+Facts & Links:
+
+-   [GSoC 2014 time
+    line](http://www.google-melange.com/gsoc/events/google/gsoc2014)
+-   For questions of eligibility, see the [GSoC 2014
+    FAQ](http://www.google-melange.com/gsoc/document/show/gsoc_program/google/gsoc2014/help_page).
+-   There is also a [Google group for posting GSoC
+    questions](http://groups.google.com/group/google-summer-of-code-discuss)
+    (and receiving answers; note that you will need to sign up for
+    the group) that relate to the program itself (and are not specific
+    to our organization).
+-   Students receive a stipend from Google if accepted. See the [GSoC
+    2014
+    FAQ](http://www.google-melange.com/gsoc/document/show/gsoc_program/google/gsoc2014/help_page)
+    for full documentation.
+-   Development is done entirely remotely and on-line; there is no
+    requirement or expectation for either students or mentors to travel.
+
+Why apply?
+----------
+
 One of the most important features of the program is that students are
 paired with mentors, who are typically experienced developers from the
 project to which the student is contributing. The mentor guides the
@@ -30,26 +51,6 @@ From the viewpoint of each open-source project, the program not only
 offers to pay students for contributing, but more importantly, offers an
 opportunity to recruit new developers who will hopefully go on to become
 regular, sustaining contributors.
-
-Facts & Links:
-
--   [GSoC 2014 time
-    line](http://www.google-melange.com/gsoc/events/google/gsoc2014)
--   For questions of eligibility, see the [GSoC 2014
-    FAQ](http://www.google-melange.com/gsoc/document/show/gsoc_program/google/gsoc2014/help_page).
--   There is also a [Google group for posting GSoC
-    questions](http://groups.google.com/group/google-summer-of-code-discuss)
-    (and receiving answers; note that you will need to sign up for
-    the group) that relate to the program itself (and are not specific
-    to our organization).
--   Students receive a stipend from Google if accepted. See the [GSoC
-    2014
-    FAQ](http://www.google-melange.com/gsoc/document/show/gsoc_program/google/gsoc2014/help_page)
-    for full documentation.
--   Google expects to accept around 180 mentoring organizations
-    this year.
--   Development is done entirely remotely and on-line, there is no
-    requirement or expectation for either students or mentors to travel.
 
 GSoC 2014
 ---------
