@@ -441,7 +441,7 @@ Java, some basic understanding of visualization algorithms
 
 <!-- -->
 
-Potential Mentor  
+Mentors  
 Andreas Dräger
 
 [BioPython](biopython:Google_Summer_of_Code "wikilink")
