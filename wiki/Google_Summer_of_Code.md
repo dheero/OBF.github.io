@@ -144,7 +144,7 @@ Language (SMBL)](http://sbml.org/GSoC2014)
 
 :\* [BioInterchange: Convert and Exchange Biological File Formants using
 RESTful web
-service](http://www.open-bio.org/wiki/Cross_Projects#CrossBioInterchange)
+service](http://www.open-bio.org/wiki/Cross_Projects#Cross_BioInterchange)
 
 [BioPerl](http://bioperl.org/wiki/Google_Summer_of_Code):  
 
