@@ -137,6 +137,11 @@ Mentor names and project ideas are hosted on each member project's wiki
 on a dedicated Google Summer of Code page. See each of the member
 projects, linked below, for more details about any project:
 
+Cross-project ideas:  
+
+:\* [Native and JVM-based support for the Systems Biology Markup
+Language (SMBL)](http://sbml.org/GSoC2014)
+
 [BioPerl](http://bioperl.org/wiki/Google_Summer_of_Code):  
 
 :\* [NGS-friendly BioPerl
@@ -175,27 +180,10 @@ Parsers](http://biopython.org/wiki/Google_Summer_of_Code#Indexing_.26_Lazy-loadi
 using Scala Actors and
 JRuby](http://bioruby.open-bio.org/wiki/Google_Summer_of_Code#A_parallelized_framework_for_processing_large_numbers_of_VCF_files_using_Scala_Actors_and_JRuby)
 
-:\* [D3 based graphics package for
-Bioinformatics](http://bioruby.open-bio.org/wiki/Google_Summer_of_Code#D3_based_graphics_package_for_Bioinformatics)
-
-:\* [Semantic web/RDF support for
-Bioinformatics](http://bioruby.open-bio.org/wiki/Google_Summer_of_Code#Semantic_web.2FRDF_support_for_Bioinformatics)
-
-:\* [Machine Learning & Data Mining Algorithms for
-Ruby](http://bioruby.open-bio.org/wiki/Google_Summer_of_Code#Machine_Learning_.26_Data_Mining_Algorithms_for_Ruby)
-
-:\* [Create a dynamic and social web portal for Bioinformatics
-packages](http://bioruby.open-bio.org/wiki/Google_Summer_of_Code#Create_a_dynamic_and_social_web_portal_for_Bioinformatics_packages)
-
 [BioHaskell](http://biohaskell.org/Google_Summer_of_Code):  
 
 :\* [Optimizing a novel, very sensitive alignment
 method](http://biohaskell.org/Google_Summer_of_Code#Optimizing_transalign)
-
-Cross-project ideas:  
-
-:\* [Native and JVM-based support for the Systems Biology Markup
-Language (SMBL)](http://sbml.org/GSoC2014)
 
 OBF Projects Accepting Applicants
 ---------------------------------
