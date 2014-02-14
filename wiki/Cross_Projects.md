@@ -5,7 +5,7 @@ title: Cross Projects
 Project Ideas
 -------------
 
-#### CrossBioInterchance
+#### Cross BioInterchance
 
 Rationale  
 
