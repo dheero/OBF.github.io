@@ -4,6 +4,11 @@ title: Google Summer of Code
 
 ![](gsoc214-banner.png "gsoc214-banner.png")
 
+GSoC 2014
+---------
+
+### Introduction
+
 Google Summer of Code (GSoC) is a student internship program for
 open-source projects. The program offers eligible student developers
 stipends to write code for open source projects over a period of 3
@@ -12,7 +17,14 @@ Code Main Site](http://code.google.com/soc)** for general information
 about the Google Summer of Code program, how to apply, frequently asked
 general questions, and more.
 
-Facts & Links:
+The Google Summer of Code 2014 is ON! OBF is once again applying as a
+mentoring organization this year. Interested mentors and students should
+subscribe to the OBF/GSoC [mailing
+list](http://lists.open-bio.org/mailman/listinfo/gsoc). Please announce
+yourself, so we know who you are! The details of each of our project
+ideas are listed below, including potential mentors.
+
+### Facts & Links
 
 -   [GSoC 2014 time
     line](http://www.google-melange.com/gsoc/events/google/gsoc2014)
@@ -30,8 +42,7 @@ Facts & Links:
 -   Development is done entirely remotely and on-line; there is no
     requirement or expectation for either students or mentors to travel.
 
-Why apply?
-----------
+### Why apply?
 
 One of the most important features of the program is that students are
 paired with mentors, who are typically experienced developers from the
@@ -52,29 +63,8 @@ offers to pay students for contributing, but more importantly, offers an
 opportunity to recruit new developers who will hopefully go on to become
 regular, sustaining contributors.
 
-GSoC 2014
----------
-
-The Google Summer of Code 2014 is ON! OBF is once again applying as a
-mentoring organization this year. Interested mentors and students should
-subscribe to the OBF/GSoC [mailing
-list](http://lists.open-bio.org/mailman/listinfo/gsoc). Please announce
-yourself, so we know who you are!
-
-### Introduction
-
-Our GSoC ideas from each project are collected here: **[OBF Project
-Ideas for GSoC 2014](Google_Summer_of_Code_2014_Ideas "wikilink")**
-
-The details of each of our project ideas are listed below, including
-potential mentors. Interested mentors and students should subscribe to
-the OBF/GSoC [mailing
-list](http://lists.open-bio.org/mailman/listinfo/gsoc) and announce
-their interest.
-
-See the main OBF [Google Summer of
-Code](Google_Summer_of_Code "wikilink") page for more information about
-the GSoC program and additional ways to get in touch with us.
+Projects 2014
+-------------
 
 ### Cross-project ideas
 
