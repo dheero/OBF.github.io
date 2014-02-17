@@ -112,7 +112,7 @@ interchange service for different languages.
 <!-- -->
 
 Approach  
-The project will identify the most common and used file formants for all
+The project will identify the most common and used file formats for all
 the currently used language under OBF and will design a RESTful API and
 will project an implementation for all the supported languages.
 BioInterchange was developed with Ruby but the scope of the project is
