@@ -26,10 +26,18 @@ ideas are listed below, including potential mentors.
 
 ### Facts & Links
 
+==== Time Line ===
+
 -   [GSoC 2014 time
     line](http://www.google-melange.com/gsoc/events/google/gsoc2014)
+
+#### GSoC 2014 FAQ
+
 -   For questions of eligibility, see the [GSoC 2014
     FAQ](http://www.google-melange.com/gsoc/document/show/gsoc_program/google/gsoc2014/help_page).
+
+#### Info from Google
+
 -   There is also a [Google group for posting GSoC
     questions](http://groups.google.com/group/google-summer-of-code-discuss)
     (and receiving answers; note that you will need to sign up for
