@@ -4,11 +4,6 @@ title: Google Summer of Code
 
 ![](gsoc214-banner.png "gsoc214-banner.png")
 
-GSoC 2014
----------
-
-### Introduction
-
 Google Summer of Code (GSoC) is a student internship program for
 open-source projects. The program offers eligible student developers
 stipends to write code for open source projects over a period of 3
@@ -16,6 +11,9 @@ summer months ("flip bits, not burgers"). See the **[Google Summer of
 Code Main Site](http://code.google.com/soc)** for general information
 about the Google Summer of Code program, how to apply, frequently asked
 general questions, and more.
+
+GSoC 2014
+---------
 
 The Google Summer of Code 2014 is ON! OBF is once again applying as a
 mentoring organization this year. Interested mentors and students should
@@ -26,29 +24,31 @@ ideas are listed below, including potential mentors.
 
 ### Facts & Links
 
-#### Time Line
+Time Line :  
 
--   [GSoC 2014 time
-    line](http://www.google-melange.com/gsoc/events/google/gsoc2014)
+:\* [GSoC 2014 time
+line](http://www.google-melange.com/gsoc/events/google/gsoc2014)
 
-#### GSoC 2014 FAQ
+GSoC 2014 FAQ :  
 
--   For questions of eligibility, see the [GSoC 2014
-    FAQ](http://www.google-melange.com/gsoc/document/show/gsoc_program/google/gsoc2014/help_page).
+:\* For questions of eligibility, see the [GSoC 2014
+FAQ](http://www.google-melange.com/gsoc/document/show/gsoc_program/google/gsoc2014/help_page).
 
-#### Info from Google
+Info from Google :  
 
--   There is also a [Google group for posting GSoC
-    questions](http://groups.google.com/group/google-summer-of-code-discuss)
-    (and receiving answers; note that you will need to sign up for
-    the group) that relate to the program itself (and are not specific
-    to our organization).
--   Students receive a stipend from Google if accepted. See the [GSoC
-    2014
-    FAQ](http://www.google-melange.com/gsoc/document/show/gsoc_program/google/gsoc2014/help_page)
-    for full documentation.
--   Development is done entirely remotely and on-line; there is no
-    requirement or expectation for either students or mentors to travel.
+:\* There is also a [Google group for posting GSoC
+questions](http://groups.google.com/group/google-summer-of-code-discuss)
+(and receiving answers; note that you will need to sign up for the
+group) that relate to the program itself (and are not specific to our
+organization).
+
+:\* Students receive a stipend from Google if accepted. See the [GSoC
+2014
+FAQ](http://www.google-melange.com/gsoc/document/show/gsoc_program/google/gsoc2014/help_page)
+for full documentation.
+
+:\* Development is done entirely remotely and on-line; there is no
+requirement or expectation for either students or mentors to travel.
 
 ### Why apply?
 
