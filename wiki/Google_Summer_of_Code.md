@@ -103,7 +103,7 @@ serialization implementations were provided by Joachim Baran, Geraint
 Duck provided JSON and XML deserialization implementations and
 contributed to architecture decisions, guidance on ontology use and
 applications were given by Kevin B. Cohen and Michel Dumontier, where
-Michel brought forward and extended the Semanticscience Integrated
+Michel brought forward and extended the Semantic science Integrated
 Ontology (SIO). Jin-Dong Kim helped to define ontology relationships for
 RDFizing DBCLS' PubAnnotation category annotations. The main idea is to
 have a central service with can be used as a validator and as
