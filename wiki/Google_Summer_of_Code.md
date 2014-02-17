@@ -26,7 +26,7 @@ ideas are listed below, including potential mentors.
 
 ### Facts & Links
 
-==== Time Line ===
+#### Time Line
 
 -   [GSoC 2014 time
     line](http://www.google-melange.com/gsoc/events/google/gsoc2014)
