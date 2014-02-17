@@ -61,9 +61,6 @@ subscribe to the OBF/GSoC [mailing
 list](http://lists.open-bio.org/mailman/listinfo/gsoc). Please announce
 yourself, so we know who you are!
 
-Organization administrator: Eric Talevich (<eric.talevich@gmail.com>)  
-Backup administrator: Raoul Bonnal ([email](mailto:ilpuccio.febo@gmail.com)) (IRC: helius | channels: \#obf-soc, \#bioruby, \#gsoc ) (Skype: ilpuccio)  
-
 Project Ideas
 -------------
 
@@ -290,6 +287,11 @@ students should know and guidelines we expect you to
 follow](#What_should_prospective_students_know.3F "wikilink"). We also
 require that you include certain information, listed below, under "[When
 you apply](#When_you_apply "wikilink")."
+
+### Staff and org Admins
+
+Organization administrator: Eric Talevich (<eric.talevich@gmail.com>)  
+Backup administrator: Raoul Bonnal ([email](mailto:ilpuccio.febo@gmail.com)) (IRC: helius | channels: \#obf-soc, \#bioruby, \#gsoc ) (Skype: ilpuccio)  
 
 ### Google Plus
 
