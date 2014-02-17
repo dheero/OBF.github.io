@@ -15,6 +15,15 @@ the GSoC program and additional ways to get in touch with us.
 Cross-project ideas
 -------------------
 
+OBF is an umbrella organization which represents many different
+programming languages used in
+[bioinformatics](http://en.wikipedia.org/wiki/Bioinformatics). These
+cross-language project ideas involve making two or more languages work
+together, taking advantage of the strengths of each to support solving
+real scientific problems. We encourage students and mentors to propose
+collaborative projects where more than one language is used and
+exploited.
+
 ### BioInterchange: Convert and Exchange Biological File Formants using RESTful web service
 
 Rationale  
@@ -54,7 +63,7 @@ be possible.
 Difficulty and needed skills  
 The project is mid / high difficulty, aimed at talented students.
 Previous knowledge of Ruby or other scripting language is preferred and
-flexibility in learning other languages is requireed.
+flexibility in learning other languages is required.
 
 The project requires  
 Knowledge of advanced programming languages and meta-programming and
