@@ -62,7 +62,7 @@ list](http://lists.open-bio.org/mailman/listinfo/gsoc). Please announce
 yourself, so we know who you are!
 
 Organization administrator: Eric Talevich (<eric.talevich@gmail.com>)  
-Backup administrator: Raoul Bonnal ([email](mailto:ilpuccio.febo@gmail.com)) (IRC: helius | channels: \#obf-soc, \#bioruby, \#gsoc)  
+Backup administrator: Raoul Bonnal ([email](mailto:ilpuccio.febo@gmail.com)) (IRC: helius | channels: \#obf-soc, \#bioruby, \#gsoc ) (Skype: ilpuccio)  
 
 Project Ideas
 -------------
