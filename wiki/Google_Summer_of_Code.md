@@ -74,18 +74,6 @@ regular, sustaining contributors.
 Project Ideas
 -------------
 
-OBF is an umbrella organization which represents many different
-programming languages used in
-[Bioinformatics](http://en.wikipedia.org/wiki/Bioinformatics). Languages
-like Perl, Java, Python, Haskell and Ruby (etc...) coexisted for a long
-time, each of them with their user base and their specific features. We
-believe that the true power of having a so heterogeneous eco system is
-to make them working all together for the main purpose of advancing
-science, we propose OBF CROSS PROJECTs for GSoC 2014 and we encourage
-students and mentors to propose collaborative projects where more than
-one language is used and exploited, a sort of Language As A Service
-(LAAS).
-
 Our GSoC ideas from each project are collected here: **[OBF Project
 Ideas for GSoC 2014](Google_Summer_of_Code_2014_Ideas "wikilink")**
 
