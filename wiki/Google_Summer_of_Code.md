@@ -88,7 +88,7 @@ one language is used and exploited, a sort of Language As A Service
 
 ### Cross-project ideas
 
-#### BioInterchange: Convert and Exchange Biological File Formants using RESTful web service
+#### BioInterchange: Convert and Exchange Biological File Formats using RESTful web service
 
 Rationale  
 [BioInterchange](http://www.biointerchange.org/index.html) Interchange
