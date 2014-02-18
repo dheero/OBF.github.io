@@ -69,6 +69,11 @@ software development, and software engineering.
 
 Dr. Brown's topic is "A History of Bioinformatics (in the year 2039)".
 
+*In 2039, I expect to look back at the last 25 years of biology and see
+both wonderful surprises and missed opportunities. In this talk, I will
+attempt to predict both some surprises and some of the opportunities I
+worry that we will have missed over the next 25 years.*
+
 ------------------------------------------------------------------------
 
 [Back to BOSC 2014 home page](BOSC_2014 "wikilink")
