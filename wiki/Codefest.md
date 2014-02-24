@@ -4,10 +4,10 @@ title: Codefest
 
 In recent years, typically before each annual [BOSC](BOSC "wikilink")
 meeting the OBF has organised an informal two day "Coding Festival", or
-Codefest. Like similar "Hackathon" (hacking marathon) or programming
-"Sprint" events, these are programmer orientated and are intended to
-foster collaborations amongst the international bioinformatics
-community.
+Codefest. Like similar "[Hackathon](Hackathon "wikilink")" (hacking
+marathon) or programming "Sprint" events, these are programmer
+orientated and are intended to foster collaborations amongst the
+international bioinformatics community.
 
 -   [Codefest 2010](Codefest_2010 "wikilink") in Boston
 -   [Codefest 2011](Codefest_2011 "wikilink") in Vienna
