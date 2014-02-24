@@ -59,12 +59,7 @@ Location
 Cambridge, has agreed to host us for the two days. It's located a short
 walk from the Kendall Square Red Line [T stop](http://mbta.com/):
 
-<iframe width="425" height="350" frameborder="0" scrolling="no" marginheight="0"
-marginwidth="0"
-src="https://maps.google.com/maps?q=275+3rd+St.,+Cambridge,+MA,+02142&amp;ie=UTF8&amp;hq=&amp;hnear=275+Third+St,+Cambridge,+Massachusetts+02142&amp;gl=us&amp;ll=42.365946,-71.082573&amp;spn=0.011558,0.026114&amp;t=m&amp;z=14&amp;output=embed"></iframe>  
-<small><a
-href="https://maps.google.com/maps?q=275+3rd+St.,+Cambridge,+MA,+02142&amp;ie=UTF8&amp;hq=&amp;hnear=275+Third+St,+Cambridge,+Massachusetts+02142&amp;gl=us&amp;ll=42.365946,-71.082573&amp;spn=0.011558,0.026114&amp;t=m&amp;z=14&amp;source=embed"
-style="color:#0000FF;text-align:left">View Larger Map</a></small>
+[Google maps](http://goo.gl/maps/c8qkV)
 
 Organizers
 ----------
