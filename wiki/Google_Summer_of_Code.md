@@ -15,9 +15,11 @@ general questions, and more.
 GSoC 2014
 ---------
 
-The Google Summer of Code 2014 is ON! OBF is once again applying as a
-mentoring organization this year. Interested mentors and students should
-subscribe to the OBF/GSoC [mailing
+The Google Summer of Code 2014 is ON! OBF is once again serving as a
+[GSoC mentoring
+organization](http://www.google-melange.com/gsoc/org2/google/gsoc2014/obf)
+this year. Interested mentors and students should subscribe to the
+OBF/GSoC [mailing
 list](http://lists.open-bio.org/mailman/listinfo/gsoc). Please announce
 yourself, so we know who you are! The details of each of our project
 ideas are listed below, including potential mentors.
