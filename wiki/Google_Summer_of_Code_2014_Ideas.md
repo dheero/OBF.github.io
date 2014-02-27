@@ -111,9 +111,9 @@ Andreas Dräger, Alex Thomas
 -   IRC: `#bioperl` on [Freenode](http://freenode.net)
 -   [Information for new developers](bp:Becoming_a_developer "wikilink")
 -   Source code browser for
-    [bioperl-live](http://code.open-bio.org/svnweb/index.cgi/bioperl/browse/bioperl-live/trunk)
-    (the main BioPerl code base), and [all BioPerl
-    sub-projects](http://code.open-bio.org/svnweb/index.cgi/bioperl/)
+    [bioperl-live](https://github.com/bioperl/bioperl-live) (the main
+    BioPerl code base), and [all BioPerl
+    sub-projects](https://github.com/bioperl)
 -   [Priority list](bp:Project_priority_list "wikilink") of things that
     need work, as another source for student-conceived project ideas
 
