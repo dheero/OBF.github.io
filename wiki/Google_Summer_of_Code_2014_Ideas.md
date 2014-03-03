@@ -24,6 +24,46 @@ real scientific problems. We encourage students and mentors to propose
 collaborative projects where more than one language is used and
 exploited.
 
+### Integrate basic Bioconductor functionalities in fastr (Java/R)
+
+Rationale  
+R is a free software programming language and software environment for
+statistical computing and graphics. The R language is widely used among
+statisticians and data miners for developing statistical software and
+data analysis. Nevertheless, R is hard to mantain and evolve, lacks Java
+portability and is characterized by low performances. The FastR
+project (http://www.oracle.com/technetwork/java/jvmls2013vitek-2013524.pdf)
+aims to rethink how to implement R, by leveraging well tested
+technologies to build a high performance VM. FastR is an implementation
+of the R programming language in Java using AST interpretation and
+specialisation for improved performance. The implementation has been
+extended to support JIT compilation, leading to
+performance improvements.
+
+The fastR project has been presented to the useR! conference 2013, and
+it is now actively developed at <https://bitbucket.org/allr/fastr>.
+
+Approach  
+The goal of this project would be to carry on the FastR development by
+expanding the set of supported R data types, possibly integrating some
+basic functionalities from Bioconductor which will be extended in
+the future.
+
+<!-- -->
+
+Required skills  
+Moderate technical difficulty, an interest in statistical problem
+solving is a plus but not essential. This project requires mid/advanced
+Java programming skills
+
+<!-- -->
+
+Reference to other projects: R, BioJava, Jruby  
+
+<!-- -->
+
+(Possible) mentors: Jan Vitek, Alberto Arrigoni  
+
 ### BioInterchange: Convert and Exchange Biological File Formants using RESTful web service
 
 Rationale  
