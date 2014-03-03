@@ -24,6 +24,69 @@ real scientific problems. We encourage students and mentors to propose
 collaborative projects where more than one language is used and
 exploited.
 
+### Improve SegAnnDB interactive genomic segmentation web app
+
+Rationale  
+[SegAnnDB](http://bioviz.rocq.inria.fr) is an open-source web site for
+interactive genomic segmentation of DNA copy number profiles, [published
+in
+Bioinformatics](http://bioinformatics.oxfordjournals.org/content/early/2014/02/03/bioinformatics.btu072.short).
+It combines previous work on data visualization, computer vision, and
+machine learning into a web site that uses annotated regions to build a
+user-specific segmentation model. YouTube videos explain how it works:
+[basic annotation](https://www.youtube.com/watch?v=BuB5RNASHjU),
+[annotating and exporting high-density
+profiles](https://www.youtube.com/watch?v=al0kk1JWsr0). The goal of this
+project is to add administrative and social features to SegAnnDB.
+
+<!-- -->
+
+Approach  
+The ideal student project would propose to
+
+-   Add social features for sharing annotations. SegAnnDB currently lets
+    a user login using Mozilla Persona and then add
+    user-specific annotations. These annotations are currently only
+    accessible to the user that creates them, but it would be nice to be
+    able to share them with others. For example, Alice annotates some
+    data then types the email address of her friend Bob into a web form.
+    Bob then receives an email with a web link where he can view
+    Alice's annoatations.
+-   Add adminstrative features. SegAnnDB uses BerkeleyDB, which is very
+    fast but makes updating and deleting profiles a bit tricky. I have
+    started writing a view (plotter.views.delete\_profiles) for profile
+    deletion along with some database
+    support (plotter.db.Profile.delete).
+-   Add unit tests using [Pyramid
+    recommendations](http://docs.pylonsproject.org/en/latest/community/testing.html),
+    for example when a profile is processed (plotter.db.Profile.process)
+    test for presence of objects in the database, and then when the
+    profile is deleted, check for deletion of relvant objects and files
+    (PNG scatterplots, probes.bedGraph.gz data).
+-   Add support for browsers that do not render large PNG images.
+    SegAnnDB uses very large PNGs to efficiently visualize DNA copy
+    number profiles, but these are not supported by all browsers and
+    [you can test your browser's support on this web
+    page](http://sugiyama-www.cs.titech.ac.jp/~toby/images/).
+
+Required skills  
+JavaScript and Python. Experience with [D3](http://d3js.org/) and
+[Pyramid](http://www.pylonsproject.org/projects/pyramid/about) web
+framework a plus.
+
+<!-- -->
+
+Code  
+SegAnnDB is implemented as a Pyramid web app with a
+D3/JavaScript interface. Download the source code with
+
+`svn checkout svn://scm.gforge.inria.fr/svnroot/breakpoints/webapp/pyramid SegAnnDB`
+
+and then check NOTES.sh for installation instructions, and email me if
+anything is unclear.
+
+Mentors: Toby Dylan Hocking tdhock5@gmail.com plus anyone else with experience with D3/Pyramid is welcome to help!  
+
 ### Integrate basic Bioconductor functionalities in fastr (Java/R)
 
 Rationale  
