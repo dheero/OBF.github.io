@@ -49,7 +49,10 @@ expanding the set of supported R data types, possibly integrating some
 basic functionalities from Bioconductor which will be extended in
 the future.
 
-<!-- -->
+The strength of this approach lies in the possibility for R users to
+access the vast Java ecosystem, and to expand further the
+inter-operability of R packages and workflows by using other languages
+built on Java, like JRuby and Jython.
 
 Required skills  
 Moderate technical difficulty, an interest in statistical problem
