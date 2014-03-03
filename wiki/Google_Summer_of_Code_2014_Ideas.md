@@ -30,8 +30,8 @@ Rationale
 R is a free software programming language and software environment for
 statistical computing and graphics. The R language is widely used among
 statisticians and data miners for developing statistical software and
-data analysis. Nevertheless, R is hard to mantain and evolve, lacks Java
-portability and is characterized by low performances. The FastR
+data analysis. Despite this, R is hard to mantain and evolve, lacks
+portability features and is characterized by low performance. The FastR
 project (http://www.oracle.com/technetwork/java/jvmls2013vitek-2013524.pdf)
 aims to rethink how to implement R, by leveraging well tested
 technologies to build a high performance VM. FastR is an implementation
