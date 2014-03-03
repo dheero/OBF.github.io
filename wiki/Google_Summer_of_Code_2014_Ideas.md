@@ -58,11 +58,11 @@ Java programming skills
 
 <!-- -->
 
-Reference to other projects: R, BioJava, Jruby  
+Reference to other projects: BioJava, R, BioRuby, Jruby, Jython  
 
 <!-- -->
 
-(Possible) mentors: Jan Vitek, Alberto Arrigoni  
+Mentors: Jan Vitek, Alberto Arrigoni  
 
 ### BioInterchange: Convert and Exchange Biological File Formants using RESTful web service
 
