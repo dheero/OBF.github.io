@@ -518,12 +518,15 @@ Difficulty and needed skills : Medium. Familiarity with SeqIO modules and Perl i
 
 Mentors : To be determined. [Kjetil Kjernsmo](http://bioperl.org/wiki/User:Kjetilk) can help mentor students wishing to explore the RDF::Trine direction.  
 
-[BioJava](http://biojava.org/wiki/Google_Summer_of_Code)
---------------------------------------------------------
+[BioJava](http://biojava.org/wiki/Google_Summer_of_Code) and JSBML
+------------------------------------------------------------------
 
 ![](Biojava_logo_tiny.jpg "Biojava_logo_tiny.jpg")
 
--   [Mailing lists](http://biojava.org/wiki/BioJava:MailingLists)
+-   [BioJava developer mailing
+    list](http://lists.open-bio.org/mailman/listinfo/biojava-dev)
+-   [JSBML developer mailing
+    list](https://groups.google.com/forum/#!forum/jsbml-development)
 -   [BioJava modules](http://biojava.org/wiki/BioJava:Modules) as
     another source for student-conceived project ideas
 -   Source code for
@@ -536,6 +539,11 @@ Language (SMBL) team to bring enhancements to JSBML, the standard Java
 implementation of SBML, and bring SBML features to other Java-based
 systems biology software. See [the SMBL
 website](http://sbml.org/GSoC2014) for more ideas from the SBML team.
+
+Students working on these projects will interact with both the BioJava
+and JSBML communities, which overlap. Most development will happen on
+the JSBML codebase, although BioJava is used as a supporting library for
+some components.
 
 ### Add support for Schema-based validation of SBML
 
