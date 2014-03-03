@@ -143,6 +143,96 @@ Java, optional: Matlab, Python, (other language)
 Mentors  
 Andreas Dräger, Alex Thomas
 
+### bionode - A Node.js JavaScript library for client and server side bioinformatics
+
+Rationale  
+During the development of a web front-end or software with a
+web-interface, it often becomes clear that a component implemented for
+the server-side must be performed on the client side, or vice-versa.
+This generally requires functionalities implemented in one language to
+be reimplemented in another. Recent developments in Javascript make
+this unnecessary. Indeed, JavaScript has become a “write once run
+everywhere” full stack programming language that can be executed in the
+browser as well as on the server (thanks to Node.js). The
+web-development community is enthusiastically embracing this technology.
+In the last year, Node.js modules increased [2.6-fold to a total of
+61656](http://modulecounts.com). The average growth rate is 175 modules
+per day, which means that it will quickly surpass Java (71906) and
+Ruby (71446) having already surpassed all the other languages (e.g.,
+Perl: 29097; Python: 40455).
+
+<!-- -->
+
+  
+Consistent with this, web applications for visualizing or interacting
+with biological data increasingly rely on javascript (e.g.
+[jBrowse](http://jbrowse.org),
+[WebApollo](http://apollo.berkeleybop.org),
+[Biodalliance](http://biodalliance.org), etc). Surprisingly however, no
+generic javascript bioinformatics library yet exists, leading
+independent projects to redundantly implement basic functionality. Here,
+we propose to develop bionode a core javascript library for handling and
+analyzing bioinformatics data - mirroring the core functionality of
+established bio\* libraries (e.g. bioperl, bioruby).
+
+<!-- -->
+
+  
+This will be done in close collaboration with the developers of
+[BioJS](http://rostlab.org/services/biojs/gsoc.html) (who build reusable
+components for visualization of biological data) and of
+[WebApollo](http://apollo.berkeleybop.org)/[Afra](http://github.com/yeban/afra)
+(a gene prediction curation software) for immediate
+short-term applications. Importantly, we expect the long-term interest
+for a bioinformatics javascript library to be huge.
+
+<!-- -->
+
+Approach  
+We already seeded this project: [bionode](http://bionode.io) is a
+Node.js module with some bioinformatics methods that work on the client
+and server side.
+
+Under the supervision of the mentor(s), the GSoC student will add more
+methods/algorithms to the bionode project. The student could take
+inspiration from other similar libraries in other programming languages,
+such as [bioperl](http://bioperl.org/wiki/Main_Page) or
+[bioruby](http://bioruby.open-bio.org/wiki). Methods for input/output
+and wrangling basic data types should be given a higher priority at the
+beginning of this projects. For example, implementing some of the
+functions of [biopython.SeqIO](http://biopython.org/wiki/SeqIO) could be
+a project. Another source for inspiration could come from Massive Open
+Online Course, such as the [“Bioinformatics
+Algorithms”](http://www.coursera.org/course/bioinformatics) from the
+University of California, San Diego.
+
+<!-- -->
+
+Challenges  
+Methods provided should be able to run on a server environment
+(via Node.js) or browser environment (via webpack or browserify). Thus,
+the module pattern used should be the one used by Node.js (CommonJS).
+
+Good programming practices should be used, the code should be clear,
+well documented and unit tested. Furthermore, relevant examples should
+be provided for novice users (i.e. biologists who are just learning
+to program).
+
+<!-- -->
+
+Difficulty and needed skills  
+The student should ideally have an very good knowledge of JavaScript and
+basic knowledge of bioinformatics/biology.
+
+Experience using GitHub for collaboration would be a big plus.
+
+<!-- -->
+
+Mentors  
+Bruno Vieira ([@bmpvieira](http://twitter.com/bmpvieira))
+&lt;<mail@bmpvieira.com>&gt;, Yannick Wurm
+([@yannick\_\_](http://twitter.com/yannick__))
+
 [BioPerl](http://bioperl.org/wiki/Google_Summer_of_Code)
 --------------------------------------------------------
 
