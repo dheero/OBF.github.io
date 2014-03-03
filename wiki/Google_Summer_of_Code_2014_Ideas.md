@@ -41,7 +41,8 @@ extended to support JIT compilation, leading to
 performance improvements.
 
 The fastR project has been presented to the useR! conference 2013, and
-it is now actively developed at <https://bitbucket.org/allr/fastr>.
+it is now being actively developed at
+<https://bitbucket.org/allr/fastr>.
 
 Approach  
 The goal of this project would be to carry on the FastR development by
