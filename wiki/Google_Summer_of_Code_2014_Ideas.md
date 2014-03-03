@@ -790,4 +790,50 @@ development
 Mentor:  
 Ketil Malde (ketil@malde.org)
 
+[Biocaml](http://biocaml.org)
+-----------------------------
+
+:\* [Mailing List](https://groups.google.com/d/forum/biocaml)
+
+### Bioinformatics Js\_of\_ocaml Visualization Toolkit
+
+Rationale  
+[OCaml](http://ocaml.org) is a strong statically typed functional
+programming language. Usually one does not consider such languages for
+front-end development, but the Js\_of\_ocaml compiler is causing OCaml
+to be more widely used for building websites.
+[Js\_of\_ocaml](http://ocsigen.org/js_of_ocaml/) compiles OCaml code to
+pure Javascript and the generated Javascript has [very good
+performance](http://ocsigen.org/js_of_ocaml/manual/performances). On the
+other hand, bioinformatics data analysis needs to be conducted by a
+broader range of users, which requires more elegant user interfaces with
+high quality data visualization.
+
+<!-- -->
+
+Approach  
+Write an OCaml library that can be used to visualize large data sets
+efficiently and interactively in the browser. The library should be
+smart enough to work on the client side when possible, but make server
+side calls when necessary. You may want to use
+[Eliom](http://ocsigen.org/eliom/) for this purpose. You can connect to
+parsers and data structures available in [Biocaml](http://biocaml.org)
+as needed. As demonstration of success, it should be possible to create
+genome visualizations like that of the [UCSC genome
+browser](http://genome.ucsc.edu/cgi-bin/hgGateway) and protein
+interaction networks like that of
+[Cytoscape](http://www.cytoscape.org/).
+
+<!-- -->
+
+Difficulty and needed skills  
+
+This project is for intermediate to advanced programmers. You will need
+to be already familiar with OCaml (or closely related languages like F\#
+and Haskell) and have a basic understanding of Javascript and
+client/server programming.
+
+Mentor  
+[Ashish Agarwal](http://ashishagarwal.org) <agarwal1975@gmail.com>
+
 
