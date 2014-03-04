@@ -37,7 +37,7 @@ user-specific segmentation model. YouTube videos explain how it works:
 [basic annotation](https://www.youtube.com/watch?v=BuB5RNASHjU),
 [annotating and exporting high-density
 profiles](https://www.youtube.com/watch?v=al0kk1JWsr0). The goal of this
-project is to add administrative and social features to SegAnnDB.
+project is to add features to SegAnnDB.
 
 <!-- -->
 
@@ -68,6 +68,11 @@ The ideal student project would propose to
     number profiles, but these are not supported by all browsers and
     [you can test your browser's support on this web
     page](http://sugiyama-www.cs.titech.ac.jp/~toby/images/).
+-   Attempt integration with Galaxy, possibly as a [Visualization
+    Plugin](https://wiki.galaxyproject.org/VisualizationsRegistry).
+-   Integration of [SegAnnot and PrunedDP extension
+    modules](https://r-forge.r-project.org/scm/viewvc.php/python/?root=segannot)
+    into BioPython.
 
 Required skills  
 JavaScript and Python. Experience with [D3](http://d3js.org/) and
@@ -82,8 +87,8 @@ D3/JavaScript interface. Download the source code with
 
 `svn checkout svn://scm.gforge.inria.fr/svnroot/breakpoints/webapp/pyramid SegAnnDB`
 
-and then check NOTES.sh for installation instructions, and email me if
-anything is unclear.
+and then check 00\_INSTALL.sh for installation instructions, and email
+me if anything is unclear.
 
 Mentors: Toby Dylan Hocking tdhock5@gmail.com plus anyone else with experience with D3/Pyramid is welcome to help!  
 
