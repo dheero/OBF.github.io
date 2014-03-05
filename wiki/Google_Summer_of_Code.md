@@ -185,6 +185,15 @@ code](http://code.open-bio.org/svnweb/index.cgi/biosql/browse/biosql-schema/trun
 :\* [Bioinformatics section on
 HackageDB](http://hackage.haskell.org/packages/#cat:Bioinformatics)
 
+[Biocaml](http://biocaml.org) :  
+
+:\* [Project website](http://biocaml.org)
+
+:\* [Mailing list](https://groups.google.com/d/forum/biocaml)
+
+:\* [Project
+ideas](http://www.open-bio.org/wiki/Google_Summer_of_Code_2014_Ideas#Biocaml)
+
 Guide for prospective GSoC students
 -----------------------------------
 
