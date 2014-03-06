@@ -92,7 +92,7 @@ me if anything is unclear.
 
 Mentors: Toby Dylan Hocking tdhock5@gmail.com plus anyone else with experience with D3/Pyramid is welcome to help!  
 
-### Integrate basic Bioconductor functionalities in fastr (Java/R)
+### Integrate basic biological data analysis capabilities in fastR (Java/R)
 
 Rationale  
 R is a free software programming language and software environment for
@@ -134,7 +134,7 @@ Reference to other projects: BioJava, R, BioRuby, Jruby, Jython
 
 <!-- -->
 
-Mentors: Jan Vitek, Alberto Arrigoni  
+Mentors: Jan Vitek, Alberto Arrigoni \[arrigonialberto86@gmail.com\]  
 
 ### BioInterchange: Convert and Exchange Biological File Formants using RESTful web service
 
