@@ -17,12 +17,20 @@ Cross-project ideas
 
 OBF is an umbrella organization which represents many different
 programming languages used in
-[bioinformatics](http://en.wikipedia.org/wiki/Bioinformatics). These
-cross-language project ideas involve making two or more languages work
-together, taking advantage of the strengths of each to support solving
-real scientific problems. We encourage students and mentors to propose
-collaborative projects where more than one language is used and
-exploited.
+[bioinformatics](http://en.wikipedia.org/wiki/Bioinformatics). In
+addition to working with each of the "Bio\*" projects (listed below),
+this year we are also accepting a category of "cross-project" ideas that
+cover multiple programming languages or projects. These collaborative
+ideas are broadly defined and can be thought of as "unfinished" —
+interested students should adapt the ideas to their own strengths and
+goals, and are responsible for the quality of the final proposed idea in
+their application.
+
+**Feel free to propose your own entirely new idea**. You can also draw
+ideas from [Genome Informatics
+(GMOD)](http://gmod.org/wiki/GSoC#2014_Project_Ideas) and the [National
+Evolutionary Synthesis Center
+(NESCent)](http://informatics.nescent.org/wiki/Phyloinformatics_Summer_of_Code_2014).
 
 ### Improve SegAnnDB interactive genomic segmentation web app
 
