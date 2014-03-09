@@ -32,6 +32,71 @@ ideas from [Genome Informatics
 Evolutionary Synthesis Center
 (NESCent)](http://informatics.nescent.org/wiki/Phyloinformatics_Summer_of_Code_2014).
 
+### Language APIs for the Systems Biology Markup Language (SBML) through the JVM
+
+Rationale  
+The standard Java implementation of SBML,
+[JSBML](http://sbml.org/GSoC2014), is used as a parser for various
+Java-based systems biology applications. This fulfills one niche, but
+the versatility of the JVM can be utilized to employ JSBML as a parser
+for systems biology applications that are written in other languages.
+Also, JSBML undergoes an active community effort to be up-to-date with
+current SBML standards.
+
+<!-- -->
+
+Approach  
+This project will aim to present language APIs for languages that may
+want to employ the SBML structure without building a parser
+from scratch. Matlab, Mathematica, and Python APIs will be the focus for
+this project.
+
+<!-- -->
+
+Languages and skill  
+Java, optional: Matlab, Python, (other language)
+
+<!-- -->
+
+Mentors  
+Andreas Dräger, Alex Thomas
+
+### [WormBase: data visualization](http://gmod.org/wiki/GSoC#WormBase:_data_visualization)
+
+Rationale  
+[WormBase](http://www.wormbase.org) is a central data repository
+supporting the nematode research community. There are several areas of
+improvement for data visualization on the website, including some key
+points raised by the WormBase community.
+
+<!-- -->
+
+Approach  
+Here are a couple requests we've received from the community, but we are
+open to other ideas:
+
+-   Create a chromosome map tool - allow users to input and visualize
+    the position of genetic loci. (See [community request
+    \#1103](https://github.com/WormBase/website/issues/1103))
+-   Create a central dogma view to tie together our
+    gene/protein/sequence pages. (See [community request
+    \#557](https://bitbucket.org/tharris/wormbase/issue/557/add-central-dogma-nav-to-overview))
+
+The website's back-end is written in Perl, using some BioPerl as well as
+custom code. Significant work on the back-end could lead to or involve
+BioPerl improvements, as well.
+
+<!-- -->
+
+Languages and skills  
+Front-end: Javascript, HTML5, JS graphical library of your choice (e.g.
+D3). Back-end: some Perl, including BioPerl.
+
+<!-- -->
+
+Mentor(s)  
+Abigail Cabunoc <abigail.cabunoc@oicr.on.ca>, others welcome
+
 ### Improve SegAnnDB interactive genomic segmentation web app
 
 Rationale  
@@ -193,35 +258,6 @@ some concept in parallelizing and web services design.
 
 Mentors  
 Raoul J.P. Bonnal, Francesco Strozzi, Toshiaki Katayama, Joachim Baran
-
-### Language APIs for the Systems Biology Markup Language (SBML) through the JVM
-
-Rationale  
-The standard Java implementation of SBML,
-[JSBML](http://sbml.org/GSoC2014), is used as a parser for various
-Java-based systems biology applications. This fulfills one niche, but
-the versatility of the JVM can be utilized to employ JSBML as a parser
-for systems biology applications that are written in other languages.
-Also, JSBML undergoes an active community effort to be up-to-date with
-current SBML standards.
-
-<!-- -->
-
-Approach  
-This project will aim to present language APIs for languages that may
-want to employ the SBML structure without building a parser
-from scratch. Matlab, Mathematica, and Python APIs will be the focus for
-this project.
-
-<!-- -->
-
-Languages and skill  
-Java, optional: Matlab, Python, (other language)
-
-<!-- -->
-
-Mentors  
-Andreas Dräger, Alex Thomas
 
 ### bionode - A Node.js JavaScript library for client and server side bioinformatics
 
