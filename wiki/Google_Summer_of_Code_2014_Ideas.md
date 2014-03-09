@@ -84,7 +84,7 @@ open to other ideas:
 
 The website's back-end is written in Perl, using some BioPerl as well as
 custom code. Significant work on the back-end could lead to or involve
-BioPerl improvements, as well.
+BioPerl improvements.
 
 <!-- -->
 
