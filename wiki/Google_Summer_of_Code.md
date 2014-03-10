@@ -287,7 +287,8 @@ any questions, and promote overall community bonding.
 At the beginning of the summer, we ask that you set up a blog for the
 GSoC project (or a category/tag on your existing blog) which you will
 use to summarize your progress every week, as well as longer posts about
-your work if you'd like.
+your work if you'd like. (See [these](http://zruanweb.com/tag/gsoc.html)
+[examples](http://www.yeyanbo.com/tag/gsoc.html) from 2013.)
 
 Then, at the start of each week:
 
