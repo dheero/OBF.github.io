@@ -83,8 +83,8 @@ open to other ideas:
     \#557](https://bitbucket.org/tharris/wormbase/issue/557/add-central-dogma-nav-to-overview))
 
 The website's back-end is written in Perl, using some BioPerl as well as
-custom code. Significant work on the back-end could lead to or involve
-BioPerl improvements.
+custom code. If you do significant work on the back-end, this could lead
+to or involve BioPerl improvements.
 
 <!-- -->
 
