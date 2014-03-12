@@ -685,9 +685,9 @@ Nicolas Rodriguez, Nicolas Le Novère
 
 Rationale  
 One of the most frequently used programs in computational systems
-biology is CellDesigner. JSBML provides an interface that facilitates
-the development of plugins for this program. This interface has recently
-been revised and improved.
+biology is [CellDesigner](http://www.celldesigner.org/). JSBML provides
+an interface that facilitates the development of plugins for
+this program. This interface has recently been revised and improved.
 
 <!-- -->
 
