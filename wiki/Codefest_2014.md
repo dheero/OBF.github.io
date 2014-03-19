@@ -65,4 +65,5 @@ Organizers
 ----------
 
 -   [Brad Chapman](http://bcbio.wordpress.com/)
+-   [Michael Heuer](http://github.com/heuermh/)
 
