@@ -61,6 +61,16 @@ walk from the Kendall Square Red Line [T stop](http://mbta.com/):
 
 [Google maps](http://goo.gl/maps/c8qkV)
 
+Sponsors
+--------
+
+|                                                                                                                                                        |
+|--------------------------------------------------------------------------------------------------------------------------------------------------------|
+| ![Harbinger Partners logo|link=<http://harbinger-partners.com/>](harbinger_partners.jpg "Harbinger Partners logo|link=http://harbinger-partners.com/") |
+
+We thank [Harbinger Partners, Inc.](http://harbinger-partners.com/) for
+sponsoring the BOSC CodeFest 2014.
+
 Organizers
 ----------
 
