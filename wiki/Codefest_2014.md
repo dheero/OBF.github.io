@@ -55,10 +55,13 @@ so please sign up to receive updates.
 Location
 --------
 
+|                                                                                                                                |
+|--------------------------------------------------------------------------------------------------------------------------------|
+| ![hack/reduce logo|link=<http://www.hackreduce.org/>](hack-reduce-logo.png "hack/reduce logo|link=http://www.hackreduce.org/") |
+
 [hack/reduce](http://www.hackreduce.org/), a wonderful hacker space in
 Cambridge, has agreed to host us for the two days. It's located a short
 walk from the Kendall Square Red Line [T stop](http://mbta.com/):
-
 [Google maps](http://goo.gl/maps/c8qkV)
 
 Sponsors
