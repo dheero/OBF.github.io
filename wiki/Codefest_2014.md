@@ -73,9 +73,10 @@ house in Somerville to thank everyone for all the hard work.
 Sponsors
 --------
 
-|                                                                                                         |        |                                                                                                                                                        |
-|---------------------------------------------------------------------------------------------------------|--------|--------------------------------------------------------------------------------------------------------------------------------------------------------|
-| ![Curoverse logo|link=<http://curoverse.com>](Curoverse.png "Curoverse logo|link=http://curoverse.com") |        | ![Harbinger Partners logo|link=<http://harbinger-partners.com/>](HP-logo-no-tagline.png "Harbinger Partners logo|link=http://harbinger-partners.com/") |
+|                                                                                                         |          |                                                                                                                                                        |
+|---------------------------------------------------------------------------------------------------------|----------|--------------------------------------------------------------------------------------------------------------------------------------------------------|
+| ![Curoverse logo|link=<http://curoverse.com>](Curoverse.png "Curoverse logo|link=http://curoverse.com") |          | ![Harbinger Partners logo|link=<http://harbinger-partners.com/>](HP-logo-no-tagline.png "Harbinger Partners logo|link=http://harbinger-partners.com/") |
+| ![Arvados logo|link=<http://arvados.org>]( Arvados.png "Arvados logo|link=http://arvados.org")          |
 
 We thank [Curoverse](http://curoverse.com) and [Harbinger Partners,
 Inc.](http://harbinger-partners.com/) for sponsoring the BOSC CodeFest
