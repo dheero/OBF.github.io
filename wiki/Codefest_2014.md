@@ -75,7 +75,7 @@ Sponsors
 
 |                                                                                                                                                        |
 |--------------------------------------------------------------------------------------------------------------------------------------------------------|
-| ![Harbinger Partners logo|link=<http://harbinger-partners.com/>](harbinger_partners.jpg "Harbinger Partners logo|link=http://harbinger-partners.com/") |
+| ![Harbinger Partners logo|link=<http://harbinger-partners.com/>](HP-logo-no-tagline.png "Harbinger Partners logo|link=http://harbinger-partners.com/") |
 
 We thank [Harbinger Partners, Inc.](http://harbinger-partners.com/) for
 sponsoring the BOSC CodeFest 2014.
