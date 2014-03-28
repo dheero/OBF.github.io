@@ -68,6 +68,19 @@ See the following websites for further information:
 -   [Definition of the Open Source
     Philosophy](http://www.opensource.org/docs/definition.php)
 
+Free Registration for Student Presenters of Accepted Talks!
+-----------------------------------------------------------
+
+This year, for the first time, students who are the first authors of
+abstracts that are accepted for talks and who will present the talks at
+BOSC will receive FREE admission to BOSC. If you are a student who is
+submitting an abstract, please hold off on registering until you hear
+from us on May 1 about whether your abstract was accepted for a talk. We
+will send you special registration instructions at that time. (Note: the
+[early registration discount for
+BOSC/ISMB](http://www.iscb.org/ismb2014-registration) doesn’t end until
+Friday, June 6.)
+
 ------------------------------------------------------------------------
 
 [Back to BOSC 2014 home page](BOSC_2014 "wikilink")
