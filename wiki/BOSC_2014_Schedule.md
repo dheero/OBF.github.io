@@ -29,7 +29,7 @@ BOSC
 |-----------------|---------------------------------------------------------------------------------------------|---------------------------------------------------------------|
 | 7:30-9:00       | **Registration**                                                                            | Early arrival is recommended as there are usually long lines) |
 | 9:00-9:15       | Introduction and welcome                                                                    | Peter Cock and/or Nomi Harris (Chairs, BOSC 2014)             |
-| 9:15-10:15      | \[Keynote\]                                                                                 | Speaker                                                       |
+| 9:15-10:15      | [Keynote](BOSC_2014_Keynote_Speakers "wikilink")                                            | Speaker                                                       |
 | **10:15-10:45** | **Coffee Break**                                                                            |                                                               |
 | 10:45-12:30     | Session: One                                                                                | Chair: TBC                                                    |
 | **12:30-1:30**  | **Lunch**                                                                                   |                                                               |
