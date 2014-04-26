@@ -53,7 +53,7 @@ BOSC
 | 8:45            | Announcements                                                                               | Peter Cock and/or Nomi Harris (Chairs, BOSC 2014)       |
 | 8:50            | Codefest 2014 Report                                                                        | Brad Chapman                                            |
 | 9:00            | [Open Bioinformatics Foundation (OBF) update](http://www.open-bio.org/wiki/Main_Page)       | Hilmar Lapp (President, Open Bioinformatics Foundation) |
-| 9:15            | \[Keynote\]                                                                                 | Speaker                                                 |
+| 9:15            | | [Keynote](BOSC_2014_Keynote_Speakers "wikilink")                                          | Speaker                                                 |
 | **10:15-10:45** | **Coffee Break**                                                                            |                                                         |
 | 10:45-12:30     | Session: Four                                                                               | Chair: TBA                                              |
 | **12:30-1:30**  | **Lunch**                                                                                   |                                                         |
