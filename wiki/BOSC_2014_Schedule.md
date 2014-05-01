@@ -49,7 +49,7 @@ BOSC
 | Time            | Topic                                                                                                 | Speaker or Moderator                                    |
 |-----------------|-------------------------------------------------------------------------------------------------------|---------------------------------------------------------|
 | 8:45 - 8:50     | Announcements                                                                                         | Peter Cock and/or Nomi Harris (Chairs, BOSC 2014)       |
-| 8:50 - 9:00     | Codefest 2014 Report                                                                                  | Brad Chapman                                            |
+| 8:50 - 9:00     | [ Codefest 2014 Report](Codefest_2014 "wikilink")                                                     | Brad Chapman                                            |
 | 9:00 - 9:15     | [Open Bioinformatics Foundation (OBF) update](http://www.open-bio.org/wiki/Main_Page)                 | Hilmar Lapp (President, Open Bioinformatics Foundation) |
 | 9:15 - 10:15    | | [Keynote: Biomedical Research as an Open Digital Enterprise](BOSC_2014_Keynote_Speakers "wikilink") | Philip Bourne                                           |
 | **10:15-10:45** | **Coffee Break**                                                                                      |                                                         |
