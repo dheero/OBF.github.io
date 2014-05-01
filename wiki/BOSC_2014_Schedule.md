@@ -14,11 +14,11 @@ Codefest
 
 ### Codefest Day 1: Wednesday 9 July 2014
 
-See [Codefest\_2014](Codefest_2014 "wikilink") for details.
+See [ Codefest 2014](Codefest_2014 "wikilink") for details.
 
 ### Codefest Day 2: Thursday 10 July 2014
 
-See [Codefest\_2014](Codefest_2014 "wikilink") for details.
+See [ Codefest 2014](Codefest_2014 "wikilink") for details.
 
 BOSC
 ----
