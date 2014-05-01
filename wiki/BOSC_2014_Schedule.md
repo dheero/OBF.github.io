@@ -36,8 +36,8 @@ BOSC
 | 1:00-2:00       | **Poster Session I**                                                                             | (Overlapping with Lunch)                                     |
 | 14:00-15:30     | *Session: Visualization*                                                                         | Chair: TBA                                                   |
 | **15:30-16:00** | **Coffee Break**                                                                                 |                                                              |
-| 16:00-17:15     | *Session: Bioinformatics Open Source Project Updates*                                            | Chair: TBA                                                   |
-| 17:15-18:00     | Lightning Talks then [BOFs](BOSC_2014/BOFs "wikilink")                                           | Suggest a BOF topic [here!](BOSC_2014/BOFs "wikilink")       |
+| 16:00-17:00     | *Session: Bioinformatics Open Source Project Updates*                                            | Chair: TBA                                                   |
+| 17:00-18:00     | Lightning Talks then [BOFs](BOSC_2014/BOFs "wikilink")                                           | Suggest a BOF topic [here!](BOSC_2014/BOFs "wikilink")       |
 | 19:00           | Pay-your-own-way BOSC dinner                                                                     |                                                              |
 ||
 
