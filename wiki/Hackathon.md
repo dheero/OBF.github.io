@@ -21,6 +21,9 @@ conference](BOSC "wikilink").
     -   July 9-10, 2014, in Boston, MA, USA.
 -   [Codefest 2013](Codefest_2013 "wikilink")
     -   July 17-18, 2013, in Berlin, Germany.
+-   [BOSC/Broad Interoperability Hackathon
+    2013](http://www.broadinstitute.org/events/interoperability-hackathon-2013/home)
+    -   April 7-8, 2013 at Broad Institute in Cambridge, Massachusetts.
 -   [EU Codefest 2012](EU_Codefest_2012 "wikilink")
     -   July 19-20, 2012, in Lodi, Italy.
 -   [Codefest 2012](Codefest_2012 "wikilink")
