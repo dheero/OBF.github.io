@@ -3,7 +3,8 @@ title: BOSC
 ---
 
 The **B**ioinformatics **O**pen **S**ource **C**onference is held
-annually (as a satellite of ISMB) to promote and facilitate [open
+annually (as a satellite of the [ISCB's annual ISMB
+conference](http://www.iscb.org/)) to promote and facilitate [open
 source](wp:open_source "wikilink") development of
 [bioinformatics](wp:bioinformatics "wikilink") tools. The aims of the
 conferences are to:
