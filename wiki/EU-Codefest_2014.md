@@ -49,8 +49,9 @@ so we can keep track of the number of people.
 Logistics
 ---------
 
-The Codefest will be hosted at the EBI Hinxton
-[Campus](http://www.ebi.ac.uk/about/travel), close to Cambridge, UK.
+The Codefest will be hosted at the EBI
+[Campus](http://www.ebi.ac.uk/about/travel) in Hinxton, close to
+Cambridge, UK.
 
 More details on the logistics will be added in the near future, if you
 want you can register to the [Codefest Mailing
