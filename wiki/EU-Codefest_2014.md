@@ -2,8 +2,8 @@
 title: EU-Codefest 2014
 ---
 
-OpenBio EU-Codefest 2014 will take place on September 18th and 19th,
-2014 in Cambridge, UK, just before the [Genome Informatics
+OBF EU-Codefest 2014 will take place on September 18th and 19th, 2014 in
+Cambridge, UK, just before the [Genome Informatics
 Conference](https://registration.hinxton.wellcome.ac.uk/display_info.asp?id=406),
 which will be from September 21st to the 24th.
 
