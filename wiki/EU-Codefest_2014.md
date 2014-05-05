@@ -69,5 +69,5 @@ Organizers
 -   [Francesco Strozzi](https://github.com/fstrozzi)
 -   [James Malone](http://www.ebi.ac.uk/~malone/)
 -   [Raoul Bonnal](https://github.com/helios)
--   [Pjotr Prins](https://thebird.nl/)
+-   [Pjotr Prins](http://thebird.nl/)
 
