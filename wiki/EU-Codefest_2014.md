@@ -39,6 +39,21 @@ coordinate with the group that will meet in the USA and hopefully the EU
 Codefest will be a continuation of the OBF Codefest work, with people
 having the chance to expand on existing projects and start new ones.
 
+Programme
+---------
+
+During the codefest people are encouraged to work on FOSS projects.
+There will be a number of topics of focus:
+
+1.  The Bio\* projects
+2.  Semantic web
+3.  Software deployment and pipelines, including CloudBiolinux, and GNU
+    GUIX
+4.  NoSQL and VCF
+5.  Visualisation with D3/JS
+
+If you have another topic of interest, please contact the organizers.
+
 Attendees
 ---------
 
