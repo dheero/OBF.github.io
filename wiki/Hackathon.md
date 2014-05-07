@@ -17,6 +17,8 @@ Since 2010, people from the O|B|F project communities have regularly
 organized or co-organized short 2-3 day events preceding the [BOSC
 conference](BOSC "wikilink").
 
+-   [EU-Codefest 2014](EU-Codefest_2014 "wikilink")
+    -   September 18th and 19th, 2014 in Cambridge, UK
 -   [Codefest 2014](Codefest_2014 "wikilink")
     -   July 9-10, 2014, in Boston, MA, USA.
 -   [Codefest 2013](Codefest_2013 "wikilink")
