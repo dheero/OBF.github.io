@@ -9,8 +9,8 @@ This is a working draft. Once finalised, you will also be able to:
 
 - Download the complete program.
 
-Codefest
---------
+Pre-BOSC Codefest
+-----------------
 
 ### Codefest Day 1: Wednesday 9 July 2014
 
@@ -33,11 +33,11 @@ BOSC
 | **10:15-10:45** | **Coffee Break**                                                                                 |                                                              |
 | 10:45-12:30     | *Session: Genome-scale Data and Beyond*                                                          | Chair: TBC                                                   |
 | **12:30-1:30**  | **Lunch**                                                                                        | (And posters)                                                |
-| 1:00-2:00       | **Poster Session I**                                                                             | (Overlapping with Lunch)                                     |
-| 14:00-15:30     | *Session: Visualization*                                                                         | Chair: TBA                                                   |
+| 1:00-2:00       | **Poster Session and Birds of a Feather**                                                        | (Overlapping with Lunch)                                     |
+| 14:00-15:30     | *Session: Visualization*                                                                         | Chair: Chris Fields                                          |
 | **15:30-16:00** | **Coffee Break**                                                                                 |                                                              |
-| 16:00-17:00     | *Session: Bioinformatics Open Source Project Updates*                                            | Chair: TBA                                                   |
-| 17:00-18:00     | Lightning Talks then [BOFs](BOSC_2014/BOFs "wikilink")                                           | Suggest a BOF topic [here!](BOSC_2014/BOFs "wikilink")       |
+| 16:00-17:00     | *Session: Bioinformatics Open Source Project Updates*                                            | Chair: Peter Cock                                            |
+| 17:00-18:00     | Lightning Talks followed by [BOFs](BOSC_2014/BOFs "wikilink")                                    | Suggest a BOF topic [here!](BOSC_2014/BOFs "wikilink")       |
 | 19:00           | Pay-your-own-way BOSC dinner                                                                     |                                                              |
 ||
 
@@ -46,31 +46,31 @@ BOSC
 
 ### BOSC Day 2: Saturday 12 July 2014
 
-| Time            | Topic                                                                                                 | Speaker or Moderator                                    |
-|-----------------|-------------------------------------------------------------------------------------------------------|---------------------------------------------------------|
-| 8:45 - 8:50     | Announcements                                                                                         | Peter Cock and/or Nomi Harris (Chairs, BOSC 2014)       |
-| 8:50 - 9:00     | [ Codefest 2014 Report](Codefest_2014 "wikilink")                                                     | Brad Chapman                                            |
-| 9:00 - 9:15     | [Open Bioinformatics Foundation (OBF) update](http://www.open-bio.org/wiki/Main_Page)                 | Hilmar Lapp (President, Open Bioinformatics Foundation) |
-| 9:15 - 10:15    | | [Keynote: Biomedical Research as an Open Digital Enterprise](BOSC_2014_Keynote_Speakers "wikilink") | Philip Bourne                                           |
-| **10:15-10:45** | **Coffee Break**                                                                                      |                                                         |
-| 10:45-12:30     | *Session: Open Science and Reproducible Research*                                                     | Chair: TBA                                              |
-| **12:30-13:30** | **Lunch**                                                                                             | (And posters)                                           |
-| **12:30-13:30** | **Poster Session III**                                                                                | (Overlapping with Lunch)                                |
-| 13:30-15:30     | *Session: Software Interoperability*                                                                  | Chair: TBA                                              |
-| **15:30-16:00** | **Coffee Break**                                                                                      |                                                         |
-| 16:00-16:15     | *Session: Software Interoperability (continued)*                                                      | Chair: TBA                                              |
-| 16:15-17:05     | **Panel**: Reproducibility: Rewards and Challenges                                                    | Moderator: TBA, Panelists: TBA                          |
-| 17:05-17:15     | Presentation of Student Travel Awards                                                                 | Peter Cock and/or Nomi Harris (Chairs, BOSC 2014)       |
-| 17:20-18:00     | [BOFs](BOSC_2014/BOFs "wikilink")                                                                     | Suggest a BOF topic [here!](BOSC_2014/BOFs "wikilink")  |
+| Time            | Topic                                                                                                 | Speaker or Moderator                                                                      |
+|-----------------|-------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------|
+| 8:45 - 8:50     | Announcements                                                                                         | Peter Cock and/or Nomi Harris (Chairs, BOSC 2014)                                         |
+| 8:50 - 9:00     | [ Codefest 2014 Report](Codefest_2014 "wikilink")                                                     | Brad Chapman                                                                              |
+| 9:00 - 9:15     | [Open Bioinformatics Foundation (OBF) update](http://www.open-bio.org/wiki/Main_Page)                 | Hilmar Lapp (President, Open Bioinformatics Foundation)                                   |
+| 9:15 - 10:15    | | [Keynote: Biomedical Research as an Open Digital Enterprise](BOSC_2014_Keynote_Speakers "wikilink") | Philip Bourne                                                                             |
+| **10:15-10:45** | **Coffee Break**                                                                                      |                                                                                           |
+| 10:45-12:30     | *Session: Open Science and Reproducible Research*                                                     | Chair: Hilmar Lapp                                                                        |
+| **12:30-13:30** | **Lunch**                                                                                             | (And posters)                                                                             |
+| **12:30-13:30** | *'Poster Session*                                                                                     | (Overlapping with Lunch)                                                                  |
+| 13:30-15:30     | *Session: Software Interoperability*                                                                  | Chair: TBA                                                                                |
+| **15:30-16:00** | **Coffee Break**                                                                                      |                                                                                           |
+| 16:00-16:15     | *Session: Software Interoperability (continued)*                                                      | Chair: TBA                                                                                |
+| 16:15-17:05     | **Panel**: Reproducibility: Rewards and Challenges                                                    | Moderator: Brad Chapman; Panelists: Phil Bourne, Titus Brown, Varsha Khodiyar, Kay Thaney |
+| 17:05-17:15     | Presentation of Student Travel Awards                                                                 | Peter Cock and/or Nomi Harris (Chairs, BOSC 2014)                                         |
+| 17:20-18:00     | [BOFs](BOSC_2014/BOFs "wikilink")                                                                     | Suggest a BOF topic [here!](BOSC_2014/BOFs "wikilink")                                    |
 ||
 
-Note the ISMB reception starts from 17:30...
+Note the ISMB reception starts at 17:30...
 
 ------------------------------------------------------------------------
 
 ### Posters
 
-Links for any shared links to presented posters will be posted here:
+Shared links to presented posters will be posted here:
 
 | Title | Presenter         |
 |-------|-------------------|
