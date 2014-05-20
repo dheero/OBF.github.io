@@ -70,6 +70,17 @@ and evening. Timing is flexible so come when you are able and contribute
 as much as you'd like. On July 10th we'll have a BBQ dinner at Brad's
 house in Somerville to thank everyone for all the hard work.
 
+Our recommendation for housing is to look at [AirBnb near Kendall,
+Central or Harvard square on the Cambridge side of the River or Back Bay
+on the Hynes Convention center
+side](https://www.airbnb.com/s/boston--ma?checkin=07/08/2014&checkout=07/11/2014&price_max=250&sw_lat=42.336674148099135&sw_lng=-71.11771635949663&ne_lat=42.37715666811412&ne_lng=-71.06630377709917&zoom=14&search_by_map=true).
+Generally you want to be near [the MBTA train (the
+T)](http://mbta.com/schedules_and_maps/subway/). Red line stops like
+Kendall, Central, Harvard, Porter or Davis offer good access to
+Hack/Reduce with a short walk from the Kendall train station. The Green
+line (B, C, and D; not E) stop at Hynes Convention Center, and you can
+transfer from Green to Red at Park Street Station downtown.
+
 Sponsors
 --------
 
