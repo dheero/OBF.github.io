@@ -25,10 +25,10 @@ BOSC
 | 9:00-9:15       | Introduction and welcome                                                                         | Peter Cock and/or Nomi Harris (Chairs, BOSC 2014)            |
 | 9:15-10:15      | [Keynote: A History of Bioinformatics (in the year 2039)](BOSC_2014_Keynote_Speakers "wikilink") | C. Titus Brown                                               |
 | **10:15-10:45** | **Coffee Break**                                                                                 |                                                              |
-| 10:45-12:30     | *Session: Genome-scale Data and Beyond*                                                          | Chair: TBC                                                   |
+| 10:45-12:30     | *Session: Genome-scale Data and Beyond*                                                          | Chair: Chris Fields                                          |
 | **12:30-1:30**  | **Lunch**                                                                                        | (And posters)                                                |
 | 1:00-2:00       | **Poster Session and Birds of a Feather**                                                        | (Overlapping with Lunch)                                     |
-| 14:00-15:30     | *Session: Visualization*                                                                         | Chair: Chris Fields                                          |
+| 14:00-15:30     | *Session: Visualization*                                                                         | Chair: Rob Davey                                             |
 | **15:30-16:00** | **Coffee Break**                                                                                 |                                                              |
 | 16:00-17:00     | *Session: Bioinformatics Open Source Project Updates*                                            | Chair: Peter Cock                                            |
 | 17:00-18:00     | Lightning Talks followed by [BOFs](BOSC_2014/BOFs "wikilink")                                    | Suggest a BOF topic [here!](BOSC_2014/BOFs "wikilink")       |
