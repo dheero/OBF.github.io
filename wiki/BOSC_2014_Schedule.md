@@ -9,14 +9,8 @@ This is a working draft. Once finalised, you will also be able to:
 
 - Download the complete program.
 
-Pre-BOSC Codefest
------------------
-
-### Codefest Day 1: Wednesday 9 July 2014
-
-See [ Codefest 2014](Codefest_2014 "wikilink") for details.
-
-### Codefest Day 2: Thursday 10 July 2014
+Pre-BOSC Codefest: July 9-10, 2014
+----------------------------------
 
 See [ Codefest 2014](Codefest_2014 "wikilink") for details.
 
