@@ -22,7 +22,7 @@ BOSC
 | Time            | Topic                                                                                            | Speaker, Moderator, or notes                                 |
 |-----------------|--------------------------------------------------------------------------------------------------|--------------------------------------------------------------|
 | 7:30-9:00       | **Registration**                                                                                 | Early arrival is recommended as there are usually long lines |
-| 9:00-9:15       | Introduction and welcome                                                                         | Peter Cock and/or Nomi Harris (Chairs, BOSC 2014)            |
+| 9:00-9:15       | Introduction and welcome                                                                         | Nomi Harris and/or Peter Cock (Chairs, BOSC 2014)            |
 | 9:15-10:15      | [Keynote: A History of Bioinformatics (in the year 2039)](BOSC_2014_Keynote_Speakers "wikilink") | C. Titus Brown                                               |
 | **10:15-10:45** | **Coffee Break**                                                                                 |                                                              |
 | 10:45-12:30     | *Session: Genome-scale Data and Beyond*                                                          | Chair: Chris Fields                                          |
