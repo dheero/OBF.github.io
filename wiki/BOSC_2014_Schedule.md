@@ -33,6 +33,11 @@ BOSC
 | **12:30-1:30**  | **Lunch**                                                                                                 | (And Posters)                                                |
 | 1:00-2:00       | **Poster Session and Birds of a Feather**                                                                 | (Overlapping with lunch)                                     |
 | 14:00-15:30     | *Session: Visualization*                                                                                  | Chair: Rob Davey                                             |
+| 14:00           | \[Visualization\] WormGUIDES: an Interactive Informatic Developmental Atlas at Subcellular Resolution     | Anthony Santella                                             |
+| 14:18           | \[Visualization\] BioJS: an open source standard for biological visualisation                             | Manuel Corpas                                                |
+| 14:36           | \[Visualization\] Biodalliance: a fast, extensible genome browser                                         | Thomas Down                                                  |
+| 14:54           | \[Visualization\] TGAC Browser: visualisation solutions for big data in the genomic era                   | Anil S. Thanki                                               |
+| 15:12           | \[Visualization\] Explore, analyze, and share genomic data using Integrated Genome Browser                | Ann Loraine                                                  |
 | **15:30-16:00** | **Coffee Break**                                                                                          |                                                              |
 | 16:00-17:00     | *Session: Bioinformatics Open Source Project Updates*                                                     | Chair: Peter Cock                                            |
 | 17:00-18:00     | Lightning Talks followed by [BOFs](BOSC_2014/BOFs "wikilink")                                             | Suggest a BOF topic [here!](BOSC_2014/BOFs "wikilink")       |
