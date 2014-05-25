@@ -30,8 +30,8 @@ BOSC
 | 11:25           | \[Genome-Scale\] New Frontiers of Genome Assembly with SPAdes 3.1                                         | Andrey Prjibelski                                            |
 | 11:45           | \[Genome-Scale\] SigSeeker: An Ensemble for Analysis of Epigenetic Data                                   | Jens Lichtenberg                                             |
 | 12:05           | \[Genome-Scale\] Pathview: an R/Bioconductor package for pathway-based data integration and visualization | Weijun Luo                                                   |
-| **12:30-1:30**  | **Lunch**                                                                                                 | (And Posters)                                                |
-| 1:00-2:00       | **Poster Session and Birds of a Feather**                                                                 | (Overlapping with lunch)                                     |
+| **12:30-1:30**  | **Lunch**                                                                                                 | (and poster session)                                         |
+| 1:00-2:00       | **Poster Session and Birds of a Feather**                                                                 | (overlapping with lunch)                                     |
 | 14:00-15:30     | *Session: Visualization*                                                                                  | Chair: Rob Davey                                             |
 | 14:00           | \[Visualization\] WormGUIDES: an Interactive Informatic Developmental Atlas at Subcellular Resolution     | Anthony Santella                                             |
 | 14:18           | \[Visualization\] BioJS: an open source standard for biological visualisation                             | Manuel Corpas                                                |
@@ -40,6 +40,11 @@ BOSC
 | 15:12           | \[Visualization\] Explore, analyze, and share genomic data using Integrated Genome Browser                | Ann Loraine                                                  |
 | **15:30-16:00** | **Coffee Break**                                                                                          |                                                              |
 | 16:00-17:00     | *Session: Bioinformatics Open Source Project Updates*                                                     | Chair: Peter Cock                                            |
+| 16:00           | \[Updates\] BioMart 0.9 – introducing tools for data analysis and visualisation                           | Arek Kasprzyk                                                |
+| 16:12           | \[Updates\] Biocaml: The OCaml Bioinformatics Library                                                     | Ashish Agarwal                                               |
+| 16:24           | \[Updates\] BioRuby and distributed development                                                           | Raoul Bonnal (?)                                             |
+| 16:36           | \[Updates\] Biopython Project Update                                                                      | Wibowo Arindrarto                                            |
+| 16:48           | \[Updates\] Shared bioinformatics database within Unipro UGENE                                            | Ivan Protsyuk                                                |
 | 17:00-18:00     | Lightning Talks followed by [BOFs](BOSC_2014/BOFs "wikilink")                                             | Suggest a BOF topic [here!](BOSC_2014/BOFs "wikilink")       |
 | 19:00           | Pay-your-own-way BOSC dinner                                                                              |                                                              |
 ||
