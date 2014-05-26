@@ -37,11 +37,11 @@ mentored by Nicolas Rodriguez and Chris Myers (JSBML)
 
 ### Loris Cro
 
-  
-[An ultra-fast scalable RESTful API to query large numbers of VCF
-datapoints](http://kappaloris.github.io/GSoC-2014-OBF/)
+Mentored by Francesco Strozzi and Raoul Bonnal (BioRuby)
 
-mentored by Francesco Strozzi and Raoul Bonnal (BioRuby)
+-   Blog: [An ultra-fast scalable RESTful API to query large numbers of
+    VCF datapoints](http://kappaloris.github.io/GSoC-2014-OBF/)
+-   Source code: <https://github.com/kappaloris/GSoC-2014-OBF>
 
 ### Victor Kofia
 
