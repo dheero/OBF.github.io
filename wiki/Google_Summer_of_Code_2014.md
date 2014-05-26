@@ -31,7 +31,7 @@ mentored by Christian Höner zu Siederdissen and Ketil Malde (BioHaskell)
 ### Leandro Watanabe
 
   
-[Dynamic Modeling of Cellular Populations within
+[Dynamic Modeling of Cellular Populations via arrays in
 JSBML](http://lhwatanabe.blogspot.com)
 
 mentored by Nicolas Rodriguez and Chris Myers (JSBML)
