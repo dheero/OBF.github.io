@@ -14,11 +14,11 @@ funded!
 
 ### Evan Parker
 
-  
-[Biopython Addition of a Lazy Loading Sequence Parser to Biopython’s
-SeqIO Package](http://evanaparker.com/)
+Mentored by Wibowo Arindrarto and Peter Cock (BioPython)
 
-mentored by Wibowo Arindrarto and Peter Cock (BioPython)
+-   Blog: [Biopython Addition of a Lazy Loading Sequence Parser to
+    Biopython’s SeqIO Package](http://evanaparker.com/)
+-   Source code: <https://github.com/eparker05/biopython/tree/lazy-load>
 
 ### Sarah Berkemer
 
