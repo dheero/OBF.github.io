@@ -2,22 +2,15 @@
 title: BOSC 2014 Schedule
 ---
 
-![BOSC logo|link=BOSC\_2014](Pear.png "fig:BOSC logo|link=BOSC_2014")
-This is a working draft. Once finalised, you will also be able to:
-
-- Download schedule as PDF
-
-- Download the complete program.
+![BOSC logo|link=BOSC\_2014](Pear.png "BOSC logo|link=BOSC_2014")
 
 Pre-BOSC Codefest: July 9-10, 2014
 ----------------------------------
 
 See [ Codefest 2014](Codefest_2014 "wikilink") for details.
 
-BOSC
-----
-
-### BOSC Day 1: Friday 11 July 2014
+BOSC Day 1: Friday 11 July 2014
+-------------------------------
 
 | Time            | Topic                                                                                                     | Speaker, Moderator, or notes                                 |
 |-----------------|-----------------------------------------------------------------------------------------------------------|--------------------------------------------------------------|
@@ -52,7 +45,8 @@ BOSC
   
 ![BOSC logo|link=BOSC\_2014](Pear.png "fig:BOSC logo|link=BOSC_2014")
 
-### BOSC Day 2: Saturday 12 July 2014
+BOSC Day 2: Saturday 12 July 2014
+---------------------------------
 
 | Time            | Topic                                                                                                                     | Speaker or Moderator                                                                      |
 |-----------------|---------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------|
