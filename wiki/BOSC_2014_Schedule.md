@@ -33,7 +33,7 @@ BOSC Day 1: Friday 11 July 2014
 | 15:12           | \[Visualization\] Explore, analyze, and share genomic data using Integrated Genome Browser                | Ann Loraine                                                  |
 | **15:30-16:00** | **Coffee Break**                                                                                          |                                                              |
 | 16:00-17:00     | *Session: Bioinformatics Open Source Project Updates*                                                     | Chair: Peter Cock                                            |
-| 16:00           | \[Updates\] BioMart 0.9 – introducing tools for data analysis and visualisation                           | Arek Kasprzyk                                                |
+| 16:00           | \[Updates\] BioMart 0.9 – introducing tools for data analysis and visualisation                           | Luca Pandini                                                 |
 | 16:12           | \[Updates\] Biocaml: The OCaml Bioinformatics Library                                                     | Ashish Agarwal                                               |
 | 16:24           | \[Updates\] BioRuby and distributed development                                                           | Pjotr Prins                                                  |
 | 16:36           | \[Updates\] Biopython Project Update                                                                      | Wibowo Arindrarto                                            |
