@@ -64,6 +64,9 @@ Cambridge, has agreed to host us for the two days. It's located a short
 walk from the Kendall Square Red Line [T stop](http://mbta.com/):
 [Google map](http://goo.gl/maps/c8qkV)
 
+Thanks to [Amazon](http://aws.amazon.com) all participants will receive
+a $100 AWS credit to support work at the Hackathon.
+
 Thanks to the generosity of our sponsors we will have coffee, lunch and
 dinner for both days. We plan to meet at 9am and work throughout the day
 and evening. Timing is flexible so come when you are able and contribute
