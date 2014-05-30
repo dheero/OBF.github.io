@@ -84,14 +84,14 @@ transfer from Green to Red at Park Street Station downtown.
 Sponsors
 --------
 
-|                                                                                                         |          |                                                                                                                                                        |
-|---------------------------------------------------------------------------------------------------------|----------|--------------------------------------------------------------------------------------------------------------------------------------------------------|
-| ![Curoverse logo|link=<http://curoverse.com>](Curoverse.png "Curoverse logo|link=http://curoverse.com") |          | ![Harbinger Partners logo|link=<http://harbinger-partners.com/>](HP-logo-no-tagline.png "Harbinger Partners logo|link=http://harbinger-partners.com/") |
+|                                                                                                         |          |                                                                                                                                                        |                                                                                                  |
+|---------------------------------------------------------------------------------------------------------|----------|--------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------|
+| ![Curoverse logo|link=<http://curoverse.com>](Curoverse.png "Curoverse logo|link=http://curoverse.com") |          | ![Harbinger Partners logo|link=<http://harbinger-partners.com/>](HP-logo-no-tagline.png "Harbinger Partners logo|link=http://harbinger-partners.com/") | ![AWS logo|link=<http://aws.amazon.com/>]( Aws-logo.jpeg "AWS logo|link=http://aws.amazon.com/") |
 | ![Arvados logo|link=<http://arvados.org>]( Arvados.png "Arvados logo|link=http://arvados.org")          |
 
-We thank [Curoverse](http://curoverse.com) and [Harbinger Partners,
-Inc.](http://harbinger-partners.com/) for sponsoring the BOSC CodeFest
-2014.
+We thank [Curoverse](http://curoverse.com), [Harbinger Partners,
+Inc.](http://harbinger-partners.com/) and [Amazon Web
+Services](http://aws.amazon.com/) for sponsoring the BOSC CodeFest 2014.
 
 Organizers
 ----------
