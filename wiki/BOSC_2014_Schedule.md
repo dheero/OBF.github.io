@@ -23,8 +23,8 @@ BOSC Day 1: Friday 11 July 2014
 | 11:25           | \[Genome-Scale\] New Frontiers of Genome Assembly with SPAdes 3.1                                     | Andrey Prjibelski                                            |
 | 11:45           | \[Genome-Scale\] SigSeeker: An Ensemble for Analysis of Epigenetic Data                               | Jens Lichtenberg                                             |
 | 12:05           | \[Genome-Scale\] Galaxy as an Extensible Job Execution Platform                                       | John Chilton                                                 |
-| **12:30-1:30**  | **Lunch**                                                                                             | (and poster session)                                         |
-| 1:00-2:00       | **Poster Session and Birds of a Feather** (overlapping with lunch)                                    | Suggest a BOF topic [here!](BOSC_2014/BOFs "wikilink")       |
+| **12:30-13:30** | **Lunch**                                                                                             | (and poster session)                                         |
+| 13:00-14:00     | **Poster Session and Birds of a Feather** (overlapping with lunch)                                    | Suggest a BOF topic [here!](BOSC_2014/BOFs "wikilink")       |
 | 14:00-15:30     | *Session: Visualization*                                                                              | Chair: Rob Davey                                             |
 | 14:00           | \[Visualization\] WormGUIDES: an Interactive Informatic Developmental Atlas at Subcellular Resolution | Anthony Santella                                             |
 | 14:18           | \[Visualization\] BioJS: an open source standard for biological visualisation                         | Manuel Corpas                                                |
