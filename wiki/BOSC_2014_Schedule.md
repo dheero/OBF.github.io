@@ -18,27 +18,27 @@ BOSC Day 1: Friday, 11 July 2014
 | 9:00-9:15       | Introduction and welcome                                                                              | Nomi Harris and/or Peter Cock (Chairs, BOSC 2014)            |
 | 9:15-10:15      | [Keynote: A History of Bioinformatics (in the year 2039)](BOSC_2014_Keynote_Speakers "wikilink")      | C. Titus Brown                                               |
 | **10:15-10:45** | **Coffee Break**                                                                                      |                                                              |
-| *10:45-12:30*   | *Session: Genome-scale Data and Beyond*                                                               | Chair: Chris Fields |--                                      |
+| *10:45-12:30*   | ***Session: Genome-scale Data and Beyond***                                                           | Chair: Chris Fields |--                                      |
 | 11:05           | \[Genome-Scale\] A framework for benchmarking RNA-seq pipelines                                       | Rory Kirchner                                                |
 | 11:25           | \[Genome-Scale\] New Frontiers of Genome Assembly with SPAdes 3.1                                     | Andrey Prjibelski                                            |
 | 11:45           | \[Genome-Scale\] SigSeeker: An Ensemble for Analysis of Epigenetic Data                               | Jens Lichtenberg                                             |
 | 12:05           | \[Genome-Scale\] Galaxy as an Extensible Job Execution Platform                                       | John Chilton                                                 |
 | **12:30-13:30** | **Lunch**                                                                                             | (and poster session)                                         |
 | **13:00-14:00** | **Poster Session and Birds of a Feather** (overlapping with lunch)                                    | Suggest a BOF topic [here!](BOSC_2014/BOFs "wikilink")       |
-| *14:00-15:30*   | *Session: Visualization*                                                                              | Chair: Rob Davey                                             |
+| *14:00-15:30*   | ***Session: Visualization***                                                                          | Chair: Rob Davey                                             |
 | 14:00           | \[Visualization\] WormGUIDES: an Interactive Informatic Developmental Atlas at Subcellular Resolution | Anthony Santella                                             |
 | 14:18           | \[Visualization\] BioJS: an open source standard for biological visualisation                         | Manuel Corpas                                                |
 | 14:36           | \[Visualization\] Biodalliance: a fast, extensible genome browser                                     | Thomas Down                                                  |
 | 14:54           | \[Visualization\] TGAC Browser: visualisation solutions for big data in the genomic era               | Anil S. Thanki                                               |
 | 15:12           | \[Visualization\] Explore, analyze, and share genomic data using Integrated Genome Browser            | Ann Loraine                                                  |
 | **15:30-16:00** | **Coffee Break**                                                                                      |                                                              |
-| *16:00-17:00*   | *Session: Bioinformatics Open Source Project Updates*                                                 | Chair: Peter Cock                                            |
+| *16:00-17:00*   | ***Session: Bioinformatics Open Source Project Updates***                                             | Chair: Peter Cock                                            |
 | 16:00           | \[Updates\] BioMart 0.9 – introducing tools for data analysis and visualisation                       | Luca Pandini                                                 |
 | 16:12           | \[Updates\] Biocaml: The OCaml Bioinformatics Library                                                 | Ashish Agarwal                                               |
 | 16:24           | \[Updates\] BioRuby and distributed development                                                       | Pjotr Prins                                                  |
 | 16:36           | \[Updates\] Biopython Project Update                                                                  | Wibowo Arindrarto                                            |
 | 16:48           | \[Updates\] Shared bioinformatics database within Unipro UGENE                                        | Ivan Protsyuk                                                |
-| *17:00-18:00*   | *Lightning Talks followed by [BOFs](BOSC_2014/BOFs "wikilink")*                                       | Suggest a BOF topic [here!](BOSC_2014/BOFs "wikilink")       |
+| *17:00-18:00*   | ***Lightning Talks followed by [BOFs](BOSC_2014/BOFs "wikilink")***                                   | Suggest a BOF topic [here!](BOSC_2014/BOFs "wikilink")       |
 | *19:00*         | *Pay-your-own-way BOSC dinner*                                                                        |                                                              |
 ||
 
