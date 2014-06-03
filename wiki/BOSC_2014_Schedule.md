@@ -45,8 +45,8 @@ BOSC Day 1: Friday, 11 July 2014
   
 ![BOSC logo|link=BOSC\_2014](Pear.png "fig:BOSC logo|link=BOSC_2014")
 
-BOSC Day 2: Saturday 12 July 2014
----------------------------------
+BOSC Day 2: Saturday, 12 July 2014
+----------------------------------
 
 | Time            | Topic                                                                                                                     | Speaker or Moderator                                                                      |
 |-----------------|---------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------|
@@ -55,7 +55,7 @@ BOSC Day 2: Saturday 12 July 2014
 | 9:00 - 9:15     | [Open Bioinformatics Foundation (OBF) update](http://www.open-bio.org/wiki/Main_Page)                                     | Hilmar Lapp (President, Open Bioinformatics Foundation)                                   |
 | 9:15 - 10:15    | | [Keynote: Biomedical Research as an Open Digital Enterprise](BOSC_2014_Keynote_Speakers "wikilink")                     | Philip Bourne                                                                             |
 | **10:15-10:45** | **Coffee Break**                                                                                                          |                                                                                           |
-| *10:45-12:30*   | *Session: Software Interoperability*                                                                                      | Chair: Raoul Bonnal                                                                       |
+| *10:45-12:30*   | ***Session: Software Interoperability***                                                                                  | Chair: Raoul Bonnal                                                                       |
 | 10:45           | \[Interoperability\] Pathview: an R/Bioconductor package for pathway-based data integration and visualization             | Weijun Luo                                                                                |
 | 11:05           | \[Interoperability\] Use of semantically annotated resources in the Mobyle2 Web Framework                                 | Hervé Ménager                                                                             |
 | 11:25           | \[Interoperability\] Towards ubiquitous OWL computing: Simplifying programmatic authoring of and querying with OWL axioms | Hilmar Lapp                                                                               |
@@ -63,7 +63,7 @@ BOSC Day 2: Saturday 12 July 2014
 | 12:05           | \[Interoperability\] Small tools for Bioinformatics                                                                       | Pjotr Prins                                                                               |
 | **12:30-13:30** | **Lunch**                                                                                                                 | (and poster session)                                                                      |
 | **13:00-14:00** | **Poster Session and Birds of a Feather** (overlapping with lunch)                                                        | Suggest a BOF topic [here!](BOSC_2014/BOFs "wikilink")                                    |
-| *14:00-15:30*   | *Session: Open Science and Reproducible Research*                                                                         | Chair: Hilmar Lapp                                                                        |
+| *14:00-15:30*   | ***Session: Open Science and Reproducible Research***                                                                     | Chair: Hilmar Lapp                                                                        |
 | 14:00           | \[Open Science\] SEEK for Science: A Data Management Platform which Supports Open and Reproducible Science                | Stuart Owen                                                                               |
 | 14:18           | \[Open Science\] Arvados: Achieving Computational Reproducibility and Data Provenance in Large-Scale Genomic Analyses     | Brett Smith                                                                               |
 | 14:36           | \[Open Science\] Integrating Taverna Player into Scratchpads                                                              | Robert Haines                                                                             |
