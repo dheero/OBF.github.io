@@ -31,7 +31,7 @@ Mentored by Francesco Strozzi and Raoul Bonnal (BioRuby)
 
 ### Victor Kofia
 
-Mentored by Alex Thomas and Sarah Keating (JSBML)
+Mentored by Sarah Keating and Alex Thomas (JSBML)
 
 -   Project: "Redesign the implementation of mathematical formulas in
     JSBML"
@@ -54,6 +54,7 @@ Mentored by Andreas Dräger and Alex Thomas (JSBML)
 
 -   Project: "Improving the Plug-in interface for CellDesigner"
 -   Blog: <http://jsbmlcelldesigner2014.blogspot.com/>
+-   Source code: <http://sourceforge.net/projects/jsbml/>
 
 ### Leandro Watanabe
 
@@ -62,4 +63,5 @@ Mentored by Nicolas Rodriguez and Chris Myers (JSBML)
 -   Project: "Dynamic Modeling of Cellular Populations via arrays in
     JSBML"
 -   Blog: <http://lhwatanabe.blogspot.com>
+-   Source code: <http://sourceforge.net/projects/jsbml/>
 
