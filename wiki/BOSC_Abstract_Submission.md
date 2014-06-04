@@ -2,22 +2,12 @@
 title: BOSC Abstract Submission
 ---
 
-![The Bosc Pear](Pear.png "fig:The Bosc Pear") **[Submit your abstract
+![The Bosc Pear](Pear.png "fig:The Bosc Pear") **[Submit your lightning
+talk or poster abstract
 here!](http://events.open-bio.org/BOSC2014/openconf.php)**
 
-**New this year**: students who are the first authors of abstracts that
-are accepted for talks receive FREE admission to BOSC!
-
-The deadline for abstract submissions is **Friday, April 4, 2014**.
-
-Accepted talks will be 5-20 minutes. You will be notified of the length
-of your talk upon abstract acceptance.
-
-BOSC also includes poster sessions. If you want to present a poster and
-would like your poster abstract to be included in the BOSC program,
-please [submit it](http://events.open-bio.org/BOSC2014/openconf.php) by
-June 4. There may be also an opportunity to submit last-minute abstracts
-for lightning talks, time permitting.
+The deadline for abstract submissions for lightning talks and posters is
+**Wednesday, June 4, 2014**.
 
 ### Abstract Formatting Requirements
 
@@ -67,19 +57,6 @@ See the following websites for further information:
     Licenses](http://www.opensource.org/licenses/)
 -   [Definition of the Open Source
     Philosophy](http://www.opensource.org/docs/definition.php)
-
-Free Registration for Student Presenters of Accepted Talks!
------------------------------------------------------------
-
-This year, for the first time, students who are the first authors of
-abstracts that are accepted for talks and who will present the talks at
-BOSC will receive FREE admission to BOSC. If you are a student who is
-submitting an abstract, please hold off on registering until you hear
-from us on May 1 about whether your abstract was accepted for a talk. We
-will send you special registration instructions at that time. (Note: the
-[early registration discount for
-BOSC/ISMB](http://www.iscb.org/ismb2014-registration) doesn’t end until
-Friday, June 6.)
 
 ------------------------------------------------------------------------
 
