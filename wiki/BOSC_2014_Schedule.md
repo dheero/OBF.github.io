@@ -73,7 +73,7 @@ BOSC Day 2: Saturday, 12 July 2014
 | 15:12-15:30     | \[Open Science\] Open as a strategy for durability, reproducibility and scalability                                       | Jonathan Rees                                                                             |
 | **15:30-16:00** | **Coffee Break**                                                                                                          |                                                                                           |
 | 16:00-17:00     | **Panel**: Reproducibility: Rewards and Challenges                                                                        | Moderator: Brad Chapman; Panelists: Phil Bourne, Titus Brown, Varsha Khodiyar, Kay Thaney |
-| 17:00-17:10     | Presentation of Student Travel Awards                                                                                     | Nomi Harris (Co-Chair, BOSC 2014)                                                         |
+| 17:00-17:10     | Presentation of Student Travel Awards & Concluding Remarks                                                                | Nomi Harris (Co-Chair, BOSC 2014)                                                         |
 | 17:10-18:00     | [BOFs](BOSC_2014/BOFs "wikilink")                                                                                         | Suggest a BOF topic [here!](BOSC_2014/BOFs "wikilink")                                    |
 ||
 
