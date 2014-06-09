@@ -4,6 +4,13 @@ title: BOSC 2014 Schedule
 
 ![BOSC logo|link=BOSC\_2014](Pear.png "BOSC logo|link=BOSC_2014")
 
+This year we have allocated all the talks an equal slot, 15 minutes plus
+3 minutes for questions (making 18 minutes), except for the project
+update session where this is reduced to 10 minutes plus 2 minutes for
+questions (making 12 minutes in all). Lightning talks are 5 minutes only
+(no questions), and are intended for a brief introduction with the
+expectation that interested people will talk in the evening or next day.
+
 Pre-BOSC Codefest: July 9-10, 2014
 ----------------------------------
 
