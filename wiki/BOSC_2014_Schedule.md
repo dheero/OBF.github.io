@@ -61,8 +61,8 @@ BOSC Day 2: Saturday, 12 July 2014
 | 11:03-11:21     | \[Interoperability\] Use of semantically annotated resources in the Mobyle2 Web Framework                                 | Hervé Ménager                                                                             |
 | 11:21-11:39     | \[Interoperability\] Towards ubiquitous OWL computing: Simplifying programmatic authoring of and querying with OWL axioms | Hilmar Lapp                                                                               |
 | 11:39-11:57     | \[Interoperability\] The coming of the age of the platform for bioinformatics? (And how to keep it open-source)           | Konstantinos Krampis                                                                      |
-| 12:57-12:15     | \[Interoperability\] Integrating Taverna Player into Scratchpads                                                          | Robert Haines                                                                             |
-| 12:15-12:30     | \[Interoperability\] Small tools for Bioinformatics                                                                       | Pjotr Prins                                                                               |
+| 11:57-12:15     | \[Interoperability\] Integrating Taverna Player into Scratchpads                                                          | Robert Haines                                                                             |
+| 12:15-12:33     | \[Interoperability\] Small tools for Bioinformatics                                                                       | Pjotr Prins                                                                               |
 | **12:30-13:30** | **Lunch**                                                                                                                 | (and poster session)                                                                      |
 | **13:00-14:00** | **Poster Session and Birds of a Feather** (overlapping with lunch)                                                        | Suggest a BOF topic [here!](BOSC_2014/BOFs "wikilink")                                    |
 | *14:00-15:30*   | ***Session: Open Science and Reproducible Research***                                                                     | Chair: Hilmar Lapp                                                                        |
@@ -85,9 +85,9 @@ Note the ISMB reception starts at 17:30...
 
 Shared links to presented posters will be posted here:
 
-| Title | Presenter         |
-|-------|-------------------|
-| ...   | A.N. Other et al. |
+| Title | Presenter |
+|-------|-----------|
+| ...   |           |
 ||
 
 ------------------------------------------------------------------------
