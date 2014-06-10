@@ -51,8 +51,8 @@ BOSC Day 1: Friday, 11 July 2014
 | 17:14-17:19     | \[Lightning\] PLUTo: Phyloinformatic Literature Unlocking Tools                                                                                                      | Ross Mounce                                                  |
 | 17:21-17:26     | \[Lightning\] A publication model that aligns with the key Open Source Software principles                                                                           | Michael L. Markle                                            |
 | 17:27-17:30     | Announcements                                                                                                                                                        | Nomi Harris and/or Peter Cock                                |
-| *17:30-18:30*   | **[BOFs](BOSC_2014/BOFs "wikilink")**                                                                                                                                | Suggest a BOF topic [here!](BOSC_2014/BOFs "wikilink")       |
-| *19:00*         | *Pay-your-own-way BOSC dinner*, The Asgard Irish Pub and Restaurant, 350 Massachusetts Avenue, Cambridge, MA (about 1.2 miles north of the Hynes convention center). | Only those who RSVP will be admitted.                        |
+| 17:30-18:30     | **[BOFs](BOSC_2014/BOFs "wikilink")**                                                                                                                                | Suggest a BOF topic [here!](BOSC_2014/BOFs "wikilink")       |
+| 19:00           | *Pay-your-own-way BOSC dinner*: The Asgard Irish Pub and Restaurant, 350 Massachusetts Avenue, Cambridge, MA (about 1.2 miles north of the Hynes convention center). | Only those who RSVP will be admitted.                        |
 ||
 
   
