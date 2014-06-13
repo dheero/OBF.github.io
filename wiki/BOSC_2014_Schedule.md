@@ -97,9 +97,10 @@ Note the ISMB reception starts at 17:30...
 
 Shared links to presented posters will be posted here:
 
-| Title | Presenter |
-|-------|-----------|
-| ...   |           |
+| Title                                                        | Presenter      |
+|--------------------------------------------------------------|----------------|
+| Bio2RDF mobile: an app for biological semantic web databases | Maxime Déraspe |
+| ...                                                          | ...            |
 ||
 
 ------------------------------------------------------------------------
