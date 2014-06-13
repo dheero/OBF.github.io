@@ -97,10 +97,13 @@ Note the ISMB reception starts at 17:30...
 
 Shared links to presented posters will be posted here:
 
-| Title                                                        | Presenter      |
-|--------------------------------------------------------------|----------------|
-| Bio2RDF mobile: an app for biological semantic web databases | Maxime Déraspe |
-| ...                                                          | ...            |
+| Title                                                                           | Presenter       |
+|---------------------------------------------------------------------------------|-----------------|
+| Connecting computational steps for NGS, and beyond.                             | Laurent Gautier |
+| Updates to MISO, the open-source NGS LIMS project                               | Xingdong Bian   |
+| MyGene.info updates: scalable gene-centric web services with user contributions | Chunlei Wu      |
+| Bio2RDF mobile: an app for biological semantic web databases                    | Maxime Déraspe  |
+| ...                                                                             | ...             |
 ||
 
 ------------------------------------------------------------------------
