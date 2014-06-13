@@ -101,6 +101,7 @@ Shared links to presented posters will be posted here:
 |---------------------------------------------------------------------------------|-----------------|
 | Connecting computational steps for NGS, and beyond.                             | Laurent Gautier |
 | Updates to MISO, the open-source NGS LIMS project                               | Xingdong Bian   |
+| Reconstruction of ancestral genomes in presence of gene gain and loss           | Shuai Jiang     |
 | MyGene.info updates: scalable gene-centric web services with user contributions | Chunlei Wu      |
 | Bio2RDF mobile: an app for biological semantic web databases                    | Maxime Déraspe  |
 | ...                                                                             | ...             |
