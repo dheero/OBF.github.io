@@ -104,6 +104,7 @@ table lists poster-only presentations.
 | Connecting computational steps for NGS, and beyond.                                                               | Laurent Gautier                         |
 | Updates to MISO, the open-source NGS LIMS project                                                                 | Xingdong Bian                           |
 | Running Taverna Workflows within IPython Notebook                                                                 | Alan Williams / Aleksandra Pawlik (TBC) |
+| Driver Mutation Pipeline and Visualization in Galaxy                                                              | Saket Choudhary                         |
 | Reconstruction of ancestral genomes in presence of gene gain and loss                                             | Shuai Jiang                             |
 | Firehose in The Cancer Genome Atlas: Rigorous Open Science, At Scale                                              | Michael Noble                           |
 | MyGene.info updates: scalable gene-centric web services with user contributions                                   | Chunlei Wu                              |
