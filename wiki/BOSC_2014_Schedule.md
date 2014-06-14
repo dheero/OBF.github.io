@@ -95,7 +95,7 @@ Note the ISMB reception starts at 17:30...
 
 ### Posters
 
-If the speaker also gave a talk, any poster link with be above. This
+If the speaker also gave a talk, any poster link will be above. This
 table lists poster-only presentations.
 
 | Title                                                                                                             | Presenter                               |
