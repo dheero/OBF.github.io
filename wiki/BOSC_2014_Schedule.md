@@ -111,7 +111,7 @@ If the speaker also gave a talk, any poster link will be above (posters
 | P20    | MyGene.info updates: scalable gene-centric web services with user contributions                                   | Chunlei Wu                              |
 | P21    | Aiding the journey from data to publication in the plant sciences                                                 | Robert Davey                            |
 | P22    | Bio2RDF mobile: an app for biological semantic web databases                                                      | Maxime Déraspe                          |
-| ...    | ...                                                                                                               |
+| ...    | ...                                                                                                               | ...                                     |
 ||
 
 ------------------------------------------------------------------------
