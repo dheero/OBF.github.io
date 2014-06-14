@@ -108,6 +108,8 @@ table lists poster-only presentations.
 | Reconstruction of ancestral genomes in presence of gene gain and loss                                             | Shuai Jiang                             |
 | Firehose in The Cancer Genome Atlas: Rigorous Open Science, At Scale                                              | Michael Noble                           |
 | MyGene.info updates: scalable gene-centric web services with user contributions                                   | Chunlei Wu                              |
+| GEPETTO Update: An Open Source Framework for Gene Prioritization                                                  | Hoan Nguyen                             |
+| NeoPipe: An Open Source Framework for Protein sequence analysis                                                   | Hoan Nguyen                             |
 | Aiding the journey from data to publication in the plant sciences                                                 | Robert Davey                            |
 | Bio2RDF mobile: an app for biological semantic web databases                                                      | Maxime Déraspe                          |
 | ...                                                                                                               | ...                                     |
