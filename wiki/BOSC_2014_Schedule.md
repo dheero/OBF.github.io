@@ -102,16 +102,15 @@ If the speaker also gave a talk, any poster link will be above (posters
 |--------|-------------------------------------------------------------------------------------------------------------------|-----------------------------------------|
 | P12    | Using open source technology to extract biochemical data from big data repositories: the NCBI PubChem experience. | Lewis Y. Geer                           |
 | P13    | Connecting computational steps for NGS, and beyond.                                                               | Laurent Gautier                         |
-| P13    | Updates to MISO, the open-source NGS LIMS project                                                                 | Xingdong Bian                           |
-| P14    | Running Taverna Workflows within IPython Notebook                                                                 | Alan Williams / Aleksandra Pawlik (TBC) |
-| P15    | Driver Mutation Pipeline and Visualization in Galaxy                                                              | Saket Choudhary                         |
+| P14    | Updates to MISO, the open-source NGS LIMS project                                                                 | Xingdong Bian                           |
+| P15    | Running Taverna Workflows within IPython Notebook                                                                 | Alan Williams / Aleksandra Pawlik (TBC) |
 | P16    | Reconstruction of ancestral genomes in presence of gene gain and loss                                             | Shuai Jiang                             |
-| P18    | Firehose in The Cancer Genome Atlas: Rigorous Open Science, At Scale                                              | Michael Noble                           |
-| P19    | GEPETTO Update: An Open Source Framework for Gene Prioritization                                                  | Hoan Nguyen                             |
-| P20    | NeoPipe: An Open Source Framework for Protein sequence analysis                                                   | Hoan Nguyen                             |
-| P21    | MyGene.info updates: scalable gene-centric web services with user contributions                                   | Chunlei Wu                              |
-| P22    | Aiding the journey from data to publication in the plant sciences                                                 | Robert Davey                            |
-| P23    | Bio2RDF mobile: an app for biological semantic web databases                                                      | Maxime Déraspe                          |
+| P17    | Firehose in The Cancer Genome Atlas: Rigorous Open Science, At Scale                                              | Michael Noble                           |
+| P18    | GEPETTO Update: An Open Source Framework for Gene Prioritization                                                  | Hoan Nguyen                             |
+| P19    | NeoPipe: An Open Source Framework for Protein sequence analysis                                                   | Hoan Nguyen                             |
+| P20    | MyGene.info updates: scalable gene-centric web services with user contributions                                   | Chunlei Wu                              |
+| P21    | Aiding the journey from data to publication in the plant sciences                                                 | Robert Davey                            |
+| P22    | Bio2RDF mobile: an app for biological semantic web databases                                                      | Maxime Déraspe                          |
 | ...    | ...                                                                                                               |
 ||
 
