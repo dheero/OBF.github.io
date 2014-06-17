@@ -4,6 +4,11 @@ title: BOSC 2014 Schedule
 
 ![BOSC logo|link=BOSC\_2014](Pear.png "BOSC logo|link=BOSC_2014")
 
+You can download the [full program with abstracts
+(PDF)](http://www.open-bio.org/bosc2014/BOSC2014_program.pdf), however
+this wiki page is considered the definitive schedule and will be updated
+with any last minute changes.
+
 This year we have allocated all the talks an equal slot, 15 minutes plus
 3 minutes for questions (making 18 minutes), except for the project
 update session where this is reduced to 10 minutes plus 2 minutes for
