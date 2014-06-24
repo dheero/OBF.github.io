@@ -14,7 +14,8 @@ This year we have allocated all the talks an equal slot, 15 minutes plus
 update session where this is reduced to 10 minutes plus 2 minutes for
 questions (making 12 minutes in all). Lightning talks are 5 minutes only
 (no questions), and are intended for a brief introduction with the
-expectation that interested people will talk in the evening or next day.
+expectation that people who are interested in the topic will find the
+speaker during a break or poster session to talk with them.
 
 Pre-BOSC Codefest: July 9-10, 2014
 ----------------------------------
