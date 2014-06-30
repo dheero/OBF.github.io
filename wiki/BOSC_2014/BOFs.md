@@ -15,12 +15,17 @@ until 6:30 or until you're kicked out of the room.
 Friday BOFs (Day 1)
 -------------------
 
--   (Enter your BOF description here)
+-   **Lunchtime (12:30-14:00)**
+    -   (Enter your BOF description here)
+-   **17:30-18:30**
+    -   (Enter your BOF description here)
 
 Saturday BOFs (Day 2)
 ---------------------
 
--   (Enter your BOF description here)
+-   **Lunchtime (12:30-14:00)**
+    -   (Enter your BOF description here)
+-   **17:30-18:30**
 
 ------------------------------------------------------------------------
 
