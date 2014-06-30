@@ -12,6 +12,8 @@ The BOFs can either be over lunch (which can be very busy with other
 events), or start after the end of the last talk (around 5:30) and run
 until 6:30 or until you're kicked out of the room.
 
+There can be multiple BOFs in parallel.
+
 Friday BOFs (Day 1)
 -------------------
 
@@ -26,6 +28,7 @@ Saturday BOFs (Day 2)
 -   **Lunchtime (12:30-14:00)**
     -   (Enter your BOF description here)
 -   **17:30-18:30**
+    -   (Enter your BOF description here)
 
 ------------------------------------------------------------------------
 
