@@ -71,7 +71,18 @@ Thanks to the generosity of our sponsors we will have coffee, lunch and
 dinner for both days. We plan to meet at 9am and work throughout the day
 and evening. Timing is flexible so come when you are able and contribute
 as much as you'd like. On July 10th we'll have a BBQ dinner at Brad's
-house in Somerville to thank everyone for all the hard work.
+house in Somerville to thank everyone for all the hard work. The rough
+schedule highlights for the two days are:
+
+-   July 9th, 9am: Greetings, introduction, organization and coffee
+-   July 9th, 1pm: Lunch, post-lunch organization
+-   July 9th, 6pm: Dinner, wrap-up discussions, continue working as long
+    as you like
+-   July 10th, 9am: Greetings, organization and coffee
+-   July 10th, 1pm: Lunch, post-lunch organization
+-   July 10th, 3:30pm: Prepare codefest progress reports and slides for
+    BOSC
+-   July 10th, 5-8pm: BBQ at Brad's house in Somerville
 
 Our recommendation for housing is to look at [AirBnb near Kendall,
 Central or Harvard square on the Cambridge side of the River or Back
