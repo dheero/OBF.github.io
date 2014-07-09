@@ -104,22 +104,23 @@ Note: the ISMB reception starts at 17:30...
 If the speaker also gave a talk, any poster link will be above (posters
 1 to 11). This table lists poster-only presentations.
 
-| Poster | Title                                                                                       | Presenter                               |
-|--------|---------------------------------------------------------------------------------------------|-----------------------------------------|
-| P12    | *Withdrawn*                                                                                 | *Withdrawn*                             |
-| P13    | Connecting computational steps for NGS, and beyond.                                         | Laurent Gautier                         |
-| P14    | Updates to MISO, the open-source NGS LIMS project                                           | Xingdong Bian                           |
-| P15    | Running Taverna Workflows within IPython Notebook                                           | Alan Williams / Aleksandra Pawlik (TBC) |
-| P16    | Reconstruction of ancestral genomes in presence of gene gain and loss                       | Shuai Jiang                             |
-| P17    | Firehose in The Cancer Genome Atlas: Rigorous Open Science, At Scale                        | Michael Noble                           |
-| P18    | GEPETTO Update: An Open Source Framework for Gene Prioritization                            | Hoan Nguyen                             |
-| P19    | NeoPipe: An Open Source Framework for Protein sequence analysis                             | Hoan Nguyen                             |
-| P20    | MyGene.info updates: scalable gene-centric web services with user contributions             | Chunlei Wu                              |
-| P21    | Aiding the journey from data to publication in the plant sciences                           | Robert Davey                            |
-| P22    | Bio2RDF mobile: an app for biological semantic web databases                                | Maxime Déraspe                          |
-| P23    | Tripal: an open source toolkit for building genomic and genetic data websites and databases | Margaret Staton                         |
-| P24    | BioBuilds: A Model for Long Term Sustainability of Open Source Bioinformatics               | Chris Mueller                           |
-| ...    | ...                                                                                         | ...                                     |
+| Poster | Title                                                                                             | Presenter                               |
+|--------|---------------------------------------------------------------------------------------------------|-----------------------------------------|
+| P12    | *Withdrawn*                                                                                       | *Withdrawn*                             |
+| P13    | Connecting computational steps for NGS, and beyond.                                               | Laurent Gautier                         |
+| P14    | Updates to MISO, the open-source NGS LIMS project                                                 | Xingdong Bian                           |
+| P15    | Running Taverna Workflows within IPython Notebook                                                 | Alan Williams / Aleksandra Pawlik (TBC) |
+| P16    | Reconstruction of ancestral genomes in presence of gene gain and loss                             | Shuai Jiang                             |
+| P17    | Firehose in The Cancer Genome Atlas: Rigorous Open Science, At Scale                              | Michael Noble                           |
+| P18    | GEPETTO Update: An Open Source Framework for Gene Prioritization                                  | Hoan Nguyen                             |
+| P19    | NeoPipe: An Open Source Framework for Protein sequence analysis                                   | Hoan Nguyen                             |
+| P20    | MyGene.info updates: scalable gene-centric web services with user contributions                   | Chunlei Wu                              |
+| P21    | Aiding the journey from data to publication in the plant sciences                                 | Robert Davey                            |
+| P22    | Bio2RDF mobile: an app for biological semantic web databases                                      | Maxime Déraspe                          |
+| P23    | Tripal: an open source toolkit for building genomic and genetic data websites and databases       | Margaret Staton                         |
+| P24    | BioBuilds: A Model for Long Term Sustainability of Open Source Bioinformatics                     | Chris Mueller                           |
+| P25    | GigaGalaxy: A GigaSolution for reproducible and sustainable genomic data publication and analysis | Scott Edmunds                           |
+| ...    | ...                                                                                               | ...                                     |
 ||
 
 ------------------------------------------------------------------------
