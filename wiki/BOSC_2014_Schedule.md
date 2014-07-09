@@ -92,7 +92,7 @@ BOSC Day 2: Saturday, 12 July 2014
 | 16:00-17:00     | **Panel**: Reproducibility: Rewards and Challenges                                                                                   | Moderator: Brad Chapman; Panelists: Phil Bourne, Titus Brown, Varsha Khodiyar, Kay Thaney |
 | 17:00-17:10     | Presentation of Student Travel Awards & Concluding Remarks                                                                           | Nomi Harris (Co-Chair, BOSC 2014)                                                         |
 | 17:10-18:00     | [BOFs](BOSC_2014/BOFs "wikilink")                                                                                                    | Suggest a BOF topic [here!](BOSC_2014/BOFs "wikilink")                                    |
-| 19:00           | Pay-your-own-way BOSC Saturday dinner: [Summer Shack](http://www.summershackrestaurant.com/locations/boston/), 50 Dalton St., Boston | [RSVP for Saturday dinner](http://doodle.com/3nw93rbvhtad5fzf)                            |
+| 19:00           | Pay-your-own-way BOSC Saturday dinner: [Summer Shack](http://www.summershackrestaurant.com/locations/boston/), 50 Dalton St., Boston | [RSVP for Saturday dinner](http://doodle.com/iqhmez2rz57trazg)                            |
 ||
 
 Note: the ISMB reception starts at 17:30...
