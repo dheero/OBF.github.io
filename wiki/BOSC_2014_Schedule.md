@@ -111,7 +111,7 @@ If the speaker also gave a talk, any poster link will be above (posters
 | P14    | Updates to MISO, the open-source NGS LIMS project                                                 | Xingdong Bian                           |
 | P15    | Running Taverna Workflows within IPython Notebook                                                 | Alan Williams / Aleksandra Pawlik (TBC) |
 | P16    | Reconstruction of ancestral genomes in presence of gene gain and loss                             | Shuai Jiang                             |
-| P17    | Firehose in The Cancer Genome Atlas: Rigorous Open Science, At Scale                              | Michael Noble                           |
+| P17    | *Withdrawn*                                                                                       | *Withdrawn*                             |
 | P18    | GEPETTO Update: An Open Source Framework for Gene Prioritization                                  | Hoan Nguyen                             |
 | P19    | NeoPipe: An Open Source Framework for Protein sequence analysis                                   | Hoan Nguyen                             |
 | P20    | MyGene.info updates: scalable gene-centric web services with user contributions                   | Chunlei Wu                              |
