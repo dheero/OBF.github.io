@@ -20,7 +20,10 @@ Friday BOFs (Day 1)
 -   **Lunchtime (12:30-14:00)**
     -   (Enter your BOF description here)
 -   **17:30-18:30**
-    -   (Enter your BOF description here)
+    -   **De-coupling BOSC from the ISMB?** Contact Peter Cock. Try to
+        get a feel from the attendees about who likes having BOSC as an
+        SIG at the ISMB, versus going independent and perhaps
+        co-locating near other broad interest meetings?
 
 Saturday BOFs (Day 2)
 ---------------------
