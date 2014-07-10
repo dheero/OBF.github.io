@@ -13,11 +13,15 @@ such as [BioPerl](http://bioperl.org),
 and [GenomeSpace](http://www.genomespace.org) in attendance. Everyone is
 welcome to attend.
 
-This is the fifth annual [Codefest](Codefest "wikilink"), continuing
-work from [Codefest 2010](Codefest_2010 "wikilink") in Boston, [Codefest
+This is the fifth annual pre-[BOSC](BOSC "wikilink")
+[Codefest](Codefest "wikilink"), continuing work from [Codefest
+2010](Codefest_2010 "wikilink") in Boston, [Codefest
 2011](Codefest_2011 "wikilink") in Vienna, [Codefest
 2012](Codefest_2012 "wikilink") in Los Angeles, and [Codefest
 2013](Codefest_2013 "wikilink") in Berlin.
+
+It will be followed by the [EU-Codefest
+2014](EU-Codefest_2014 "wikilink") in England in September 2014.
 
 Goals
 -----
