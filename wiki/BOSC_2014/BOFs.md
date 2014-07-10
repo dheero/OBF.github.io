@@ -31,7 +31,7 @@ Saturday BOFs (Day 2)
 -   **Lunchtime (12:30-14:00)**
     -   **Dependent Types and Safety in Biomedical Software:** How to
         make sure that the software that will pick my treatment is doing
-        what it it supposed to do? [Coq](http://coq.inria.fr/),
+        what it is supposed to do? [Coq](http://coq.inria.fr/),
         [Dependent types](http://en.wikipedia.org/wiki/Dependent_types),
         [Therac-25](http://en.wikipedia.org/wiki/Therac-25), … (proposed
         by [Seb](http://seb.mondet.org/))
