@@ -36,7 +36,8 @@ Saturday BOFs (Day 2)
         [Dependent types](http://en.wikipedia.org/wiki/Dependent_types),
         [Therac-25](http://en.wikipedia.org/wiki/Therac-25), … (proposed
         by [Seb](http://seb.mondet.org/))
-    -   (Enter your BOF description here)
+    -   Improving diversity at BOSC and the CodeFests (lead by Nomi
+        Harris and Brad Chapman)
 -   **17:30-18:30**
     -   **Genome Visualization**: potential for cooperation? (Proposed
         by Thomas Down)
