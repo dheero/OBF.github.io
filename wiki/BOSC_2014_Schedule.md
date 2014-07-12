@@ -17,6 +17,9 @@ questions (making 12 minutes in all). Lightning talks are 5 minutes only
 expectation that people who are interested in the topic will find the
 speaker during a break or poster session to talk with them.
 
+We aim to record all the talks and the video links will be posted here,
+along with links to slides where available.
+
 Pre-BOSC Codefest: July 9-10, 2014
 ----------------------------------
 
