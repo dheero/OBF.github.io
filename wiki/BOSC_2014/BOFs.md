@@ -18,7 +18,8 @@ Friday BOFs (Day 1)
 -------------------
 
 -   **Lunchtime (12:30-14:00)**
-    -   (Enter your BOF description here)
+    -   Twitter meetup (over lunch), proposed by Michael
+        Crusoe (@biocruose)
 -   **17:30-18:30**
     -   **De-coupling BOSC from the ISMB?** Contact Peter Cock. Try to
         get a feel from the attendees about who likes having BOSC as an
