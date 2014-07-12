@@ -38,7 +38,7 @@ Saturday BOFs (Day 2)
         by [Seb](http://seb.mondet.org/))
     -   Improving diversity at BOSC and the CodeFests (lead by Nomi
         Harris and Brad Chapman) \[in Room 203\]
--   **17:30-18:30**
+-   **17:15-18:30**
     -   **Genome Visualization**: potential for cooperation? (Proposed
         by Thomas Down) \[in Room 203\]
     -   (Enter your BOF description here)
