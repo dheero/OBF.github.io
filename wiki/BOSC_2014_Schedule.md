@@ -120,7 +120,6 @@ If the speaker also gave a talk, any poster link will be above (posters
 | P20    | MyGene.info updates: scalable gene-centric web services with user contributions                                 | Chunlei Wu                              |
 | P21    | Aiding the journey from data to publication in the plant sciences                                               | Robert Davey                            |
 | P22    | Bio2RDF mobile: an app for biological semantic web databases                                                    | Maxime Déraspe                          |
-| P23    | Tripal: an open source toolkit for building genomic and genetic data websites and databases                     | Margaret Staton                         |
 | P24    | BioBuilds: A Model for Long Term Sustainability of Open Source Bioinformatics                                   | Chris Mueller                           |
 | P25    | GigaGalaxy: A GigaSolution for reproducible and sustainable genomic data publication and analysis               | Scott Edmunds                           |
 | ...    | ...                                                                                                             | ...                                     |
