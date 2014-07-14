@@ -22,8 +22,9 @@ along with links to slides where available.
 
 There was lots of activity under Twitter - our hashtag was \#BOSC2014
 and there are Storify Tweet archives for [Day
-One](https://storify.com/pjacock/bosc-2014-day-one) and [Day
-Two](https://storify.com/pjacock/bosc-2014-day-two/).
+One](https://storify.com/pjacock/bosc-2014-day-one), [Day
+Two](https://storify.com/pjacock/bosc-2014-day-two/) and beyond
+[ISMB](https://storify.com/pjacock/bosc-during-ismb-2014/%7Cduring).
 
 Pre-BOSC Codefest: July 9-10, 2014
 ----------------------------------
