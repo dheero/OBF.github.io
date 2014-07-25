@@ -45,6 +45,12 @@ document](https://docs.google.com/document/d/1yADE2bb0rEU6TASxuSPsvTdHvh_rtCXzJr
 We'll use this brainstorming discussion document to prepare directions
 for the two days of work.
 
+Report
+------
+
+Brad presented a short set of slides from the group at BOSC 2014, linked
+to from the [BOSC 2014 Schedule](BOSC_2014_Schedule "wikilink").
+
 Attendees
 ---------
 
