@@ -88,8 +88,7 @@ recommended as they are closer to the city centre and quite cheap.
 Sponsors
 --------
 
-![
-link=<https://curoverse.com>](Curoverse.png  " link=https://curoverse.com")
+![](Curoverse.png "Curoverse.png")
 
 Organizers
 ----------
