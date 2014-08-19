@@ -2,8 +2,6 @@
 title: Sambamba
 ---
 
-Sambamba
-
 Sambamba is a high performance modern robust and fast tool (and
 library), written in the D programming language, for working with SAM,
 BAM and CRAM formats. Current parallelised functionality is an important
