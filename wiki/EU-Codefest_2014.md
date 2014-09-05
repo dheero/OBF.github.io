@@ -88,9 +88,9 @@ recommended as they are closer to the city centre and quite cheap.
 Sponsors
 --------
 
-|                                                                                                                                                                                                               |
-|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| ![Arvados logo|link=<http://arvados.org>](Arvados.png "fig:Arvados logo|link=http://arvados.org") ![Curoverse logo|link=<http://curoverse.org>](Curoverse.png "fig:Curoverse logo|link=http://curoverse.org") |
+|                                                                                                                                                                                                                         |
+|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| ![Arvados logo|link=<http://arvados.org>](Arvados.png "fig:Arvados logo|link=http://arvados.org") ![Curoverse logo|link=<http://curoverse.org>](curoverse_logo_2014.png "fig:Curoverse logo|link=http://curoverse.org") |
 
 Organizers
 ----------
