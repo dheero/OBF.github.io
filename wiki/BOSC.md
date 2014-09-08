@@ -2,8 +2,9 @@
 title: BOSC
 ---
 
-The **B**ioinformatics **O**pen **S**ource **C**onference is held
-annually (as a satellite of the [ISCB's annual ISMB
+![lright|The Bosc Pear](Pear.png "fig:lright|The Bosc Pear") The
+**B**ioinformatics **O**pen **S**ource **C**onference is held annually
+(as a satellite of the [ISCB's annual ISMB
 conference](http://www.iscb.org/)) to promote and facilitate [open
 source](wp:open_source "wikilink") development of
 [bioinformatics](wp:bioinformatics "wikilink") tools. The aims of the
