@@ -45,10 +45,10 @@ Programme
 A detailed programme description is available on the [EU Codefest page
 on the EBI website](http://www.ebi.ac.uk/training/course/eu-codefest).
 
-Please use the [Cofefest Google
+**Please use the [Cofefest Google
 Group](https://groups.google.com/forum/#!forum/openbio-codefest-2014) to
 see latest discussions on topics and tools people are interested in
-coding during the event.
+coding during the event.**
 
 During the Codefest people are encouraged to work on FOSS projects.
 There will be a number of topics of focus:
