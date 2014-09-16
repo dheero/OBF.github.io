@@ -90,6 +90,23 @@ to book a room in one of the following hotels:
 Of course you are free to stay in other places, these hotels are just
 recommended as they are closer to the city centre and quite cheap.
 
+Places to Eat
+-------------
+
+A few places you might want to consider eating on Thursday night:
+
+[Teri-Aki](http://www.teri-aki.co.uk/) - Japanese sushi and noodle
+restaurant [Trip
+Advisor](http://www.tripadvisor.co.uk/Restaurant_Review-g186225-d787250-Reviews-Teri_Aki-Cambridge_Cambridgeshire_England.html)
+
+[Cambridge Chop House](http://www.cambscuisine.com/cambridge-chop-house)
+- Traditional British meat and fish. [Trip
+Advisor](http://www.tripadvisor.co.uk/Restaurant_Review-g186225-d1399981-Reviews-The_Cambridge_Chop_House-Cambridge_Cambridgeshire_England.html)
+
+[The Oak Bistro](http://www.theoakbistro.co.uk/) - European cuisine.
+[Trip
+Advisor](http://www.tripadvisor.co.uk/Restaurant_Review-g186225-d1507108-Reviews-The_Oak_Bistro-Cambridge_Cambridgeshire_England.html)
+
 Sponsors
 --------
 
