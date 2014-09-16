@@ -110,6 +110,11 @@ Advisor](http://www.tripadvisor.co.uk/Restaurant_Review-g186225-d1507108-Reviews
 [De Luca](http://www.delucacucina.co.uk/) - Italian. [Trip
 Advisor](http://www.tripadvisor.co.uk/Restaurant_Review-g186225-d730345-Reviews-De_Luca_Cucina_Bar-Cambridge_Cambridgeshire_England.html)
 
+[The Eagle](http://gkpubs.co.uk/pubs-in-cambridge/eagle-pub) - Famous
+old pub (opened 1667) in Cambridge where Watson and Crick famously
+'discovered DNA' [Trip
+Advisor](http://www.tripadvisor.co.uk/Restaurant_Review-g186225-d1629033-Reviews-The_Eagle-Cambridge_Cambridgeshire_England.html)
+
 Sponsors
 --------
 
