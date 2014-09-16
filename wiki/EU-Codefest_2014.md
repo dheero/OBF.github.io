@@ -112,7 +112,7 @@ Advisor](http://www.tripadvisor.co.uk/Restaurant_Review-g186225-d730345-Reviews-
 
 [The Eagle](http://gkpubs.co.uk/pubs-in-cambridge/eagle-pub) - Famous
 old pub (opened 1667) in Cambridge where Watson and Crick famously
-'discovered DNA' [Trip
+announced they had 'discovered the secret of life (DNA)' [Trip
 Advisor](http://www.tripadvisor.co.uk/Restaurant_Review-g186225-d1629033-Reviews-The_Eagle-Cambridge_Cambridgeshire_England.html)
 
 Sponsors
