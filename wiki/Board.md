@@ -62,7 +62,8 @@ Board of Directors Meetings
 
 **Upcoming Board Meeting:**
 
--   Pending
+-   [ Conference call Nov 18,
+    2014](Minutes:2014_Nov_ConfCall "wikilink")
 
 **Minutes of past Board Meetings:**
 
