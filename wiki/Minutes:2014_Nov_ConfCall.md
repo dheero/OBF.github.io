@@ -27,4 +27,15 @@ New business
     Interest"](http://www.iscb.org/iscb-affiliates-cosis) (COSI) (Peter)
 
 </ol>
+Minutes
+=======
 
+Etherpad for notes:
+<https://etherpad.mozilla.org/OBF-BoD-Meeting-Nov2014>
+
+**Attending:**
+
+-   Directors:
+-   Guests:
+
+**Minutes:**
