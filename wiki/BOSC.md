@@ -20,7 +20,7 @@ conferences are to:
 
 BOSC meetings to date:
 
--   [BOSC 2015](BOSC_2015 "wikilink") Europe...
+-   [BOSC 2015](BOSC_2015 "wikilink") Dublin, Ireland
 -   [BOSC 2014](BOSC_2014 "wikilink") Boston, MA USA
 -   [BOSC 2013](BOSC_2013 "wikilink") Berlin, Germany
 -   [BOSC 2012](BOSC_2012 "wikilink") Long Beach, CA, USA
