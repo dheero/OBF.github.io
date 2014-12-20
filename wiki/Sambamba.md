@@ -11,3 +11,6 @@ mpileup and depth.
 For more information see
 
 ` `[`https://github.com/lomereiter/sambamba`](https://github.com/lomereiter/sambamba)
+
+The Sambamba paper is currently under review. Supplementary material can
+be found [here](https://github.com/pjotrp/smb_performance).
