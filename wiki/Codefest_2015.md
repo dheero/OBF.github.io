@@ -43,7 +43,7 @@ Logistics
 
 We're actively working on finding a location for Codefest 2015 in
 Dublin. If you are local and able to help, please get in touch with
-\[Brad <https://github.com/chapmanb>\].
+[Brad](https://github.com/chapmanb).
 
 Organizers
 ----------
