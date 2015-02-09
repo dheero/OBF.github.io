@@ -27,7 +27,7 @@ document](https://docs.google.com/document/d/1BJ_l4LG_RiCukJaDSkK4-_apr2nBtFr4gU
 We'll use this brainstorming discussion document to organize everyone at
 the start of the event.
 
-Attendees
+Attending
 ---------
 
 You are very welcome to attend. There is no cost, we only ask you to
