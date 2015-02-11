@@ -75,12 +75,20 @@ so please sign up to discuss and receive updates.
 Logistics
 ---------
 
-We're actively working on finding a location for Codefest 2015 in
-Dublin. If you are local and able to help, please get in touch with
+Codefest 2015 will be hosted at [Trinity College
+Dublin](http://www.tcd.ie/) by the schools of [Natural
+Sciences](http://naturalscience.tcd.ie/),
+[Computing](https://www.scss.tcd.ie/) and
+[Engineering](http://www.tcd.ie/Engineering/). We're actively working on
+finalizing locations. We're also looking for sponsors interested in
+being involved with the open source community for help with food and
+coffee. If interested, please get in touch with
 [Brad](https://github.com/chapmanb).
 
 Organizers
 ----------
 
 -   [Brad Chapman](http://bcb.io/)
+-   [Andrew
+    Jackson](http://www.tcd.ie/Zoology/research/research/theoretical/andrewjackson.php)
 
