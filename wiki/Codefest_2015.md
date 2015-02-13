@@ -75,6 +75,10 @@ so please sign up to discuss and receive updates.
 Logistics
 ---------
 
+|                                                                                                                        |
+|------------------------------------------------------------------------------------------------------------------------|
+| ![Trinity College Dubline|link=<http://www.tcd.ie/>](TCDTrimmed.png "Trinity College Dubline|link=http://www.tcd.ie/") |
+
 Codefest 2015 will be hosted at [Trinity College
 Dublin](http://www.tcd.ie/) by the schools of [Natural
 Sciences](http://naturalscience.tcd.ie/),
