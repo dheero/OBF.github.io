@@ -2,7 +2,7 @@
 title: Google Summer of Code
 ---
 
-![](gsoc214-banner.png "gsoc214-banner.png")
+![](GSoC15-logo-small.jpg "GSoC15-logo-small.jpg")
 
 Google Summer of Code (GSoC) is a student internship program for
 open-source projects. The program offers eligible student developers
