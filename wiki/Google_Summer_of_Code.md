@@ -12,12 +12,12 @@ Code Main Site](http://code.google.com/soc)** for general information
 about the Google Summer of Code program, how to apply, frequently asked
 general questions, and more.
 
-GSoC 2014
+GSoC 2015
 ---------
 
-The Google Summer of Code 2014 is ON! OBF is once again serving as a
+The Google Summer of Code 2015 is ON! OBF is once again serving as a
 [GSoC mentoring
-organization](http://www.google-melange.com/gsoc/org2/google/gsoc2014/obf)
+organization](http://www.google-melange.com/gsoc/org2/google/gsoc2015/obf)
 this year. Interested mentors and students should subscribe to the
 OBF/GSoC [mailing
 list](http://lists.open-bio.org/mailman/listinfo/gsoc). Please announce
@@ -387,7 +387,7 @@ Previous Years
 This section contains links to content related to OBF's participation in
 GSoC in previous years.
 
--   [2014](Google_Summer_of_Code_2014 "wikilink") - \* student projects
+-   [2014](Google_Summer_of_Code_2014 "wikilink") - 6 student projects
 -   [2012](Google_Summer_of_Code_2012 "wikilink") - 5 student projects
 -   [2011](Google_Summer_of_Code_2011 "wikilink") - 6 student projects
 -   [2010](Google_Summer_of_Code_2010 "wikilink") - 6 student projects
