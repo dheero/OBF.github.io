@@ -77,7 +77,7 @@ Project Ideas
 -------------
 
 Our GSoC ideas from each project are collected here: **[OBF Project
-Ideas for GSoC 2014](Google_Summer_of_Code_2014_Ideas "wikilink")**
+Ideas for GSoC 2015](Google_Summer_of_Code_2015_Ideas "wikilink")**
 
 OBF Projects Accepting Applicants
 ---------------------------------
