@@ -28,13 +28,13 @@ ideas are listed below, including potential mentors.
 
 Time Line :  
 
-:\* [GSoC 2014 time
-line](http://www.google-melange.com/gsoc/events/google/gsoc2014)
+:\* [GSoC 2015 time
+line](http://www.google-melange.com/gsoc/events/google/gsoc2015)
 
-GSoC 2014 FAQ :  
+GSoC 2015 FAQ :  
 
-:\* For questions of eligibility, see the [GSoC 2014
-FAQ](http://www.google-melange.com/gsoc/document/show/gsoc_program/google/gsoc2014/help_page).
+:\* For questions of eligibility, see the [GSoC 2015
+FAQ](http://www.google-melange.com/gsoc/document/show/gsoc_program/google/gsoc2015/help_page).
 
 Info from Google :  
 
@@ -45,8 +45,8 @@ group) that relate to the program itself (and are not specific to our
 organization).
 
 :\* Students receive a stipend from Google if accepted. See the [GSoC
-2014
-FAQ](http://www.google-melange.com/gsoc/document/show/gsoc_program/google/gsoc2014/help_page)
+2015
+FAQ](http://www.google-melange.com/gsoc/document/show/gsoc_program/google/gsoc2015/help_page)
 for full documentation.
 
 :\* Development is done entirely remotely and on-line; there is no
@@ -192,7 +192,7 @@ HackageDB](http://hackage.haskell.org/packages/#cat:Bioinformatics)
 :\* [Mailing list](https://groups.google.com/d/forum/biocaml)
 
 :\* [Project
-ideas](http://www.open-bio.org/wiki/Google_Summer_of_Code_2014_Ideas#Biocaml)
+ideas](http://www.open-bio.org/wiki/Google_Summer_of_Code_2015_Ideas#Biocaml)
 
 Guide for prospective GSoC students
 -----------------------------------
