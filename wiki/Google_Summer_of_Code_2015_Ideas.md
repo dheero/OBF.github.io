@@ -312,30 +312,34 @@ TEXT HERE TEXT HERE
 :\* [Bioinformatics section on
 HackageDB](http://hackage.haskell.org/packages/#cat:Bioinformatics)
 
-### TITLE
+:\* [GSoC page](http://biohaskell.org/Google_Summer_of_Code)
 
-Rationale  
-TEXT HERE TEXT HERE
+Biohaskell has its own gsoc page. We currently have 2 (+1) open problems
+listed there. In addition, we accept peoples' own ideas and have a
+number of open problems not listed. The latter fall somewhere between
+bachelors thesis and PhD work and are harder to nicely package up.
 
-<!-- -->
+### Fast k-mer indexing
 
-Approach  
-TEXT HERE TEXT HERE
-
-<!-- -->
-
-Languages and skill  
-TEXT HERE TEXT HERE
-
-<!-- -->
-
-Code  
-TEXT HERE TEXT HERE
-
-<!-- -->
+Fast k-mer indexing requires a data structure mapping a short string of
+k characters to a value. While trivial to do with almost all key-value
+maps, we also require a very memory-efficient storage system. Knowledge
+of suffix structures is a definite plus.
 
 Mentors  
-TEXT HERE TEXT HERE
+Ketil Malde?
+
+### Low-level bit and stream-fusion optimizations
+
+In Haskell, we typically don't talk that much about low-level
+implementation details. For some algorithms, low-level details
+(especially bitwise operations and SIMD instructions) become important.
+I have a library dealing with bitsets but it is not yet fully efficient.
+Getting SIMD instructions to play nice with /generic/ DP recursion
+schemes is probably really hard.
+
+Mentors  
+Christian Hoener zu Siederdissen
 
 [Biocaml](http://biocaml.org)
 -----------------------------
