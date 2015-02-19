@@ -117,7 +117,8 @@ Nextflow is a data-driven toolkit for computational pipelines that
 simplify writing parallel and scalable pipelines in a portable manner
 across different execution platforms. Its goal is to make data analysis
 required by next generation sequence technologies and, in more general
-terms, bioinformatics applications easier for researchers.
+terms, bioinformatics applications easier for researchers. You can read
+more about Nextflow at this link (http://www.nextflow.io).
 
 <!-- -->
 
