@@ -440,6 +440,38 @@ TEXT HERE TEXT HERE
 Mentors  
 TEXT HERE TEXT HERE
 
+[Team YummyData](https://github.com/dbcls/bh14/wiki/Yummydata)
+--------------------------------------------------------------
+
+YummyData is a system of collecting and disseminating various
+statistical and functional data of SARQL endpoints in the Life Science
+domain.
+
+### Sharing SPARQL endpoint data
+
+Rationale  
+TEXT HERE TEXT HERE
+
+<!-- -->
+
+Approach  
+TEXT HERE TEXT HERE
+
+<!-- -->
+
+Languages and skill  
+TEXT HERE TEXT HERE
+
+<!-- -->
+
+Code  
+TEXT HERE TEXT HERE
+
+<!-- -->
+
+Mentors  
+Andrea Splendiani, Thierry Lombardot, Yasunori Yamamoto
+
 Candidate a new project for OBF
 -------------------------------
 
