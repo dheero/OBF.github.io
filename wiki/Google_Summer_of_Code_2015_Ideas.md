@@ -32,14 +32,15 @@ ideas from [Genome Informatics
 Evolutionary Synthesis Center
 (NESCent)](http://informatics.nescent.org/wiki/Phyloinformatics_Summer_of_Code_2014).
 
-### Provide Nextflow with a GUI based on NoFlo UI
+### Nextflow graphical front-end
 
 Rationale  
 Nextflow is a data-driven toolkit for computational pipelines that
 simplify writing parallel and scalable pipelines in a portable manner.
 Its goal is to make data analysis required by next generation sequence
 technologies and, in more general terms, bioinformatics applications
-easier for researchers.
+easier for researchers. You can read more about Nextflow at this
+link (http://www.nextflow.io).
 
 <!-- -->
 
@@ -63,7 +64,7 @@ allows you to create a computational workflow by dragging, dropping and
 connecting the different task components. It basically allows you to
 "draw" an application in such a way that it resembles a subway map. This
 "map" can then be more easily understood, shared and curated by other
-scientists, compared to managing endless files of source code.
+developers, compared to managing endless files of source code.
 
 <!-- -->
 
@@ -71,7 +72,7 @@ Approach
 The goal, therefore, of the this proposal is to implement a graphical
 front-end, based on the NoFlo-UI project, for the Nextflow
 programming environment. This would provide the latter with a
-presentation layer that would allow researchers to "sketch" their
+presentation layer that would allow scientists to "sketch" their
 computational pipelines instead of programming them, making it easier to
 share and handle complex task interactions in their application logic.
 
