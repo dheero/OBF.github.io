@@ -310,7 +310,7 @@ analyses
 
 :\* Refactor old classes or develop new optimized code for NGS analysis
 
-Challenges : This can be a self-contained project, but will require a lot of discussion on what areas to focus on.  
+Challenges : This can be a self-contained project, but will require a lot of discussion on what areas to focus on. Some knowledge of C-based code may be required in cases where low-level library bindings could be generated.  
 
 <!-- -->
 
@@ -323,32 +323,7 @@ datasets
 
 <!-- -->
 
-Mentors : Chris Fields, others?  
-
-### Convert BioPerl-DB to DBIx::Class
-
-Rationale : Bioperl-db (the BioPerl bindings to BioSQL) in essence constitute a self-made ORM, invented at a time when DBIx::Class didn't exist yet. As such, it has some advantages (if you are willing to count overly clever features to be counted in this category), but arguably many more disadvantages, chief among them being the unsustainably small (you could also say non-existent) developer community supporting it, and the fact that DBIx::Class now has existed for years, and is fairly mature. So, rewriting Bioperl-db with a DBIx::Class (or another well-supported generic ORM) would stand to make a considerable impact on our ability to further develop Bioperl's relational storage capabilities, as well as BioSQL itself.  
-
-<!-- -->
-
-Approach : Under the supervision of their mentor(s), the GSoC student will:  
-
-:\* Start working on conversion of BioPerl-DB classes to using
-DBIx::Class
-
-:\* write additional tests and improve documentation as needed
-
-Challenges : BioPerl-DB is self-contained; this may require looking at the BioSQL schema and determining whether there are specific areas that need the most focus.  
-
-<!-- -->
-
-Difficulty and needed skills : easy to hard, depending on student's familiarity with the tools to be used. Student will need:  
-
-:\* excellent Perl programming skills, including familiarity with:
-
-:\*\* DBIx::Class
-
-Mentors : Hilmar Lapp, others?  
+Mentors : Chris Fields, Mark Jensen?  
 
 ### BioPerl 2.0 / BioPerl6
 
@@ -380,7 +355,32 @@ Difficulty : Project-dependent
 
 <!-- -->
 
-Mentors : Chris Fields, Rob Buels  
+Mentors : Chris Fields, Mark Jensen?  
+
+### Convert BioPerl-DB to DBIx::Class
+
+Rationale : Bioperl-db (the BioPerl bindings to BioSQL) in essence constitute a self-made ORM, invented at a time when DBIx::Class didn't exist yet. As such, it has some advantages (if you are willing to count overly clever features to be counted in this category), but arguably many more disadvantages, chief among them being the unsustainably small (you could also say non-existent) developer community supporting it, and the fact that DBIx::Class now has existed for years, and is fairly mature. So, rewriting Bioperl-db with a DBIx::Class (or another well-supported generic ORM) would stand to make a considerable impact on our ability to further develop Bioperl's relational storage capabilities, as well as BioSQL itself.  
+
+<!-- -->
+
+Approach : Under the supervision of their mentor(s), the GSoC student will:  
+
+:\* Start working on conversion of BioPerl-DB classes to using
+DBIx::Class
+
+:\* write additional tests and improve documentation as needed
+
+Challenges : BioPerl-DB is self-contained; this may require looking at the BioSQL schema and determining whether there are specific areas that need the most focus.  
+
+<!-- -->
+
+Difficulty and needed skills : easy to hard, depending on student's familiarity with the tools to be used. Student will need:  
+
+:\* excellent Perl programming skills, including familiarity with:
+
+:\*\* DBIx::Class
+
+Mentors : Hilmar Lapp, others?  
 
 [BioJava](http://biojava.org/wiki/Google_Summer_of_Code)
 --------------------------------------------------------
