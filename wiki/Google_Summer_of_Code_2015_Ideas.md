@@ -516,22 +516,83 @@ bachelors thesis and PhD work and are harder to nicely package up.
 
 ### Fast k-mer indexing
 
+Rationale  
 Fast k-mer indexing requires a data structure mapping a short string of
 k characters to a value. While trivial to do with almost all key-value
 maps, we also require a very memory-efficient storage system. Knowledge
 of suffix structures is a definite plus.
+
+<!-- -->
+
+Approach  
+Determine feasibility of implementation in pure Haskell vs. binding to
+new or existing C code. Multi-threadedness will pose a problem. There is
+currently no efficient suffix tree implementation available in Haskell
+(lazy suffix trees do exist but are efficient only under
+certain conditions).
+
+<!-- -->
+
+Languages and skill  
+Haskell, maybe C (low-level code). Skill: need to have worked with
+suffix structures before GSoC starts. If in coded in C, then enough
+Haskell knowledge to be able to create thread-safe bindings. Otherwise,
+medium to advanced Haskell knowledge.
+
+<!-- -->
+
+Code  
+[containers](http://hackage.haskell.org/package/containers) and
+[unordered
+containers](http://hackage.haskell.org/package/unordered-containers) for
+references to map-like container structures.
+
+<!-- -->
 
 Mentors  
 Ketil Malde?
 
 ### Low-level bit and stream-fusion optimizations
 
+Rationale  
 In Haskell, we typically don't talk that much about low-level
 implementation details. For some algorithms, low-level details
 (especially bitwise operations and SIMD instructions) become important.
 I have a library dealing with bitsets but it is not yet fully efficient.
-Getting SIMD instructions to play nice with /generic/ DP recursion
-schemes is probably really hard.
+Getting SIMD instructions to play nice with /generic/ dynamic
+programming recursion schemes is probably really hard.
+
+<!-- -->
+
+Approach  
+Write benchmarking code for the different bit-manipulating functions.
+Optimize the code to be as loopless as possible. Allow for
+architecture-dependend code rewrites. The SIMD question is rather
+open-ended and could very well be a Haskell.org task.
+
+<!-- -->
+
+Languages and skill  
+Haskell and C. Bitset operations require knowledge of specialized
+C routines. Including IFDef-ing for different architectures. Code should
+be as non-branching / non-recursive as possible. SIMD instructions have
+been added to vector library. The problem we face is that vector-SIMD
+code expects data to be ordered linearly. Dynamic programming code leads
+to unordered access structures. The student should know about the Core
+language (one of the intermediate languages between Haskell and the
+final binary).
+
+<!-- -->
+
+Code  
+[vector](http://hackage.haskell.org/package/vector) for streaming code.
+[bits](http://hackage.haskell.org/package/bits) for some
+bitwise operations. An Ordered-Bits library will be pushed to hackage
+next week with reference code. Dynamic programming code requires
+[primitive arrays](http://hackage.haskell.org/package/PrimitiveArray)
+and [ADPfusion](http://hackage.haskell.org/package/ADPfusion).
+
+<!-- -->
 
 Mentors  
 Christian Hoener zu Siederdissen
