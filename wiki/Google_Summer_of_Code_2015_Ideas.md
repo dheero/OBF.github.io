@@ -322,32 +322,16 @@ TEXT HERE TEXT HERE
 Mentors  
 TEXT HERE TEXT HERE
 
-[BioJava](http://biojava.org/wiki/Google_Summer_of_Code) and JSBML
-------------------------------------------------------------------
+[BioJava](http://biojava.org/wiki/Google_Summer_of_Code)
+--------------------------------------------------------
 
 ![](Biojava_logo_tiny.jpg "Biojava_logo_tiny.jpg")
 
 -   [BioJava developer mailing
     list](http://lists.open-bio.org/mailman/listinfo/biojava-dev)
--   [JSBML developer mailing
-    list](https://groups.google.com/forum/#!forum/jsbml-development)
 -   [BioJava modules](http://biojava.org/wiki/BioJava:Modules) as
     another source for student-conceived project ideas
--   Source code for
-    [biojava-live](http://code.open-bio.org/svnweb/index.cgi/biojava/browse/biojava-live/trunk)
-    (the main BioJava code base) and [all BioJava
-    sub-projects](http://code.open-bio.org/svnweb/index.cgi/biojava/)
-
-For GSoC 2014, BioJava is partnering with the Systems Biology Markup
-Language (SMBL) team to bring enhancements to JSBML, the standard Java
-implementation of SBML, and bring SBML features to other Java-based
-systems biology software. See [the SMBL
-website](http://sbml.org/GSoC2014) for more ideas from the SBML team.
-
-Students working on these projects will interact with both the BioJava
-and JSBML communities, which overlap. Most development will happen on
-the JSBML codebase, although BioJava is used as a supporting library for
-some components.
+-   Source code for [1](https://github.com/biojava/biojava/)
 
 ### TITLE
 
