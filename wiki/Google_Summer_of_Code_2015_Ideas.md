@@ -416,7 +416,7 @@ TEXT HERE TEXT HERE
 -   [Source code](http://github.com/bioruby/bioruby/tree/master)
 -   IRC: `#bioruby` on [Freenode](http://freenode.net)
 
-### Add super-fast local realignment support to Sambamba
+### Add local realignment support to Sambamba
 
 Rationale  
 Sambamba is a multi-core alignment processor for next generation
@@ -446,6 +446,8 @@ Languages and skill
 Able to read C code and willing to write high-performance software in D
 (and some Ruby).
 
+Basic understanding of probability theory
+
 <!-- -->
 
 Code  
@@ -454,6 +456,18 @@ Sambamba: <https://github.com/lomereiter/sambamba>
 D language: <http://dlang.org/>
 
 Bioruby-samtools gem: <http://biogems.info/>
+
+<!-- -->
+
+  
+Notes on Samtools algorithms:
+<https://www.broadinstitute.org/gatk/media/docs/Samtools.pdf>
+
+Samtools indel caller code:
+<https://github.com/samtools/samtools/blob/develop/bam2bcf_indel.c>
+
+Samtools local realignment:
+<https://github.com/samtools/samtools/blob/develop/kprobaln.c>
 
 <!-- -->
 
