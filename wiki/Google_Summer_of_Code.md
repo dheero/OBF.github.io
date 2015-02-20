@@ -391,10 +391,11 @@ developed during the Google Summer of Code over the years.
 -   Sambamba: fast processing of NGS alignment formats.
     Bioinformatics (2015) doi: 10.1093/bioinformatics/btv098
     <http://bioinformatics.oxfordjournals.org/cgi/content/abstract/btv098>
--   bio-maf: The long intergenic noncoding RNA landscape of human
-    lymphocytes highlights the regulation of T cell differentiation
-    by linc-MAF-4. Ranzani V et al. Nat Immunol. 2015 Mar;16(3):318-25.
-    doi: 10.1038/ni.3093. Epub 2015 Jan 26.
+-   [bio-maf](http://csw.github.io/bioruby-maf/): The long intergenic
+    noncoding RNA landscape of human lymphocytes highlights the
+    regulation of T cell differentiation by linc-MAF-4. Ranzani V et al.
+    Nat Immunol. 2015 Mar;16(3):318-25. doi: 10.1038/ni.3093. Epub 2015
+    Jan 26.
 -   [vcf-mongo](http://www.open-bio.org/wiki/Google_Summer_of_Code_2014#Loris_Cro):
     Gene2Farm and WHEALBI European Research projects
 
