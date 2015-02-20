@@ -683,7 +683,7 @@ domain.
 ### Sharing SPARQL endpoint data
 
 Rationale  
-Although increasing amounts of biomedical data is being provided as the
+Although increasing amounts of biomedical data is being provided as
 Linked Data, there is currently no standardized way to monitor SPARQL
 endpoints for their availability, reliability, or content flux.
 
