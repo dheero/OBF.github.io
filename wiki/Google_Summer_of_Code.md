@@ -381,6 +381,17 @@ Mentor Resources
 -   [OBF Application Evaluation
     Guidelines](Google_Summer_of_Code_Application_Evaluation "wikilink")
 
+Scientific Achievements
+-----------------------
+
+In this section we want to report all the scientific achievements of our
+community, scientific papers or grant funded project that used the tools
+developed during the Google Summer of Code over the years.
+
+-   Sambamba: fast processing of NGS alignment formats.
+    Bioinformatics (2015) doi: 10.1093/bioinformatics/btv098
+    <http://bioinformatics.oxfordjournals.org/cgi/content/abstract/btv098>
+
 Previous Years
 --------------
 
