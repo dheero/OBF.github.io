@@ -562,13 +562,13 @@ Languages and skill
 Ruby, JavaScript
 
 Code  
-TEXT HERE TEXT HERE
 
-<!-- -->
+<https://github.com/yannickwurm/sequenceserver>
+<https://github.com/jwintersinger/kablammo>
 
 Mentors  
 
-Anurag Priyam Yannick Wurm
+Yannick Wurm, Anurag Priyam
 
 [BioHaskell](http://biohaskell.org/Google_Summer_of_Code)
 ---------------------------------------------------------
