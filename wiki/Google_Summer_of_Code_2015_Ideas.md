@@ -683,10 +683,9 @@ domain.
 ### Sharing SPARQL endpoint data
 
 Rationale  
-Although increasing amounts of biomedical data is being provided as
-structured contents on the Linked Data, there is currently no
-standardized way to monitor SPARQL endpoints for their availability,
-reliability, or content flux.
+Although increasing amounts of biomedical data is being provided as the
+Linked Data, there is currently no standardized way to monitor SPARQL
+endpoints for their availability, reliability, or content flux.
 
 Importantly, there are additional issues relating to the provision of
 version-sensitive data republished by third parties or made available as
