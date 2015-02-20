@@ -520,7 +520,7 @@ Samtools local realignment:
 Mentors  
 Pjotr Prins, Artem Tarasov, Francesco Strozzi
 
-### TITLE
+### BLAST visualisation library for BioRuby and SequenceServer
 
 Rationale  
 
