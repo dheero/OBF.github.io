@@ -257,31 +257,6 @@ list](https://groups.google.com/forum/#!forum/cloudbiolinux)
 Mentors  
 Pjotr Prins, Marco van Zwetselaar, Brad Chapman, Dave Thompson
 
-### TITLE
-
-Rationale  
-TEXT HERE TEXT HERE
-
-<!-- -->
-
-Approach  
-TEXT HERE TEXT HERE
-
-<!-- -->
-
-Languages and skill  
-TEXT HERE TEXT HERE
-
-<!-- -->
-
-Code  
-TEXT HERE TEXT HERE
-
-<!-- -->
-
-Mentors  
-TEXT HERE TEXT HERE
-
 [BioPerl](http://bioperl.org/wiki/Google_Summer_of_Code)
 --------------------------------------------------------
 
