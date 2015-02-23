@@ -330,7 +330,7 @@ Difficulty : Project-dependent
 
 <!-- -->
 
-Mentors : Chris Fields, Mark Jensen?  
+Mentors : Chris Fields, Mark Jensen  
 
 ### Convert BioPerl-DB to DBIx::Class
 
