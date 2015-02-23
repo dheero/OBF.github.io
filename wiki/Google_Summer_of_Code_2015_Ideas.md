@@ -596,7 +596,7 @@ references to map-like container structures.
 <!-- -->
 
 Mentors  
-Ketil Malde?
+Ketil Malde
 
 ### Low-level bit and stream-fusion optimizations
 
