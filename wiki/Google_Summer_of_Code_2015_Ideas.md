@@ -298,7 +298,7 @@ datasets
 
 <!-- -->
 
-Mentors : Chris Fields, Mark Jensen?  
+Mentors : Chris Fields, Mark Jensen  
 
 ### BioPerl 2.0 / BioPerl6
 
