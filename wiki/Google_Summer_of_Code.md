@@ -398,9 +398,8 @@ developed during the Google Summer of Code over the years.
     Jan 26.
 -   [vcf-mongo](http://www.open-bio.org/wiki/Google_Summer_of_Code_2014#Loris_Cro):
     Gene2Farm and WHEALBI European Research projects
--   GSoC 2014 was a rich of science activities, you can read the full
-    report
-    [OBF-GSoC-2014-WrapUp](http://news.open-bio.org/news/2015/02/obf-gsoc-2014-wrapup/)
+-   [OBF-GSoC-2014-WrapUp](http://news.open-bio.org/news/2015/02/obf-gsoc-2014-wrapup/)
+    is rich of science activities and results.
 
 Previous Years
 --------------
