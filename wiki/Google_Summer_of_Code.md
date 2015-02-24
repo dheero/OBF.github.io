@@ -400,6 +400,64 @@ developed during the Google Summer of Code over the years.
     Gene2Farm and WHEALBI European Research projects
 -   [OBF-GSoC-2014-WrapUp](http://news.open-bio.org/news/2015/02/obf-gsoc-2014-wrapup/)
     is rich of science activities and results.
+-   [RCSB PDB](http://www.rcsb.org) is the north american access point
+    to the world wide protein data bank, and uses BioJava extensively
+-   Publications using BioJava:
+    -   Prlić, Andreas, et al. "BioJava: an open-source framework for
+        bioinformatics in 2012." Bioinformatics 28.20 (2012): 2693-2695.
+    -   Holland, Richard CG, et al. "BioJava: an open-source framework
+        for bioinformatics." Bioinformatics 24.18 (2008): 2096-2097.
+    -   Pocock, Matthew, Thomas Down, and Tim Hubbard. "BioJava: open
+        source components for bioinformatics." ACM Sigbio Newsletter
+        20.2 (2000): 10-12.
+        -   181 citations on Google Scholar
+    -   Myers-Turnbull, Douglas, et al. "Systematic Detection of
+        Internal Symmetry in Proteins Using CE-Symm." Journal of
+        Molecular Biology, (2014) 426:11 pp. 2255–2268.
+    -   Prlić, Andreas, et al. (2010) “Precalculated Protein Structure
+        Alignments at the RCSB PDB website.” Bioinformatics 26(23),
+        2983-2985
+    -   Bliven, Spencer, et al. (2015) "Detection of circular
+        permutations within protein structures using CE-CP
+        Bioinformatics." Bioinformatics. In press.
+    -   Aerts, Stein, et al. "Toucan: deciphering the cis‐regulatory
+        logic of coregulated genes." Nucleic acids research 31.6
+        (2003): 1753-1764.
+    -   Vaida, Mircea-Florin, Radu Terec, and Lenuta Alboaie.
+        "Alternative DNA Security Using BioJava." Digital Information
+        and Communication Technology and Its Applications. Springer
+        Berlin Heidelberg, 2011. 455-469.
+    -   Ross, Christian, and Qingxi J. Shen. "Computational prediction
+        and experimental verification of HVA1-like abscisic acid
+        responsive promoters in rice (Oryza sativa)." Plant molecular
+        biology 62.1-2 (2006): 233-246.
+    -   Finak, G., et al. "BIAS: bioinformatics integrated application
+        software." Bioinformatics 21.8 (2005): 1745-1746.
+    -   Aerts, Stein, et al. "A genetic algorithm for the detection of
+        new cis-regulatory modules in sets of coregulated genes."
+        Bioinformatics 20.12 (2004): 1974-1976.
+    -   Hanganu, A. N. D. R. E. I., et al. "SLIDE: An interactive
+        threading refinement tool for homology modeling." Rom J Biochem
+        1009.46: 123-127.
+    -   Kaladhar, DSVGK. "BioJava: A Programming Guide." (2012). LAP
+        Lambert Academic Publishing , Germany. <ISBN:3659167509>
+        9783659167508
+    -   Prins, J. C. P. "BioLib: Sharing high performance code between
+        BioPerl, BioPython, BioRuby, R/Bioconductor and BioJAVA." 17th
+        Annual International Conference on Intelligent Systems for
+        Molecular Biology, Stockhol, Sweden, June 27-July 2, 2009. 2009.
+    -   Tang, Si-Xin, Yi-Bing Li, and Hong-Bo He. "Designing a
+        BioJava-based Software for RNA Sequence Analysis." Journal of
+        Luoyang Institute of Technology 6 (2005): 016.
+    -   Mangalam, Harry. "The Bio\* toolkits—a brief overview."
+        Briefings in bioinformatics 3.3 (2002): 296-302.
+    -   Ryu, Taewan. "Benchmarking of BioPerl, Perl, BioJava, Java,
+        BioPython, and Python for primitive bioinformatics tasks and
+        choosing a suitable language." International Journal of Contents
+        5.2 (2009): 6-15.
+    -   McGuffee, James W. "Programming languages and the biological
+        sciences." Journal of Computing Sciences in Colleges 22.4
+        (2007): 178-183.
 
 Previous Years
 --------------
