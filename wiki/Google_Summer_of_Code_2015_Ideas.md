@@ -408,40 +408,6 @@ molecular viewer (LGPL)
 Mentors  
 ???
 
-[BioPython](biopython:Google_Summer_of_Code "wikilink")
--------------------------------------------------------
-
-![](Biopython_logo_tiny.png "Biopython_logo_tiny.png")
-
--   [Mailing lists](biopython:Mailing_lists "wikilink")
--   [Information for contributors](biopython:Contributing "wikilink")
--   [ Source Code](biopython:SourceCode "wikilink")
-
-### TITLE
-
-Rationale  
-TEXT HERE TEXT HERE
-
-<!-- -->
-
-Approach  
-TEXT HERE TEXT HERE
-
-<!-- -->
-
-Languages and skill  
-TEXT HERE TEXT HERE
-
-<!-- -->
-
-Code  
-TEXT HERE TEXT HERE
-
-<!-- -->
-
-Mentors  
-TEXT HERE TEXT HERE
-
 [BioRuby](http://bioruby.open-bio.org/wiki/Google_Summer_of_Code)
 -----------------------------------------------------------------
 
@@ -658,36 +624,6 @@ and [ADPfusion](http://hackage.haskell.org/package/ADPfusion).
 Mentors  
 Christian Hoener zu Siederdissen
 
-[Biocaml](http://biocaml.org)
------------------------------
-
-:\* [Mailing List](https://groups.google.com/d/forum/biocaml)
-
-### TITLE
-
-Rationale  
-TEXT HERE TEXT HERE
-
-<!-- -->
-
-Approach  
-TEXT HERE TEXT HERE
-
-<!-- -->
-
-Languages and skill  
-TEXT HERE TEXT HERE
-
-<!-- -->
-
-Code  
-TEXT HERE TEXT HERE
-
-<!-- -->
-
-Mentors  
-TEXT HERE TEXT HERE
-
 [Team YummyData](https://github.com/dbcls/bh14/wiki/Yummydata)
 --------------------------------------------------------------
 
@@ -738,36 +674,5 @@ Code
 
 Mentors  
 Andrea Splendiani, Thierry Lombardot, Yasunori Yamamoto
-
-Candidate a new project for OBF
--------------------------------
-
-Please if you want to be part of OBF but you porject is not yet listed
-above, contact us and let us know about your project and your proposal.
-
-### ADD HERE
-
-Rationale  
-TEXT HERE TEXT HERE
-
-<!-- -->
-
-Approach  
-TEXT HERE TEXT HERE
-
-<!-- -->
-
-Languages and skill  
-TEXT HERE TEXT HERE
-
-<!-- -->
-
-Code  
-TEXT HERE TEXT HERE
-
-<!-- -->
-
-Mentors  
-TEXT HERE TEXT HERE
 
 
