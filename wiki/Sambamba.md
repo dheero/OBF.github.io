@@ -13,7 +13,6 @@ For more information see
 ` `[`https://github.com/lomereiter/sambamba`](https://github.com/lomereiter/sambamba)
 
 The Sambamba paper is published in Bioinformatics (2015) doi:
-[10.1093/bioinformatics/btv098
-10.1093/bioinformatics/btv098](http://bioinformatics.oxfordjournals.org/content/early/2015/02/18/bioinformatics.btv098.full.pdf+html).
+[10.1093/bioinformatics/btv098](http://dx.doi.org/10.1093/bioinformatics/btv098).
 Timing logs used in the publication can be found
 [here](https://github.com/pjotrp/smb_performance).
