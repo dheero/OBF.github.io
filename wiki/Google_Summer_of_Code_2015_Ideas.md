@@ -368,30 +368,45 @@ Mentors : Hilmar Lapp, others?
     another source for student-conceived project ideas
 -   Source code for [1](https://github.com/biojava/biojava/)
 
-### TITLE
+### Analysis methods for protein dynamics
 
 Rationale  
-TEXT HERE TEXT HERE
+Protein structures are dynamic entities, and understanding how proteins
+move can be critical to understanding their function. BioJava has strong
+support for representing static protein structures, but little support
+for representing flexability and freedom of movement. Such methods would
+enable users to better analyze enzymes, kinases, and other biological
+molecules which are relevent to molecular biology and medicine.
 
 <!-- -->
 
 Approach  
-TEXT HERE TEXT HERE
+Initial efforts will focus on implementing the [Gaussian Network
+Model](http://en.wikipedia.org/wiki/Gaussian_network_model), a popular
+method for normal mode analysis in proteins. The project will include
+both an implementation of the algorithm and the development of tools for
+visualizing protein motions.
 
 <!-- -->
 
 Languages and skill  
-TEXT HERE TEXT HERE
+Candidate should be comfortable with Java. Familiarity with
+bioinformatics and molecular dynamics would also be beneficial, although
+this background information could be learned by a motivated student.
 
 <!-- -->
 
 Code  
-TEXT HERE TEXT HERE
+BioJava source code is available at
+[2](https://github.com/biojava/biojava/) (LGPL)
+
+Visualization will use the [Jmol](http://jmol.sourceforge.net/)
+molecular viewer (LGPL)
 
 <!-- -->
 
 Mentors  
-TEXT HERE TEXT HERE
+???
 
 [BioPython](biopython:Google_Summer_of_Code "wikilink")
 -------------------------------------------------------
