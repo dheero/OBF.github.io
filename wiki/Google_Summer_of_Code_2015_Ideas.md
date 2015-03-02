@@ -381,11 +381,14 @@ molecules which are relevent to molecular biology and medicine.
 <!-- -->
 
 Approach  
-Initial efforts will focus on implementing the [Gaussian Network
-Model](http://en.wikipedia.org/wiki/Gaussian_network_model), a popular
-method for normal mode analysis in proteins. The project will include
-both an implementation of the algorithm and the development of tools for
-visualizing protein motions.
+Initial efforts will focus on methods for analysis of molecular dynamics
+simulation data. These methods include conventional MD analysis
+calculations such as [mean square fluctuations of
+atoms](http://en.wikipedia.org/wiki/Root-mean-square_deviation_of_atomic_positions),
+[cross-correlation](http://en.wikipedia.org/wiki/Cross-correlation),
+[autocorrelation](http://en.wikipedia.org/wiki/Autocorrelation) and time
+lapse correlations. The project will include both implementations of the
+algorithms and the development of tools for visualizing analysis data.
 
 <!-- -->
 
