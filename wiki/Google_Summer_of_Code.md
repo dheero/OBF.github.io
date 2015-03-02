@@ -388,14 +388,18 @@ In this section we want to report all the scientific achievements of our
 community, scientific papers or grant funded project that used the tools
 developed during the Google Summer of Code over the years.
 
--   Sambamba: fast processing of NGS alignment formats.
+-   [Sambamba: fast processing of NGS
+    alignment formats.](http://bioinformatics.oxfordjournals.org/cgi/content/abstract/btv098)
     Bioinformatics (2015) doi: 10.1093/bioinformatics/btv098
-    <http://bioinformatics.oxfordjournals.org/cgi/content/abstract/btv098>
 -   [bio-maf](http://csw.github.io/bioruby-maf/): The long intergenic
     noncoding RNA landscape of human lymphocytes highlights the
     regulation of T cell differentiation by linc-MAF-4. Ranzani V et al.
     Nat Immunol. 2015 Mar;16(3):318-25. doi: 10.1038/ni.3093. Epub 2015
     Jan 26.
+-   [Bio.Phylo: A unified toolkit for processing, analyzing and
+    visualizing phylogenetic trees
+    in Biopython.](http://www.biomedcentral.com/1471-2105/13/209) BMC
+    Bioinformatics 2012, 13:209 <doi:10.1186/1471-2105-13-209>
 -   [vcf-mongo](http://www.open-bio.org/wiki/Google_Summer_of_Code_2014#Loris_Cro):
     Gene2Farm and WHEALBI European Research projects
 -   [OBF-GSoC-2014-WrapUp](http://news.open-bio.org/news/2015/02/obf-gsoc-2014-wrapup/)
