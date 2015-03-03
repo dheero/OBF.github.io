@@ -14,6 +14,15 @@ rejected) on 3 May 2015.
 Abstracts must be **one page** (8.5 inches by 11 inches) in length and
 submitted **as a PDF (preferred) or Microsoft Word file only**.
 
+You can download an abstract template in several formats:
+
+-   PDF (not fillable)
+-   Microsoft Word
+-   Pages
+
+You are not required to use the template, but please be sure to include
+all the required fields in your abstract.
+
 Please format your abstract as follows:
 
 -   Use 1 inch (2.5 cm) margins on the top, sides, and bottom of
