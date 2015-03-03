@@ -470,6 +470,8 @@ This section contains links to content related to OBF's participation in
 GSoC in previous years.
 
 -   [2014](Google_Summer_of_Code_2014 "wikilink") - 6 student projects
+-   Google Summer of Code 2013 - OBF not accepted, some Bio\* projects
+    partnered with other organisations
 -   [2012](Google_Summer_of_Code_2012 "wikilink") - 5 student projects
 -   [2011](Google_Summer_of_Code_2011 "wikilink") - 6 student projects
 -   [2010](Google_Summer_of_Code_2010 "wikilink") - 6 student projects
