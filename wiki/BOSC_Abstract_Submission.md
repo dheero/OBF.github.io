@@ -15,8 +15,8 @@ Abstracts must be **one page** (8.5 inches by 11 inches) in length and
 submitted **as a PDF (preferred) or Microsoft Word file only**.
 
 You can download an abstract formatting example
-\[[1](File:BOSC2015-abstract-template.pdf) here as a PDF\]\] (not
-fillable).
+![](BOSC2015-abstract-template.pdf here as a PDF "fig:BOSC2015-abstract-template.pdf here as a PDF")
+(not fillable).
 
 Please format your abstract as follows:
 
