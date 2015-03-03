@@ -5,7 +5,9 @@ title: BOSC Abstract Submission
 ![The Bosc Pear](Pear.png "The Bosc Pear")
 
 Abstract submission is expected to open on 5 March 2015. The deadline
-for abstract submissions will be 3 April 2015.
+for abstract submissions will be 3 April 2015. You will be notified of
+your acceptance status (accepted for short or long talk or poster, or
+rejected) on 3 May 2015.
 
 ### Abstract Formatting Requirements
 
