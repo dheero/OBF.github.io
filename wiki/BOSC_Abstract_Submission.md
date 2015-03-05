@@ -4,21 +4,32 @@ title: BOSC Abstract Submission
 
 ![The Bosc Pear](Pear.png "The Bosc Pear")
 
-Abstract submission is expected to open on 5 March 2015. The deadline
-for abstract submissions will be 3 April 2015. You will be notified of
-your acceptance status (accepted for short or long talk or poster, or
+Abstract submission opens on 5 March 2015. The deadline for abstract
+submissions will be 3 April 2015. You will be notified of your
+acceptance status (accepted for short or long talk or poster, or
 rejected) on 3 May 2015.
 
 ### Abstract Formatting Requirements
 
 Abstracts must be **one page** (8.5 inches by 11 inches) in length and
-submitted **as a PDF (preferred) or Microsoft Word file only**.
+submitted **as a PDF (preferred), Microsoft Word, or text file**.
 
-You can download an example of a properly formatted abstract here:
-![](BOSC2015-abstract-template.pdf "fig:BOSC2015-abstract-template.pdf")
-(not fillable).
+Examples of abstract format:
 
-Please format your abstract as follows:
+-   \[PDF|<File:BOSC2015-abstract-template.pdf>\] (not fillable)
+-   \[Word (.doc)
+    <http://www.open-bio.org/bosc2015/bosc2015-abstract-example.doc>\]
+-   \[Word (.docx)
+    <http://www.open-bio.org/bosc2015/bosc2015-abstract-example.docx>\]
+-   \[Pages
+    <http://www.open-bio.org/bosc2015/bosc2015-abstract-example.pages>\]
+
+If you want to submit your abstract in plain text format, please be sure
+to use the file extension ".txt" or the abstract submission system will
+reject it.
+
+Please use one of the provided templates or format your abstract as
+follows:
 
 -   Use 1 inch (2.5 cm) margins on the top, sides, and bottom of
     the page.
