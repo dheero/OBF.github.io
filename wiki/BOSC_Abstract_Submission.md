@@ -16,13 +16,11 @@ submitted **as a PDF (preferred), Microsoft Word, or text file**.
 
 Examples of abstract format:
 
--   \[PDF|<File:BOSC2015-abstract-template.pdf>\] (not fillable)
--   \[Word (.doc)
-    <http://www.open-bio.org/bosc2015/bosc2015-abstract-example.doc>\]
--   \[Word (.docx)
-    <http://www.open-bio.org/bosc2015/bosc2015-abstract-example.docx>\]
--   \[Pages
-    <http://www.open-bio.org/bosc2015/bosc2015-abstract-example.pages>\]
+-   [<File:BOSC2015-abstract-template.pdf>](PDF "wikilink")
+    (not fillable)
+-   [Word (.doc)](http://www.open-bio.org/bosc2015/bosc2015-abstract-example.doc)
+-   [Word (.docx)](http://www.open-bio.org/bosc2015/bosc2015-abstract-example.docx)
+-   [Pages](http://www.open-bio.org/bosc2015/bosc2015-abstract-example.pages)
 
 If you want to submit your abstract in plain text format, please be sure
 to use the file extension ".txt" or the abstract submission system will
