@@ -2,7 +2,7 @@
 title: BOSC Abstract Submission
 ---
 
-![BOSC logo|link=BOSC\_2012](Pear.png "BOSC logo|link=BOSC_2012")
+![BOSC logo|link=BOSC\_2015](Pear.png "BOSC logo|link=BOSC_2015")
 
 [Abstract submission](http://events.open-bio.org/BOSC2015/openconf.php)
 opens on 5 March 2015. The deadline for abstract submissions will be 3
