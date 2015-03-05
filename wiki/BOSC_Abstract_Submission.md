@@ -16,7 +16,7 @@ submitted **as a PDF (preferred), Microsoft Word, or text file**.
 
 Abstract templates:
 
--   \[PDF <File:BOSC2015-abstract-template.pdf>\] (not fillable)
+-   ![PDF](BOSC2015-abstract-template.pdf "fig:PDF") (not fillable)
 -   [Word (.doc)](http://www.open-bio.org/bosc2015/bosc2015-abstract-example.doc)
 -   [Word (.docx)](http://www.open-bio.org/bosc2015/bosc2015-abstract-example.docx)
 -   [Pages](http://www.open-bio.org/bosc2015/bosc2015-abstract-example.pages)
