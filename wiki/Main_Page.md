@@ -102,5 +102,6 @@ held annually in conjunction with [ISCB's](http://www.iscb.org) meeting,
 ISMB. We typically run an informal [Codefest](Codefest "wikilink")
 programers' meeting before each BOSC.
 
-[BOSC 2014](BOSC_2014 "wikilink") will take place July 2014, right
-before [ISMB 2014](http://www.iscb.org/ismb2014) in Boston, MA USA.
+[BOSC 2015](BOSC_2015 "wikilink") will take place July 2015, right
+before [ISMB/ECCB 2015](http://www.iscb.org/ismbeccb2015) in Dublin,
+Ireland.
