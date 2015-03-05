@@ -14,7 +14,7 @@ rejected) on 3 May 2015.
 Abstracts must be **one page** (8.5 inches by 11 inches) in length and
 submitted **as a PDF (preferred), Microsoft Word, or text file**.
 
-Abstract templates:
+You may wish to use one of these abstract templates:
 
 -   [PDF](http://www.open-bio.org/wiki/File:BOSC2015-abstract-template.pdf)
     (not fillable)
