@@ -2,12 +2,14 @@
 title: BOSC Abstract Submission
 ---
 
-![The Bosc Pear](Pear.png "The Bosc Pear")
+![BOSC logo|link=BOSC\_2012](Pear.png "BOSC logo|link=BOSC_2012")
 
-Abstract submission opens on 5 March 2015. The deadline for abstract
-submissions will be 3 April 2015. You will be notified of your
-acceptance status (accepted for short or long talk or poster, or
-rejected) on 3 May 2015.
+[Abstract submission](http://events.open-bio.org/BOSC2015/openconf.php)
+opens on 5 March 2015. The deadline for abstract submissions will be 3
+April 2015. You will be notified of your acceptance status (accepted for
+short or long talk or poster, or rejected) on 3 May 2015.
+
+### \* \* \* Click [here](http://events.open-bio.org/BOSC2015/openconf.php) to submit your abstract! \* \* \*
 
 ### Abstract Formatting Requirements
 
@@ -70,5 +72,7 @@ See the following websites for further information:
     Philosophy](http://www.opensource.org/docs/definition.php)
 
 ------------------------------------------------------------------------
+
+### \* \* \* Click [here](http://events.open-bio.org/BOSC2015/openconf.php) to submit your abstract! \* \* \*
 
 [Back to BOSC 2015 home page](BOSC_2015 "wikilink")
