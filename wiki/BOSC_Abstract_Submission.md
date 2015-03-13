@@ -25,6 +25,9 @@ You may wish to use one of these abstract templates:
 
 -   [PDF](http://www.open-bio.org/wiki/File:BOSC2015-abstract-template.pdf)
     (not fillable)
+-   [Markdown to
+    PDF](https://s3.amazonaws.com/chapmanb/openbio/bosc_template_pandoc.tar.gz)
+    (convert with pandoc and LaTeX)
 -   [Word (.doc)](http://www.open-bio.org/bosc2015/bosc2015-abstract-example.doc)
 -   [Word (.docx)](http://www.open-bio.org/bosc2015/bosc2015-abstract-example.docx)
 -   [Pages](http://www.open-bio.org/bosc2015/bosc2015-abstract-example.pages)
