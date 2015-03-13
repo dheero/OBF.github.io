@@ -50,6 +50,21 @@ results in a number useful outcomes:
 Why attend
 ----------
 
+-   For new members of the community: meet and learn from existing open
+    source programmers. First timers are welcome.
+
+<!-- -->
+
+-   For current community members: expand your network and strengthen
+    existing relationships. Teach and learn from new community members.
+    Focus on open source work without interruptions. Discuss questions
+    and problems in real time.
+
+<!-- -->
+
+-   For everyone: discuss and learn from the community. Teach others
+    what you know. Build new friendships and collaborations.
+
 What to expect
 --------------
 
