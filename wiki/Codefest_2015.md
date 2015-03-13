@@ -16,6 +16,40 @@ This is the sixth annual pre-[BOSC](BOSC "wikilink")
 2013](Codefest_2013 "wikilink") in Berlin, and [Codefest
 2014](Codefest_2014 "wikilink") in Boston.
 
+Objectives
+----------
+
+The goal of Codefest is to bring open source bioinformatics programmers
+together to have an enjoyable and productive two days. Practically this
+results in a number useful outcomes:
+
+-   Improving and expanding existing open source code, documentation and
+    infrastructure (see the summaries from [Codefest
+    2014](https://docs.google.com/presentation/d/114yvrK0Veasc_ns_rg484j2xxRi1h7wNlU2XKONuUqY/edit)
+    and [Codefest
+    2013](http://bcb.io/2013/07/18/summary-from-bioinformatics-open-science-codefest-2013-tools-infrastructure-standards-and-visualization/)
+    for examples of work accomplished in previous years).
+
+<!-- -->
+
+-   Developing new communities working on shared problems. For example,
+    the [Common Workflow
+    Language](https://groups.google.com/forum/#!forum/common-workflow-language)
+    developed from discussions at Codefest 2014.
+
+<!-- -->
+
+-   Establishing new relationships for training and expanding the open
+    source bioinformatics community.
+
+<!-- -->
+
+-   Preparing and publishing [papers about
+    work](http://www.biomedcentral.com/1471-2105/15/S14/S7).
+
+Why attend
+----------
+
 What to expect
 --------------
 
