@@ -44,8 +44,8 @@ results in a number useful outcomes:
 
 <!-- -->
 
--   Preparing and publishing [papers about
-    work](http://www.biomedcentral.com/1471-2105/15/S14/S7).
+-   Preparing and publishing [papers about the work
+    accomplished](http://www.biomedcentral.com/1471-2105/15/S14/S7).
 
 Why attend
 ----------
