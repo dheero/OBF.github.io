@@ -82,11 +82,13 @@ The rough structure of the two days is:
 
 <!-- -->
 
--   Assemble into working groups based on shared interests. We use the
-    [collaboratively brainstormed Google
+-   Assemble into working groups based on shared interests like
+    programming languages, open source projects or biological questions.
+    We use the [collaboratively brainstormed Google
     document](https://docs.google.com/document/d/1BJ_l4LG_RiCukJaDSkK4-_apr2nBtFr4gUYQHo1HeVQ/edit)
     as the basis for setting up groups. Attendees determine the goals
-    for the two days. Please add your ideas before the event.
+    for the two days. If you have an idea for a project, please add it
+    before the event. Any and all suggestions are welcome.
 
 <!-- -->
 
