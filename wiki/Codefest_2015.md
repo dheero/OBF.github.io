@@ -50,8 +50,8 @@ results in a number useful outcomes:
 Why attend
 ----------
 
--   For new members of the community: meet and learn from existing open
-    source programmers. First timers are welcome.
+-   For new members of the community: meet and learn with existing open
+    source programmers. First timers are welcome at Codefest.
 
 <!-- -->
 
