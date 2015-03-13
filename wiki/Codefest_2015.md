@@ -39,8 +39,8 @@ results in a number useful outcomes:
 
 <!-- -->
 
--   Establishing new relationships for training and expanding the open
-    source bioinformatics community.
+-   Establishing new relationships for training, helping to expand the
+    open source bioinformatics community.
 
 <!-- -->
 
