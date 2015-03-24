@@ -6,11 +6,12 @@ BOSC 2015 is pleased to announce the following keynote speakers:
 
 ### Holly Bik
 
-![Holly Bik](HollyBik.png "fig:Holly Bik") Holly Bik is a Birmingham
-Fellow (assistant professor) in the School of Biosciences at the
-University of Birmingham, UK. She obtained her Ph.D. in molecular
-phylogenetics at the University of Southampton, UK (working in
-conjunction with the Natural History Museum, London), followed by
+![Holly Bik](HollyBik.jpg "Holly Bik")
+
+Holly Bik is a Birmingham Fellow (assistant professor) in the School of
+Biosciences at the University of Birmingham, UK. She obtained her Ph.D.
+in molecular phylogenetics at the University of Southampton, UK (working
+in conjunction with the Natural History Museum, London), followed by
 subsequent postdoctoral appointments at the Hubbard Center for Genome
 Studies at the University of New Hampshire and the UC Davis Genome
 Center. Her research uses high-throughput environmental sequencing
