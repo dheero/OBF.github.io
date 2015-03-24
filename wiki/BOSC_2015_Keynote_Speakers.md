@@ -6,7 +6,7 @@ BOSC 2015 is pleased to announce the following keynote speakers:
 
 ### Holly Bik
 
-![Holly Bik](HollyBik.jpg "Holly Bik")
+![Holly Bik](HollyBik.png "Holly Bik")
 
 Holly Bik is a Birmingham Fellow (assistant professor) in the School of
 Biosciences at the University of Birmingham, UK. She obtained her Ph.D.
