@@ -52,14 +52,11 @@ functional genomics, assembly algorithms, statistical methods to analyse
 genomic information (in particular information associated with
 individual differences) and compression of sequence information.
 
-Dr Birney completed his PhD at the Wellcome Trust Sanger Institute with
-Richard Durbin, and worked in the laboratories of leading scientists
-Adrian Krainer, Toby Gibson and Iain Campbell. He has received a number
-of prestigious awards including the 2003 Francis Crick Award from the
-Royal Society, the 2005 Overton Prize from the International Society for
-Computational Biology and the 2005 Benjamin Franklin Award for
-contributions in Open Source Bioinformatics. Ewan was elected a Fellow
-of the Royal Society in 2014.
+Dr Birney has received a number of prestigious awards including the 2003
+Francis Crick Award from the Royal Society, the 2005 Overton Prize from
+the International Society for Computational Biology and the 2005
+Benjamin Franklin Award for contributions in Open Source Bioinformatics.
+He was elected a Fellow of the Royal Society in 2014.
 
 Dr Birney's talk topic will be announced soon.
 
