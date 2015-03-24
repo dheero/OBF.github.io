@@ -17,7 +17,7 @@ subsequent postdoctoral appointments at the Hubbard Center for Genome
 Studies at the University of New Hampshire and the UC Davis Genome
 Center. Her research uses high-throughput environmental sequencing
 approaches (rRNA surveys, metagenomics) to explore biodiversity and
-biogeographic patterns in in microbial eukaryote assemblages, with an
+biogeographic patterns in microbial eukaryote assemblages, with an
 emphasis on nematodes in marine sediments. Through active collaborations
 with computer scientists and participation in software development
 projects, her long-term research aims to address existing bottlenecks
