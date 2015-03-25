@@ -62,9 +62,11 @@ the International Society for Computational Biology and the 2005
 Benjamin Franklin Award for contributions in Open Source Bioinformatics.
 He was elected a Fellow of the Royal Society in 2014.
 
-Ewan has been involved in BOSC since the first BOSC in 2000. He chaired
-the meeting in 2001, and gave one of the keynote talks in 2002. We are
-delighted to have him back as a keynote speaker for 2015.
+Ewan was a cofounder of the [Open Bioinformatics
+Foundation](Main_Page "wikilink"), the organization that sponsors BOSC,
+and has been involved in BOSC since the first conference in 2000. He
+chaired the meeting in 2001, and gave one of the keynote talks in 2002.
+We are delighted to have him back as a keynote speaker for 2015.
 
 Ewan's talk topic will be announced soon.
 
