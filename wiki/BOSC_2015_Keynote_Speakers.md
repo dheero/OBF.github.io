@@ -37,7 +37,7 @@ research.*
 
 ------------------------------------------------------------------------
 
-![Ewan Birney](EwanBirney.png "Ewan Birney")
+![Ewan Birney](EwanBirney2.jpg "Ewan Birney")
 
 ### Ewan Birney
 
