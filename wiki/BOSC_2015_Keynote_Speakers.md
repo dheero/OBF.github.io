@@ -9,13 +9,13 @@ keynote speakers:
 
 ![Holly Bik](HollyBik.png "Holly Bik")
 
-Holly Bik is a Birmingham Fellow (assistant professor) in the School of
-Biosciences at the University of Birmingham, UK. She obtained her Ph.D.
-in molecular phylogenetics at the University of Southampton, UK (working
-in conjunction with the Natural History Museum, London), followed by
-subsequent postdoctoral appointments at the Hubbard Center for Genome
-Studies at the University of New Hampshire and the UC Davis Genome
-Center.
+Dr Holly Bik is a Birmingham Fellow (assistant professor) in the School
+of Biosciences at the University of Birmingham, UK. She obtained her
+Ph.D. in molecular phylogenetics at the University of Southampton, UK
+(working in conjunction with the Natural History Museum, London),
+followed by subsequent postdoctoral appointments at the Hubbard Center
+for Genome Studies at the University of New Hampshire and the UC Davis
+Genome Center.
 
 Her research uses high-throughput environmental sequencing approaches
 (rRNA surveys, metagenomics) to explore biodiversity and biogeographic
@@ -25,7 +25,7 @@ computer scientists and participation in software development projects,
 her long-term research aims to address existing bottlenecks encountered
 in –Omic analyses focused on microbial eukaryotes.
 
-Dr. Bik's keynote talk topic is "Bioinformatics: Still a scary world for
+Holly's keynote talk topic is "Bioinformatics: Still a scary world for
 biologists".
 
 *Many biological disciplines remain staunchly traditional, where
@@ -41,12 +41,12 @@ research.*
 
 ### Ewan Birney
 
-Dr Birney is Joint Associate Director of EMBL-EBI, as well as Interim
-Head of the Centre for Therapeutic Target Validation. Together with Dr
-Rolf Apweiler, he has strategic responsibility and oversight for
+Dr Ewan Birney is Joint Associate Director of EMBL-EBI, as well as
+Interim Head of the Centre for Therapeutic Target Validation. Together
+with Dr Rolf Apweiler, he has strategic responsibility and oversight for
 bioinformatics services at EMBL-EBI.
 
-Dr Birney played a vital role in annotating the genome sequences of the
+Ewan played a vital role in annotating the genome sequences of the
 human, mouse, chicken and several other organisms; this work has had a
 profound impact on our understanding of genomic biology. He led the
 analysis group for the ENCODE project, which is defining functional
@@ -66,7 +66,7 @@ Ewan has been involved in BOSC since the first BOSC in 2000. He chaired
 the meeting in 2001, and gave one of the keynote talks in 2002. We are
 delighted to have him back as a keynote speaker for 2015.
 
-Dr Birney's talk topic will be announced soon.
+Ewan's talk topic will be announced soon.
 
 ------------------------------------------------------------------------
 
