@@ -72,6 +72,9 @@ We are delighted to have him back as a keynote speaker for 2015.
 
 Ewan's talk topic will be announced soon.
 
+Homepage: [Ewan Birney](https://www.ebi.ac.uk/~birney/), Twitter:
+[@ewanbirney](https://twitter.com/ewanbirney)
+
 ------------------------------------------------------------------------
 
 [Back to BOSC 2015 home page](BOSC_2015 "wikilink")
