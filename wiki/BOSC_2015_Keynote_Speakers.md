@@ -37,9 +37,9 @@ research.*
 
 ------------------------------------------------------------------------
 
-![Ewan Birney](EwanBirney2.jpg "Ewan Birney")
-
 ### Ewan Birney
+
+![Ewan Birney](EwanBirney2.jpg "Ewan Birney")
 
 Dr Ewan Birney is Joint Associate Director of EMBL-EBI, as well as
 Interim Head of the Centre for Therapeutic Target Validation. Together
