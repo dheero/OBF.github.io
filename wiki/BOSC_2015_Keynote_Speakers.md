@@ -35,7 +35,8 @@ barriers facing biologists in the age of 'Omics, based on my experiences
 in transitioning from nematode taxonomy to computational biology
 research.*
 
-Homepage: [Holly Bik](http://www.hollybik.com/about/)
+Homepage: [Holly Bik](http://www.hollybik.com/about/), Twitter:
+[@hollybik](https://twitter.com/hollybik)
 
 ------------------------------------------------------------------------
 
