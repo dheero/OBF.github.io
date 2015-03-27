@@ -82,8 +82,6 @@ See the following websites for further information:
 -   [Definition of the Open Source
     Philosophy](http://www.opensource.org/docs/definition.php)
 
-------------------------------------------------------------------------
-
 Code of Conduct
 ---------------
 
