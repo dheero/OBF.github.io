@@ -8,10 +8,11 @@ title: BOSC Abstract Submission
 due by **3 April** 2015. You will be notified of your acceptance status
 on 3 May 2015.
 
-BOSC includes normal-length talks (about 20 minutes), lightning talks (5
-minutes), and posters. Please indicate on the submission form which you
-want your abstract to be considered for. (All abstracts that are
-accepted for talks will also be offered optional poster spots.)
+[BOSC](BOSC_2015 "wikilink") includes normal-length talks (about 20
+minutes), lightning talks (5 minutes), and posters. Please indicate on
+the submission form which you want your abstract to be considered for.
+(All abstracts that are accepted for talks will also be offered optional
+poster spots.)
 
 If the registration fee would prevent you from attending BOSC, please
 let us know in the Comments box when submitting your abstract. We have a
