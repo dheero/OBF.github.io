@@ -5,8 +5,8 @@ title: BOSC Abstract Submission
 ![BOSC logo|link=BOSC\_2015](Pear.png "BOSC logo|link=BOSC_2015")
 
 [Talk abstracts](http://events.open-bio.org/BOSC2015/openconf.php) are
-due by **8 April** 2015. You will be notified of your acceptance status
-on 3 May 2015.
+due by **7 April** 2015 at 9am PDT. You will be notified of your
+acceptance status on 3 May 2015.
 
 [BOSC](BOSC_2015 "wikilink") includes normal-length talks (about 20
 minutes), lightning talks (5 minutes), and posters. Please indicate on
