@@ -140,6 +140,17 @@ being involved with the open source community for help with food and
 coffee. If interested, please get in touch with
 [Brad](https://github.com/chapmanb).
 
+Sponsors
+--------
+
+|                                                                                                              |
+|--------------------------------------------------------------------------------------------------------------|
+| ![Curoverse logo|link=<http://curoverse.com>](Curoverse_logo.png "Curoverse logo|link=http://curoverse.com") |
+| ![Arvados logo|link=<http://arvados.org>]( Arvados.png "Arvados logo|link=http://arvados.org")               |
+
+We thank [Curoverse](http://curoverse.com) for sponsoring the BOSC
+CodeFest 2015.
+
 Organizers
 ----------
 
