@@ -11,8 +11,8 @@ The board can be contacted via email at <board@open-bio.org>
 
 :; [Hilmar Lapp](bp:Hilmar_Lapp "wikilink") : Representing
 [BioPerl](bp:BioPerl "wikilink"). Employed by the [Center for Genomic
-and Computational Biology (GCB) at Duke
-University](http://genome.duke.edu/). Former OBF Parliamentarian .
+and Computational Biology](http://genome.duke.edu/) (GCB) at Duke
+University. Former OBF Parliamentarian .
 
 **Treasurer**
 
