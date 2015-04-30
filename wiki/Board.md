@@ -10,9 +10,9 @@ The board can be contacted via email at <board@open-bio.org>
 **President**
 
 :; [Hilmar Lapp](bp:Hilmar_Lapp "wikilink") : Representing
-[BioPerl](bp:BioPerl "wikilink"). Employed by the [National Evolutionary
-Synthesis Center](http://www.nescent.org/) (NESCent). Former OBF
-Parliamentarian, and currently acting Secretary.
+[BioPerl](bp:BioPerl "wikilink"). Employed by the [Center for Genomic
+and Computational Biology (GCB) at Duke
+University](http://genome.duke.edu/). Former OBF Parliamentarian .
 
 **Treasurer**
 
@@ -26,7 +26,7 @@ by [the BioTeam](http://www.bioteam.net).
 Cock](http://www.hutton.ac.uk/staff/peter-cock)</span> :
 [Biopython](bp:Biopython "wikilink") core developer, bioinformatician at
 the [James Hutton Institute](http://www.hutton.ac.uk/). [BOSC
-2014](BOSC_2014 "wikilink") co-chair
+2015](BOSC_2015 "wikilink") co-chair
 
 **Parliamentarian**
 
@@ -42,7 +42,7 @@ California, Riverside](http://www.ucr.edu/). Former OBF President.
 
 :; <span class="plainlinks">[Nomi
 Harris](http://www.linkedin.com/in/nomiharris)</span> : Employed by the
-Lawrence Berkeley National Laboratory. [BOSC 2014](BOSC_2014 "wikilink")
+Lawrence Berkeley National Laboratory. [BOSC 2015](BOSC_2015 "wikilink")
 co-chair.
 
 :; [Chris Fields](bp:Christopher_Fields "wikilink") :
