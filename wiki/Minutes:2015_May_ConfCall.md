@@ -30,7 +30,7 @@ Minutes
 =======
 
 Etherpad for notes:
-<https://etherpad.mozilla.org/OBF-BoD-Meeting-Nov2014>
+<https://etherpad.mozilla.org/OBF-BoD-Meeting-May2015>
 
 **Attending:**
 
