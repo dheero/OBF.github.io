@@ -14,7 +14,6 @@ Dial-in Information: +1-857-216-2939 PIN: 62534
 
 -   [ Nov 2014 BoD meeting
     minutes](Minutes:2014_Nov_ConfCall "wikilink")
--   
 
 <li>
 New business
