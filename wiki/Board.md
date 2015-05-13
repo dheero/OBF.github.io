@@ -16,9 +16,8 @@ University. Former OBF Parliamentarian .
 
 **Treasurer**
 
-:; [Chris Dagdigian](bp:Chris_Dagdigian "wikilink") :
-[BioPerl](bp:BioPerl "wikilink") co-founder & O|B|F sysadmin. Employed
-by [the BioTeam](http://www.bioteam.net).
+  
+Currently unfilled.
 
 **Secretary**
 
@@ -35,11 +34,6 @@ Currently unfilled.
 
 **At-large members**
 
-:; [Jason Stajich](bp:Jason_Stajich "wikilink") :
-[BioPerl](bp:BioPerl "wikilink") core developer. [Assistant
-Professor](http://stajichlab.fungalgenomes.org) at [University of
-California, Riverside](http://www.ucr.edu/). Former OBF President.
-
 :; <span class="plainlinks">[Nomi
 Harris](http://www.linkedin.com/in/nomiharris)</span> : Employed by the
 Lawrence Berkeley National Laboratory. [BOSC 2015](BOSC_2015 "wikilink")
@@ -50,12 +44,19 @@ co-chair.
 the [Institute for Genomic Biology](http://www.igb.uiuc.edu/) at the
 [University of Illinois at Urbana-Champaign](http://www.uiuc.edu/).
 
+:; <span class="plainlinks">[Karen
+Cranston](https://github.com/kcranston)</span>: Training Coordinator and
+Informatics Project Manager at the National Evolutionary Synthesis
+Center (NESCent).
+
 ### Past Board Members
 
 [Ewan Birney](bp:Ewan_Birney "wikilink") : *Past President and At-large Member*, [BioPerl](bp:BioPerl "wikilink") core developer. Coordinator of the [EBI](http://www.ebi.ac.uk) half of the [Ensembl](http://www.ensembl.org) genome annotation project.  
 Andrew Dalke : *Past Secretary*, Represented [BioPython](http://www.biopython.org) & [Dalke Scientific](http://www.dalkescientific.com).  
 [Steven E. Brenner](bp:Steven_Brenner "wikilink") : *Past At-large member*, [Professor](http://compbio.berkeley.edu) at University of California, Berkeley.  
 [Kam Dahlquist](User:Kdahlquist "wikilink") : *Past At-large Member*, [Associate Professor](http://myweb.lmu.edu/kdahlqui/) at Loyola Marymount University, Los Angeles.  
+[Chris Dagdigian](bp:Chris_Dagdigian "wikilink") : [BioPerl](bp:BioPerl "wikilink") co-founder & O|B|F sysadmin. Employed by [the BioTeam](http://www.bioteam.net).  
+[Jason Stajich](bp:Jason_Stajich "wikilink") : [BioPerl](bp:BioPerl "wikilink") core developer. [Assistant Professor](http://stajichlab.fungalgenomes.org) at [University of California, Riverside](http://www.ucr.edu/). Former OBF President.  
 
 Board of Directors Meetings
 ---------------------------
