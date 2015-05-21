@@ -9,6 +9,7 @@ marathon) or programming "Sprint" events, these are programmer
 orientated and are intended to foster collaborations amongst the
 international bioinformatics community.
 
+-   [Codefest 2015](Codefest_2015 "wikilink") in Dublin
 -   [Codefest 2014](Codefest_2014 "wikilink") in Boston
 -   [EU-Codefest 2014](EU-Codefest_2014 "wikilink") in Cambridge, UK
 -   [Codefest 2013](Codefest_2013 "wikilink") in Berlin
