@@ -21,12 +21,6 @@ Science in the biological research community.
 |     | ![](media/image2.png "media/image2.png") | ![](media/image3.png "fig:media/image3.png")![](media/image4.png "fig:media/image4.png") | ![](media/image5.png "media/image5.png") |
 |-----|------------------------------------------|------------------------------------------------------------------------------------------|------------------------------------------|
 
-<s>We thank Eagle Genomics for sponsoring the BOSC Student Travel Awards
-again this year, and welcome the open access journal GigaScience, and
-Curoverse (the team behind the open source platform Arvados) as new
-sponsors. We are grateful to Google for their generous support for
-videorecording the talks at BOSC 2015.</s>
-
 **Schedule for Day 1 (Friday, 10 July, 2015)**
 
 | **Time**     | **Title**                                                                                                                                                             | **Speaker / Chair**                                                                                            |
