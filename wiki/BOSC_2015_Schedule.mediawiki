@@ -20,7 +20,7 @@ BOSC is organized by the Open Bioinformatics Foundation (OBF, www.open-bio.org).
 
 == Schedule for Day 1 (Friday, 10 July, 2015) ==
 
-{|
+{| border="1" cellspacing="0" cellpadding="7"
 !'''Time'''
 !'''Title'''
 !'''Speaker / Chair'''
@@ -158,7 +158,7 @@ BOSC is organized by the Open Bioinformatics Foundation (OBF, www.open-bio.org).
 
 == Schedule for Day 2 (Saturday, 11 July, 2015) ==
 
-{|
+{| border="1" cellspacing="0" cellpadding="7"
 !'''Time'''
 !'''Title'''
 !'''Speaker or'''
