@@ -18,8 +18,8 @@ www.open-bio.org). The OBF is a non-profit group that promotes the
 practice and philosophy of Open Source software development and Open
 Science in the biological research community.
 
-|     | ![](media/image2.png "media/image2.png") | ![](media/image3.png "fig:media/image3.png")![](media/image4.png "fig:media/image4.png") | ![](media/image5.png "media/image5.png") |
-|-----|------------------------------------------|------------------------------------------------------------------------------------------|------------------------------------------|
+|     | ![](Curoverse logo.png "Curoverse logo.png") | ![](Google-logo11w.png "Google-logo11w.png") | ![](Arvados.png "Arvados.png") | ![](Gigascience-07.png "Gigascience-07.png") |
+|-----|----------------------------------------------|----------------------------------------------|--------------------------------|----------------------------------------------|
 
 **Schedule for Day 1 (Friday, 10 July, 2015)**
 
