@@ -4,8 +4,8 @@ title: BOSC 2015 Schedule
 
 **Bioinformatics Open Source Conference (BOSC) 2015**
 
-![](media/image1.png "fig:media/image1.png")A Special Interest Group
-(SIG) meeting at ISMB/ECCB 2015
+![](Pear.png "fig:Pear.png")A Special Interest Group (SIG) meeting at
+ISMB/ECCB 2015
 
 Dublin, Ireland
 
