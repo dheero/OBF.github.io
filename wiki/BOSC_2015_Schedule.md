@@ -21,7 +21,8 @@ Science in the biological research community.
 |     | ![](Curoverse logo.png "Curoverse logo.png") | ![](Google-logo11w.png "Google-logo11w.png") | ![](Arvados.png "Arvados.png") | ![](Gigascience-07.png "Gigascience-07.png") |
 |-----|----------------------------------------------|----------------------------------------------|--------------------------------|----------------------------------------------|
 
-**Schedule for Day 1 (Friday, 10 July, 2015)**
+Schedule for Day 1 (Friday, 10 July, 2015)
+------------------------------------------
 
 | **Time**     | **Title**                                                                                                                                                             | **Speaker / Chair**                                                                                      |
 |--------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------|
@@ -60,7 +61,8 @@ Science in the biological research community.
 | 17:15-18:30  | **BOFs**                                                                                                                                                              |                                                                                                          |
 | 19:00-       | Pay-your-own-way BOSC dinner, Kennedy’s \[link\]                                                                                                                      | RSVP at [BOSC 2015 dinner](http://doodle.com/mcqehfpytzutwzum) (limited space --you must RSVP to attend) |
 
-**Schedule for Day 2 (Saturday, 11 July, 2015)**
+Schedule for Day 2 (Saturday, 11 July, 2015)
+--------------------------------------------
 
 | **Time**    | **Title**                                                                                                                            | **Speaker or**                                         
                                                                                                                                                                                                               
@@ -112,24 +114,28 @@ Science in the biological research community.
 
 *<http://www.open-bio.org/wiki/BOSC_2015_Schedule>*
 
-**BOSC 2015 Organizing Committee:**
+BOSC 2015 Organizing Committee
+------------------------------
 
 **Nomi Harris** and **Peter Cock** (Co-Chairs)
 
 Brad Chapman, Rob Davey, Chris Fields, Sarah Hird, Karsten Hokamp,
 Hilmar Lapp, Mónica Muñoz-Torres
 
-**BOSC 2015 Program Committee:** Nomi Harris, Brad Chapman, Peter Cock,
-Karsten Hokamp, Raoul Bonnal, Chris Fields, Karen Cranston, Jens
-Lichtenberg, Eric Talevich, Frank Nothaft, Michael Heuer, Mónica
-Muñoz-Torres, Francesco Strozzi, Hans-Rudolf Hotz, Timothy Booth, Tiago
-Antão, George Githinji, Manuel Corpas, Thomas Down, Sarah Hird, Scott
-Markel, Rob Davey, Spencer Bliven, Michael Reich, Lorena Pantano, Björn
-Grüning, Hilmar Lapp, Daniel Blankenberg, Amye Kenall, Hervé Menager
+BOSC 2015 Program Committee
+---------------------------
+
+Nomi Harris, Brad Chapman, Peter Cock, Karsten Hokamp, Raoul Bonnal,
+Chris Fields, Karen Cranston, Jens Lichtenberg, Eric Talevich, Frank
+Nothaft, Michael Heuer, Mónica Muñoz-Torres, Francesco Strozzi,
+Hans-Rudolf Hotz, Timothy Booth, Tiago Antão, George Githinji, Manuel
+Corpas, Thomas Down, Sarah Hird, Scott Markel, Rob Davey, Spencer
+Bliven, Michael Reich, Lorena Pantano, Björn Grüning, Hilmar Lapp,
+Daniel Blankenberg, Amye Kenall, Hervé Menager
 
 BOSC is a community effort—we thank all those who made it possible,
 including the organizing committee, the program committee, the session
 chairs, our sponsors, and the ISMB SIG chair, Steven Leard.
 
 If you are interested in helping to organize BOSC 2016, please email
-bosc@open-bio.org.
+email bosc@open-bio.org
