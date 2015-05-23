@@ -110,10 +110,6 @@ Schedule for Day 2 (Saturday, 11 July, 2015)
 | 17:15-18:30 | BOF/Unconference: Building successful open-source bioinformatics developer communities (Part 2)                                      | Aidan Budd, Dave Clements, Manuel Corpas, Natasha Wood |
 | 17:10-18:10 | **BOFs**                                                                                                                             |                                                        |
 
-*Any last-minute schedule updates will be posted at*
-
-*<http://www.open-bio.org/wiki/BOSC_2015_Schedule>*
-
 BOSC 2015 Organizing Committee
 ------------------------------
 
