@@ -18,8 +18,15 @@ www.open-bio.org). The OBF is a non-profit group that promotes the
 practice and philosophy of Open Source software development and Open
 Science in the biological research community.
 
-|     | ![](Curoverse logo.png "Curoverse logo.png") | ![](Google-logo11w.png "Google-logo11w.png") | ![](Arvados.png "Arvados.png") | ![](Gigascience-07.png "Gigascience-07.png") |
-|-----|----------------------------------------------|----------------------------------------------|--------------------------------|----------------------------------------------|
+Sponsors
+--------
+
+We thank the open access journal GigaScience, Curoverse (the team behind
+the open source platform Arvados) as sponsors, and Google for their
+generous support for videorecording the talks at BOSC 2015.
+
+|     | ![](Curoverse logo.png "Curoverse logo.png") | ![](Arvados.png "Arvados.png") | ![](Google-logo11w.png "Google-logo11w.png") | ![](Gigascience-07.png "Gigascience-07.png") |
+|-----|----------------------------------------------|--------------------------------|----------------------------------------------|----------------------------------------------|
 
 Schedule for Day 1 (Friday, 10 July, 2015)
 ------------------------------------------
