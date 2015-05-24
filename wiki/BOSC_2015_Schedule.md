@@ -6,6 +6,10 @@ title: BOSC 2015 Schedule
 
 ![](Pear.png "Pear.png")
 
+You will be able to download the full program with abstracts; however,
+this wiki page is considered the definitive schedule and will be updated
+with any last minute changes.
+
 Sponsors
 --------
 
@@ -16,8 +20,13 @@ generous support for videorecording the talks at BOSC 2015.
 |     | ![](Curoverse logo.png "Curoverse logo.png") | ![](Arvados.png "Arvados.png") | ![](Google-logo11w.png "Google-logo11w.png") | ![](Gigascience-07.png "Gigascience-07.png") |
 |-----|----------------------------------------------|--------------------------------|----------------------------------------------|----------------------------------------------|
 
-Schedule for Day 1 (Friday, 10 July, 2015)
-------------------------------------------
+Pre-BOSC: Codefest 2015
+-----------------------
+
+See [Codefest 2015](Codefest_2015 "wikilink") for details.
+
+BOSC Day 1 (Friday, 10 July, 2015)
+----------------------------------
 
 | **Time**     | **Title**                                                                                                                                                             | **Speaker / Chair**                                                                                      |
 |--------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------|
@@ -56,8 +65,8 @@ Schedule for Day 1 (Friday, 10 July, 2015)
 | 17:15-18:30  | **BOFs**                                                                                                                                                              |                                                                                                          |
 | 19:00-       | Pay-your-own-way BOSC dinner, Kennedy’s \[link\]                                                                                                                      | RSVP at [BOSC 2015 dinner](http://doodle.com/mcqehfpytzutwzum) (limited space --you must RSVP to attend) |
 
-Schedule for Day 2 (Saturday, 11 July, 2015)
---------------------------------------------
+BOSC Day 2 (Saturday, 11 July, 2015)
+------------------------------------
 
 | **Time**    | **Title**                                                                                                                            | **Speaker or**                                         
                                                                                                                                                                                                               
