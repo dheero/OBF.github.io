@@ -141,8 +141,8 @@ support for videorecording BOSC 2014.
 
 ------------------------------------------------------------------------
 
-Return to [ BOSC 2014](BOSC_2014 "wikilink") main page
-------------------------------------------------------
+Return to **[ BOSC 2014](BOSC_2014 "wikilink")** main page
+----------------------------------------------------------
 
 <Category:BOSC> <Category:Conferences> [Category:BOSC
 Conferences](Category:BOSC_Conferences "wikilink")
