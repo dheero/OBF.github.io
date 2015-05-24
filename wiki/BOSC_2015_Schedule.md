@@ -4,19 +4,7 @@ title: BOSC 2015 Schedule
 
 **Bioinformatics Open Source Conference (BOSC) 2015**
 
-![](Pear.png "fig:Pear.png")A Special Interest Group (SIG) meeting at
-ISMB/ECCB 2015
-
-Dublin, Ireland
-
-July 10-11, 2015
-
-*<http://www.open-bio.org/wiki/BOSC_2015>*
-
-BOSC is organized by the Open Bioinformatics Foundation (OBF,
-www.open-bio.org). The OBF is a non-profit group that promotes the
-practice and philosophy of Open Source software development and Open
-Science in the biological research community.
+![](Pear.png "Pear.png")
 
 Sponsors
 --------
@@ -116,6 +104,11 @@ Schedule for Day 2 (Saturday, 11 July, 2015)
 | 17:00-17:10 | Concluding Remarks                                                                                                                   | Nomi Harris and Peter Cock                             |
 | 17:15-18:30 | BOF/Unconference: Building successful open-source bioinformatics developer communities (Part 2)                                      | Aidan Budd, Dave Clements, Manuel Corpas, Natasha Wood |
 | 17:10-18:10 | **BOFs**                                                                                                                             |                                                        |
+
+Posters
+-------
+
+TBA
 
 BOSC 2015 Organizing Committee
 ------------------------------
