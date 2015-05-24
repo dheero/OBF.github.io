@@ -2,8 +2,6 @@
 title: BOSC 2015 Schedule
 ---
 
-**Bioinformatics Open Source Conference (BOSC) 2015**
-
 ![](Pear.png "Pear.png")
 
 You will be able to download the full program with abstracts; however,
