@@ -142,3 +142,7 @@ chairs, our sponsors, and the ISMB SIG chair, Steven Leard.
 
 If you are interested in helping to organize BOSC 2016, please email
 email bosc@open-bio.org
+
+------------------------------------------------------------------------
+
+Return to [BOSC 2015](BOSC_2015 "wikilink") main page
