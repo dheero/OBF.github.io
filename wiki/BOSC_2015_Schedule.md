@@ -2,7 +2,7 @@
 title: BOSC 2015 Schedule
 ---
 
-![The Bosc Pear](Pear.png "The Bosc Pear")
+![BOSC logo|link=BOSC\_2015](Pear.png "BOSC logo|link=BOSC_2015")
 
 You will soon be able to download the full program with abstracts;
 however, this wiki page is considered the definitive schedule and will
