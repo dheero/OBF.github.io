@@ -17,7 +17,7 @@ Late-Breaking Lightning Talks and posters are due by **5 June** 2015 at
 as earlier submissions. You will be notified of your acceptance status
 on 14 June 2015.
 
-### \* \* \* Click [here](http://events.open-bio.org/BOSC2015/openconf.php) to submit your abstract! \* \* \*
+### \* \* \* Click [here](http://events.open-bio.org/BOSC2015/openconf.php) to submit your abstract for a Late-Breaking Lightning Talk or Poster! \* \* \*
 
 ### Abstract Formatting Requirements
 
