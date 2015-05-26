@@ -66,9 +66,7 @@ BOSC Day 1 (Friday, 10 July, 2015)
 BOSC Day 2 (Saturday, 11 July, 2015)
 ------------------------------------
 
-| **Time**    | **Title**                                                                                                                            | **Speaker or**                                         
-                                                                                                                                                                                                              
-                                                                                                                                                      **Session Chair**                                       |
+| **Time**    | **Title**                                                                                                                            | **Speaker / Chair**                                    |
 |-------------|--------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------|
 | 9:00-9:05   | **Announcements**                                                                                                                    | Peter Cock and Nomi Harris                             |
 | 9:05-9:15   | Codefest 2015 Report                                                                                                                 | Brad Chapman (Codefest 2015 Organizer)                 |
