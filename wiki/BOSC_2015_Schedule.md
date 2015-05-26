@@ -12,8 +12,8 @@ Sponsors
 --------
 
 We thank the open access journal GigaScience, Curoverse (the team behind
-the open source platform Arvados) as sponsors, and Google for their
-generous support for videorecording the talks at BOSC 2015.
+the open source platform Arvados), and Google for their generous support
+for videorecording the talks at BOSC 2015.
 
 |     | ![](Curoverse logo.png "Curoverse logo.png") | ![](Arvados.png "Arvados.png") | ![](Google-logo11w.png "Google-logo11w.png") | ![](Gigascience-07.png "Gigascience-07.png") |
 |-----|----------------------------------------------|--------------------------------|----------------------------------------------|----------------------------------------------|
