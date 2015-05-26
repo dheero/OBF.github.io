@@ -65,7 +65,7 @@ BOSC Day 1 (Friday, 10 July, 2015)
 | 17:10-17:15  | **Announcements**                                                                                                                                                     | Nomi Harris                                                                                              |
 | 17:15-18:30  | BOF/Unconference: Building successful open-source bioinformatics developer communities (Part 1)                                                                       | Aidan Budd, Dave Clements, Manuel Corpas, Natasha Wood                                                   |
 | 17:15-18:30  | **BOFs**                                                                                                                                                              |                                                                                                          |
-| 19:00-       | Pay-your-own-way BOSC dinner, Kennedy’s \[link\]                                                                                                                      | RSVP at [BOSC 2015 dinner](http://doodle.com/mcqehfpytzutwzum) (limited space --you must RSVP to attend) |
+| 19:00-       | Pay-your-own-way BOSC dinner, [Kennedy’s](http://kennedys.ie/)                                                                                                        | RSVP at [BOSC 2015 dinner](http://doodle.com/mcqehfpytzutwzum) (limited space --you must RSVP to attend) |
 
 BOSC Day 2 (Saturday, 11 July, 2015)
 ------------------------------------
