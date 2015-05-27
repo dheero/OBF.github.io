@@ -18,6 +18,8 @@ earlier submissions. You will be notified of your acceptance status on
 
 ### \* \* \* Click [here](http://events.open-bio.org/BOSC2015/openconf.php) to submit your abstract for a Late-Breaking Lightning Talk or Poster! \* \* \*
 
+------------------------------------------------------------------------
+
 ### Abstract Formatting Requirements
 
 Abstracts must be **one page** (8.5 inches by 11 inches) in length and
