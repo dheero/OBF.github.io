@@ -4,12 +4,11 @@ title: BOSC Abstract Submission
 
 ![BOSC logo|link=BOSC\_2015](Pear.png "BOSC logo|link=BOSC_2015")
 
-[BOSC](BOSC_2015 "wikilink") includes normal-length talks (15 minutes),
-lightning talks (5 minutes), and posters. The official deadline for
-submitting abstracts for BOSC talks was in April; however, we have a few
-spots saved for Late-Breaking Lightning Talks and posters. (There will
-also be a few spots reserved for walk-in posters; however, those will
-not be listed in the program or on the BOSC website.)
+The official deadline for submitting abstracts for BOSC talks was in
+April; however, we have a few spots saved for Late-Breaking Lightning
+Talks and posters. (There will also be a few spots reserved for walk-in
+posters; however, those will not be listed in the program or on the BOSC
+website.)
 
 [Abstracts](http://events.open-bio.org/BOSC2015/openconf.php) for
 Late-Breaking Lightning Talks and posters are due by **5 June** 2015 at
