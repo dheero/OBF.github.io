@@ -27,6 +27,10 @@ Language based packaging systems
 
 ### Perl CPAN
 
+### R CRAN
+
+<http://cran.r-project.org/>
+
 Linux distributions and VMs
 ---------------------------
 
