@@ -18,6 +18,10 @@ Generic packaging systems
 
 ### GNU Guix
 
+[GNU guix](https://www.gnu.org/software/guix) is a package manager for
+the Gnu/Linux operating system. Bioinformatics packages are constructed
+[here](http://git.savannah.gnu.org/cgit/guix.git/tree/gnu/packages/bioinformatics.scm).
+
 Language based packaging systems
 --------------------------------
 
