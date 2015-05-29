@@ -45,7 +45,10 @@ Language based packaging systems
 Linux distributions and VMs
 ---------------------------
 
-### Debian BioMed
+### Debian Med
+
+[Debian Med](https://www.debian.org/devel/debian-med/) contains a wide
+range of software packages target at Debian Linux and derivatives.
 
 ### CloudBiolinux
 
