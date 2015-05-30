@@ -22,7 +22,9 @@ Generic packaging systems
 the Gnu/Linux operating system. Bioinformatics packages are constructed
 [here](http://git.savannah.gnu.org/cgit/guix.git/tree/gnu/packages/bioinformatics.scm).
 GNU Guix can be run inside any Linux distribution (it is distribution
-agnostic because all software installs under /gnu).
+agnostic because all software installs under /gnu). There may be
+OSX/Cygwin support in the future, but currently the targets are Linux
+and Hurd.
 
 Language based packaging systems
 --------------------------------
