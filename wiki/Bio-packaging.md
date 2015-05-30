@@ -57,7 +57,8 @@ Linux distributions and VMs
 ### Debian Med
 
 [Debian Med](https://www.debian.org/devel/debian-med/) contains a wide
-range of software packages target at Debian Linux and derivatives.
+range of bioinformatics software packages target at Debian Linux and
+derivatives.
 
 ### CloudBiolinux
 
