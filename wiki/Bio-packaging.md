@@ -52,6 +52,12 @@ range of software packages target at Debian Linux and derivatives.
 
 ### CloudBiolinux
 
+[CloudBioLinux](http://cloudbiolinux.org) offers genome analysis
+resources for cloud computing platforms such as Amazon EC2. The source
+code can be found [here](https://github.com/chapmanb/cloudbiolinux).
+CloudBiolinux uses a combination of Debian/Ubuntu packages with
+linuxbrew and self-compiled software.
+
 ### Galaxy
 
 ### Docker
