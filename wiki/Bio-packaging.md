@@ -29,7 +29,10 @@ Language based packaging systems
 
 ### Ruby biogems
 
--   Biogems: <http://biogems.info/>
+-   [biogems](http://biogems.info/) are Ruby packages (gems) that can
+    install globally or in HOME. To make sure gems do not conflict with
+    multiple Ruby versions it is possible to use RVM, rbenv and/or
+    GNU Guix.
 
 ### Python packages
 
