@@ -58,7 +58,8 @@ Linux distributions and VMs
 
 [Debian Med](https://www.debian.org/devel/debian-med/) contains a wide
 range of bioinformatics software packages target at Debian Linux and
-derivatives.
+derivatives. See also the [Debian reproducible
+builds](https://wiki.debian.org/ReproducibleBuilds) initiative.
 
 ### CloudBiolinux
 
