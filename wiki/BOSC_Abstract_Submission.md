@@ -27,7 +27,7 @@ software won't allow you to submit a new abstract with the same title as
 your old one. However, you can trick it by adding a space at the
 beginning (or end?) of your title. We apologize for the inconvenience!**
 
-### \* \* \* Click [here](http://events.open-bio.org/BOSC2015/openconf.php) to submit your abstract for a Late-Breaking Lightning Talk or Poster! \* \* \*
+### \* \* \* Click [here](http://events.open-bio.org/BOSC2015/author/submit.php) to submit your abstract for a Late-Breaking Lightning Talk or Poster! \* \* \*
 
 ------------------------------------------------------------------------
 
@@ -102,7 +102,7 @@ Conduct](http://www.iscb.org/ismbeccb2015-general-info/ismbeccb2015-coc)
 that applies to SIGs (including BOSC) as well as the main ISMB/ECCB
 meeting.
 
-\* \* \* Click [here](http://events.open-bio.org/BOSC2015/openconf.php) to submit your abstract! \* \* \*
----------------------------------------------------------------------------------------------------------
+\* \* \* Click [here](http://events.open-bio.org/BOSC2015/author/submit.php) to submit your abstract! \* \* \*
+--------------------------------------------------------------------------------------------------------------
 
 [Back to BOSC 2015 home page](BOSC_2015 "wikilink")
