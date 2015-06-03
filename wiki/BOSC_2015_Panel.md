@@ -58,10 +58,11 @@ helps develop strategies and curricula for teaching computational lab
 skills to researchers across disciplines at all stages of their research
 career. She is a member of the Steering Committees for Data Carpentry
 and Software Carpentry Foundation, and supports the development of both
-initiatives. As of recently Aleksandra is collaborating on training with
-the ELIXIR project supporting the bioinformatics community. As a
-certified Software and Data Carpentry instructor Aleksandra has taught
-at a number of workshops in the UK, other European countries and US.
+initiatives. Currently, Aleksandra is collaborating on training with the
+ELIXIR project supporting the bioinformatics community. As a certified
+Software and Data Carpentry instructor Aleksandra has taught at a number
+of workshops, including Software Carpentry for Women in Science and
+Engineering, which she co-organised.
 
 **Jason Williams**
 ([@JasonWilliamsNY](https://twitter.com/JasonWilliamsNY)) is the Lead of
