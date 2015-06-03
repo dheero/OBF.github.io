@@ -2,10 +2,11 @@
 title: BOSC 2015 Panel
 ---
 
+![BOSC logo|link=BOSC\_2015](Pear.png "fig:BOSC logo|link=BOSC_2015")
 Every year, BOSC includes a panel discussion that offers all attendees
 to engage in conversation with the panelists and each other. This year,
-our panel discussion will focus on increasing diversity in our community
-and at our conferences.
+our panel discussion will focus on **increasing diversity in our
+community and at our conferences**.
 
 Panel chair **Mónica Muñoz-Torres**
 ([@monimunozto](https://twitter.com/monimunozto)) is the lead biocurator
@@ -66,3 +67,11 @@ years. He is also a Lead Instructor of “The Science Institute” at
 Yeshiva University High School for Girls, and the Treasurer of the
 Software Carpentry Foundation. His background is in molecular biology
 and bioinformatics.
+
+------------------------------------------------------------------------
+
+Return to [BOSC 2015](BOSC_2015 "wikilink") main page
+-----------------------------------------------------
+
+<Category:BOSC> <Category:Conferences> [Category:BOSC
+Conferences](Category:BOSC_Conferences "wikilink")
