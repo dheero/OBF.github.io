@@ -71,7 +71,11 @@ based at Cold Spring Harbor Laboratory, where he has worked for over 10
 years. He is also a Lead Instructor of “The Science Institute” at
 Yeshiva University High School for Girls, and the Treasurer of the
 Software Carpentry Foundation. His background is in molecular biology
-and bioinformatics.
+and bioinformatics. Diversity is a focus of Jason's work at the DNA
+Learning Center and with iPlant, where he works to target outreach along
+the entire spectrum of underrepresented and underserved groups ranging
+from minorities in urban communities to first-generation college
+students at rural institutions.
 
 ------------------------------------------------------------------------
 
