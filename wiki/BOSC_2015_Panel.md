@@ -21,7 +21,7 @@ of the Gene Ontology (GO) Consortium. She co-leads the Community
 Curation group within the global initiative to sequence and annotate the
 genomes of 5,000 arthropods (i5K Initiative), and is a member of the
 Executive Committee of the International Society for Biocuration (ISB).
-As a graduate student, Monica founded the first South Easter Chapter of
+As a graduate student, Monica founded the first Southeastern Chapter of
 the Society for Advancement of Hispanics/Chicanos and Native Americans
 in Science (SACNAS) at Clemson University; the chapter has since been
 actively involved in outreach activities to local high schools in an
