@@ -8,9 +8,9 @@ Open Source, Open Door: increasing diversity in the bioinformatics open source c
 ----------------------------------------------------------------------------------------
 
 Every year, BOSC includes a panel discussion that offers all attendees
-to engage in conversation with the panelists and each other. This year,
-our panel discussion will focus on **increasing diversity in our
-community and at our conferences**.
+the chance to engage in conversation with the panelists and each other.
+This year, our panel discussion will focus on **increasing diversity in
+our community and at our conferences**.
 
 Panel chair **Mónica Muñoz-Torres**
 ([@monimunozto](https://twitter.com/monimunozto)) is the lead biocurator
