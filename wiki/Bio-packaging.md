@@ -24,7 +24,13 @@ the Gnu/Linux operating system. Bioinformatics packages are constructed
 GNU Guix can be run inside any Linux distribution (it is distribution
 agnostic because all software installs under /gnu). There may be
 OSX/Cygwin support in the future, but currently the targets are Linux
-and Hurd. See also GNU Guix
+and Hurd.
+
+### GNU Guix for bioinformatics
+
+For Bio-packaging we created a [GNU Guix edition for
+bioinformatics](https://github.com/genenetwork/guix/wiki/GNU-Guix-for-bioinformatics).
+See also GNU Guix
 [documentation](https://www.gnu.org/software/guix/manual/guix.html) and
 Pjotr's [guix-notes](https://github.com/pjotrp/guix-notes)
 
