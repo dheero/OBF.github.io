@@ -32,7 +32,8 @@ For Bio-packaging we created a [GNU Guix edition for
 bioinformatics](https://github.com/genenetwork/guix/wiki/GNU-Guix-for-bioinformatics).
 See also GNU Guix
 [documentation](https://www.gnu.org/software/guix/manual/guix.html) and
-Pjotr's [guix-notes](https://github.com/pjotrp/guix-notes)
+Pjotr Prins' [guix-notes](https://github.com/pjotrp/guix-notes) and
+Malcolm Cook's [manual](https://github.com/malcook/sce)
 
 Language based packaging systems
 --------------------------------
