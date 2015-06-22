@@ -128,9 +128,8 @@ happy to have you participate in Codefest. Please sign up on the [the
 Google
 spreadsheet](https://docs.google.com/spreadsheets/d/1STl3x-KcInCxpGBgBHDz2C_LvrudXDe1X9d68NpH0Tk/edit?usp=sharing)
 and list yourself as remote only. We set up a [Gitter chat
-room](https://gitter.im/chapmanb/obf-codefest)
-
-`we can use to coordinate and discuss in real time.`
+room](https://gitter.im/chapmanb/obf-codefest) we can use to coordinate
+and discuss in real time.
 
 Logistics
 ---------
