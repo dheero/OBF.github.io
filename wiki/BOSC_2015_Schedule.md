@@ -100,7 +100,7 @@ BOSC Day 2 (Saturday, 11 July, 2015)
 | 15:14-15:31 | Apache Taverna: Sustaining research software at the Apache Software Foundation                                                       | Stian Soiland-Reyes                                    |
 | 15:30-16:00 | ***Coffee Break***                                                                                                                   |                                                        |
 | 16:00-16:30 | **Session: Visualization**                                                                                                           | Chair: Karsten Hokamp                                  |
-| 16:00-16:17 | Simple, Shareable, Online RNA Secondary Structure Diagrams                                                                           | Stefan Hammer                                          |
+| 16:00-16:17 | Simple, Shareable, Online RNA Secondary Structure Diagrams Peter Kerpedjiev                                                          |
 | 16:17-16:22 | BioJS 2.0: an open source standard for biological visualization                                                                      | Guy Yachdav                                            |
 | 16:22-16:27 | Visualising Open PHACTS linked data with widgets                                                                                     | Ian Dunlop                                             |
 | 16:30-17:00 | **Session: Late-Breaking Lightning Talks**                                                                                           | Chair: Hilmar Lapp                                     |
