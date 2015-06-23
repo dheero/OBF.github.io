@@ -142,11 +142,37 @@ Codefest 2015 will be hosted at [Trinity College
 Dublin](http://www.tcd.ie/) by the schools of [Natural
 Sciences](http://naturalscience.tcd.ie/),
 [Computing](https://www.scss.tcd.ie/) and
-[Engineering](http://www.tcd.ie/Engineering/). We're actively working on
-finalizing locations. We're also looking for sponsors interested in
-being involved with the open source community for help with food and
-coffee. If interested, please get in touch with
-[Brad](https://github.com/chapmanb).
+[Engineering](http://www.tcd.ie/Engineering/). We'll be located in the
+[beautiful Museum
+Building](https://www.google.ie/search?q=museum+building+tcd&safe=off&espv=2&biw=1280&bih=963&tbm=isch&tbo=u&source=univ&sa=X&ei=hTeJVduLKeip7AbF55PQBA&ved=0CD4QsAQ)
+in the center of the Trinity Campus in downtown Dublin:
+
+-   We'll be in the Drawing office, in the Civil Engineering department,
+    within the Museum Building.
+-   \[<https://www.google.ie/maps/place/Museum+Bldg,+Trinity+College+Dublin,+Dublin/@53.3434376,-6.2546054,17z/data>=!4m2!3m1!1s0x48670e9a9223bbc3:0x8004c87f5b97e752
+    Map\]
+-   [Virtual tour](http://www.tcd.ie/virtualtour/civilengineering/)
+-   [pictures of the
+    room](https://drive.google.com/folderview?id=0Bwxg-o4ZmoZ4eUJaLVZpc0N3Zjg&usp=sharing)
+
+The agenda for the 2 days is:
+
+-   July 8th, 9am: Greetings, introduction, organization. We'll have
+    coffee and some pastries/fruit.
+-   July 8th, 1pm: Sandwiches provided for lunch,
+    post-lunch organization.
+-   July 8th, 5pm: Finish for the day
+-   July 8th, evening: Dinner in Dublin
+-   July 9th, 9am: Greetings, organization and coffee/fruit.
+-   July 9th, 1pm: Sandwiches provided for lunch, post-lunch
+    organization
+-   July 9th, 4pm: Prepare codefest progress reports and slides for BOSC
+-   July 9th, 5pm: Finish for the day
+-   July 9th, evening: Dinner in Dublin
+
+We're always looking for sponsors interested in being involved with the
+open source community for help with food and coffee. If interested,
+please get in touch with [Brad](https://github.com/chapmanb).
 
 Sponsors
 --------
