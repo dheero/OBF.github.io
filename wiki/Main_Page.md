@@ -62,9 +62,8 @@ commonality of direction and purpose.
 O|B|F is governed by a [Board of Directors](Board "wikilink"). [ Our
 bylaws](:File:OBF-Bylaws.pdf "wikilink") lay out how the Board is
 elected, holds public meetings, and conducts its business, as well as
-the scope and role of our [
-membership](Open_Bioinformatics_Foundation:Membership_application "wikilink").
-O|B|F is an associated project with [Software In The Public Interest,
+the scope and role of our [membership](membership "wikilink"). O|B|F is
+an associated project with [Software In The Public Interest,
 Inc.](http://spi-inc.org/), a fiscal sponsorship organization, and
 through SPI we can accept tax-exempt charitable donations.
 
