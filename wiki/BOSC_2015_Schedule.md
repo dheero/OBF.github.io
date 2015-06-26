@@ -96,7 +96,7 @@ BOSC Day 2 (Saturday, 11 July, 2015)
 | 14:35-14:40 | Cancer Informatics Collaboration and Computation: Two Initiatives of the U.S. National Cancer Institute                              | Ishwar Chandramouliswaran                              |
 | 14:40-15:30 | **Session: Bioinformatics Open Source Project Updates**                                                                              | Chair: Nomi Harris                                     |
 | 14:40-14:57 | Biopython Project Update 2015                                                                                                        | João Rodrigues                                         |
-| 14:57-15:14 | The biogems community: Challenges in distributed software development in bioinformatics                                              | George Githinji                                        |
+| 14:57-15:14 | The biogems community: Challenges in distributed software development in bioinformatics                                              | George Githinji and Pjotr Prins                        |
 | 15:14-15:31 | Apache Taverna: Sustaining research software at the Apache Software Foundation                                                       | Stian Soiland-Reyes                                    |
 | 15:30-16:00 | ***Coffee Break***                                                                                                                   |                                                        |
 | 16:00-16:30 | **Session: Visualization**                                                                                                           | Chair: Karsten Hokamp                                  |
