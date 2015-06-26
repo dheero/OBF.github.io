@@ -117,17 +117,17 @@ BOSC Day 2 (Saturday, 11 July, 2015)
 ### Posters
 
 If the speaker also gave a talk, any poster link will be above (posters
-1 to 17). This table lists poster-only presentations.
+1 to 29). This table lists poster-only presentations.
 
 | Poster | Title                                                                                                  | Presenter              |
 |--------|--------------------------------------------------------------------------------------------------------|------------------------|
-| P18    | Aequatus: Visualising complex similarity relationships among species                                   | Anil Thanki            |
-| P19    | MOLGENIS Workbench for Systems Medicine                                                                | K. Joeri van der Velde |
-| P20    | SPINGO: a rapid species-classifier for microbial amplicon sequences                                    | Feargal Ryan           |
-| P21    | ANNOgesic - A computational pipeline for RNA-Seq based transcriptome annotations of bacteria           | Konrad Förstner        |
-| P22    | BioXSD — a data model for sequences, alignments, features, measured and inferred values                | Matúš Kalaš            |
-| P23    | MGkit: A Metagenomic Framework For The Study Of Microbial Communities                                  | Francesco Rubino       |
-| P24    | From scaffold to submission in a day: a new software pipeline for rapid genome annotation and analysis | Sascha Steinbiss       |
+| P30    | Aequatus: Visualising complex similarity relationships among species                                   | Anil Thanki            |
+| P31    | MOLGENIS Workbench for Systems Medicine                                                                | K. Joeri van der Velde |
+| P32    | SPINGO: a rapid species-classifier for microbial amplicon sequences                                    | Feargal Ryan           |
+| P33    | ANNOgesic - A computational pipeline for RNA-Seq based transcriptome annotations of bacteria           | Konrad Förstner        |
+| P34    | BioXSD — a data model for sequences, alignments, features, measured and inferred values                | Matúš Kalaš            |
+| P35    | MGkit: A Metagenomic Framework For The Study Of Microbial Communities                                  | Francesco Rubino       |
+| P36    | From scaffold to submission in a day: a new software pipeline for rapid genome annotation and analysis | Sascha Steinbiss       |
 ||
 
 BOSC 2015 Organizing Committee
