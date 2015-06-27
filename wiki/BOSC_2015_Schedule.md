@@ -116,8 +116,8 @@ BOSC Day 2 (Saturday, 11 July, 2015)
 
 ### Posters
 
-If the speaker also gave a talk, any poster link will be above (posters
-1 to 29). This table lists poster-only presentations.
+If the speaker also has a talk, the poster link will be above (posters 1
+to 29). This table lists poster-only presentations.
 
 | Poster | Title                                                                                                  | Presenter              |
 |--------|--------------------------------------------------------------------------------------------------------|------------------------|
