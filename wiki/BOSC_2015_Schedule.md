@@ -64,7 +64,7 @@ BOSC Day 1 (Friday, 10 July, 2015)
 | 17:00-17:10  | Open Bioinformatics Foundation (OBF) Update                                                                                                                          | Hilmar Lapp (President, OBF)                                                         |
 | 17:10-17:15  | **Announcements**                                                                                                                                                    | Nomi Harris                                                                          |
 | 17:15-18:30  | BOF/Unconference: Building successful open-source bioinformatics developer communities (Part 1)                                                                      | Aidan Budd, Dave Clements, Manuel Corpas, Natasha Wood                               |
-| 17:15-18:30  | **[BOFs](https://docs.google.com/document/d/1yaSjWEZzwiAk6jUiKVk_pbmru1uCJuGbgITIyI3kmfI/edit#)**: feel free to suggest one!                                         |                                                                                      |
+| 17:15-18:30  | **[BOFs](https://docs.google.com/document/d/1yaSjWEZzwiAk6jUiKVk_pbmru1uCJuGbgITIyI3kmfI/edit#)**: Feel free to organize one!                                        |                                                                                      |
 | 19:00-       | Pay-your-own-way BOSC dinner, [Kennedy’s](http://kennedys.ie/)                                                                                                       | [RSVP](http://doodle.com/mcqehfpytzutwzum) (limited space --you must RSVP to attend) |
 
 BOSC Day 2 (Saturday, 11 July, 2015)
