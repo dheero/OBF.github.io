@@ -130,8 +130,8 @@ to 29). This table lists poster-only presentations.
 | P36    | From scaffold to submission in a day: a new software pipeline for rapid genome annotation and analysis | Sascha Steinbiss       |
 ||
 
-BOSC 2015 Organizing Committee
-------------------------------
+  
+== BOSC 2015 Organizing Committee ==
 
 **Nomi Harris** and **Peter Cock** (Co-Chairs)
 
