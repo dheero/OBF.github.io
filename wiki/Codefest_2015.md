@@ -182,8 +182,8 @@ Sponsors
 | ![Curoverse logo|link=<http://curoverse.com>](Curoverse_logo.png "Curoverse logo|link=http://curoverse.com") |
 | ![Arvados logo|link=<http://arvados.org>]( Arvados.png "Arvados logo|link=http://arvados.org")               |
 
-We thank [Curoverse](http://curoverse.com) for sponsoring the BOSC
-CodeFest 2015.
+We thank [Curoverse](http://curoverse.com) and
+[Bina](http://www.bina.org) for sponsoring the BOSC CodeFest 2015.
 
 Organizers
 ----------
