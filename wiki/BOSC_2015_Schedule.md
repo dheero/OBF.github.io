@@ -4,8 +4,13 @@ title: BOSC 2015 Schedule
 
 ![BOSC logo|link=BOSC\_2015](Pear.png "BOSC logo|link=BOSC_2015")
 
-You will soon be able to download the full program with abstracts;
-however, this wiki page is considered the definitive schedule and will
+The full program including abstracts is available
+[here](bosc2015/BOSC2015-program-with-abstracts.pdf "wikilink").
+
+The PDF of this schedule (without abstracts) is available
+[here](bosc2015/BOSC2015-schedule.pdf "wikilink").
+
+However, this wiki page is considered the definitive schedule and will
 be updated with any last minute changes.
 
 Sponsors
