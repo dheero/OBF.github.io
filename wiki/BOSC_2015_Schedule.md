@@ -16,16 +16,25 @@ be updated with any last minute changes.
 Sponsors
 --------
 
-|                                                                                                  |                                                                                                                                    |                                                                                                              |
-|--------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------|
-| ![Google|link=<http://www.google.com/>](google-logo11w.png "Google|link=http://www.google.com/") |                                                                                                                                    | ![Curoverse logo|link=<http://curoverse.com>](Curoverse_logo.png "Curoverse logo|link=http://curoverse.com") |
-| ![Arvados logo|link=<http://arvados.org>]( Arvados.png "Arvados logo|link=http://arvados.org")   | ![GigaScience|link=<http://www.gigasciencejournal.com/>](Gigascience-07.png "GigaScience|link=http://www.gigasciencejournal.com/") |                                                                                                              |
+| |rowspan="2"|
+![Google|link=<http://www.google.com/>](google-logo11w.png "fig:Google|link=http://www.google.com/")
+|rowspan="2"|             
+
+| ![Curoverse
+logo|link=<http://curoverse.com>](Curoverse_logo.png "fig:Curoverse logo|link=http://curoverse.com")
+|- | ![Arvados
+logo|link=<http://arvados.org>]( Arvados.png "fig:Arvados logo|link=http://arvados.org")
+|rowspan="2"|
+![GigaScience|link=<http://www.gigasciencejournal.com/>](Gigascience-07.png "fig:GigaScience|link=http://www.gigasciencejournal.com/")
+|rowspan="2"|
+![Bina|link=<http://www.bina.com/>](Bina_logo.png "fig:Bina|link=http://www.bina.com/")
+|}
 
 We are grateful to [Google](http://www.google.com/) for their generous
 support for videorecording BOSC 2015, and we thank
 [Curoverse](http://curoverse.com) (the team behind the open source
-platform [Arvados](http://arvados.org)) and GigaScience as returning
-sponsors.
+platform [Arvados](http://arvados.org)) as a returning sponsor and
+[Bina](http://bina.com/) as our newest sponsor.
 
 Pre-BOSC: Codefest 2015
 -----------------------
