@@ -16,16 +16,16 @@ be updated with any last minute changes.
 Sponsors
 --------
 
-|                                                                                                  |                                                                                                                                    |                                                                                                              |
-|--------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------|
-| ![Google|link=<http://www.google.com/>](google-logo11w.png "Google|link=http://www.google.com/") |                                                                                                                                    | ![Curoverse logo|link=<http://curoverse.com>](Curoverse_logo.png "Curoverse logo|link=http://curoverse.com") |
-| ![Arvados logo|link=<http://arvados.org>]( Arvados.png "Arvados logo|link=http://arvados.org")   | ![GigaScience|link=<http://www.gigasciencejournal.com/>](Gigascience-07.png "GigaScience|link=http://www.gigasciencejournal.com/") | ![Bina|link=<http://www.bina.com/>](Bina_logo.png "Bina|link=http://www.bina.com/")                          |
-
 We are grateful to [Google](http://www.google.com/) for their generous
 support for videorecording BOSC 2015, and we thank
 [Curoverse](http://curoverse.com) (the team behind the open source
 platform [Arvados](http://arvados.org)) as a returning sponsor and
-[Bina](http://bina.com/) as our newest sponsor.
+welcome [Bina](http://bina.com/) as our newest sponsor.
+
+|                                                                                                  |                                                                                                                                    |                                                                                                              |
+|--------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------|
+| ![Google|link=<http://www.google.com/>](google-logo11w.png "Google|link=http://www.google.com/") |                                                                                                                                    | ![Curoverse logo|link=<http://curoverse.com>](Curoverse_logo.png "Curoverse logo|link=http://curoverse.com") |
+| ![Arvados logo|link=<http://arvados.org>]( Arvados.png "Arvados logo|link=http://arvados.org")   | ![GigaScience|link=<http://www.gigasciencejournal.com/>](Gigascience-07.png "GigaScience|link=http://www.gigasciencejournal.com/") | ![Bina|link=<http://www.bina.com/>](Bina_logo.png "Bina|link=http://www.bina.com/")                          |
 
 Pre-BOSC: Codefest 2015
 -----------------------
