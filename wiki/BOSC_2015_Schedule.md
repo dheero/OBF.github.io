@@ -118,6 +118,7 @@ BOSC Day 2 (Saturday, 11 July, 2015)
 | 17:00-17:10 | Concluding Remarks                                                                                                                                           | Nomi Harris and Peter Cock                             |
 | 17:15-18:30 | BOF/Unconference: [Building successful open-source bioinformatics developer communities](http://www.hub-hub.de/wiki/index.php?title=BOSC2015Unconf) (Part 2) | Aidan Budd, Dave Clements, Manuel Corpas, Natasha Wood |
 | 17:10-18:10 | **[BOFs](https://docs.google.com/document/d/1yaSjWEZzwiAk6jUiKVk_pbmru1uCJuGbgITIyI3kmfI/edit#)**: Feel free to organize one!                                |                                                        |
+| 19:00       | Pay-your-own-way dinner at the Workshop Gastropub. RSVP [here](http://doodle.com/v2p89ytinbb9d9xa) if you want to join us.                                   |                                                        |
 
 ### Posters
 
