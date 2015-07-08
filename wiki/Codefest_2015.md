@@ -162,13 +162,17 @@ The agenda for the 2 days is:
 -   July 8th, 1pm: Sandwiches provided for lunch,
     post-lunch organization.
 -   July 8th, 5pm: Finish for the day
--   July 8th, evening: Dinner in Dublin
+-   July 8th, 6pm: Dinner in Dublin -- [The Market
+    Bar](http://marketbar.ie/), [map](http://marketbar.ie/node/31)
 -   July 9th, 9am: Greetings, organization and coffee/fruit.
 -   July 9th, 1pm: Sandwiches provided for lunch, post-lunch
     organization
 -   July 9th, 4pm: Prepare codefest progress reports and slides for BOSC
 -   July 9th, 5pm: Finish for the day
--   July 9th, evening: Dinner in Dublin
+-   July 9th, 6pm: Dinner in Dublin --
+    [Wagamam](http://www.wagamama.ie/restaurants/dublin-south-king-street),
+    \[<https://www.google.ie/maps/place/Wagamama/@53.3412563,-6.262336,17z/data>=!4m2!3m1!1s0x48670e9c2dee159d:0x351b0efa3ccd6309
+    map\]
 
 We're always looking for sponsors interested in being involved with the
 open source community for help with food and coffee. If interested,
