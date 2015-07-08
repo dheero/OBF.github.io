@@ -170,7 +170,7 @@ The agenda for the 2 days is:
 -   July 9th, 4pm: Prepare codefest progress reports and slides for BOSC
 -   July 9th, 5pm: Finish for the day
 -   July 9th, 6pm: Dinner in Dublin --
-    [Wagamam](http://www.wagamama.ie/restaurants/dublin-south-king-street),
+    [Wagamama](http://www.wagamama.ie/restaurants/dublin-south-king-street),
     \[<https://www.google.ie/maps/place/Wagamama/@53.3412563,-6.262336,17z/data>=!4m2!3m1!1s0x48670e9c2dee159d:0x351b0efa3ccd6309
     map\]
 
