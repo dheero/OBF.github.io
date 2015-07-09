@@ -54,7 +54,7 @@ Outcomes
 of the 2 days:
 
 -   [slide deck summarizing major project
-    accomplishments](https://docs.google.com/presentation/d/1MVRIQWyg3KPuK5Fqa6A_9bvgQ1AlU7LIU_S4ldDZ96k/edit#slide=id.gb6ca24daf_0_16)
+    accomplishments](https://docs.google.com/presentation/d/1MVRIQWyg3KPuK5Fqa6A_9bvgQ1AlU7LIU_S4ldDZ96k/edit?usp=sharing)
 
 Why attend
 ----------
