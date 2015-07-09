@@ -47,6 +47,15 @@ results in a number useful outcomes:
 -   Preparing and publishing [papers about the work
     accomplished](http://www.biomedcentral.com/1471-2105/15/S14/S7).
 
+Outcomes
+--------
+
+2015 was another productive and fun event. Here are some of the outputs
+of the 2 days:
+
+-   [slide deck summarizing major project
+    accomplishments](https://docs.google.com/presentation/d/1MVRIQWyg3KPuK5Fqa6A_9bvgQ1AlU7LIU_S4ldDZ96k/edit#slide=id.gb6ca24daf_0_16)
+
 Why attend
 ----------
 
