@@ -55,6 +55,10 @@ of the 2 days:
 
 -   [slide deck summarizing major project
     accomplishments](https://docs.google.com/presentation/d/1MVRIQWyg3KPuK5Fqa6A_9bvgQ1AlU7LIU_S4ldDZ96k/edit?usp=sharing)
+-   [Codefest overview from Guillermo
+    Carrasco](http://mussol.org/2015/07/11/codefest-and-bosc-2015-lots-of-workflows-and-docker/)
+-   [Codefest experience report from Robin
+    Andeer](http://www.robinandeer.com/blog/2015/07/08/bosc-codefest-2015/)
 
 Why attend
 ----------
