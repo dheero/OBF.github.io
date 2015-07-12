@@ -59,6 +59,8 @@ of the 2 days:
     Carrasco](http://mussol.org/2015/07/11/codefest-and-bosc-2015-lots-of-workflows-and-docker/)
 -   [Codefest experience report from Robin
     Andeer](http://www.robinandeer.com/blog/2015/07/08/bosc-codefest-2015/)
+-   [Johan Dahlberg's summary of his Codefest
+    work](http://uppsala-bioinformatics.se/thoughts/?p=61)
 
 Why attend
 ----------
