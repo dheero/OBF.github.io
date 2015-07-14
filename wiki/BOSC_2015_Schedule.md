@@ -10,8 +10,11 @@ The full program including abstracts is available
 The PDF of this schedule (without abstracts) is available
 [here](http://www.open-bio.org/w/images/2/2c/BOSC2015-schedule.pdf).
 
-However, this wiki page is considered the definitive schedule and will
-be updated with any last minute changes.
+It is our hope to have all the posters and talk slides available on the
+[BOSC F1000 Research Channel](http://f1000research.com/channels/BOSC),
+with links to the talk videos. Note some speakers have already made
+their talks available separately on other services like SlideShare and
+FigShare, which is fine.
 
 Sponsors
 --------
