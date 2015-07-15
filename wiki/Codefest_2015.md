@@ -63,6 +63,8 @@ of the 2 days:
     work](http://uppsala-bioinformatics.se/thoughts/?p=61)
 -   [Pictures from Luka
     Stojanovic](https://drive.google.com/folderview?id=0B8ns4TUYMoKLfnZBM09GSDNpQzNpdVJfbXpmMHhoYkhXblNWenRsRDJ0OURsUVRSUUszQUk&usp=sharing)
+-   [Twitter storify from Bruno
+    Vieira](https://storify.com/bmpvieira/dublin-conferences)
 
 Why attend
 ----------
