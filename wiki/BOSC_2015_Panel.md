@@ -7,6 +7,10 @@ title: BOSC 2015 Panel
 Open Source, Open Door: increasing diversity in the bioinformatics open source community
 ----------------------------------------------------------------------------------------
 
+**July 14, 2015: Uduak Grace Thomas wrote a [GenomeWeb article about our
+efforts to promote diversity at
+BOSC](https://www.genomeweb.com/informatics/bosc-community-discusses-ways-boost-diversity-participation-bioinformatics).**
+
 Every year, BOSC includes a panel discussion that offers all attendees
 the chance to engage in conversation with the panelists and each other.
 This year, our panel discussion will focus on **increasing diversity in
