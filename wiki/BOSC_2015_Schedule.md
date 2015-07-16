@@ -4,17 +4,17 @@ title: BOSC 2015 Schedule
 
 ![BOSC logo|link=BOSC\_2015](Pear.png "BOSC logo|link=BOSC_2015")
 
-The full program including abstracts is available
-[here](http://www.open-bio.org/bosc2015/BOSC2015-program-with-abstracts.pdf).
-
-The PDF of this schedule (without abstracts) is available
-[here](http://www.open-bio.org/w/images/2/2c/BOSC2015-schedule.pdf).
-
 It is our hope to have all the posters and talk slides available on the
 [BOSC F1000 Research Channel](http://f1000research.com/channels/BOSC),
 with links to the talk videos. Note some speakers have already made
 their talks available separately on other services like SlideShare and
-FigShare, which is fine.
+FigShare, which is fine. Links to any slides, posters and videos will be
+added to this listing as well.
+
+The full program including abstracts is available
+[here](http://www.open-bio.org/bosc2015/BOSC2015-program-with-abstracts.pdf).
+The PDF of this schedule (without abstracts) is available
+[here](http://www.open-bio.org/w/images/2/2c/BOSC2015-schedule.pdf).
 
 Sponsors
 --------
