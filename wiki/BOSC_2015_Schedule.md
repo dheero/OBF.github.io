@@ -128,15 +128,15 @@ BOSC Day 2 (Saturday, 11 July, 2015)
 If the speaker also has a talk, the poster link will be above (posters 1
 to 29). This table lists poster-only presentations.
 
-| Poster | Title                                                                                                          | Presenter              |
-|--------|----------------------------------------------------------------------------------------------------------------|------------------------|
-| P30    | [Aequatus: Visualising complex similarity relationships among species](http://f1000research.com/posters/4-186) | Anil Thanki            |
-| P31    | MOLGENIS Workbench for Systems Medicine                                                                        | K. Joeri van der Velde |
-| P32    | SPINGO: a rapid species-classifier for microbial amplicon sequences                                            | Feargal Ryan           |
-| P33    | ANNOgesic - A computational pipeline for RNA-Seq based transcriptome annotations of bacteria                   | Sung-Huan Yu           |
-| P34    | BioXSD — a data model for sequences, alignments, features, measured and inferred values                        | Matúš Kalaš            |
-| P35    | MGkit: A Metagenomic Framework For The Study Of Microbial Communities                                          | Francesco Rubino       |
-| P36    | From scaffold to submission in a day: a new software pipeline for rapid genome annotation and analysis         | Sascha Steinbiss       |
+| Poster | Title                                                                                                                  | Presenter              |
+|--------|------------------------------------------------------------------------------------------------------------------------|------------------------|
+| P30    | [Aequatus: Visualising complex similarity relationships among species](http://f1000research.com/posters/4-186)         | Anil Thanki            |
+| P31    | MOLGENIS Workbench for Systems Medicine                                                                                | K. Joeri van der Velde |
+| P32    | SPINGO: a rapid species-classifier for microbial amplicon sequences                                                    | Feargal Ryan           |
+| P33    | ANNOgesic - A computational pipeline for RNA-Seq based transcriptome annotations of bacteria                           | Sung-Huan Yu           |
+| P34    | BioXSD — a data model for sequences, alignments, features, measured and inferred values                                | Matúš Kalaš            |
+| P35    | [MGkit: A Metagenomic Framework For The Study Of Microbial Communities](http://dx.doi.org/10.6084/m9.figshare.1269288) | Francesco Rubino       |
+| P36    | From scaffold to submission in a day: a new software pipeline for rapid genome annotation and analysis                 | Sascha Steinbiss       |
 ||
 
   
