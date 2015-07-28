@@ -21,8 +21,9 @@ Sponsors
 We are grateful to [Google](http://www.google.com/) for their generous
 support for videorecording BOSC 2015, and we thank
 [Curoverse](http://curoverse.com) (the team behind the open source
-platform [Arvados](http://arvados.org)) as a returning sponsor and
-welcome [Bina](http://bina.com/) as our newest sponsor.
+platform [Arvados](http://arvados.org)) and Open Access journal
+[GigaScience](http://www.gigasciencejournal.com/) as returning sponsors,
+and welcome [Bina](http://bina.com/) as our newest sponsor.
 
 |                                                                                                  |                                                                                                                                    |                                                                                                              |
 |--------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------|
