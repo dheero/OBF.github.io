@@ -46,4 +46,12 @@ Other conferences
     [workshop](BioPerl_Heidelberg_1999 "wikilink") was held in
     conjunction with ISMB'99 in Heidelberg, Germany.
 
+Other links:
+
+-   [BOSC F1000 Research
+    Channel](http://f1000research.com/channels/BOSC)
+-   [@OBF\_BOSC on Twitter](http://twitter.com/OBF_BOSC/)
+-   [OBF BOSC on YouTube](http://youtube.com/c/OBFBOSC)
+-   [OBF BOSC on Google+](http://google.com/+OBFBOSC)
+
 [Category:BOSC Conferences](Category:BOSC_Conferences "wikilink")
