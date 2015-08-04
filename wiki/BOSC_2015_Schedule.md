@@ -33,7 +33,8 @@ and welcome [Bina](http://bina.com/) as our newest sponsor.
 Pre-BOSC: Codefest 2015
 -----------------------
 
-See [Codefest 2015](Codefest_2015 "wikilink") for details.
+See [Codefest 2015](Codefest_2015 "wikilink") for details, report given
+at the start of BOSC day two ([video](http://youtu.be/Mt5lUSPzg18)).
 
 BOSC Day 1 (Friday, 10 July, 2015)
 ----------------------------------
