@@ -34,7 +34,9 @@ Pre-BOSC: Codefest 2015
 -----------------------
 
 See [Codefest 2015](Codefest_2015 "wikilink") for details, report given
-at the start of BOSC day two ([video](http://youtu.be/Mt5lUSPzg18)).
+at the start of BOSC day two
+([slides](http://f1000research.com/slides/4-493),
+[video](http://youtu.be/Mt5lUSPzg18)).
 
 BOSC Day 1 (Friday, 10 July, 2015)
 ----------------------------------
@@ -82,7 +84,7 @@ BOSC Day 2 (Saturday, 11 July, 2015)
 | **Time**    | **Title**                                                                                                                                                                                                                                                                                            | **Speaker / Chair**                                    |
 |-------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------|
 | 9:00-9:05   | **Announcements**                                                                                                                                                                                                                                                                                    | Peter Cock and Nomi Harris                             |
-| 9:05-9:15   | Codefest 2015 Report ([video](http://youtu.be/Mt5lUSPzg18))                                                                                                                                                                                                                                          | Brad Chapman (Codefest 2015 Organizer)                 |
+| 9:05-9:15   | Codefest 2015 Report ([slides](http://f1000research.com/slides/4-493), [video](http://youtu.be/Mt5lUSPzg18))                                                                                                                                                                                         | Brad Chapman (Codefest 2015 Organizer)                 |
 | 9:15-10:15  | **Keynote:** **Big Data in Biology** ([slides](http://f1000research.com/slides/4-408), [video](https://youtu.be/acV5qUcIFdo))                                                                                                                                                                        | Ewan Birney                                            |
 | 10:15-10:45 | ***Coffee Break***                                                                                                                                                                                                                                                                                   |                                                        |
 | 10:45-12:30 | **Session: Open Science** **and Reproducibility**                                                                                                                                                                                                                                                    | Chair: Mónica Muñoz-Torres                             |
