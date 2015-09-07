@@ -45,9 +45,8 @@ the [Institute for Genomic Biology](http://www.igb.uiuc.edu/) at the
 [University of Illinois at Urbana-Champaign](http://www.uiuc.edu/).
 
 :; <span class="plainlinks">[Karen
-Cranston](https://github.com/kcranston)</span>: Training Coordinator and
-Informatics Project Manager at the National Evolutionary Synthesis
-Center (NESCent).
+Cranston](https://github.com/kcranston)</span>: Research Scientist, Duke
+University, and PI, Open Tree of Life.
 
 ### Past Board Members
 
