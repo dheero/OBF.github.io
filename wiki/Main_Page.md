@@ -13,7 +13,7 @@ title: Main Page
 </span>
 
 Through our fiscal sponsor, [Software in the Public Interest,
-Inc.](http://spi-inc.org/donations), you can donate to the O|B|F,
+Inc.](http://spi-inc.org/donations), you can donate to the OBF,
 including [online by credit
 card](https://co.clickandpledge.com/advanced/default.aspx?wid=66788#).
 Donations made through SPI are 501(c)3 tax-exempt in the US. (SPI also
@@ -33,11 +33,11 @@ See also our [news page](News "wikilink"), and
 About Us
 --------
 
-The Open Bioinformatics Foundation or O|B|F is a non-profit,
-volunteer-run group dedicated to promoting the practice and philosophy
-of [Open Source](wp:open_source "wikilink") software development and
-[Open Science](wp:Open_science "wikilink") within the biological
-research community.
+The Open Bioinformatics Foundation (OBF) is a non-profit, volunteer-run
+group dedicated to promoting the practice and philosophy of [Open
+Source](wp:open_source "wikilink") software development and [Open
+Science](wp:Open_science "wikilink") within the biological research
+community.
 
 Our main activities are:
 
@@ -59,11 +59,11 @@ structure of the open source work, but as the members of the foundation
 are drawn from our projects' developer communities, there is clear
 commonality of direction and purpose.
 
-O|B|F is governed by a [Board of Directors](Board "wikilink"). [ Our
+OBF is governed by a [Board of Directors](Board "wikilink"). [ Our
 bylaws](:File:OBF-Bylaws.pdf "wikilink") lay out how the Board is
 elected, holds public meetings, and conducts its business, as well as
-the scope and role of our [membership](membership "wikilink"). O|B|F is
-an associated project with [Software In The Public Interest,
+the scope and role of our [membership](membership "wikilink"). OBF is an
+associated project with [Software In The Public Interest,
 Inc.](http://spi-inc.org/), a fiscal sponsorship organization, and
 through SPI we can accept tax-exempt charitable donations.
 
@@ -73,7 +73,7 @@ Google+](https://plus.google.com/115564754756543103019) page.
 History
 -------
 
-O|B|F grew out of the volunteer projects [BioPerl](BioPerl "wikilink"),
+OBF grew out of the volunteer projects [BioPerl](BioPerl "wikilink"),
 [BioJava](BioJava "wikilink") and [Biopython](Biopython "wikilink") and
 was formally incorporated in 2001 in order to handle modest requirements
 of hardware ownership, domain name management and funding for
@@ -91,7 +91,7 @@ joining SPI. The changes [ were approved on Sep 11,
 2012](Minutes:2012_Sep_ConfCall "wikilink"), [our membership
 overwhelmingly approved of associating with
 SPI](http://vote.heliosvoting.org/helios/e/OBFjoiningSPI), and as of
-October 12, 2012, O|B|F is a SPI-associated project.
+October 12, 2012, OBF is a SPI-associated project.
 
 BOSC
 ----
