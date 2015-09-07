@@ -54,7 +54,7 @@ University, and PI, Open Tree of Life.
 Andrew Dalke : *Past Secretary*, Represented [BioPython](http://www.biopython.org) & [Dalke Scientific](http://www.dalkescientific.com).  
 [Steven E. Brenner](bp:Steven_Brenner "wikilink") : *Past At-large member*, [Professor](http://compbio.berkeley.edu) at University of California, Berkeley.  
 [Kam Dahlquist](User:Kdahlquist "wikilink") : *Past At-large Member*, [Associate Professor](http://myweb.lmu.edu/kdahlqui/) at Loyola Marymount University, Los Angeles.  
-[Chris Dagdigian](bp:Chris_Dagdigian "wikilink") : [BioPerl](bp:BioPerl "wikilink") co-founder & O|B|F sysadmin. Employed by [the BioTeam](http://www.bioteam.net).  
+[Chris Dagdigian](bp:Chris_Dagdigian "wikilink") : [BioPerl](bp:BioPerl "wikilink") co-founder & OBF sysadmin. Employed by [the BioTeam](http://www.bioteam.net).  
 [Jason Stajich](bp:Jason_Stajich "wikilink") : [BioPerl](bp:BioPerl "wikilink") core developer. [Assistant Professor](http://stajichlab.fungalgenomes.org) at [University of California, Riverside](http://www.ucr.edu/). Former OBF President.  
 
 Board of Directors Meetings
@@ -98,7 +98,7 @@ contact members of the Board of Directors and active members of the OBF
 in an effort to identify eligible members interested in serving on the
 Board of Directors, and to solicit nominations from the general
 membership.*" (see Art. IV.7) It consists of "*the Parliamentarian and a
-minimum of 2 active members of the O|B|F.*"
+minimum of 2 active members of the OBF.*"
 
 Currently serving:
 
