@@ -118,7 +118,7 @@
 |- 
 | 6:15
 | &nbsp;
-| <nowiki>O|B|F</nowiki> Board Meeting and No-host Dinner - Rica Talk Hotel Restaurant
+| <nowiki>OBF</nowiki> Board Meeting and No-host Dinner - Rica Talk Hotel Restaurant
 |-
 | '''Day 2'''
 | '''Sunday'''
