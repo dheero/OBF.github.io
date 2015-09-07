@@ -13,7 +13,7 @@ bioinformatics open-source projects.
 OBF Codefests and Hackathons
 ----------------------------
 
-Since 2010, people from the O|B|F project communities have regularly
+Since 2010, people from the OBF project communities have regularly
 organized or co-organized short 2-3 day events preceding the [BOSC
 conference](BOSC "wikilink").
 
@@ -47,8 +47,8 @@ conference](BOSC "wikilink").
         [OBDA](bp:OBDA "wikilink") as well as several supporting
         projects from the different toolkits.
 
-Other hackathons involving O|B|F projects
------------------------------------------
+Other hackathons involving OBF projects
+---------------------------------------
 
 -   [BioHackathon 2013](http://2013.biohackathon.org/)
     -   June, 2013, in Tokyo, Japan. Sponsored by the National
