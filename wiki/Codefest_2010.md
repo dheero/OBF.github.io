@@ -214,7 +214,7 @@ GitHub](http://github.com/chapmanb/bcbb/tree/master/ec2/biolinux/)):
 
 ### Key signing
 
--   Sign Open PGP keys for O|B|F project release managers, see e.g. [The
+-   Sign Open PGP keys for OBF project release managers, see e.g. [The
     Keysigning Party
     HOWTO](http://cryptnet.net/fdp/crypto/keysigning_party/en/keysigning_party.html)
 
