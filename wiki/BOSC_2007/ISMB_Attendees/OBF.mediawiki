@@ -1,4 +1,4 @@
-==Main Mission of the Open Bioinformatics Foundation O|B|F==
+==Main Mission of the Open Bioinformatics Foundation (OBF)==
 
 * OBF Supports Open Source
 **The [http://www.opensource.org opensource.org website] is the primary repository of information for all things Open Source

@@ -2,7 +2,7 @@
 title: BOSC 2007/ISMB Attendees/OBF
 ---
 
-Main Mission of the Open Bioinformatics Foundation O|B|F
+Main Mission of the Open Bioinformatics Foundation (OBF)
 --------------------------------------------------------
 
 -   OBF Supports Open Source
