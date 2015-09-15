@@ -59,13 +59,18 @@ structure of the open source work, but as the members of the foundation
 are drawn from our projects' developer communities, there is clear
 commonality of direction and purpose.
 
-OBF is governed by a [Board of Directors](Board "wikilink"). [ Our
+The OBF is governed by a [Board of Directors](Board "wikilink"). [ Our
 bylaws](:File:OBF-Bylaws.pdf "wikilink") lay out how the Board is
 elected, holds public meetings, and conducts its business, as well as
 the scope and role of our [membership](membership "wikilink"). OBF is an
 associated project with [Software In The Public Interest,
 Inc.](http://spi-inc.org/), a fiscal sponsorship organization, and
 through SPI we can accept tax-exempt charitable donations.
+
+The OBF is open to anyone who is interested in promoting open source
+bioinformatics / open science. Please see the [Membership
+page](Open_Bioinformatics_Foundation:Membership_application "wikilink")
+for more information.
 
 See also our [OBF
 Google+](https://plus.google.com/115564754756543103019) page.
