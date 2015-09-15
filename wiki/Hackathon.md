@@ -17,8 +17,10 @@ Since 2010, people from the OBF project communities have regularly
 organized or co-organized short 2-3 day events preceding the [BOSC
 conference](BOSC "wikilink").
 
+-   [Codefest 2015](Codefest_2015 "wikilink")
+    -   July 8-9, 2015, in Dublin, Ireland.
 -   [EU-Codefest 2014](EU-Codefest_2014 "wikilink")
-    -   September 18th and 19th, 2014 in Cambridge, UK
+    -   September 18th and 19th, 2014 in Cambridge, UK.
 -   [Codefest 2014](Codefest_2014 "wikilink")
     -   July 9-10, 2014, in Boston, MA, USA.
 -   [Codefest 2013](Codefest_2013 "wikilink")
