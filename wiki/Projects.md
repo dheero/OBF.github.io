@@ -20,6 +20,8 @@ Other related projects
 -   [Biocaml](http://biocaml.org) - bioinformatics library in the
     functional programming language OCaml
 -   [BioPHP](http://biophp.org)
+-   [BioSmalltalk](http://biosmalltalk.github.io/web/) - Bioinformatics
+    in a pure objects environment
 -   [BioWeka](http://bioweka.sourceforge.net/index.php/Main_Page)
 -   [BioClipse](http://www.bioclipse.net/) - visual platform based on
     Eclipse
