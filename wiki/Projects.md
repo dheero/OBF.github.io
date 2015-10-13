@@ -15,6 +15,8 @@ Affiliated projects
 Other related projects
 ----------------------
 
+-   [BioJS](http://biojs.net/) - an open-source library of JavaScript
+    components to visualise biological data
 -   BioHaskell [home page](http://biohaskell.org/),
     [releases](http://hackage.haskell.org/packages/archive/pkg-list.html#cat:bioinformatics)
 -   [Biocaml](http://biocaml.org) - bioinformatics library in the
