@@ -13,8 +13,8 @@ conferences are to:
 1.  Provide developers with a forum for displaying the results of their
     development efforts to the wider research community;
 2.  Provide a focused environment for developers and users to interact
-    and share ideas about software development, and practical techniques
-    in bioinformatics;
+    and share ideas about software development, open science, and
+    practical techniques in bioinformatics;
 3.  Inform the Research Community of important developments occurring
     within the Open Source Bioinformatics Developer community.
 
