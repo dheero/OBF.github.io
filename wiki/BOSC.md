@@ -5,10 +5,10 @@ title: BOSC
 ![lright|The Bosc Pear](Pear.png "fig:lright|The Bosc Pear") The
 **B**ioinformatics **O**pen **S**ource **C**onference is held annually
 as a Special Interest Group (SIG) of the [ISCB's annual ISMB
-conference](http://www.iscb.org/)). BOSC promotes and facilitates [open
-source](wp:open_source "wikilink") the development of
-[bioinformatics](wp:bioinformatics "wikilink") tools. The aims of the
-conferences are to:
+conference](http://www.iscb.org/)). BOSC promotes and facilitates the
+[open source](wp:open_source "wikilink") development of
+[bioinformatics](wp:bioinformatics "wikilink") tools and open science.
+The aims of the conferences are to:
 
 1.  Provide developers with a forum for displaying the results of their
     development efforts to the wider research community;
