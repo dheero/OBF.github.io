@@ -4,9 +4,9 @@ title: BOSC
 
 ![lright|The Bosc Pear](Pear.png "fig:lright|The Bosc Pear") The
 **B**ioinformatics **O**pen **S**ource **C**onference is held annually
-(as a satellite of the [ISCB's annual ISMB
-conference](http://www.iscb.org/)) to promote and facilitate [open
-source](wp:open_source "wikilink") development of
+as a Special Interest Group (SIG) of the [ISCB's annual ISMB
+conference](http://www.iscb.org/)). BOSC promotes and facilitates [open
+source](wp:open_source "wikilink") the development of
 [bioinformatics](wp:bioinformatics "wikilink") tools. The aims of the
 conferences are to:
 
@@ -15,11 +15,14 @@ conferences are to:
 2.  Provide a focused environment for developers and users to interact
     and share ideas about software development, open science, and
     practical techniques in bioinformatics;
-3.  Inform the Research Community of important developments occurring
+3.  Promote Open Science, with its focus on sharing data and tools,
+    transparency, reproducibility, and data provenance
+4.  Inform the research community of important developments occurring
     within the Open Source Bioinformatics Developer community.
 
 BOSC meetings to date:
 
+-   [BOSC 2016](BOSC_2016 "wikilink") Orlando, FL, USA
 -   [BOSC 2015](BOSC_2015 "wikilink") Dublin, Ireland
 -   [BOSC 2014](BOSC_2014 "wikilink") Boston, MA USA
 -   [BOSC 2013](BOSC_2013 "wikilink") Berlin, Germany
