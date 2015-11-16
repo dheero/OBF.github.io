@@ -4,14 +4,15 @@ title: BOSC 2014 Schedule
 
 ![BOSC logo|link=BOSC\_2014](Pear.png "BOSC logo|link=BOSC_2014")
 
+This page has links to all the publicly available talk slides, videos
+and posters. The videos are all on the [BOSC 2014 YouTube
+playlist](https://www.youtube.com/playlist?list=PLir-OOQiOhXYxkgAqov3J8rwTPUxC0soJ),
+with thanks to Google for sponsorship.
+
 You can download the [full program with abstracts
 (PDF)](http://www.open-bio.org/bosc2014/BOSC2014_program.pdf); however,
-this wiki page is considered the definitive schedule and will be updated
+this wiki page is considered the definitive schedule and was updated
 with any last minute changes.
-
-The talks were videoed (thanks to a grant from Google). The video links
-will be posted on this page (if speakers don't opt out), along with
-links to slides where available.
 
 There was lots of activity under Twitter - our hashtag was \#BOSC2014
 and there are Storify Tweet archives for [Day
