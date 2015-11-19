@@ -4,7 +4,6 @@
 ==Affiliated projects==
 * [http://www.gmod.org/ggb Generic Genome Browser] - part of [http://www.gmod.org GMOD]
 * [http://www.gmod.org/schema/ Chado] - The GMOD DB schema
-* [http://www.esyn.org esyN] - Easy Networks, Visualise, Build and Analyse network graphs
 
 ==Other related projects==
 

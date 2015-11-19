@@ -11,8 +11,6 @@ Affiliated projects
 -   [Generic Genome Browser](http://www.gmod.org/ggb) - part of
     [GMOD](http://www.gmod.org)
 -   [Chado](http://www.gmod.org/schema/) - The GMOD DB schema
--   [esyN](http://www.esyn.org) - Easy Networks, Visualise, Build and
-    Analyse network graphs
 
 Other related projects
 ----------------------
