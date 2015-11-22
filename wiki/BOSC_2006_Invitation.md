@@ -5,7 +5,7 @@ title: BOSC 2006 Invitation
 BOSC 2006
 ---------
 
-![The Bosc Pair](Pear.png "The Bosc Pair")
+![The Bosc Pear](Pear.png "The Bosc Pear")
 
   
   
