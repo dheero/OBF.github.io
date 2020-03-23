@@ -1,6 +1,7 @@
 ---
 title: README
 ---
+# Note: this repo is now obsolete--please go to https://github.com/OBF/homepage
 
 This is an attempt to automatically convert a Mediawiki XML export
 from http://www.open-bio.org into markdown (using pandoc) as a git
